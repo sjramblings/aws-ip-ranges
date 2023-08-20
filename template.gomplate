@@ -1,9 +1,14 @@
-{{ range $index, $value := datasource "regions" }}
-## {{ $value.region }}
-| IP Prefix      | Service | Network Border Group |
-|----------------|---------|----------------------|
-{{- range $value.prefixes }}
-| {{ .ip_prefix }} | {{ .service }} | {{ .network_border_group }} |
-{{- end }}
-{{- end }}
+# AWS IP Ranges
 
+This repo displays the AWS IP Ranges in a nicer format. The main reason for creating this repo was to give me some data for playing with gomplate.
+{{ range $index, $value := datasource "regions" }}
+<details>
+  <summary>### {{ $value.region }}</summary>
+
+  | IP Prefix      | Service | Network Border Group |
+  |----------------|---------|----------------------|
+  {{- range $value.prefixes }}
+  | {{ .ip_prefix }} | {{ .service }} | {{ .network_border_group }} |
+  {{- end }}
+</details>
+{{ end }}
