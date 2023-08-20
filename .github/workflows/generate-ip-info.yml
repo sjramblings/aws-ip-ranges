@@ -15,7 +15,7 @@ jobs:
     name: Gen IP info
     runs-on: ubuntu-latest
     permissions:
-      issues: write
+      contents: write
 
     steps:
     - name: Checkout repository
