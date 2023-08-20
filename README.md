@@ -3,7 +3,7 @@
 This repo displays the AWS IP Ranges in a nicer format. The main reason for creating this repo was to give me some data for playing with gomplate.
 
 <details>
-  <summary>### GLOBAL</summary>
+  <summary>GLOBAL</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -358,7 +358,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### af-south-1</summary>
+  <summary>af-south-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -465,7 +465,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ap-east-1</summary>
+  <summary>ap-east-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -580,7 +580,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ap-northeast-1</summary>
+  <summary>ap-northeast-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -924,7 +924,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ap-northeast-2</summary>
+  <summary>ap-northeast-2</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -1110,7 +1110,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ap-northeast-3</summary>
+  <summary>ap-northeast-3</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -1229,7 +1229,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ap-south-1</summary>
+  <summary>ap-south-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -1495,7 +1495,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ap-south-2</summary>
+  <summary>ap-south-2</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -1569,7 +1569,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ap-southeast-1</summary>
+  <summary>ap-southeast-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -1900,7 +1900,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ap-southeast-2</summary>
+  <summary>ap-southeast-2</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -2138,7 +2138,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ap-southeast-3</summary>
+  <summary>ap-southeast-3</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -2235,7 +2235,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ap-southeast-4</summary>
+  <summary>ap-southeast-4</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -2308,7 +2308,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ap-southeast-5</summary>
+  <summary>ap-southeast-5</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -2332,7 +2332,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ap-southeast-6</summary>
+  <summary>ap-southeast-6</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -2343,7 +2343,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ca-central-1</summary>
+  <summary>ca-central-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -2518,7 +2518,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### ca-west-1</summary>
+  <summary>ca-west-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -2563,7 +2563,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### cn-north-1</summary>
+  <summary>cn-north-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -2682,7 +2682,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### cn-northwest-1</summary>
+  <summary>cn-northwest-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -2791,7 +2791,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### eu-central-1</summary>
+  <summary>eu-central-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -3085,7 +3085,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### eu-central-2</summary>
+  <summary>eu-central-2</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -3152,7 +3152,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### eu-north-1</summary>
+  <summary>eu-north-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -3313,7 +3313,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### eu-south-1</summary>
+  <summary>eu-south-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -3498,7 +3498,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### eu-south-2</summary>
+  <summary>eu-south-2</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -3571,7 +3571,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### eu-west-1</summary>
+  <summary>eu-west-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -4024,7 +4024,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### eu-west-2</summary>
+  <summary>eu-west-2</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -4282,7 +4282,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### eu-west-3</summary>
+  <summary>eu-west-3</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -4431,7 +4431,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### il-central-1</summary>
+  <summary>il-central-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -4498,7 +4498,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### me-central-1</summary>
+  <summary>me-central-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -4573,7 +4573,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### me-south-1</summary>
+  <summary>me-south-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -4684,7 +4684,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### sa-east-1</summary>
+  <summary>sa-east-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -4927,7 +4927,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### us-east-1</summary>
+  <summary>us-east-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -6049,7 +6049,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### us-east-2</summary>
+  <summary>us-east-2</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -6445,7 +6445,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### us-gov-east-1</summary>
+  <summary>us-gov-east-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -6500,7 +6500,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### us-gov-west-1</summary>
+  <summary>us-gov-west-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -6584,7 +6584,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### us-west-1</summary>
+  <summary>us-west-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
@@ -7081,7 +7081,7 @@ This repo displays the AWS IP Ranges in a nicer format. The main reason for crea
 </details>
 
 <details>
-  <summary>### us-west-2</summary>
+  <summary>us-west-2</summary>
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
