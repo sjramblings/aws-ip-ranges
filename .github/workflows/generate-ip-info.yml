@@ -29,6 +29,11 @@ jobs:
     - name: Get ip-ranges.json
       run: curl -O https://ip-ranges.amazonaws.com/ip-ranges.json
 
+    - name: Get ip-ranges.json
+      run: |
+        jq '[.prefixes | group_by(.region) | .[] | {region: .[0].region, prefixes: .}]' ip-ranges.json > grouped_input.json
+        gomplate -f template.gomplate -d regions=grouped_input.json > README.md
+
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Generating IP info
