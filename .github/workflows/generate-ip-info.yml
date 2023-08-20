@@ -21,7 +21,7 @@ jobs:
         go-version: 1.21
 
     - name: Install jq
-      run: sudo yum install jq
+      run: sudo apt install -y jq
 
     - name: Install gomplate
       run: curl -sSL https://github.com/hairyhenderson/gomplate/releases/download/v3.10.0/gomplate_linux-amd64 -o gomplate && chmod +x gomplate && sudo mv gomplate /usr/local/bin/
