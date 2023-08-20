@@ -7,7 +7,7 @@ on: [workflow_dispatch]
 jobs:
   build:
     name: Gen IP info
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
