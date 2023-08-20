@@ -2,7 +2,10 @@
 name: Generate IP Info
 
 # yamllint disable-line rule:truthy
-on: [workflow_dispatch]
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * *'
 
 jobs:
   build:
