@@ -1,0 +1,9 @@
+{{ range $index, $value := datasource "regions" }}
+## {{ $value.region }}
+| IP Prefix      | Service | Network Border Group |
+|----------------|---------|----------------------|
+{{- range $value.prefixes }}
+| {{ .ip_prefix }} | {{ .service }} | {{ .network_border_group }} |
+{{- end }}
+{{- end }}
+
