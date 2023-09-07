@@ -2363,6 +2363,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
   | 13.34.78.160/27 | AMAZON | ca-central-1 |
+  | 15.230.110.0/24 | AMAZON | ca-central-1 |
   | 13.34.7.224/27 | AMAZON | ca-central-1 |
   | 130.171.0.128/26 | AMAZON | ca-central-1 |
   | 52.144.199.128/26 | AMAZON | ca-central-1 |
@@ -2846,6 +2847,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.48.0/21 | AMAZON | eu-central-1-waw-1 |
   | 18.184.0.0/15 | AMAZON | eu-central-1 |
   | 13.34.88.128/27 | AMAZON | eu-central-1 |
+  | 15.230.111.0/24 | AMAZON | eu-central-1 |
   | 52.57.0.0/16 | AMAZON | eu-central-1 |
   | 150.222.120.0/24 | AMAZON | eu-central-1 |
   | 13.34.73.160/27 | AMAZON | eu-central-1 |
@@ -5394,6 +5396,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 69.107.3.176/29 | AMAZON | us-east-1 |
   | 72.44.32.0/19 | AMAZON | us-east-1 |
   | 13.34.94.128/27 | AMAZON | us-east-1 |
+  | 13.34.102.192/27 | AMAZON | us-east-1 |
   | 15.181.96.0/20 | AMAZON | us-east-1-mci-1 |
   | 15.230.216.10/32 | AMAZON | us-east-1 |
   | 69.107.7.96/29 | AMAZON | us-east-1 |
@@ -5433,6 +5436,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.249.0/24 | AMAZON | us-east-1 |
   | 207.171.160.0/20 | AMAZON | us-east-1 |
   | 13.34.68.128/27 | AMAZON | us-east-1 |
+  | 13.34.102.224/27 | AMAZON | us-east-1 |
   | 15.220.220.0/23 | AMAZON | us-east-1-mia-1 |
   | 13.34.30.32/27 | AMAZON | us-east-1 |
   | 13.34.40.32/27 | AMAZON | us-east-1 |
