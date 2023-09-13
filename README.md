@@ -1228,6 +1228,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.152.24.64/26 | AMAZON | ap-northeast-3 |
   | 15.152.8.192/26 | AMAZON | ap-northeast-3 |
   | 15.168.100.0/23 | AMAZON | ap-northeast-3 |
+  | 15.168.105.144/29 | MEDIA_PACKAGE_V2 | ap-northeast-3 |
+  | 15.168.105.152/29 | MEDIA_PACKAGE_V2 | ap-northeast-3 |
   | 15.168.40.0/25 | AMAZON | ap-northeast-3 |
   | 15.168.40.128/25 | AMAZON | ap-northeast-3 |
   | 15.168.96.0/22 | AMAZON | ap-northeast-3 |
@@ -5538,6 +5540,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.181.120.0/21 | AMAZON | us-east-1-atl-1 |
   | 15.251.0.11/32 | AMAZON | us-east-1 |
   | 13.34.75.160/27 | AMAZON | us-east-1 |
+  | 136.18.32.0/24 | AMAZON | us-east-1 |
   | 13.34.30.224/27 | AMAZON | us-east-1 |
   | 13.34.76.224/27 | AMAZON | us-east-1 |
   | 13.34.50.160/27 | AMAZON | us-east-1 |
