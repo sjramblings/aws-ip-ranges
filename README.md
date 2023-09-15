@@ -579,6 +579,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.167.88.96/28 | S3 | ap-east-1 |
   | 43.198.166.0/23 | AMAZON | ap-east-1 |
   | 43.198.168.0/22 | AMAZON | ap-east-1 |
+  | 43.198.192.104/29 | EC2_INSTANCE_CONNECT | ap-east-1 |
 </details>
 
 <details>
@@ -600,6 +601,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.85.96/27 | AMAZON | ap-northeast-1 |
   | 99.77.244.0/24 | AMAZON | ap-northeast-1 |
   | 142.4.160.144/29 | AMAZON | ap-northeast-1-tpe-1 |
+  | 142.4.162.8/29 | AMAZON | ap-northeast-1-tpe-1 |
   | 52.144.225.64/26 | AMAZON | ap-northeast-1 |
   | 35.71.114.0/24 | AMAZON | ap-northeast-1 |
   | 52.219.68.0/22 | AMAZON | ap-northeast-1 |
@@ -686,6 +688,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.247/32 | AMAZON | ap-northeast-1 |
   | 52.93.121.196/32 | AMAZON | ap-northeast-1 |
   | 52.219.172.0/22 | AMAZON | ap-northeast-1 |
+  | 142.4.162.16/29 | AMAZON | ap-northeast-1-tpe-1 |
   | 13.34.15.0/27 | AMAZON | ap-northeast-1 |
   | 52.93.127.244/32 | AMAZON | ap-northeast-1 |
   | 57.180.0.0/14 | AMAZON | ap-northeast-1 |
@@ -793,6 +796,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.248.0.0/15 | EC2 | ap-northeast-1 |
   | 99.77.244.0/24 | EC2 | ap-northeast-1 |
   | 142.4.160.144/29 | EC2 | ap-northeast-1-tpe-1 |
+  | 142.4.162.8/29 | EC2 | ap-northeast-1-tpe-1 |
   | 35.71.114.0/24 | EC2 | ap-northeast-1 |
   | 54.250.0.0/16 | EC2 | ap-northeast-1 |
   | 54.92.0.0/17 | EC2 | ap-northeast-1 |
@@ -824,6 +828,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 142.4.160.208/29 | EC2 | ap-northeast-1-tpe-1 |
   | 18.182.0.0/16 | EC2 | ap-northeast-1 |
   | 18.178.0.0/16 | EC2 | ap-northeast-1 |
+  | 142.4.162.16/29 | EC2 | ap-northeast-1-tpe-1 |
   | 57.180.0.0/14 | EC2 | ap-northeast-1 |
   | 18.179.0.0/16 | EC2 | ap-northeast-1 |
   | 18.180.0.0/15 | EC2 | ap-northeast-1 |
@@ -1230,6 +1235,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.168.100.0/23 | AMAZON | ap-northeast-3 |
   | 15.168.105.144/29 | MEDIA_PACKAGE_V2 | ap-northeast-3 |
   | 15.168.105.152/29 | MEDIA_PACKAGE_V2 | ap-northeast-3 |
+  | 15.168.105.160/29 | EC2_INSTANCE_CONNECT | ap-northeast-3 |
   | 15.168.40.0/25 | AMAZON | ap-northeast-3 |
   | 15.168.40.128/25 | AMAZON | ap-northeast-3 |
   | 15.168.96.0/22 | AMAZON | ap-northeast-3 |
@@ -1564,6 +1570,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.60.192.0/25 | AMAZON | ap-south-2 |
   | 18.60.196.0/25 | AMAZON | ap-south-2 |
   | 18.60.196.128/25 | AMAZON | ap-south-2 |
+  | 18.60.252.248/29 | EC2_INSTANCE_CONNECT | ap-south-2 |
   | 18.60.64.192/26 | ROUTE53_RESOLVER | ap-south-2 |
   | 18.60.68.0/26 | ROUTE53_RESOLVER | ap-south-2 |
   | 18.60.68.64/26 | ROUTE53_RESOLVER | ap-south-2 |
@@ -2241,6 +2248,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.218.156.0/24 | AMAZON | ap-southeast-3 |
   | 43.218.158.0/23 | AMAZON | ap-southeast-3 |
   | 43.218.160.0/22 | AMAZON | ap-southeast-3 |
+  | 43.218.193.64/29 | EC2_INSTANCE_CONNECT | ap-southeast-3 |
   | 43.218.56.128/26 | CLOUDFRONT | ap-southeast-3 |
   | 43.218.56.192/26 | CLOUDFRONT | ap-southeast-3 |
   | 43.218.56.64/26 | CLOUDFRONT | ap-southeast-3 |
@@ -4590,6 +4598,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.28.70.48/28 | S3 | me-central-1 |
   | 3.28.70.96/28 | S3 | me-central-1 |
   | 3.28.72.0/23 | AMAZON | me-central-1 |
+  | 3.29.147.40/29 | EC2_INSTANCE_CONNECT | me-central-1 |
   | 3.29.156.0/22 | AMAZON | me-central-1 |
   | 3.29.160.0/23 | AMAZON | me-central-1 |
   | 3.29.17.0/25 | AMAZON | me-central-1 |
@@ -4710,6 +4719,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 157.241.25.0/24 | API_GATEWAY | me-south-1 |
   | 16.24.30.0/23 | AMAZON | me-south-1 |
   | 16.24.32.0/22 | AMAZON | me-south-1 |
+  | 16.24.46.56/29 | EC2_INSTANCE_CONNECT | me-south-1 |
 </details>
 
 <details>
