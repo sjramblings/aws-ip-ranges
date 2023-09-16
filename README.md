@@ -2318,6 +2318,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.50.182.0/25 | AMAZON | ap-southeast-4 |
   | 16.50.206.0/25 | AMAZON | ap-southeast-4 |
   | 16.50.248.32/28 | CODEBUILD | ap-southeast-4 |
+  | 16.50.248.80/29 | EC2_INSTANCE_CONNECT | ap-southeast-4 |
   | 16.50.67.0/26 | ROUTE53_RESOLVER | ap-southeast-4 |
   | 16.50.67.128/26 | ROUTE53_RESOLVER | ap-southeast-4 |
   | 16.50.67.64/26 | ROUTE53_RESOLVER | ap-southeast-4 |
@@ -2682,6 +2683,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.196.16.0/23 | AMAZON | cn-north-1 |
   | 43.196.18.0/24 | AMAZON | cn-north-1 |
   | 43.196.19.0/24 | AMAZON | cn-north-1 |
+  | 43.196.20.40/29 | EC2_INSTANCE_CONNECT | cn-north-1 |
   | 43.196.3.64/26 | AMAZON | cn-north-1 |
   | 52.80.197.0/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
   | 52.80.197.128/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
@@ -2777,6 +2779,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 161.189.66.128/26 | AMAZON | cn-northwest-1 |
   | 161.189.66.192/26 | AMAZON | cn-northwest-1 |
   | 43.192.144.0/22 | WORKSPACES_GATEWAYS | cn-northwest-1 |
+  | 43.192.155.8/29 | EC2_INSTANCE_CONNECT | cn-northwest-1 |
   | 43.192.156.0/23 | AMAZON | cn-northwest-1 |
   | 43.192.160.0/22 | AMAZON | cn-northwest-1 |
   | 52.82.1.0/29 | CODEBUILD | cn-northwest-1 |
@@ -3176,6 +3179,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.62.56.240/28 | S3 | eu-central-2 |
   | 16.62.7.192/26 | ROUTE53_RESOLVER | eu-central-2 |
   | 16.62.70.0/23 | AMAZON | eu-central-2 |
+  | 16.63.77.8/29 | EC2_INSTANCE_CONNECT | eu-central-2 |
   | 16.63.88.0/22 | AMAZON | eu-central-2 |
   | 16.63.92.0/23 | AMAZON | eu-central-2 |
 </details>
@@ -3597,6 +3601,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.100.74.0/23 | AMAZON | eu-south-2 |
   | 18.101.80.0/22 | AMAZON | eu-south-2 |
   | 18.101.84.0/23 | AMAZON | eu-south-2 |
+  | 18.101.90.48/29 | EC2_INSTANCE_CONNECT | eu-south-2 |
 </details>
 
 <details>
