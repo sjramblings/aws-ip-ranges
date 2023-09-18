@@ -7124,6 +7124,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 13.34.103.96/27 | AMAZON | us-west-2 |
   | 52.94.76.0/22 | AMAZON | us-west-2 |
   | 13.34.24.160/27 | AMAZON | us-west-2 |
   | 15.230.102.0/24 | AMAZON | us-west-2 |
@@ -7351,6 +7352,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.82.192/27 | AMAZON | us-west-2 |
   | 13.34.61.192/27 | AMAZON | us-west-2 |
   | 15.220.224.0/23 | AMAZON | us-west-2-pdx-1 |
+  | 13.34.103.64/27 | AMAZON | us-west-2 |
   | 13.34.54.160/27 | AMAZON | us-west-2 |
   | 13.34.14.128/27 | AMAZON | us-west-2 |
   | 13.34.57.32/27 | AMAZON | us-west-2 |
