@@ -1,6 +1,6 @@
 {
-  "syncToken": "1695017590",
-  "createDate": "2023-09-18-06-13-10",
+  "syncToken": "1695112987",
+  "createDate": "2023-09-19-08-43-07",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -2575,6 +2575,12 @@
       "region": "eu-central-1",
       "service": "AMAZON",
       "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "13.34.103.160/27",
+      "region": "us-west-2",
+      "service": "AMAZON",
+      "network_border_group": "us-west-2"
     },
     {
       "ip_prefix": "15.230.0.12/31",
@@ -7861,6 +7867,12 @@
       "region": "us-east-2",
       "service": "AMAZON",
       "network_border_group": "us-east-2"
+    },
+    {
+      "ip_prefix": "15.230.112.0/24",
+      "region": "eu-south-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-south-1"
     },
     {
       "ip_prefix": "15.230.210.0/23",
@@ -16753,6 +16765,12 @@
       "region": "us-east-1",
       "service": "AMAZON",
       "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "13.34.103.128/27",
+      "region": "us-west-2",
+      "service": "AMAZON",
+      "network_border_group": "us-west-2"
     },
     {
       "ip_prefix": "15.177.75.0/24",
@@ -40608,6 +40626,12 @@
       "ip_prefix": "51.17.1.0/24",
       "region": "il-central-1",
       "service": "AMAZON",
+      "network_border_group": "il-central-1"
+    },
+    {
+      "ip_prefix": "51.17.72.0/22",
+      "region": "il-central-1",
+      "service": "WORKSPACES_GATEWAYS",
       "network_border_group": "il-central-1"
     },
     {
