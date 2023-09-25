@@ -7144,6 +7144,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.99.160/27 | AMAZON | us-west-2 |
   | 142.4.160.224/29 | AMAZON | us-west-2-phx-1 |
   | 142.4.160.56/29 | AMAZON | us-west-2-las-1 |
+  | 13.34.104.32/27 | AMAZON | us-west-2 |
   | 15.220.252.0/22 | AMAZON | us-west-2-las-1 |
   | 3.2.40.0/25 | AMAZON | us-west-2 |
   | 52.119.252.0/22 | AMAZON | us-west-2 |
@@ -7231,6 +7232,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.10.0/24 | AMAZON | us-west-2 |
   | 13.34.82.224/27 | AMAZON | us-west-2 |
   | 54.244.0.0/16 | AMAZON | us-west-2 |
+  | 13.34.104.0/27 | AMAZON | us-west-2 |
   | 44.224.0.0/11 | AMAZON | us-west-2 |
   | 64.252.73.0/24 | AMAZON | us-west-2 |
   | 13.34.28.96/27 | AMAZON | us-west-2 |
