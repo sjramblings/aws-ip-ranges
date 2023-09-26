@@ -714,6 +714,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.121.188/32 | AMAZON | ap-northeast-1 |
   | 52.93.127.148/32 | AMAZON | ap-northeast-1 |
   | 52.93.127.250/32 | AMAZON | ap-northeast-1 |
+  | 99.82.0.0/22 | AMAZON | ap-northeast-1 |
   | 104.255.59.136/32 | AMAZON | ap-northeast-1 |
   | 13.34.46.128/27 | AMAZON | ap-northeast-1 |
   | 52.95.56.0/22 | AMAZON | ap-northeast-1 |
