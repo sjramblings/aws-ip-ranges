@@ -2250,6 +2250,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.218.158.0/23 | AMAZON | ap-southeast-3 |
   | 43.218.160.0/22 | AMAZON | ap-southeast-3 |
   | 43.218.193.64/29 | EC2_INSTANCE_CONNECT | ap-southeast-3 |
+  | 43.218.193.96/28 | S3 | ap-southeast-3 |
   | 43.218.56.128/26 | CLOUDFRONT | ap-southeast-3 |
   | 43.218.56.192/26 | CLOUDFRONT | ap-southeast-3 |
   | 43.218.56.64/26 | CLOUDFRONT | ap-southeast-3 |
@@ -3844,6 +3845,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.239.32.0/21 | AMAZON | eu-west-1 |
   | 13.34.49.32/27 | AMAZON | eu-west-1 |
   | 52.93.127.154/32 | AMAZON | eu-west-1 |
+  | 15.230.223.6/31 | AMAZON | eu-west-1 |
   | 54.76.0.0/15 | AMAZON | eu-west-1 |
   | 64.252.116.0/24 | AMAZON | eu-west-1 |
   | 34.240.0.0/13 | AMAZON | eu-west-1 |
@@ -4613,6 +4615,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.28.70.96/28 | S3 | me-central-1 |
   | 3.28.72.0/23 | AMAZON | me-central-1 |
   | 3.29.147.40/29 | EC2_INSTANCE_CONNECT | me-central-1 |
+  | 3.29.147.48/28 | S3 | me-central-1 |
   | 3.29.156.0/22 | AMAZON | me-central-1 |
   | 3.29.160.0/23 | AMAZON | me-central-1 |
   | 3.29.17.0/25 | AMAZON | me-central-1 |
@@ -6181,6 +6184,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 192.43.184.0/24 | AMAZON | us-east-2 |
   | 52.94.152.65/32 | AMAZON | us-east-2 |
   | 15.230.39.212/31 | AMAZON | us-east-2 |
+  | 192.189.196.0/24 | AMAZON | us-east-2 |
   | 3.3.28.0/22 | AMAZON | us-east-2 |
   | 13.34.22.192/27 | AMAZON | us-east-2 |
   | 15.230.39.170/31 | AMAZON | us-east-2 |
@@ -6397,6 +6401,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.131.0.0/16 | EC2 | us-east-2 |
   | 18.190.0.0/16 | EC2 | us-east-2 |
   | 192.43.184.0/24 | EC2 | us-east-2 |
+  | 192.189.196.0/24 | EC2 | us-east-2 |
   | 99.77.131.0/24 | EC2 | us-east-2 |
   | 15.177.66.0/23 | EC2 | us-east-2 |
   | 35.71.102.0/24 | EC2 | us-east-2 |
