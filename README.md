@@ -6288,6 +6288,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.216.41.160/29 | MEDIA_PACKAGE_V2 | us-east-1 |
   | 44.218.96.0/23 | API_GATEWAY | us-east-1 |
   | 44.220.25.0/25 | AMAZON | us-east-1 |
+  | 44.220.28.0/22 | API_GATEWAY | us-east-1 |
   | 52.23.61.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.23.62.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.55.191.224/27 | AMAZON_CONNECT | us-east-1 |
