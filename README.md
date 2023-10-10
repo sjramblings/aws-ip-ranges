@@ -2791,6 +2791,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.103/32 | AMAZON | cn-northwest-1 |
   | 52.82.192.0/18 | AMAZON | cn-northwest-1 |
   | 52.82.188.0/22 | AMAZON | cn-northwest-1 |
+  | 52.82.184.0/23 | S3 | cn-northwest-1 |
   | 52.82.164.0/22 | S3 | cn-northwest-1 |
   | 52.82.188.0/22 | S3 | cn-northwest-1 |
   | 52.82.187.0/24 | DYNAMODB | cn-northwest-1 |
@@ -2866,6 +2867,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.76/31 | AMAZON | eu-central-1 |
   | 52.93.244.0/24 | AMAZON | eu-central-1 |
   | 52.219.170.0/23 | AMAZON | eu-central-1 |
+  | 13.34.105.96/27 | AMAZON | eu-central-1 |
   | 52.219.168.0/24 | AMAZON | eu-central-1 |
   | 52.93.126.135/32 | AMAZON | eu-central-1 |
   | 15.230.15.104/31 | AMAZON | eu-central-1 |
@@ -2988,6 +2990,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.214/31 | AMAZON | eu-central-1 |
   | 15.230.15.130/31 | AMAZON | eu-central-1 |
   | 15.230.15.116/31 | AMAZON | eu-central-1 |
+  | 13.34.105.64/27 | AMAZON | eu-central-1 |
   | 99.77.158.0/24 | AMAZON | eu-central-1 |
   | 150.222.122.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.50/31 | AMAZON | eu-central-1 |
@@ -5623,6 +5626,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.94.128/27 | AMAZON | us-east-1 |
   | 13.34.102.192/27 | AMAZON | us-east-1 |
   | 15.181.96.0/20 | AMAZON | us-east-1-mci-1 |
+  | 3.2.52.0/24 | AMAZON | us-east-1 |
   | 15.230.216.10/32 | AMAZON | us-east-1 |
   | 69.107.7.96/29 | AMAZON | us-east-1 |
   | 13.34.21.192/27 | AMAZON | us-east-1 |
@@ -6062,6 +6066,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.175.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 13.248.103.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 13.248.108.0/24 | GLOBALACCELERATOR | us-east-1 |
+  | 3.2.52.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 3.2.50.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 3.2.51.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 99.82.165.0/24 | GLOBALACCELERATOR | us-east-1 |
