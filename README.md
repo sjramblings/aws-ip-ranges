@@ -2362,6 +2362,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.50.70.0/23 | AMAZON | ap-southeast-4 |
   | 16.51.30.0/23 | AMAZON | ap-southeast-4 |
   | 16.51.32.0/22 | AMAZON | ap-southeast-4 |
+  | 16.51.86.16/29 | MEDIA_PACKAGE_V2 | ap-southeast-4 |
+  | 16.51.86.8/29 | MEDIA_PACKAGE_V2 | ap-southeast-4 |
 </details>
 
 <details>
@@ -3786,6 +3788,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 99.87.32.0/22 | AMAZON | eu-west-1 |
   | 150.222.81.0/24 | AMAZON | eu-west-1 |
+  | 15.230.113.0/24 | AMAZON | eu-west-1 |
   | 52.93.17.0/24 | AMAZON | eu-west-1 |
   | 52.93.45.0/25 | AMAZON | eu-west-1 |
   | 52.94.24.0/23 | AMAZON | eu-west-1 |
