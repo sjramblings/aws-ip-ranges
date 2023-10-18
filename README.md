@@ -6787,6 +6787,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.100.0/22 | AMAZON | us-gov-west-1 |
   | 108.175.56.0/22 | AMAZON | us-gov-west-1 |
   | 52.94.152.184/32 | AMAZON | us-gov-west-1 |
+  | 136.18.0.0/23 | AMAZON | us-gov-west-1 |
   | 76.223.168.0/24 | AMAZON | us-gov-west-1 |
   | 3.30.0.0/15 | AMAZON | us-gov-west-1 |
   | 52.94.152.189/32 | AMAZON | us-gov-west-1 |
@@ -6820,11 +6821,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 75.79.0.0/16 | AMAZON | us-gov-west-1 |
   | 52.46.176.0/22 | AMAZON | us-gov-west-1 |
   | 108.175.56.0/22 | S3 | us-gov-west-1 |
+  | 136.18.0.0/23 | S3 | us-gov-west-1 |
   | 108.175.48.0/22 | S3 | us-gov-west-1 |
   | 52.94.9.0/24 | DYNAMODB | us-gov-west-1 |
   | 35.71.116.0/24 | DYNAMODB | us-gov-west-1 |
   | 15.205.0.0/16 | EC2 | us-gov-west-1 |
   | 108.175.56.0/22 | EC2 | us-gov-west-1 |
+  | 136.18.0.0/23 | EC2 | us-gov-west-1 |
   | 3.30.0.0/15 | EC2 | us-gov-west-1 |
   | 160.1.0.0/16 | EC2 | us-gov-west-1 |
   | 3.32.0.0/16 | EC2 | us-gov-west-1 |
