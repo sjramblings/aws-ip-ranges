@@ -939,6 +939,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.248.220.0/26 | ROUTE53_HEALTHCHECKS | ap-northeast-1 |
   | 54.250.251.0/24 | WORKSPACES_GATEWAYS | ap-northeast-1 |
   | 54.250.253.192/26 | ROUTE53_HEALTHCHECKS | ap-northeast-1 |
+  | 57.180.138.64/26 | AMAZON | ap-northeast-1 |
 </details>
 
 <details>
@@ -3214,6 +3215,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.83.99.0/24 | GLOBALACCELERATOR | eu-central-1 |
   | 99.82.163.0/24 | GLOBALACCELERATOR | eu-central-1 |
   | 15.177.68.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-central-1 |
+  | 18.153.115.128/26 | AMAZON | eu-central-1 |
+  | 18.153.115.192/26 | AMAZON | eu-central-1 |
   | 18.153.40.0/22 | AMAZON | eu-central-1 |
   | 18.156.52.0/24 | WORKSPACES_GATEWAYS | eu-central-1 |
   | 18.156.54.0/23 | WORKSPACES_GATEWAYS | eu-central-1 |
@@ -4218,6 +4221,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.253.224.0/22 | AMAZON | eu-west-1 |
   | 3.253.228.0/22 | AMAZON | eu-west-1 |
   | 3.254.10.0/25 | AMAZON | eu-west-1 |
+  | 3.254.178.192/26 | AMAZON | eu-west-1 |
+  | 3.254.234.0/25 | AMAZON | eu-west-1 |
+  | 3.254.234.128/25 | AMAZON | eu-west-1 |
+  | 3.254.236.0/22 | AMAZON | eu-west-1 |
   | 3.254.8.0/25 | AMAZON | eu-west-1 |
   | 34.242.153.128/26 | ROUTE53_RESOLVER | eu-west-1 |
   | 34.242.153.224/28 | ROUTE53_RESOLVER | eu-west-1 |
@@ -4484,6 +4491,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.168.37.64/26 | ROUTE53_RESOLVER | eu-west-2 |
   | 18.169.230.136/30 | AMAZON_APPFLOW | eu-west-2 |
   | 18.169.230.200/29 | CODEBUILD | eu-west-2 |
+  | 18.171.35.128/26 | AMAZON | eu-west-2 |
   | 3.10.127.32/27 | CLOUD9 | eu-west-2 |
   | 3.10.17.0/25 | API_GATEWAY | eu-west-2 |
   | 3.10.17.128/25 | CLOUDFRONT | eu-west-2 |
@@ -6309,6 +6317,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.218.96.0/23 | API_GATEWAY | us-east-1 |
   | 44.220.25.0/25 | AMAZON | us-east-1 |
   | 44.220.28.0/22 | API_GATEWAY | us-east-1 |
+  | 44.220.67.128/25 | AMAZON | us-east-1 |
+  | 44.220.68.0/25 | AMAZON | us-east-1 |
   | 52.23.61.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.23.62.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.55.191.224/27 | AMAZON_CONNECT | us-east-1 |
@@ -6707,6 +6717,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.145.31.128/26 | AMAZON | us-east-2 |
   | 3.146.12.0/22 | AMAZON | us-east-2 |
   | 3.146.22.0/26 | AMAZON | us-east-2 |
+  | 3.146.36.192/26 | AMAZON | us-east-2 |
+  | 3.146.43.0/25 | AMAZON | us-east-2 |
+  | 3.146.44.0/23 | API_GATEWAY | us-east-2 |
   | 3.146.8.0/22 | AMAZON | us-east-2 |
   | 3.15.35.0/24 | API_GATEWAY | us-east-2 |
   | 3.15.36.0/26 | API_GATEWAY | us-east-2 |
@@ -7760,6 +7773,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.246.181.0/24 | API_GATEWAY | us-west-2 |
   | 18.246.182.0/23 | API_GATEWAY | us-west-2 |
   | 18.246.184.0/23 | API_GATEWAY | us-west-2 |
+  | 18.246.190.128/25 | AMAZON | us-west-2 |
+  | 18.246.220.0/25 | AMAZON | us-west-2 |
+  | 18.246.220.128/25 | AMAZON | us-west-2 |
   | 18.246.88.0/23 | AMAZON | us-west-2 |
   | 18.246.92.0/22 | AMAZON | us-west-2 |
   | 18.246.96.0/22 | AMAZON | us-west-2 |
