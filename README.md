@@ -2384,6 +2384,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.95.0/24 | AMAZON | ap-southeast-5 |
   | 43.216.0.0/15 | AMAZON | ap-southeast-5 |
   | 52.94.250.80/28 | AMAZON | ap-southeast-5 |
+  | 15.248.56.0/21 | AMAZON | ap-southeast-5 |
   | 76.223.170.32/28 | AMAZON | ap-southeast-5 |
   | 16.12.44.0/24 | S3 | ap-southeast-5 |
   | 16.12.42.0/23 | S3 | ap-southeast-5 |
@@ -5397,6 +5398,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.123.255/32 | AMAZON | us-east-1 |
   | 142.4.160.128/29 | AMAZON | us-east-1-mia-1 |
   | 15.181.48.0/20 | AMAZON | us-east-1-msp-1 |
+  | 104.255.56.18/32 | AMAZON | us-east-1 |
   | 150.222.33.0/24 | AMAZON | us-east-1 |
   | 96.0.131.0/24 | AMAZON | us-east-1-scl-1 |
   | 205.251.247.0/24 | AMAZON | us-east-1 |
@@ -5436,6 +5438,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.65.128/25 | AMAZON | us-east-1 |
   | 52.144.192.128/26 | AMAZON | us-east-1 |
   | 52.216.0.0/15 | AMAZON | us-east-1 |
+  | 104.255.56.19/32 | AMAZON | us-east-1 |
   | 142.4.161.88/29 | AMAZON | us-east-1-dfw-1 |
   | 162.250.236.0/24 | AMAZON | us-east-1 |
   | 13.34.50.128/27 | AMAZON | us-east-1 |
@@ -5498,6 +5501,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.167.0/24 | AMAZON | us-east-1 |
   | 13.34.42.96/27 | AMAZON | us-east-1 |
   | 13.34.103.0/27 | AMAZON | us-east-1 |
+  | 104.255.56.20/32 | AMAZON | us-east-1 |
   | 184.72.128.0/17 | AMAZON | us-east-1 |
   | 205.251.248.0/24 | AMAZON | us-east-1 |
   | 13.34.31.224/27 | AMAZON | us-east-1 |
@@ -5713,6 +5717,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.47.128/27 | AMAZON | us-east-1 |
   | 15.220.236.0/22 | AMAZON | us-east-1-mci-1 |
   | 52.93.127.185/32 | AMAZON | us-east-1 |
+  | 104.255.56.17/32 | AMAZON | us-east-1 |
   | 3.2.36.0/25 | AMAZON | us-east-1 |
   | 13.34.69.128/27 | AMAZON | us-east-1 |
   | 13.34.105.192/27 | AMAZON | us-east-1 |
@@ -6319,6 +6324,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.220.28.0/22 | API_GATEWAY | us-east-1 |
   | 44.220.67.128/25 | AMAZON | us-east-1 |
   | 44.220.68.0/25 | AMAZON | us-east-1 |
+  | 44.220.72.0/22 | AMAZON | us-east-1 |
+  | 44.220.76.0/22 | AMAZON | us-east-1 |
   | 52.23.61.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.23.62.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.55.191.224/27 | AMAZON_CONNECT | us-east-1 |
