@@ -1,6 +1,6 @@
 {
-  "syncToken": "1697780589",
-  "createDate": "2023-10-20-05-43-09",
+  "syncToken": "1697834587",
+  "createDate": "2023-10-20-20-43-07",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -49889,6 +49889,12 @@
       "network_border_group": "us-gov-east-1"
     },
     {
+      "ipv6_prefix": "2600:f0f0:300:100::/56",
+      "region": "us-west-2",
+      "service": "AMAZON",
+      "network_border_group": "us-west-2"
+    },
+    {
       "ipv6_prefix": "2406:da68:8000::/40",
       "region": "ap-southeast-1",
       "service": "AMAZON",
@@ -49923,6 +49929,12 @@
       "region": "us-west-2",
       "service": "AMAZON",
       "network_border_group": "us-west-2"
+    },
+    {
+      "ipv6_prefix": "2605:9cc0:1ff0:7000::/56",
+      "region": "GLOBAL",
+      "service": "AMAZON",
+      "network_border_group": "GLOBAL"
     },
     {
       "ipv6_prefix": "2620:107:4000:7a00::/56",
@@ -51897,6 +51909,12 @@
       "region": "eu-west-1",
       "service": "AMAZON",
       "network_border_group": "eu-west-1"
+    },
+    {
+      "ipv6_prefix": "2600:f0f0:300:100::/56",
+      "region": "us-west-2",
+      "service": "ROUTE53_HEALTHCHECKS",
+      "network_border_group": "us-west-2"
     },
     {
       "ipv6_prefix": "2a05:d07a:a000::/40",
@@ -55565,6 +55583,12 @@
       "network_border_group": "us-gov-east-1"
     },
     {
+      "ipv6_prefix": "2600:f0f0:300:100::/56",
+      "region": "us-west-2",
+      "service": "EC2",
+      "network_border_group": "us-west-2"
+    },
+    {
       "ipv6_prefix": "2406:da68:8000::/40",
       "region": "ap-southeast-1",
       "service": "EC2",
@@ -55593,6 +55617,12 @@
       "region": "us-west-2",
       "service": "EC2",
       "network_border_group": "us-west-2"
+    },
+    {
+      "ipv6_prefix": "2605:9cc0:1ff0:7000::/56",
+      "region": "GLOBAL",
+      "service": "EC2",
+      "network_border_group": "GLOBAL"
     },
     {
       "ipv6_prefix": "2600:1f00:6000::/40",
