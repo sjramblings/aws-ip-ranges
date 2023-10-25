@@ -13963,6 +13963,12 @@
         "network_border_group": "ca-central-1"
       },
       {
+        "ip_prefix": "13.34.106.224/27",
+        "region": "ca-central-1",
+        "service": "AMAZON",
+        "network_border_group": "ca-central-1"
+      },
+      {
         "ip_prefix": "52.93.193.199/32",
         "region": "ca-central-1",
         "service": "AMAZON",
@@ -14276,6 +14282,12 @@
       },
       {
         "ip_prefix": "150.222.43.160/27",
+        "region": "ca-central-1",
+        "service": "AMAZON",
+        "network_border_group": "ca-central-1"
+      },
+      {
+        "ip_prefix": "13.34.106.192/27",
         "region": "ca-central-1",
         "service": "AMAZON",
         "network_border_group": "ca-central-1"
@@ -15629,6 +15641,24 @@
         "network_border_group": "cn-north-1"
       },
       {
+        "ip_prefix": "140.179.36.208/28",
+        "region": "cn-north-1",
+        "service": "S3",
+        "network_border_group": "cn-north-1"
+      },
+      {
+        "ip_prefix": "140.179.36.224/28",
+        "region": "cn-north-1",
+        "service": "S3",
+        "network_border_group": "cn-north-1"
+      },
+      {
+        "ip_prefix": "140.179.36.240/28",
+        "region": "cn-north-1",
+        "service": "S3",
+        "network_border_group": "cn-north-1"
+      },
+      {
         "ip_prefix": "140.179.36.32/27",
         "region": "cn-north-1",
         "service": "ROUTE53_RESOLVER",
@@ -15854,6 +15884,18 @@
         "ip_prefix": "71.131.196.128/26",
         "region": "cn-north-1",
         "service": "AMAZON",
+        "network_border_group": "cn-north-1"
+      },
+      {
+        "ip_prefix": "71.131.196.224/28",
+        "region": "cn-north-1",
+        "service": "S3",
+        "network_border_group": "cn-north-1"
+      },
+      {
+        "ip_prefix": "71.131.196.240/28",
+        "region": "cn-north-1",
+        "service": "S3",
         "network_border_group": "cn-north-1"
       }
     ]
@@ -16420,6 +16462,18 @@
         "network_border_group": "cn-northwest-1"
       },
       {
+        "ip_prefix": "68.79.2.192/28",
+        "region": "cn-northwest-1",
+        "service": "S3",
+        "network_border_group": "cn-northwest-1"
+      },
+      {
+        "ip_prefix": "68.79.2.224/28",
+        "region": "cn-northwest-1",
+        "service": "S3",
+        "network_border_group": "cn-northwest-1"
+      },
+      {
         "ip_prefix": "68.79.2.244/30",
         "region": "cn-northwest-1",
         "service": "EBS",
@@ -16471,6 +16525,18 @@
         "ip_prefix": "69.234.197.72/29",
         "region": "cn-northwest-1",
         "service": "CODEBUILD",
+        "network_border_group": "cn-northwest-1"
+      },
+      {
+        "ip_prefix": "69.234.250.64/28",
+        "region": "cn-northwest-1",
+        "service": "S3",
+        "network_border_group": "cn-northwest-1"
+      },
+      {
+        "ip_prefix": "69.234.250.80/28",
+        "region": "cn-northwest-1",
+        "service": "S3",
         "network_border_group": "cn-northwest-1"
       },
       {

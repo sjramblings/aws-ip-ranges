@@ -2422,6 +2422,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.5.0/24 | AMAZON | ca-central-1 |
   | 52.93.193.200/32 | AMAZON | ca-central-1 |
   | 13.34.85.32/27 | AMAZON | ca-central-1 |
+  | 13.34.106.224/27 | AMAZON | ca-central-1 |
   | 52.93.193.199/32 | AMAZON | ca-central-1 |
   | 15.222.0.0/15 | AMAZON | ca-central-1 |
   | 13.34.84.224/27 | AMAZON | ca-central-1 |
@@ -2475,6 +2476,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.146.0/23 | AMAZON | ca-central-1 |
   | 15.177.84.0/24 | AMAZON | ca-central-1 |
   | 150.222.43.160/27 | AMAZON | ca-central-1 |
+  | 13.34.106.192/27 | AMAZON | ca-central-1 |
   | 52.93.193.194/32 | AMAZON | ca-central-1 |
   | 52.144.201.64/26 | AMAZON | ca-central-1 |
   | 15.156.0.0/15 | AMAZON | ca-central-1 |
@@ -2712,6 +2714,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 140.179.15.64/26 | AMAZON | cn-north-1 |
   | 140.179.176.0/23 | API_GATEWAY | cn-north-1 |
   | 140.179.36.16/29 | ROUTE53_RESOLVER | cn-north-1 |
+  | 140.179.36.208/28 | S3 | cn-north-1 |
+  | 140.179.36.224/28 | S3 | cn-north-1 |
+  | 140.179.36.240/28 | S3 | cn-north-1 |
   | 140.179.36.32/27 | ROUTE53_RESOLVER | cn-north-1 |
   | 140.179.36.64/27 | ROUTE53_RESOLVER | cn-north-1 |
   | 140.179.57.0/24 | ROUTE53_RESOLVER | cn-north-1 |
@@ -2750,6 +2755,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.81.216.0/23 | API_GATEWAY | cn-north-1 |
   | 52.81.232.0/26 | AMAZON | cn-north-1 |
   | 71.131.196.128/26 | AMAZON | cn-north-1 |
+  | 71.131.196.224/28 | S3 | cn-north-1 |
+  | 71.131.196.240/28 | S3 | cn-north-1 |
 </details>
 
 <details>
@@ -2850,6 +2857,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.83.35.128/25 | ROUTE53_HEALTHCHECKS | cn-northwest-1 |
   | 52.83.5.0/26 | AMAZON | cn-northwest-1 |
   | 52.83.58.0/24 | WORKSPACES_GATEWAYS | cn-northwest-1 |
+  | 68.79.2.192/28 | S3 | cn-northwest-1 |
+  | 68.79.2.224/28 | S3 | cn-northwest-1 |
   | 68.79.2.244/30 | EBS | cn-northwest-1 |
   | 68.79.2.248/29 | EBS | cn-northwest-1 |
   | 68.79.2.64/27 | ROUTE53_RESOLVER | cn-northwest-1 |
@@ -2859,6 +2868,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 69.230.228.0/24 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 69.234.197.192/26 | AMAZON | cn-northwest-1 |
   | 69.234.197.72/29 | CODEBUILD | cn-northwest-1 |
+  | 69.234.250.64/28 | S3 | cn-northwest-1 |
+  | 69.234.250.80/28 | S3 | cn-northwest-1 |
   | 69.235.162.0/24 | WORKSPACES_GATEWAYS | cn-northwest-1 |
   | 69.235.170.0/23 | API_GATEWAY | cn-northwest-1 |
 </details>
