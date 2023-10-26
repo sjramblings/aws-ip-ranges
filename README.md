@@ -2416,7 +2416,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.78.160/27 | AMAZON | ca-central-1 |
   | 15.230.110.0/24 | AMAZON | ca-central-1 |
   | 13.34.7.224/27 | AMAZON | ca-central-1 |
+  | 13.34.107.64/27 | AMAZON | ca-central-1 |
   | 130.171.0.128/26 | AMAZON | ca-central-1 |
+  | 13.34.107.32/27 | AMAZON | ca-central-1 |
   | 52.144.199.128/26 | AMAZON | ca-central-1 |
   | 52.93.45.128/25 | AMAZON | ca-central-1 |
   | 52.93.5.0/24 | AMAZON | ca-central-1 |
@@ -2441,6 +2443,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.96.0.0/15 | AMAZON | ca-central-1 |
   | 3.5.252.0/22 | AMAZON | ca-central-1 |
   | 16.52.0.0/14 | AMAZON | ca-central-1 |
+  | 13.34.107.0/27 | AMAZON | ca-central-1 |
   | 130.171.0.0/26 | AMAZON | ca-central-1 |
   | 15.230.91.0/24 | AMAZON | ca-central-1 |
   | 130.171.0.64/26 | AMAZON | ca-central-1 |
@@ -2468,6 +2471,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.14.0/24 | AMAZON | ca-central-1 |
   | 15.230.79.128/26 | AMAZON | ca-central-1 |
   | 52.93.193.202/32 | AMAZON | ca-central-1 |
+  | 13.34.107.96/27 | AMAZON | ca-central-1 |
   | 52.60.0.0/16 | AMAZON | ca-central-1 |
   | 52.93.193.192/32 | AMAZON | ca-central-1 |
   | 3.98.0.0/15 | AMAZON | ca-central-1 |
