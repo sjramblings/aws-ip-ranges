@@ -2025,6 +2025,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.78.128/26 | AMAZON | ap-southeast-2 |
   | 104.255.59.88/32 | AMAZON | ap-southeast-2 |
   | 15.230.149.10/32 | AMAZON | ap-southeast-2 |
+  | 13.34.0.13/32 | AMAZON | ap-southeast-2 |
   | 96.0.72.0/21 | AMAZON | ap-southeast-2-akl-1 |
   | 52.94.152.183/32 | AMAZON | ap-southeast-2 |
   | 13.34.41.96/27 | AMAZON | ap-southeast-2 |
@@ -2070,6 +2071,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.152.181/32 | AMAZON | ap-southeast-2 |
   | 52.93.126.136/32 | AMAZON | ap-southeast-2 |
   | 52.93.78.0/24 | AMAZON | ap-southeast-2 |
+  | 13.34.0.12/32 | AMAZON | ap-southeast-2 |
   | 15.230.22.0/24 | AMAZON | ap-southeast-2 |
   | 52.65.0.0/16 | AMAZON | ap-southeast-2 |
   | 64.252.109.0/24 | AMAZON | ap-southeast-2 |
