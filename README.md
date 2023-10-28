@@ -1479,6 +1479,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.127.70.144/29 | ROUTE53_RESOLVER | ap-south-1 |
   | 13.127.70.152/29 | ROUTE53_RESOLVER | ap-south-1 |
   | 13.127.70.160/29 | ROUTE53_RESOLVER | ap-south-1 |
+  | 13.200.140.0/23 | API_GATEWAY | ap-south-1 |
   | 13.200.7.128/29 | MEDIA_PACKAGE_V2 | ap-south-1 |
   | 13.200.7.136/29 | MEDIA_PACKAGE_V2 | ap-south-1 |
   | 13.200.90.0/23 | AMAZON | ap-south-1 |
