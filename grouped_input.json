@@ -2342,6 +2342,12 @@
         "network_border_group": "af-south-1"
       },
       {
+        "ip_prefix": "3.5.202.0/23",
+        "region": "af-south-1",
+        "service": "AMAZON",
+        "network_border_group": "af-south-1"
+      },
+      {
         "ip_prefix": "99.77.235.0/24",
         "region": "af-south-1",
         "service": "CHIME_VOICECONNECTOR",
@@ -2367,6 +2373,12 @@
       },
       {
         "ip_prefix": "52.95.180.0/24",
+        "region": "af-south-1",
+        "service": "S3",
+        "network_border_group": "af-south-1"
+      },
+      {
+        "ip_prefix": "3.5.202.0/23",
         "region": "af-south-1",
         "service": "S3",
         "network_border_group": "af-south-1"
@@ -2475,6 +2487,12 @@
       },
       {
         "ip_prefix": "15.193.10.0/24",
+        "region": "af-south-1",
+        "service": "EC2",
+        "network_border_group": "af-south-1"
+      },
+      {
+        "ip_prefix": "3.5.202.0/23",
         "region": "af-south-1",
         "service": "EC2",
         "network_border_group": "af-south-1"
@@ -2839,6 +2857,12 @@
         "network_border_group": "ap-east-1"
       },
       {
+        "ip_prefix": "3.5.214.0/23",
+        "region": "ap-east-1",
+        "service": "AMAZON",
+        "network_border_group": "ap-east-1"
+      },
+      {
         "ip_prefix": "13.34.16.96/27",
         "region": "ap-east-1",
         "service": "AMAZON",
@@ -3043,6 +3067,12 @@
         "network_border_group": "ap-east-1"
       },
       {
+        "ip_prefix": "3.5.214.0/23",
+        "region": "ap-east-1",
+        "service": "S3",
+        "network_border_group": "ap-east-1"
+      },
+      {
         "ip_prefix": "52.95.162.0/24",
         "region": "ap-east-1",
         "service": "S3",
@@ -3086,6 +3116,12 @@
       },
       {
         "ip_prefix": "15.177.86.0/24",
+        "region": "ap-east-1",
+        "service": "EC2",
+        "network_border_group": "ap-east-1"
+      },
+      {
+        "ip_prefix": "3.5.214.0/23",
         "region": "ap-east-1",
         "service": "EC2",
         "network_border_group": "ap-east-1"
@@ -24670,6 +24706,12 @@
         "network_border_group": "eu-west-1"
       },
       {
+        "ip_prefix": "3.255.16.0/22",
+        "region": "eu-west-1",
+        "service": "API_GATEWAY",
+        "network_border_group": "eu-west-1"
+      },
+      {
         "ip_prefix": "34.242.153.128/26",
         "region": "eu-west-1",
         "service": "ROUTE53_RESOLVER",
@@ -46115,6 +46157,12 @@
       },
       {
         "ip_prefix": "35.93.124.0/22",
+        "region": "us-west-2",
+        "service": "API_GATEWAY",
+        "network_border_group": "us-west-2"
+      },
+      {
+        "ip_prefix": "35.94.72.0/22",
         "region": "us-west-2",
         "service": "API_GATEWAY",
         "network_border_group": "us-west-2"
