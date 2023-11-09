@@ -2931,6 +2931,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.164/31 | AMAZON | eu-central-1 |
   | 15.230.15.176/31 | AMAZON | eu-central-1 |
   | 99.78.156.0/22 | AMAZON | eu-central-1 |
+  | 63.176.0.0/14 | AMAZON | eu-central-1 |
   | 13.34.87.224/27 | AMAZON | eu-central-1 |
   | 15.230.15.120/31 | AMAZON | eu-central-1 |
   | 150.222.86.0/24 | AMAZON | eu-central-1 |
@@ -2954,6 +2955,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.211.0/24 | AMAZON | eu-central-1 |
   | 52.93.127.238/32 | AMAZON | eu-central-1 |
   | 15.230.15.160/31 | AMAZON | eu-central-1 |
+  | 63.180.0.0/14 | AMAZON | eu-central-1 |
   | 13.34.92.96/27 | AMAZON | eu-central-1 |
   | 15.230.15.168/31 | AMAZON | eu-central-1 |
   | 15.230.15.200/31 | AMAZON | eu-central-1 |
@@ -3116,6 +3118,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.33.32/27 | AMAZON | eu-central-1 |
   | 15.230.15.4/32 | AMAZON | eu-central-1 |
   | 52.219.140.0/24 | AMAZON | eu-central-1 |
+  | 63.184.0.0/13 | AMAZON | eu-central-1 |
   | 18.153.0.0/16 | AMAZON | eu-central-1 |
   | 173.83.196.0/23 | AMAZON | eu-central-1 |
   | 99.83.99.0/24 | AMAZON | eu-central-1 |
@@ -3166,7 +3169,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.83.103.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.34/31 | AMAZON | eu-central-1 |
   | 15.230.15.144/31 | AMAZON | eu-central-1 |
-  | 63.176.0.0/12 | AMAZON | eu-central-1 |
   | 13.34.106.128/27 | AMAZON | eu-central-1 |
   | 52.93.126.134/32 | AMAZON | eu-central-1 |
   | 35.71.105.0/24 | AMAZON | eu-central-1 |
@@ -3200,6 +3202,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.136.0/22 | EC2 | eu-central-1 |
   | 18.192.0.0/15 | EC2 | eu-central-1 |
   | 64.252.89.0/24 | EC2 | eu-central-1 |
+  | 63.176.0.0/14 | EC2 | eu-central-1 |
   | 99.77.136.0/24 | EC2 | eu-central-1 |
   | 142.4.160.192/29 | EC2 | eu-central-1-ham-1 |
   | 142.4.161.160/29 | EC2 | eu-central-1-waw-1 |
@@ -3420,6 +3423,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.137.0/24 | AMAZON | eu-north-1 |
   | 52.95.227.0/24 | AMAZON | eu-north-1 |
   | 13.50.0.0/16 | AMAZON | eu-north-1 |
+  | 13.62.0.0/15 | AMAZON | eu-north-1 |
   | 13.34.34.0/27 | AMAZON | eu-north-1 |
   | 51.21.0.0/16 | AMAZON | eu-north-1 |
   | 35.71.98.0/24 | AMAZON | eu-north-1 |
@@ -3476,6 +3480,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.150.64.0/21 | AMAZON | eu-north-1 |
   | 52.93.127.152/32 | AMAZON | eu-north-1 |
   | 13.34.91.64/27 | AMAZON | eu-north-1 |
+  | 13.60.0.0/15 | AMAZON | eu-north-1 |
   | 150.222.42.0/26 | AMAZON | eu-north-1 |
   | 99.77.246.0/24 | CHIME_VOICECONNECTOR | eu-north-1 |
   | 16.12.10.0/23 | S3 | eu-north-1 |
@@ -3512,6 +3517,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.246.0/24 | EC2 | eu-north-1 |
   | 96.0.24.0/21 | EC2 | eu-north-1-cph-1 |
   | 99.150.64.0/21 | EC2 | eu-north-1 |
+  | 13.60.0.0/15 | EC2 | eu-north-1 |
   | 13.248.100.0/24 | GLOBALACCELERATOR | eu-north-1 |
   | 13.248.122.0/24 | GLOBALACCELERATOR | eu-north-1 |
   | 15.177.72.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-north-1 |
