@@ -1605,6 +1605,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.60.196.128/25 | AMAZON | ap-south-2 |
   | 18.60.252.248/29 | EC2_INSTANCE_CONNECT | ap-south-2 |
   | 18.60.64.192/26 | ROUTE53_RESOLVER | ap-south-2 |
+  | 18.60.65.0/24 | API_GATEWAY | ap-south-2 |
   | 18.60.68.0/26 | ROUTE53_RESOLVER | ap-south-2 |
   | 18.60.68.64/26 | ROUTE53_RESOLVER | ap-south-2 |
   | 18.60.76.0/23 | AMAZON | ap-south-2 |
@@ -1613,6 +1614,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.60.78.240/28 | CODEBUILD | ap-south-2 |
   | 18.61.120.0/22 | AMAZON | ap-south-2 |
   | 18.61.124.0/23 | AMAZON | ap-south-2 |
+  | 18.61.189.0/24 | API_GATEWAY | ap-south-2 |
+  | 18.61.26.0/25 | API_GATEWAY | ap-south-2 |
+  | 18.61.26.128/25 | API_GATEWAY | ap-south-2 |
 </details>
 
 <details>
@@ -2288,10 +2292,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 108.136.154.16/28 | S3 | ap-southeast-3 |
   | 108.136.154.32/28 | S3 | ap-southeast-3 |
   | 108.136.154.48/28 | S3 | ap-southeast-3 |
+  | 108.136.170.0/23 | API_GATEWAY | ap-southeast-3 |
   | 108.136.221.0/26 | AMAZON | ap-southeast-3 |
   | 108.136.38.192/26 | ROUTE53_RESOLVER | ap-southeast-3 |
   | 108.137.114.0/28 | CODEBUILD | ap-southeast-3 |
   | 108.137.114.64/26 | AMAZON | ap-southeast-3 |
+  | 108.137.25.0/24 | API_GATEWAY | ap-southeast-3 |
+  | 108.137.26.0/24 | API_GATEWAY | ap-southeast-3 |
   | 108.137.58.0/26 | AMAZON | ap-southeast-3 |
   | 108.137.58.128/26 | AMAZON | ap-southeast-3 |
   | 108.137.58.192/26 | AMAZON | ap-southeast-3 |
@@ -2371,9 +2378,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.50.161.0/25 | AMAZON | ap-southeast-4 |
   | 16.50.181.128/25 | AMAZON | ap-southeast-4 |
   | 16.50.182.0/25 | AMAZON | ap-southeast-4 |
+  | 16.50.184.0/23 | API_GATEWAY | ap-southeast-4 |
   | 16.50.206.0/25 | AMAZON | ap-southeast-4 |
   | 16.50.248.32/28 | CODEBUILD | ap-southeast-4 |
   | 16.50.248.80/29 | EC2_INSTANCE_CONNECT | ap-southeast-4 |
+  | 16.50.66.0/24 | API_GATEWAY | ap-southeast-4 |
   | 16.50.67.0/26 | ROUTE53_RESOLVER | ap-southeast-4 |
   | 16.50.67.128/26 | ROUTE53_RESOLVER | ap-southeast-4 |
   | 16.50.67.64/26 | ROUTE53_RESOLVER | ap-southeast-4 |
@@ -3388,12 +3397,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.62.188.0/25 | AMAZON | eu-central-2 |
   | 16.62.188.224/28 | CODEBUILD | eu-central-2 |
   | 16.62.194.0/25 | AMAZON | eu-central-2 |
+  | 16.62.248.128/25 | API_GATEWAY | eu-central-2 |
+  | 16.62.51.0/24 | API_GATEWAY | eu-central-2 |
   | 16.62.54.0/26 | ROUTE53_RESOLVER | eu-central-2 |
   | 16.62.54.64/26 | ROUTE53_RESOLVER | eu-central-2 |
   | 16.62.56.224/28 | S3 | eu-central-2 |
   | 16.62.56.240/28 | S3 | eu-central-2 |
   | 16.62.7.192/26 | ROUTE53_RESOLVER | eu-central-2 |
   | 16.62.70.0/23 | AMAZON | eu-central-2 |
+  | 16.63.20.0/25 | API_GATEWAY | eu-central-2 |
   | 16.63.77.8/29 | EC2_INSTANCE_CONNECT | eu-central-2 |
   | 16.63.88.0/22 | AMAZON | eu-central-2 |
   | 16.63.92.0/23 | AMAZON | eu-central-2 |
@@ -3830,6 +3842,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.100.64.128/26 | ROUTE53_RESOLVER | eu-south-2 |
   | 18.100.64.192/26 | ROUTE53_RESOLVER | eu-south-2 |
   | 18.100.65.0/26 | ROUTE53_RESOLVER | eu-south-2 |
+  | 18.100.66.0/23 | API_GATEWAY | eu-south-2 |
   | 18.100.71.128/25 | AMAZON | eu-south-2 |
   | 18.100.74.0/23 | AMAZON | eu-south-2 |
   | 18.101.80.0/22 | AMAZON | eu-south-2 |
@@ -4792,6 +4805,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.16.103.16/28 | CODEBUILD | il-central-1 |
   | 51.16.103.32/27 | CLOUD9 | il-central-1 |
   | 51.16.104.0/23 | AMAZON | il-central-1 |
+  | 51.16.149.0/24 | API_GATEWAY | il-central-1 |
+  | 51.16.150.0/24 | API_GATEWAY | il-central-1 |
   | 51.16.183.64/27 | CLOUD9 | il-central-1 |
   | 51.16.204.0/24 | AMAZON | il-central-1 |
   | 51.16.205.0/24 | AMAZON | il-central-1 |
@@ -4867,6 +4882,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.28.255.80/28 | CODEBUILD | me-central-1 |
   | 3.28.63.128/26 | ROUTE53_RESOLVER | me-central-1 |
   | 3.28.63.192/26 | ROUTE53_RESOLVER | me-central-1 |
+  | 3.28.64.0/24 | API_GATEWAY | me-central-1 |
   | 3.28.65.0/26 | ROUTE53_RESOLVER | me-central-1 |
   | 3.28.70.112/28 | S3 | me-central-1 |
   | 3.28.70.48/28 | S3 | me-central-1 |
@@ -4884,8 +4900,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.29.40.192/26 | CLOUDFRONT | me-central-1 |
   | 3.29.40.64/26 | CLOUDFRONT | me-central-1 |
   | 3.29.57.0/26 | CLOUDFRONT | me-central-1 |
+  | 3.29.89.0/24 | API_GATEWAY | me-central-1 |
   | 51.112.11.64/28 | S3 | me-central-1 |
   | 51.112.11.80/28 | S3 | me-central-1 |
+  | 51.112.20.0/23 | API_GATEWAY | me-central-1 |
 </details>
 
 <details>
