@@ -2410,9 +2410,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.190.4.0/22 | AMAZON | ap-southeast-5 |
   | 15.177.95.0/24 | AMAZON | ap-southeast-5 |
   | 43.216.0.0/15 | AMAZON | ap-southeast-5 |
+  | 13.34.108.64/27 | AMAZON | ap-southeast-5 |
   | 52.94.250.80/28 | AMAZON | ap-southeast-5 |
   | 15.248.56.0/21 | AMAZON | ap-southeast-5 |
   | 76.223.170.32/28 | AMAZON | ap-southeast-5 |
+  | 13.34.108.96/27 | AMAZON | ap-southeast-5 |
   | 16.12.44.0/24 | S3 | ap-southeast-5 |
   | 16.12.42.0/23 | S3 | ap-southeast-5 |
   | 13.248.75.0/24 | DYNAMODB | ap-southeast-5 |
