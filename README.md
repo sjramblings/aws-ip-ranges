@@ -82,6 +82,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.2.8.0/21 | AMAZON | GLOBAL |
   | 216.39.168.0/21 | AMAZON | GLOBAL |
   | 13.34.45.32/27 | AMAZON | GLOBAL |
+  | 3.2.4.0/23 | AMAZON | GLOBAL |
   | 52.95.110.0/24 | AMAZON | GLOBAL |
   | 18.154.0.0/15 | AMAZON | GLOBAL |
   | 15.197.28.0/23 | AMAZON | GLOBAL |
@@ -287,6 +288,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.156.0/22 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.12.0/22 | GLOBALACCELERATOR | GLOBAL |
   | 3.2.8.0/21 | GLOBALACCELERATOR | GLOBAL |
+  | 3.2.4.0/23 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.28.0/23 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.128.0/17 | GLOBALACCELERATOR | GLOBAL |
   | 3.3.6.0/23 | GLOBALACCELERATOR | GLOBAL |
@@ -690,7 +692,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.76.192/26 | AMAZON | ap-northeast-1 |
   | 15.230.77.0/26 | AMAZON | ap-northeast-1 |
   | 136.18.20.0/24 | AMAZON | ap-northeast-1 |
-  | 150.222.64.0/24 | AMAZON | ap-northeast-1 |
   | 52.93.127.246/32 | AMAZON | ap-northeast-1 |
   | 142.4.160.208/29 | AMAZON | ap-northeast-1-tpe-1 |
   | 13.34.87.128/27 | AMAZON | ap-northeast-1 |
@@ -2696,6 +2697,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.222.52.0/22 | AMAZON | cn-north-1 |
   | 54.222.112.0/20 | AMAZON | cn-north-1 |
   | 54.222.128.0/17 | AMAZON | cn-north-1 |
+  | 150.222.64.0/24 | AMAZON | cn-north-1 |
   | 150.222.88.0/24 | AMAZON | cn-north-1 |
   | 54.222.71.0/24 | AMAZON | cn-north-1 |
   | 43.195.0.0/16 | AMAZON | cn-north-1 |
@@ -5576,6 +5578,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.2.3.0/24 | AMAZON | us-east-1-bos-1 |
   | 15.230.38.0/24 | AMAZON | us-east-1 |
   | 52.93.127.68/32 | AMAZON | us-east-1 |
+  | 52.94.201.64/26 | AMAZON | us-east-1 |
   | 174.129.0.0/16 | AMAZON | us-east-1 |
   | 18.89.128.0/18 | AMAZON | us-east-1 |
   | 52.95.255.80/28 | AMAZON | us-east-1 |
