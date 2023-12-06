@@ -2666,9 +2666,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.2.42.192/26 | EC2 | ca-west-1 |
   | 99.151.168.0/21 | EC2 | ca-west-1 |
   | 15.177.100.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ca-west-1 |
+  | 40.176.101.0/26 | AMAZON | ca-west-1 |
   | 40.176.65.0/24 | API_GATEWAY | ca-west-1 |
   | 40.176.82.0/24 | AMAZON | ca-west-1 |
   | 40.176.83.0/24 | AMAZON | ca-west-1 |
+  | 40.176.85.0/26 | AMAZON | ca-west-1 |
+  | 40.176.85.128/26 | AMAZON | ca-west-1 |
+  | 40.176.85.192/26 | AMAZON | ca-west-1 |
+  | 40.176.86.0/26 | AMAZON | ca-west-1 |
+  | 40.176.86.64/26 | AMAZON | ca-west-1 |
 </details>
 
 <details>
