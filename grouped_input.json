@@ -15,6 +15,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "216.221.160.0/19",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "205.251.249.0/24",
         "region": "GLOBAL",
         "service": "AMAZON",
@@ -159,12 +165,6 @@
         "network_border_group": "GLOBAL"
       },
       {
-        "ip_prefix": "205.251.200.0/21",
-        "region": "GLOBAL",
-        "service": "AMAZON",
-        "network_border_group": "GLOBAL"
-      },
-      {
         "ip_prefix": "13.32.0.0/15",
         "region": "GLOBAL",
         "service": "AMAZON",
@@ -303,6 +303,18 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "205.251.201.0/24",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "205.251.206.0/23",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "15.197.4.0/22",
         "region": "GLOBAL",
         "service": "AMAZON",
@@ -405,6 +417,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "205.251.202.0/23",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "18.172.0.0/15",
         "region": "GLOBAL",
         "service": "AMAZON",
@@ -418,6 +436,12 @@
       },
       {
         "ip_prefix": "118.193.97.64/26",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "3.164.64.0/18",
         "region": "GLOBAL",
         "service": "AMAZON",
         "network_border_group": "GLOBAL"
@@ -681,6 +705,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "205.251.204.0/23",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "63.246.120.0/21",
         "region": "GLOBAL",
         "service": "AMAZON",
@@ -706,6 +736,12 @@
       },
       {
         "ip_prefix": "52.124.128.0/17",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "205.251.200.0/24",
         "region": "GLOBAL",
         "service": "AMAZON",
         "network_border_group": "GLOBAL"
@@ -772,6 +808,12 @@
       },
       {
         "ip_prefix": "204.246.174.0/23",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "3.164.128.0/17",
         "region": "GLOBAL",
         "service": "AMAZON",
         "network_border_group": "GLOBAL"
@@ -1005,6 +1047,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "216.221.160.0/19",
+        "region": "GLOBAL",
+        "service": "EC2",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "159.248.232.0/21",
         "region": "GLOBAL",
         "service": "EC2",
@@ -1161,12 +1209,6 @@
         "network_border_group": "GLOBAL"
       },
       {
-        "ip_prefix": "205.251.200.0/21",
-        "region": "GLOBAL",
-        "service": "CLOUDFRONT",
-        "network_border_group": "GLOBAL"
-      },
-      {
         "ip_prefix": "13.32.0.0/15",
         "region": "GLOBAL",
         "service": "CLOUDFRONT",
@@ -1245,6 +1287,18 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "205.251.201.0/24",
+        "region": "GLOBAL",
+        "service": "CLOUDFRONT",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "205.251.206.0/23",
+        "region": "GLOBAL",
+        "service": "CLOUDFRONT",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "54.230.208.0/20",
         "region": "GLOBAL",
         "service": "CLOUDFRONT",
@@ -1317,6 +1371,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "205.251.202.0/23",
+        "region": "GLOBAL",
+        "service": "CLOUDFRONT",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "18.172.0.0/15",
         "region": "GLOBAL",
         "service": "CLOUDFRONT",
@@ -1330,6 +1390,12 @@
       },
       {
         "ip_prefix": "118.193.97.64/26",
+        "region": "GLOBAL",
+        "service": "CLOUDFRONT",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "3.164.64.0/18",
         "region": "GLOBAL",
         "service": "CLOUDFRONT",
         "network_border_group": "GLOBAL"
@@ -1497,6 +1563,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "205.251.204.0/23",
+        "region": "GLOBAL",
+        "service": "CLOUDFRONT",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "130.176.192.0/19",
         "region": "GLOBAL",
         "service": "CLOUDFRONT",
@@ -1504,6 +1576,12 @@
       },
       {
         "ip_prefix": "52.124.128.0/17",
+        "region": "GLOBAL",
+        "service": "CLOUDFRONT",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "205.251.200.0/24",
         "region": "GLOBAL",
         "service": "CLOUDFRONT",
         "network_border_group": "GLOBAL"
@@ -1522,6 +1600,12 @@
       },
       {
         "ip_prefix": "204.246.174.0/23",
+        "region": "GLOBAL",
+        "service": "CLOUDFRONT",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "3.164.128.0/17",
         "region": "GLOBAL",
         "service": "CLOUDFRONT",
         "network_border_group": "GLOBAL"
@@ -15444,6 +15528,12 @@
         "network_border_group": "ca-west-1"
       },
       {
+        "ip_prefix": "40.176.101.64/28",
+        "region": "ca-west-1",
+        "service": "S3",
+        "network_border_group": "ca-west-1"
+      },
+      {
         "ip_prefix": "40.176.65.0/24",
         "region": "ca-west-1",
         "service": "API_GATEWAY",
@@ -15489,6 +15579,12 @@
         "ip_prefix": "40.176.86.64/26",
         "region": "ca-west-1",
         "service": "AMAZON",
+        "network_border_group": "ca-west-1"
+      },
+      {
+        "ip_prefix": "40.176.98.240/28",
+        "region": "ca-west-1",
+        "service": "S3",
         "network_border_group": "ca-west-1"
       }
     ]
