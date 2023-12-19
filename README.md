@@ -161,6 +161,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 108.138.0.0/15 | AMAZON | GLOBAL |
   | 120.253.241.160/27 | AMAZON | GLOBAL |
   | 15.197.20.0/22 | AMAZON | GLOBAL |
+  | 52.46.166.0/23 | AMAZON | GLOBAL |
   | 15.197.30.0/23 | AMAZON | GLOBAL |
   | 15.177.0.0/18 | ROUTE53_HEALTHCHECKS | GLOBAL |
   | 76.223.102.0/24 | S3 | GLOBAL |
@@ -5991,7 +5992,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 96.0.92.0/23 | AMAZON | us-east-1-chi-1 |
   | 150.222.15.125/32 | AMAZON | us-east-1 |
   | 150.222.138.0/24 | AMAZON | us-east-1 |
-  | 52.46.166.0/23 | AMAZON | us-east-1 |
   | 13.34.73.32/27 | AMAZON | us-east-1 |
   | 52.94.0.0/22 | AMAZON | us-east-1 |
   | 205.251.240.0/22 | AMAZON | us-east-1 |
