@@ -7808,6 +7808,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.197.0/24 | AMAZON | us-west-2 |
   | 54.184.0.0/13 | AMAZON | us-west-2 |
   | 142.4.160.96/29 | AMAZON | us-west-2-phx-1 |
+  | 142.4.162.48/29 | AMAZON | us-west-2 |
   | 52.144.197.128/26 | AMAZON | us-west-2 |
   | 173.83.204.0/23 | AMAZON | us-west-2 |
   | 13.34.67.128/27 | AMAZON | us-west-2 |
@@ -7957,6 +7958,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.33.42.0/24 | EC2 | us-west-2 |
   | 54.184.0.0/13 | EC2 | us-west-2 |
   | 142.4.160.96/29 | EC2 | us-west-2-phx-1 |
+  | 142.4.162.48/29 | EC2 | us-west-2 |
   | 173.83.204.0/23 | EC2 | us-west-2 |
   | 15.181.251.0/24 | EC2 | us-west-2-den-1 |
   | 142.4.160.32/29 | EC2 | us-west-2-pdx-1 |
