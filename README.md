@@ -21,6 +21,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.160.0.0/15 | AMAZON | GLOBAL |
   | 13.34.45.160/27 | AMAZON | GLOBAL |
   | 205.251.252.0/23 | AMAZON | GLOBAL |
+  | 99.82.8.0/21 | AMAZON | GLOBAL |
   | 54.192.0.0/16 | AMAZON | GLOBAL |
   | 15.197.32.0/23 | AMAZON | GLOBAL |
   | 204.246.173.0/24 | AMAZON | GLOBAL |
@@ -677,6 +678,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.121.197/32 | AMAZON | ap-northeast-1 |
   | 54.239.0.80/28 | AMAZON | ap-northeast-1 |
   | 54.95.0.0/16 | AMAZON | ap-northeast-1 |
+  | 52.219.20.0/24 | AMAZON | ap-northeast-1 |
   | 151.148.37.0/24 | AMAZON | ap-northeast-1 |
   | 52.95.34.0/24 | AMAZON | ap-northeast-1 |
   | 3.2.39.0/26 | AMAZON | ap-northeast-1 |
@@ -821,6 +823,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.195.0/24 | S3 | ap-northeast-1 |
   | 3.5.152.0/21 | S3 | ap-northeast-1 |
   | 52.219.0.0/20 | S3 | ap-northeast-1 |
+  | 52.219.20.0/24 | S3 | ap-northeast-1 |
   | 52.219.136.0/22 | S3 | ap-northeast-1 |
   | 52.219.201.0/24 | S3 | ap-northeast-1 |
   | 52.219.172.0/22 | S3 | ap-northeast-1 |
