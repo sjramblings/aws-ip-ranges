@@ -6476,6 +6476,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.220.68.0/25 | AMAZON | us-east-1 |
   | 44.220.72.0/22 | AMAZON | us-east-1 |
   | 44.220.76.0/22 | AMAZON | us-east-1 |
+  | 44.222.66.0/24 | CLOUDFRONT | us-east-1 |
   | 52.23.61.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.23.62.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.55.191.224/27 | AMAZON_CONNECT | us-east-1 |

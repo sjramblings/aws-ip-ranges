@@ -37658,6 +37658,12 @@
         "network_border_group": "us-east-1"
       },
       {
+        "ip_prefix": "44.222.66.0/24",
+        "region": "us-east-1",
+        "service": "CLOUDFRONT",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "52.23.61.0/24",
         "region": "us-east-1",
         "service": "WORKSPACES_GATEWAYS",
