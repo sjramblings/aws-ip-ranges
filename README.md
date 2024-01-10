@@ -11,7 +11,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 120.52.22.96/27 | AMAZON | GLOBAL |
   | 13.34.50.32/27 | AMAZON | GLOBAL |
-  | 216.221.160.0/19 | AMAZON | GLOBAL |
   | 205.251.249.0/24 | AMAZON | GLOBAL |
   | 15.197.34.0/23 | AMAZON | GLOBAL |
   | 15.197.36.0/22 | AMAZON | GLOBAL |
@@ -191,7 +190,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.232.0/24 | S3 | GLOBAL |
   | 13.248.226.0/24 | S3 | GLOBAL |
   | 13.248.233.0/24 | S3 | GLOBAL |
-  | 216.221.160.0/19 | EC2 | GLOBAL |
   | 159.248.232.0/21 | EC2 | GLOBAL |
   | 3.4.8.0/24 | EC2 | GLOBAL |
   | 159.248.240.0/21 | EC2 | GLOBAL |
