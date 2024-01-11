@@ -1287,6 +1287,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.168.105.144/29 | MEDIA_PACKAGE_V2 | ap-northeast-3 |
   | 15.168.105.152/29 | MEDIA_PACKAGE_V2 | ap-northeast-3 |
   | 15.168.105.160/29 | EC2_INSTANCE_CONNECT | ap-northeast-3 |
+  | 15.168.162.0/23 | AMAZON | ap-northeast-3 |
   | 15.168.40.0/25 | AMAZON | ap-northeast-3 |
   | 15.168.40.128/25 | AMAZON | ap-northeast-3 |
   | 15.168.96.0/22 | AMAZON | ap-northeast-3 |
@@ -1478,6 +1479,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.71.100.0/24 | EC2 | ap-south-1 |
   | 64.252.100.0/24 | EC2 | ap-south-1 |
   | 13.126.0.0/15 | EC2 | ap-south-1 |
+  | 13.202.0.0/15 | EC2 | ap-south-1 |
   | 15.206.0.0/15 | EC2 | ap-south-1 |
   | 3.2.32.192/26 | EC2 | ap-south-1 |
   | 13.200.0.0/15 | EC2 | ap-south-1 |
