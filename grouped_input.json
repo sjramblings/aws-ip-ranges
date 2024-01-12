@@ -34688,6 +34688,12 @@
         "network_border_group": "us-east-1"
       },
       {
+        "ip_prefix": "3.3.32.0/23",
+        "region": "us-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "52.93.91.97/32",
         "region": "us-east-1",
         "service": "AMAZON",
@@ -36177,6 +36183,12 @@
       },
       {
         "ip_prefix": "100.24.0.0/13",
+        "region": "us-east-1",
+        "service": "EC2",
+        "network_border_group": "us-east-1"
+      },
+      {
+        "ip_prefix": "3.3.32.0/23",
         "region": "us-east-1",
         "service": "EC2",
         "network_border_group": "us-east-1"
