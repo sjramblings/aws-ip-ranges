@@ -1013,6 +1013,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.248.36.0/22 | AMAZON | ap-northeast-2 |
   | 13.34.11.224/27 | AMAZON | ap-northeast-2 |
   | 52.93.127.198/32 | AMAZON | ap-northeast-2 |
+  | 15.251.0.33/32 | AMAZON | ap-northeast-2 |
   | 13.34.58.128/27 | AMAZON | ap-northeast-2 |
   | 99.78.188.0/22 | AMAZON | ap-northeast-2 |
   | 104.255.59.118/32 | AMAZON | ap-northeast-2 |
@@ -1045,6 +1046,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.196.0/24 | AMAZON | ap-northeast-2 |
   | 52.219.144.0/22 | AMAZON | ap-northeast-2 |
   | 15.230.207.0/24 | AMAZON | ap-northeast-2 |
+  | 15.251.0.34/32 | AMAZON | ap-northeast-2 |
   | 52.95.252.0/24 | AMAZON | ap-northeast-2 |
   | 15.164.0.0/15 | AMAZON | ap-northeast-2 |
   | 54.239.0.192/28 | AMAZON | ap-northeast-2 |
@@ -4870,6 +4872,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.16.104.0/23 | AMAZON | il-central-1 |
   | 51.16.149.0/24 | API_GATEWAY | il-central-1 |
   | 51.16.150.0/24 | API_GATEWAY | il-central-1 |
+  | 51.16.183.224/29 | EC2_INSTANCE_CONNECT | il-central-1 |
   | 51.16.183.64/27 | CLOUD9 | il-central-1 |
   | 51.16.204.0/24 | AMAZON | il-central-1 |
   | 51.16.205.0/24 | AMAZON | il-central-1 |
