@@ -19287,6 +19287,24 @@
         "network_border_group": "eu-central-1"
       },
       {
+        "ip_prefix": "18.199.68.0/22",
+        "region": "eu-central-1",
+        "service": "CLOUDFRONT",
+        "network_border_group": "eu-central-1"
+      },
+      {
+        "ip_prefix": "18.199.72.0/22",
+        "region": "eu-central-1",
+        "service": "CLOUDFRONT",
+        "network_border_group": "eu-central-1"
+      },
+      {
+        "ip_prefix": "18.199.76.0/22",
+        "region": "eu-central-1",
+        "service": "CLOUDFRONT",
+        "network_border_group": "eu-central-1"
+      },
+      {
         "ip_prefix": "3.120.181.224/27",
         "region": "eu-central-1",
         "service": "ROUTE53_RESOLVER",
