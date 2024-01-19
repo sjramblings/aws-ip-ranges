@@ -4982,6 +4982,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.29.40.128/26 | CLOUDFRONT | me-central-1 |
   | 3.29.40.192/26 | CLOUDFRONT | me-central-1 |
   | 3.29.40.64/26 | CLOUDFRONT | me-central-1 |
+  | 3.29.57.0/26 | CLOUDFRONT_ORIGIN_FACING | me-central-1 |
   | 3.29.57.0/26 | CLOUDFRONT | me-central-1 |
   | 3.29.89.0/24 | API_GATEWAY | me-central-1 |
   | 51.112.11.64/28 | S3 | me-central-1 |
@@ -5433,6 +5434,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.24.0/21 | AMAZON | us-east-1 |
   | 52.93.127.218/32 | AMAZON | us-east-1 |
   | 205.251.244.0/23 | AMAZON | us-east-1 |
+  | 13.34.111.32/27 | AMAZON | us-east-1 |
   | 52.93.236.0/24 | AMAZON | us-east-1 |
   | 54.239.98.0/24 | AMAZON | us-east-1 |
   | 13.34.30.128/27 | AMAZON | us-east-1 |
@@ -5578,6 +5580,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 208.110.48.0/20 | AMAZON | us-east-1 |
   | 15.230.254.4/32 | AMAZON | us-east-1 |
   | 151.148.36.0/24 | AMAZON | us-east-1 |
+  | 13.34.111.0/27 | AMAZON | us-east-1 |
   | 52.54.0.0/15 | AMAZON | us-east-1 |
   | 52.93.3.0/24 | AMAZON | us-east-1 |
   | 52.93.238.128/25 | AMAZON | us-east-1 |
