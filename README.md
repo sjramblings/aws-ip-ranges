@@ -1525,6 +1525,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.127.70.152/29 | ROUTE53_RESOLVER | ap-south-1 |
   | 13.127.70.160/29 | ROUTE53_RESOLVER | ap-south-1 |
   | 13.200.140.0/23 | API_GATEWAY | ap-south-1 |
+  | 13.200.142.112/30 | EBS | ap-south-1 |
+  | 13.200.142.82/31 | EBS | ap-south-1 |
   | 13.200.7.128/29 | MEDIA_PACKAGE_V2 | ap-south-1 |
   | 13.200.7.136/29 | MEDIA_PACKAGE_V2 | ap-south-1 |
   | 13.200.90.0/23 | AMAZON | ap-south-1 |
@@ -3014,6 +3016,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.208/31 | AMAZON | eu-central-1 |
   | 150.222.27.0/24 | AMAZON | eu-central-1 |
   | 13.34.5.0/27 | AMAZON | eu-central-1 |
+  | 3.2.53.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.136/31 | AMAZON | eu-central-1 |
   | 13.34.92.64/27 | AMAZON | eu-central-1 |
   | 15.230.15.28/32 | AMAZON | eu-central-1 |
@@ -3317,6 +3320,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.28.0.0/16 | EC2 | eu-central-1 |
   | 3.5.134.0/23 | EC2 | eu-central-1 |
   | 15.177.68.0/23 | EC2 | eu-central-1 |
+  | 3.2.53.0/24 | GLOBALACCELERATOR | eu-central-1 |
   | 13.248.97.0/24 | GLOBALACCELERATOR | eu-central-1 |
   | 13.248.123.0/24 | GLOBALACCELERATOR | eu-central-1 |
   | 99.83.99.0/24 | GLOBALACCELERATOR | eu-central-1 |
@@ -4771,6 +4775,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.36.77.0/24 | ROUTE53_RESOLVER | eu-west-3 |
   | 13.36.78.0/24 | ROUTE53_RESOLVER | eu-west-3 |
   | 13.36.84.112/29 | CODEBUILD | eu-west-3 |
+  | 13.36.84.126/31 | EBS | eu-west-3 |
   | 13.36.84.24/29 | EBS | eu-west-3 |
   | 13.36.84.32/30 | EBS | eu-west-3 |
   | 13.36.84.44/30 | AMAZON_APPFLOW | eu-west-3 |
@@ -4780,6 +4785,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.38.132.0/22 | API_GATEWAY | eu-west-3 |
   | 13.38.140.0/23 | API_GATEWAY | eu-west-3 |
   | 13.38.202.64/26 | AMAZON | eu-west-3 |
+  | 13.39.103.180/30 | EBS | eu-west-3 |
   | 13.39.141.160/29 | MEDIA_PACKAGE_V2 | eu-west-3 |
   | 13.39.141.168/29 | MEDIA_PACKAGE_V2 | eu-west-3 |
   | 13.39.220.0/22 | AMAZON | eu-west-3 |
@@ -5317,6 +5323,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.229.120.56/29 | MEDIA_PACKAGE_V2 | sa-east-1 |
   | 15.229.198.0/23 | AMAZON | sa-east-1 |
   | 15.229.200.0/22 | AMAZON | sa-east-1 |
+  | 15.229.206.194/31 | EBS | sa-east-1 |
+  | 15.229.206.196/30 | EBS | sa-east-1 |
   | 15.229.36.0/23 | API_GATEWAY | sa-east-1 |
   | 15.229.40.0/23 | API_GATEWAY | sa-east-1 |
   | 177.71.207.128/26 | ROUTE53_HEALTHCHECKS | sa-east-1 |
@@ -7137,6 +7145,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.22.64/29 | AMAZON | us-west-1 |
   | 192.31.212.0/24 | AMAZON | us-west-1 |
   | 52.93.178.152/32 | AMAZON | us-west-1 |
+  | 151.148.16.10/31 | AMAZON | us-west-1 |
   | 52.93.178.205/32 | AMAZON | us-west-1 |
   | 150.222.234.52/31 | AMAZON | us-west-1 |
   | 150.222.234.68/31 | AMAZON | us-west-1 |
@@ -7168,6 +7177,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.55.64/27 | AMAZON | us-west-1 |
   | 52.94.249.80/28 | AMAZON | us-west-1 |
   | 54.240.198.0/24 | AMAZON | us-west-1 |
+  | 151.148.16.8/31 | AMAZON | us-west-1 |
   | 52.93.178.231/32 | AMAZON | us-west-1 |
   | 52.93.178.187/32 | AMAZON | us-west-1 |
   | 52.119.176.0/21 | AMAZON | us-west-1 |
@@ -7245,6 +7255,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.144.0.0/15 | AMAZON | us-west-1 |
   | 52.93.178.213/32 | AMAZON | us-west-1 |
   | 52.94.144.0/23 | AMAZON | us-west-1 |
+  | 151.148.16.3/32 | AMAZON | us-west-1 |
   | 15.251.0.0/32 | AMAZON | us-west-1 |
   | 150.222.234.14/31 | AMAZON | us-west-1 |
   | 150.222.234.126/31 | AMAZON | us-west-1 |
@@ -7273,6 +7284,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.178.222/32 | AMAZON | us-west-1 |
   | 150.222.234.74/31 | AMAZON | us-west-1 |
   | 52.95.42.0/24 | AMAZON | us-west-1 |
+  | 3.2.54.0/24 | AMAZON | us-west-1 |
   | 13.34.32.64/27 | AMAZON | us-west-1 |
   | 52.93.178.133/32 | AMAZON | us-west-1 |
   | 52.93.178.224/32 | AMAZON | us-west-1 |
@@ -7307,6 +7319,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.221.16.0/22 | AMAZON | us-west-1 |
   | 52.93.178.204/32 | AMAZON | us-west-1 |
   | 150.222.234.96/31 | AMAZON | us-west-1 |
+  | 151.148.16.4/32 | AMAZON | us-west-1 |
   | 52.93.178.191/32 | AMAZON | us-west-1 |
   | 150.222.234.76/31 | AMAZON | us-west-1 |
   | 13.34.94.0/27 | AMAZON | us-west-1 |
@@ -7455,6 +7468,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.234.70/31 | AMAZON | us-west-1 |
   | 15.230.186.0/24 | AMAZON | us-west-1 |
   | 52.93.178.202/32 | AMAZON | us-west-1 |
+  | 151.148.16.6/32 | AMAZON | us-west-1 |
   | 52.219.216.0/23 | AMAZON | us-west-1 |
   | 150.222.36.192/26 | AMAZON | us-west-1 |
   | 15.251.0.1/32 | AMAZON | us-west-1 |
@@ -7491,6 +7505,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 69.107.6.112/29 | AMAZON | us-west-1 |
   | 150.222.234.120/31 | AMAZON | us-west-1 |
   | 52.93.178.235/32 | AMAZON | us-west-1 |
+  | 151.148.16.5/32 | AMAZON | us-west-1 |
   | 52.93.178.163/32 | AMAZON | us-west-1 |
   | 52.93.178.193/32 | AMAZON | us-west-1 |
   | 52.93.178.160/32 | AMAZON | us-west-1 |
@@ -7565,6 +7580,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.176.0.0/15 | EC2 | us-west-1 |
   | 52.94.248.128/28 | EC2 | us-west-1 |
   | 99.82.172.0/24 | GLOBALACCELERATOR | us-west-1 |
+  | 3.2.54.0/24 | GLOBALACCELERATOR | us-west-1 |
   | 99.83.98.0/24 | GLOBALACCELERATOR | us-west-1 |
   | 13.248.99.0/24 | GLOBALACCELERATOR | us-west-1 |
   | 15.177.81.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-west-1 |
@@ -7624,6 +7640,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.101.226.80/29 | MEDIA_PACKAGE_V2 | us-west-1 |
   | 3.101.226.88/29 | MEDIA_PACKAGE_V2 | us-west-1 |
   | 3.101.232.0/22 | AMAZON | us-west-1 |
+  | 3.101.239.34/31 | EBS | us-west-1 |
+  | 3.101.239.36/30 | EBS | us-west-1 |
   | 3.101.52.208/30 | AMAZON_APPFLOW | us-west-1 |
   | 3.101.52.212/30 | AMAZON_APPFLOW | us-west-1 |
   | 3.101.87.0/26 | AMAZON | us-west-1 |
