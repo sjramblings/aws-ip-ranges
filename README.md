@@ -7068,6 +7068,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.146.43.0/25 | AMAZON | us-east-2 |
   | 3.146.44.0/23 | API_GATEWAY | us-east-2 |
   | 3.146.8.0/22 | AMAZON | us-east-2 |
+  | 3.147.164.0/22 | CLOUDFRONT | us-east-2 |
+  | 3.147.244.0/22 | CLOUDFRONT | us-east-2 |
   | 3.15.35.0/24 | API_GATEWAY | us-east-2 |
   | 3.15.36.0/26 | API_GATEWAY | us-east-2 |
   | 3.15.36.64/26 | AMAZON | us-east-2 |
