@@ -7062,6 +7062,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.145.31.128/26 | AMAZON | us-east-2 |
   | 3.146.12.0/22 | AMAZON | us-east-2 |
   | 3.146.22.0/26 | AMAZON | us-east-2 |
+  | 3.146.232.0/22 | CLOUDFRONT | us-east-2 |
   | 3.146.29.66/31 | EBS | us-east-2 |
   | 3.146.36.192/26 | AMAZON | us-east-2 |
   | 3.146.42.64/30 | EBS | us-east-2 |
