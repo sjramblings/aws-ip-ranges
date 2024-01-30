@@ -7431,6 +7431,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 151.148.16.4/32 | AMAZON | us-west-1 |
   | 52.93.178.191/32 | AMAZON | us-west-1 |
   | 150.222.234.76/31 | AMAZON | us-west-1 |
+  | 15.230.114.0/24 | AMAZON | us-west-1 |
   | 13.34.94.0/27 | AMAZON | us-west-1 |
   | 52.95.246.0/24 | AMAZON | us-west-1 |
   | 150.222.234.64/31 | AMAZON | us-west-1 |
