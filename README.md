@@ -4908,12 +4908,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 83.118.240.0/21 | AMAZON | eusc-de-east-1 |
   | 51.224.0.0/15 | AMAZON | eusc-de-east-1 |
   | 15.190.252.0/22 | AMAZON | eusc-de-east-1 |
   | 51.226.0.0/15 | AMAZON | eusc-de-east-1 |
   | 136.18.144.0/21 | AMAZON | eusc-de-east-1 |
   | 15.190.80.0/20 | AMAZON | eusc-de-east-1 |
   | 65.176.0.0/14 | AMAZON | eusc-de-east-1 |
+  | 83.118.240.0/21 | S3 | eusc-de-east-1 |
   | 51.224.0.0/15 | EC2 | eusc-de-east-1 |
   | 136.18.144.0/21 | EC2 | eusc-de-east-1 |
 </details>
