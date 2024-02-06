@@ -5551,6 +5551,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.108.0/24 | AMAZON | us-east-1 |
   | 75.101.128.0/17 | AMAZON | us-east-1 |
   | 96.0.16.0/21 | AMAZON | us-east-1-lim-1 |
+  | 104.255.56.24/32 | AMAZON | us-east-1 |
   | 13.34.98.64/27 | AMAZON | us-east-1 |
   | 3.2.41.0/26 | AMAZON | us-east-1 |
   | 13.34.73.192/27 | AMAZON | us-east-1 |
@@ -5643,6 +5644,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.162.0/24 | AMAZON | us-east-1 |
   | 15.230.168.0/24 | AMAZON | us-east-1 |
   | 52.94.152.11/32 | AMAZON | us-east-1 |
+  | 104.255.56.23/32 | AMAZON | us-east-1 |
   | 13.34.75.0/27 | AMAZON | us-east-1 |
   | 15.181.144.0/20 | AMAZON | us-east-1-phl-1 |
   | 142.4.161.128/29 | AMAZON | us-east-1-chi-1 |
@@ -8337,6 +8339,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.92.124.192/26 | AMAZON | us-west-2 |
   | 35.92.26.0/24 | API_GATEWAY | us-west-2 |
   | 35.93.124.0/22 | API_GATEWAY | us-west-2 |
+  | 35.93.168.0/23 | CLOUDFRONT | us-west-2 |
+  | 35.93.170.0/23 | CLOUDFRONT | us-west-2 |
+  | 35.93.172.0/23 | CLOUDFRONT | us-west-2 |
   | 35.94.128.244/31 | EBS | us-west-2 |
   | 35.94.128.248/30 | EBS | us-west-2 |
   | 35.94.72.0/22 | API_GATEWAY | us-west-2 |
