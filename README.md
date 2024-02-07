@@ -396,6 +396,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
   | 3.2.34.0/26 | AMAZON | af-south-1 |
+  | 13.34.111.192/27 | AMAZON | af-south-1 |
   | 99.78.152.0/22 | AMAZON | af-south-1 |
   | 16.30.0.0/16 | AMAZON | af-south-1 |
   | 142.4.161.40/29 | AMAZON | af-south-1-los-1 |
@@ -406,6 +407,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.148.0/24 | AMAZON | af-south-1 |
   | 52.93.57.0/24 | AMAZON | af-south-1 |
   | 99.77.235.0/24 | AMAZON | af-south-1 |
+  | 13.34.111.224/27 | AMAZON | af-south-1 |
   | 150.222.208.0/24 | AMAZON | af-south-1 |
   | 15.230.72.192/26 | AMAZON | af-south-1 |
   | 150.222.48.224/27 | AMAZON | af-south-1 |
@@ -2087,6 +2089,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.103.224/27 | AMAZON | ap-southeast-2 |
   | 52.93.77.0/24 | AMAZON | ap-southeast-2 |
   | 13.34.16.160/27 | AMAZON | ap-southeast-2 |
+  | 15.230.149.2/31 | AMAZON | ap-southeast-2 |
   | 150.222.43.64/27 | AMAZON | ap-southeast-2 |
   | 52.93.126.138/32 | AMAZON | ap-southeast-2 |
   | 52.93.182.128/26 | AMAZON | ap-southeast-2 |
