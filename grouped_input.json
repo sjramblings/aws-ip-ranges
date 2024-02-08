@@ -1113,12 +1113,6 @@
         "network_border_group": "GLOBAL"
       },
       {
-        "ip_prefix": "15.197.64.0/19",
-        "region": "GLOBAL",
-        "service": "EC2",
-        "network_border_group": "GLOBAL"
-      },
-      {
         "ip_prefix": "159.248.232.0/21",
         "region": "GLOBAL",
         "service": "EC2",
@@ -1762,6 +1756,12 @@
       },
       {
         "ip_prefix": "15.197.36.0/22",
+        "region": "GLOBAL",
+        "service": "GLOBALACCELERATOR",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "15.197.64.0/19",
         "region": "GLOBAL",
         "service": "GLOBALACCELERATOR",
         "network_border_group": "GLOBAL"
@@ -28514,6 +28514,12 @@
       },
       {
         "ip_prefix": "136.18.144.0/21",
+        "region": "eusc-de-east-1",
+        "service": "EC2",
+        "network_border_group": "eusc-de-east-1"
+      },
+      {
+        "ip_prefix": "83.118.240.0/22",
         "region": "eusc-de-east-1",
         "service": "EC2",
         "network_border_group": "eusc-de-east-1"

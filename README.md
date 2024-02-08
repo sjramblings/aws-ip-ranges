@@ -194,7 +194,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.232.0/24 | S3 | GLOBAL |
   | 13.248.226.0/24 | S3 | GLOBAL |
   | 13.248.233.0/24 | S3 | GLOBAL |
-  | 15.197.64.0/19 | EC2 | GLOBAL |
   | 159.248.232.0/21 | EC2 | GLOBAL |
   | 3.4.8.0/24 | EC2 | GLOBAL |
   | 159.248.240.0/21 | EC2 | GLOBAL |
@@ -303,6 +302,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 120.253.241.160/27 | CLOUDFRONT | GLOBAL |
   | 15.197.34.0/23 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.36.0/22 | GLOBALACCELERATOR | GLOBAL |
+  | 15.197.64.0/19 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.32.0/23 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.0.0/23 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.16.0/23 | GLOBALACCELERATOR | GLOBAL |
@@ -4922,6 +4922,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 83.118.240.0/21 | S3 | eusc-de-east-1 |
   | 51.224.0.0/15 | EC2 | eusc-de-east-1 |
   | 136.18.144.0/21 | EC2 | eusc-de-east-1 |
+  | 83.118.240.0/22 | EC2 | eusc-de-east-1 |
 </details>
 
 <details>
