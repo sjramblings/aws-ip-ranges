@@ -1800,6 +1800,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.156.0.0/14 | AMAZON | ap-southeast-1 |
   | 15.230.251.2/31 | AMAZON | ap-southeast-1 |
   | 52.219.124.0/22 | AMAZON | ap-southeast-1 |
+  | 15.230.251.7/32 | AMAZON | ap-southeast-1 |
   | 142.4.161.112/29 | AMAZON | ap-southeast-1-sggov-sin-1a |
   | 18.136.0.0/16 | AMAZON | ap-southeast-1 |
   | 13.212.0.0/15 | AMAZON | ap-southeast-1 |
