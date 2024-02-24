@@ -6674,6 +6674,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.216.41.152/29 | MEDIA_PACKAGE_V2 | us-east-1 |
   | 44.216.41.160/29 | MEDIA_PACKAGE_V2 | us-east-1 |
   | 44.218.96.0/23 | API_GATEWAY | us-east-1 |
+  | 44.220.194.0/23 | CLOUDFRONT | us-east-1 |
+  | 44.220.196.0/23 | CLOUDFRONT | us-east-1 |
+  | 44.220.198.0/23 | CLOUDFRONT | us-east-1 |
+  | 44.220.200.0/23 | CLOUDFRONT | us-east-1 |
+  | 44.220.202.0/23 | CLOUDFRONT | us-east-1 |
   | 44.220.25.0/25 | AMAZON | us-east-1 |
   | 44.220.28.0/22 | API_GATEWAY | us-east-1 |
   | 44.220.67.128/25 | AMAZON | us-east-1 |
