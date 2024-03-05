@@ -505,6 +505,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.246.70.0/23 | API_GATEWAY | af-south-1 |
   | 13.247.50.244/31 | EBS | af-south-1 |
   | 13.247.50.248/30 | EBS | af-south-1 |
+  | 13.247.76.100/30 | KINESIS_VIDEO_STREAMS | af-south-1 |
+  | 13.247.76.96/31 | KINESIS_VIDEO_STREAMS | af-south-1 |
 </details>
 
 <details>
@@ -625,6 +627,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.198.166.0/23 | AMAZON | ap-east-1 |
   | 43.198.168.0/22 | AMAZON | ap-east-1 |
   | 43.198.192.104/29 | EC2_INSTANCE_CONNECT | ap-east-1 |
+  | 43.199.26.124/31 | KINESIS_VIDEO_STREAMS | ap-east-1 |
+  | 43.199.26.128/30 | KINESIS_VIDEO_STREAMS | ap-east-1 |
   | 43.199.26.42/31 | EBS | ap-east-1 |
   | 43.199.26.44/30 | EBS | ap-east-1 |
 </details>
@@ -981,6 +985,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 57.181.142.164/31 | EBS | ap-northeast-1 |
   | 57.181.142.168/30 | EBS | ap-northeast-1 |
   | 57.181.142.182/31 | EBS | ap-northeast-1 |
+  | 57.181.142.224/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
+  | 57.181.142.228/30 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
 </details>
 
 <details>
@@ -1173,6 +1179,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.201.155.160/29 | MEDIA_PACKAGE_V2 | ap-northeast-2 |
   | 43.202.108.242/31 | EBS | ap-northeast-2 |
   | 43.202.213.128/30 | EBS | ap-northeast-2 |
+  | 43.202.213.132/31 | KINESIS_VIDEO_STREAMS | ap-northeast-2 |
+  | 43.202.213.136/30 | KINESIS_VIDEO_STREAMS | ap-northeast-2 |
   | 43.202.70.0/23 | AMAZON | ap-northeast-2 |
   | 43.202.72.0/22 | AMAZON | ap-northeast-2 |
   | 52.78.247.128/26 | CLOUDFRONT | ap-northeast-2 |
@@ -1532,11 +1540,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.127.70.160/29 | ROUTE53_RESOLVER | ap-south-1 |
   | 13.200.140.0/23 | API_GATEWAY | ap-south-1 |
   | 13.200.142.112/30 | EBS | ap-south-1 |
+  | 13.200.142.116/31 | KINESIS_VIDEO_STREAMS | ap-south-1 |
   | 13.200.142.82/31 | EBS | ap-south-1 |
   | 13.200.7.128/29 | MEDIA_PACKAGE_V2 | ap-south-1 |
   | 13.200.7.136/29 | MEDIA_PACKAGE_V2 | ap-south-1 |
   | 13.200.90.0/23 | AMAZON | ap-south-1 |
   | 13.200.92.0/22 | AMAZON | ap-south-1 |
+  | 13.201.195.64/30 | KINESIS_VIDEO_STREAMS | ap-south-1 |
   | 13.232.67.128/27 | CLOUD9 | ap-south-1 |
   | 13.232.67.160/27 | CLOUD9 | ap-south-1 |
   | 13.233.177.0/29 | EC2_INSTANCE_CONNECT | ap-south-1 |
@@ -1709,6 +1719,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.250.0.0/15 | AMAZON | ap-southeast-1 |
   | 64.252.102.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.243.0/24 | AMAZON | ap-southeast-1 |
+  | 16.57.0.0/18 | AMAZON | ap-southeast-1 |
   | 52.93.127.195/32 | AMAZON | ap-southeast-1 |
   | 52.93.127.108/32 | AMAZON | ap-southeast-1 |
   | 99.77.143.0/24 | AMAZON | ap-southeast-1 |
@@ -1730,6 +1741,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.127.0/24 | AMAZON | ap-southeast-1 |
   | 15.220.96.0/20 | AMAZON | ap-southeast-1 |
   | 52.93.127.113/32 | AMAZON | ap-southeast-1 |
+  | 136.18.140.0/23 | AMAZON | ap-southeast-1 |
   | 52.220.0.0/15 | AMAZON | ap-southeast-1 |
   | 52.144.230.206/31 | AMAZON | ap-southeast-1 |
   | 18.142.0.0/15 | AMAZON | ap-southeast-1 |
@@ -1880,6 +1892,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 175.41.128.0/18 | EC2 | ap-southeast-1 |
   | 13.250.0.0/15 | EC2 | ap-southeast-1 |
   | 64.252.102.0/24 | EC2 | ap-southeast-1 |
+  | 16.57.0.0/18 | EC2 | ap-southeast-1 |
   | 99.77.143.0/24 | EC2 | ap-southeast-1 |
   | 52.76.128.0/17 | EC2 | ap-southeast-1 |
   | 64.252.103.0/24 | EC2 | ap-southeast-1 |
@@ -1887,6 +1900,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.214.0.0/15 | EC2 | ap-southeast-1 |
   | 54.179.0.0/16 | EC2 | ap-southeast-1 |
   | 15.220.96.0/20 | EC2 | ap-southeast-1 |
+  | 136.18.140.0/23 | EC2 | ap-southeast-1 |
   | 52.220.0.0/15 | EC2 | ap-southeast-1 |
   | 18.142.0.0/15 | EC2 | ap-southeast-1 |
   | 46.137.192.0/19 | EC2 | ap-southeast-1 |
@@ -1993,7 +2007,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 47.128.4.0/22 | AMAZON | ap-southeast-1 |
   | 47.128.8.0/23 | AMAZON | ap-southeast-1 |
   | 47.128.82.100/31 | EBS | ap-southeast-1 |
+  | 47.128.82.102/31 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
   | 47.129.23.128/30 | EBS | ap-southeast-1 |
+  | 47.129.23.132/30 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
   | 52.220.191.0/26 | CLOUDFRONT | ap-southeast-1 |
   | 52.221.221.128/29 | CODEBUILD | ap-southeast-1 |
   | 52.76.127.0/24 | WORKSPACES_GATEWAYS | ap-southeast-1 |
@@ -2208,6 +2224,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.105.5.32/27 | ROUTE53_RESOLVER | ap-southeast-2 |
   | 3.107.11.160/31 | EBS | ap-southeast-2 |
   | 3.107.11.164/30 | EBS | ap-southeast-2 |
+  | 3.107.30.180/31 | KINESIS_VIDEO_STREAMS | ap-southeast-2 |
+  | 3.107.30.184/30 | KINESIS_VIDEO_STREAMS | ap-southeast-2 |
   | 3.24.1.208/28 | ROUTE53_RESOLVER | ap-southeast-2 |
   | 3.24.227.192/26 | AMAZON | ap-southeast-2 |
   | 3.25.138.0/26 | AMAZON | ap-southeast-2 |
@@ -2651,6 +2669,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.156.216.0/23 | AMAZON | ca-central-1 |
   | 15.156.38.0/27 | AMAZON | ca-central-1 |
   | 15.156.38.64/26 | AMAZON | ca-central-1 |
+  | 15.157.167.134/31 | KINESIS_VIDEO_STREAMS | ca-central-1 |
+  | 15.157.167.136/30 | KINESIS_VIDEO_STREAMS | ca-central-1 |
   | 15.157.167.28/30 | EBS | ca-central-1 |
   | 15.222.16.32/27 | ROUTE53_RESOLVER | ca-central-1 |
   | 15.222.16.8/29 | ROUTE53_RESOLVER | ca-central-1 |
@@ -2867,6 +2887,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.196.19.0/24 | AMAZON | cn-north-1 |
   | 43.196.20.176/30 | EBS | cn-north-1 |
   | 43.196.20.40/29 | EC2_INSTANCE_CONNECT | cn-north-1 |
+  | 43.196.24.4/31 | KINESIS_VIDEO_STREAMS | cn-north-1 |
+  | 43.196.24.8/30 | KINESIS_VIDEO_STREAMS | cn-north-1 |
   | 43.196.3.64/26 | AMAZON | cn-north-1 |
   | 52.80.197.0/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
   | 52.80.197.128/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
@@ -3369,6 +3391,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.153.115.128/26 | AMAZON | eu-central-1 |
   | 18.153.115.192/26 | AMAZON | eu-central-1 |
   | 18.153.168.0/23 | API_GATEWAY | eu-central-1 |
+  | 18.153.184.142/31 | KINESIS_VIDEO_STREAMS | eu-central-1 |
+  | 18.153.184.148/30 | KINESIS_VIDEO_STREAMS | eu-central-1 |
   | 18.153.184.84/31 | EBS | eu-central-1 |
   | 18.153.184.88/30 | EBS | eu-central-1 |
   | 18.153.40.0/22 | AMAZON | eu-central-1 |
@@ -4429,6 +4453,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.215.218.64/28 | ROUTE53_RESOLVER | eu-west-1 |
   | 54.228.16.0/26 | ROUTE53_HEALTHCHECKS | eu-west-1 |
   | 54.247.241.96/29 | EBS | eu-west-1 |
+  | 54.247.243.134/31 | KINESIS_VIDEO_STREAMS | eu-west-1 |
+  | 54.247.243.136/30 | KINESIS_VIDEO_STREAMS | eu-west-1 |
   | 63.34.60.0/22 | AMAZON | eu-west-1 |
   | 99.80.34.128/25 | AMAZON | eu-west-1 |
   | 99.80.34.48/28 | ROUTE53_RESOLVER | eu-west-1 |
@@ -4678,7 +4704,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.169.230.200/29 | CODEBUILD | eu-west-2 |
   | 18.171.35.128/26 | AMAZON | eu-west-2 |
   | 18.171.35.212/31 | EBS | eu-west-2 |
+  | 18.171.35.214/31 | KINESIS_VIDEO_STREAMS | eu-west-2 |
   | 18.171.63.32/30 | EBS | eu-west-2 |
+  | 18.171.63.36/30 | KINESIS_VIDEO_STREAMS | eu-west-2 |
   | 3.10.127.32/27 | CLOUD9 | eu-west-2 |
   | 3.10.17.0/25 | API_GATEWAY | eu-west-2 |
   | 3.10.17.128/25 | CLOUDFRONT | eu-west-2 |
@@ -4845,12 +4873,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.188.210.128/26 | AMAZON | eu-west-3 |
   | 15.188.210.196/30 | AMAZON_APPFLOW | eu-west-3 |
   | 15.188.210.200/30 | AMAZON_APPFLOW | eu-west-3 |
+  | 15.188.210.206/31 | KINESIS_VIDEO_STREAMS | eu-west-3 |
   | 15.188.210.32/27 | CLOUD9 | eu-west-3 |
   | 15.188.210.64/27 | CLOUD9 | eu-west-3 |
   | 15.236.155.192/26 | AMAZON | eu-west-3 |
   | 15.236.231.0/26 | AMAZON | eu-west-3 |
   | 15.236.231.64/26 | AMAZON | eu-west-3 |
   | 15.236.80.0/23 | API_GATEWAY | eu-west-3 |
+  | 15.237.162.40/30 | KINESIS_VIDEO_STREAMS | eu-west-3 |
   | 35.180.1.16/29 | ROUTE53_RESOLVER | eu-west-3 |
   | 35.180.1.24/29 | ROUTE53_RESOLVER | eu-west-3 |
   | 35.180.1.32/29 | ROUTE53_RESOLVER | eu-west-3 |
@@ -5377,6 +5407,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.229.200.0/22 | AMAZON | sa-east-1 |
   | 15.229.206.194/31 | EBS | sa-east-1 |
   | 15.229.206.196/30 | EBS | sa-east-1 |
+  | 15.229.206.224/31 | KINESIS_VIDEO_STREAMS | sa-east-1 |
+  | 15.229.206.228/30 | KINESIS_VIDEO_STREAMS | sa-east-1 |
   | 15.229.36.0/23 | API_GATEWAY | sa-east-1 |
   | 15.229.40.0/23 | API_GATEWAY | sa-east-1 |
   | 177.71.207.128/26 | ROUTE53_HEALTHCHECKS | sa-east-1 |
@@ -6494,6 +6526,26 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.216.41.152/29 | MEDIA_PACKAGE_V2 | us-east-1 |
   | 44.216.41.160/29 | MEDIA_PACKAGE_V2 | us-east-1 |
   | 44.218.96.0/23 | API_GATEWAY | us-east-1 |
+  | 44.220.189.16/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.20/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.44/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.46/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.48/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.52/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.56/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.58/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.60/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.64/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.68/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.70/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.72/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.76/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.80/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.82/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.84/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.88/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.92/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
+  | 44.220.189.96/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
   | 44.220.194.0/23 | CLOUDFRONT | us-east-1 |
   | 44.220.196.0/23 | CLOUDFRONT | us-east-1 |
   | 44.220.198.0/23 | CLOUDFRONT | us-east-1 |
@@ -7052,6 +7104,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.146.29.66/31 | EBS | us-east-2 |
   | 3.146.36.192/26 | AMAZON | us-east-2 |
   | 3.146.42.64/30 | EBS | us-east-2 |
+  | 3.146.42.74/31 | KINESIS_VIDEO_STREAMS | us-east-2 |
+  | 3.146.42.80/30 | KINESIS_VIDEO_STREAMS | us-east-2 |
   | 3.146.43.0/25 | AMAZON | us-east-2 |
   | 3.146.44.0/23 | API_GATEWAY | us-east-2 |
   | 3.146.8.0/22 | AMAZON | us-east-2 |
@@ -8126,7 +8180,25 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.246.220.0/25 | AMAZON | us-west-2 |
   | 18.246.220.128/25 | AMAZON | us-west-2 |
   | 18.246.224.18/32 | EBS | us-west-2 |
+  | 18.246.224.200/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.202/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.204/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.208/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.212/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.214/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.216/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.220/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.224/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.226/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.228/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.232/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.236/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.238/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 18.246.224.24/29 | EBS | us-west-2 |
+  | 18.246.224.240/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.244/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.248/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 18.246.224.252/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 18.246.88.0/23 | AMAZON | us-west-2 |
   | 18.246.92.0/22 | AMAZON | us-west-2 |
   | 18.246.96.0/22 | AMAZON | us-west-2 |
@@ -8201,6 +8273,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.93.168.0/23 | CLOUDFRONT | us-west-2 |
   | 35.93.170.0/23 | CLOUDFRONT | us-west-2 |
   | 35.93.172.0/23 | CLOUDFRONT | us-west-2 |
+  | 35.93.175.4/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
+  | 35.93.175.8/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 35.94.128.244/31 | EBS | us-west-2 |
   | 35.94.128.248/30 | EBS | us-west-2 |
   | 35.94.72.0/22 | API_GATEWAY | us-west-2 |
