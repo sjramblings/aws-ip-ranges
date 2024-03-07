@@ -2386,7 +2386,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.40.0/22 | AMAZON | ap-southeast-4 |
   | 56.99.0.0/16 | AMAZON | ap-southeast-4 |
   | 70.232.80.0/21 | AMAZON | ap-southeast-4 |
-  | 16.26.0.0/15 | AMAZON | ap-southeast-4 |
   | 52.95.168.0/24 | AMAZON | ap-southeast-4 |
   | 13.34.37.0/27 | AMAZON | ap-southeast-4 |
   | 56.97.0.0/16 | AMAZON | ap-southeast-4 |
@@ -2398,12 +2397,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 104.255.59.133/32 | AMAZON | ap-southeast-4 |
   | 104.255.59.134/32 | AMAZON | ap-southeast-4 |
   | 104.255.59.130/32 | AMAZON | ap-southeast-4 |
+  | 16.26.0.0/16 | AMAZON | ap-southeast-4 |
   | 54.239.1.224/28 | AMAZON | ap-southeast-4 |
   | 70.232.88.0/22 | AMAZON | ap-southeast-4 |
   | 35.71.112.0/24 | AMAZON | ap-southeast-4 |
   | 13.34.37.128/27 | AMAZON | ap-southeast-4 |
   | 56.98.0.0/16 | AMAZON | ap-southeast-4 |
   | 99.151.72.0/21 | AMAZON | ap-southeast-4 |
+  | 16.27.0.0/16 | AMAZON | ap-southeast-4 |
   | 70.232.64.0/20 | AMAZON | ap-southeast-4 |
   | 104.255.59.132/32 | AMAZON | ap-southeast-4 |
   | 13.34.37.192/27 | AMAZON | ap-southeast-4 |
@@ -2426,6 +2427,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.40.0/22 | EC2 | ap-southeast-4 |
   | 52.94.250.16/28 | EC2 | ap-southeast-4 |
   | 70.232.86.125/32 | EC2 | ap-southeast-4 |
+  | 16.26.0.0/16 | EC2 | ap-southeast-4 |
   | 35.71.112.0/24 | EC2 | ap-southeast-4 |
   | 99.151.72.0/21 | EC2 | ap-southeast-4 |
   | 16.50.0.0/15 | EC2 | ap-southeast-4 |
@@ -4903,16 +4905,18 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 51.0.28.0/22 | AMAZON | eusc-de-east-1 |
+  | 51.0.128.0/23 | AMAZON | eusc-de-east-1 |
+  | 51.0.0.0/20 | AMAZON | eusc-de-east-1 |
   | 83.118.240.0/21 | AMAZON | eusc-de-east-1 |
   | 51.224.0.0/15 | AMAZON | eusc-de-east-1 |
-  | 15.190.252.0/22 | AMAZON | eusc-de-east-1 |
   | 51.226.0.0/15 | AMAZON | eusc-de-east-1 |
-  | 136.18.144.0/21 | AMAZON | eusc-de-east-1 |
-  | 15.190.80.0/20 | AMAZON | eusc-de-east-1 |
+  | 51.0.24.0/22 | AMAZON | eusc-de-east-1 |
   | 65.176.0.0/14 | AMAZON | eusc-de-east-1 |
   | 83.118.240.0/21 | S3 | eusc-de-east-1 |
+  | 51.0.28.0/22 | EC2 | eusc-de-east-1 |
+  | 51.0.128.0/23 | EC2 | eusc-de-east-1 |
   | 51.224.0.0/15 | EC2 | eusc-de-east-1 |
-  | 136.18.144.0/21 | EC2 | eusc-de-east-1 |
   | 83.118.240.0/22 | EC2 | eusc-de-east-1 |
 </details>
 
