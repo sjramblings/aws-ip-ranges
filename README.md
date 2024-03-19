@@ -4540,6 +4540,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.239.32.0/21 | AMAZON | eu-west-1 |
   | 13.34.4.162/32 | AMAZON | eu-west-1 |
   | 13.34.49.32/27 | AMAZON | eu-west-1 |
+  | 15.230.117.0/31 | AMAZON | eu-west-1 |
   | 52.93.127.154/32 | AMAZON | eu-west-1 |
   | 15.230.223.6/31 | AMAZON | eu-west-1 |
   | 54.76.0.0/15 | AMAZON | eu-west-1 |
