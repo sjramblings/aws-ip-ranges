@@ -8274,6 +8274,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.57.0/27 | AMAZON | us-west-2 |
   | 15.220.32.0/21 | AMAZON | us-west-2-phx-1 |
   | 15.221.148.0/23 | AMAZON | us-west-2 |
+  | 52.93.246.218/31 | AMAZON | us-west-2 |
   | 13.34.26.0/27 | AMAZON | us-west-2 |
   | 13.34.26.64/27 | AMAZON | us-west-2 |
   | 13.34.2.0/27 | AMAZON | us-west-2 |
@@ -8285,6 +8286,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.240.248.0/21 | AMAZON | us-west-2 |
   | 35.160.0.0/13 | AMAZON | us-west-2 |
   | 13.34.98.192/27 | AMAZON | us-west-2 |
+  | 52.93.246.216/31 | AMAZON | us-west-2 |
   | 52.94.208.0/21 | AMAZON | us-west-2 |
   | 54.68.0.0/14 | AMAZON | us-west-2 |
   | 13.34.68.32/27 | AMAZON | us-west-2 |
@@ -8293,6 +8295,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.202.0/23 | AMAZON | us-west-2-pdx-1 |
   | 13.34.6.32/27 | AMAZON | us-west-2 |
   | 13.34.82.160/27 | AMAZON | us-west-2 |
+  | 52.93.246.221/32 | AMAZON | us-west-2 |
   | 52.95.230.0/24 | AMAZON | us-west-2-lax-1 |
   | 13.34.54.96/27 | AMAZON | us-west-2 |
   | 99.77.253.0/24 | AMAZON | us-west-2 |
@@ -8334,7 +8337,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.16.0/20 | AMAZON | us-west-2-las-1 |
   | 193.57.170.0/23 | AMAZON | us-west-2 |
   | 13.34.14.160/27 | AMAZON | us-west-2 |
+  | 52.93.246.222/32 | AMAZON | us-west-2 |
   | 54.214.0.0/16 | AMAZON | us-west-2 |
+  | 52.93.246.220/32 | AMAZON | us-west-2 |
   | 34.208.0.0/12 | AMAZON | us-west-2 |
   | 13.34.70.96/27 | AMAZON | us-west-2 |
   | 13.34.23.96/27 | AMAZON | us-west-2 |
@@ -8413,6 +8418,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.232.0/24 | AMAZON | us-west-2 |
   | 99.78.196.0/22 | AMAZON | us-west-2 |
   | 13.34.28.0/27 | AMAZON | us-west-2 |
+  | 52.93.246.223/32 | AMAZON | us-west-2 |
   | 15.220.206.0/24 | AMAZON | us-west-2 |
   | 15.177.80.0/24 | AMAZON | us-west-2 |
   | 52.144.194.128/26 | AMAZON | us-west-2 |
