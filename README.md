@@ -5035,6 +5035,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.171.35.214/31 | KINESIS_VIDEO_STREAMS | eu-west-2 |
   | 18.171.63.32/30 | EBS | eu-west-2 |
   | 18.171.63.36/30 | KINESIS_VIDEO_STREAMS | eu-west-2 |
+  | 18.175.65.0/24 | CLOUDFRONT | eu-west-2 |
+  | 18.175.66.0/24 | CLOUDFRONT | eu-west-2 |
   | 3.10.127.32/27 | CLOUD9 | eu-west-2 |
   | 3.10.17.0/25 | API_GATEWAY | eu-west-2 |
   | 3.10.17.128/25 | CLOUDFRONT | eu-west-2 |
