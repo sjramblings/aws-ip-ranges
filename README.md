@@ -2689,6 +2689,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.91.0/24 | AMAZON | ca-central-1 |
   | 130.171.0.64/26 | AMAZON | ca-central-1 |
   | 52.93.193.198/32 | AMAZON | ca-central-1 |
+  | 15.251.0.47/32 | AMAZON | ca-central-1 |
   | 173.83.217.0/24 | AMAZON | ca-central-1 |
   | 15.221.33.0/24 | AMAZON | ca-central-1 |
   | 150.222.43.224/27 | AMAZON | ca-central-1 |
@@ -2696,6 +2697,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.174.0/24 | AMAZON | ca-central-1 |
   | 99.79.0.0/16 | AMAZON | ca-central-1 |
   | 150.222.109.0/24 | AMAZON | ca-central-1 |
+  | 15.251.0.48/32 | AMAZON | ca-central-1 |
   | 13.34.84.192/27 | AMAZON | ca-central-1 |
   | 52.93.75.0/24 | AMAZON | ca-central-1 |
   | 52.93.193.196/32 | AMAZON | ca-central-1 |
@@ -4187,23 +4189,39 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.32.0/22 | S3 | eu-south-2 |
   | 35.71.120.0/24 | DYNAMODB | eu-south-2 |
   | 13.248.65.0/24 | DYNAMODB | eu-south-2 |
+  | 99.77.55.46/32 | EC2 | eu-south-2 |
+  | 99.77.55.41/32 | EC2 | eu-south-2 |
   | 99.77.55.3/32 | EC2 | eu-south-2 |
+  | 99.77.55.38/32 | EC2 | eu-south-2 |
+  | 99.77.55.43/32 | EC2 | eu-south-2 |
   | 99.77.55.24/32 | EC2 | eu-south-2 |
+  | 99.77.55.32/32 | EC2 | eu-south-2 |
   | 99.77.55.26/32 | EC2 | eu-south-2 |
+  | 99.77.55.34/32 | EC2 | eu-south-2 |
+  | 99.77.55.33/32 | EC2 | eu-south-2 |
   | 35.71.120.0/24 | EC2 | eu-south-2 |
   | 99.77.55.254/32 | EC2 | eu-south-2 |
   | 99.77.55.25/32 | EC2 | eu-south-2 |
+  | 99.77.55.37/32 | EC2 | eu-south-2 |
+  | 99.77.55.40/32 | EC2 | eu-south-2 |
+  | 99.77.55.47/32 | EC2 | eu-south-2 |
+  | 99.77.55.44/32 | EC2 | eu-south-2 |
   | 99.77.55.14/32 | EC2 | eu-south-2 |
+  | 99.77.55.45/32 | EC2 | eu-south-2 |
   | 99.77.55.0/32 | EC2 | eu-south-2 |
   | 99.77.55.2/32 | EC2 | eu-south-2 |
   | 15.177.97.0/24 | EC2 | eu-south-2 |
   | 99.77.55.253/32 | EC2 | eu-south-2 |
   | 52.94.249.240/28 | EC2 | eu-south-2 |
+  | 99.77.55.39/32 | EC2 | eu-south-2 |
   | 99.77.55.1/32 | EC2 | eu-south-2 |
   | 51.92.0.0/16 | EC2 | eu-south-2 |
+  | 99.77.55.42/32 | EC2 | eu-south-2 |
   | 99.151.64.0/21 | EC2 | eu-south-2 |
   | 3.5.32.0/22 | EC2 | eu-south-2 |
+  | 99.77.55.35/32 | EC2 | eu-south-2 |
   | 99.77.55.15/32 | EC2 | eu-south-2 |
+  | 99.77.55.36/32 | EC2 | eu-south-2 |
   | 99.77.55.12/32 | EC2 | eu-south-2 |
   | 99.77.55.27/32 | EC2 | eu-south-2 |
   | 18.100.0.0/15 | EC2 | eu-south-2 |
