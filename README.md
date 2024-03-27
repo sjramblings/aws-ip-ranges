@@ -4189,10 +4189,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.32.0/22 | S3 | eu-south-2 |
   | 35.71.120.0/24 | DYNAMODB | eu-south-2 |
   | 13.248.65.0/24 | DYNAMODB | eu-south-2 |
+  | 99.77.55.49/32 | EC2 | eu-south-2 |
   | 99.77.55.46/32 | EC2 | eu-south-2 |
   | 99.77.55.41/32 | EC2 | eu-south-2 |
   | 99.77.55.3/32 | EC2 | eu-south-2 |
   | 99.77.55.38/32 | EC2 | eu-south-2 |
+  | 99.77.55.51/32 | EC2 | eu-south-2 |
   | 99.77.55.43/32 | EC2 | eu-south-2 |
   | 99.77.55.24/32 | EC2 | eu-south-2 |
   | 99.77.55.32/32 | EC2 | eu-south-2 |
@@ -4201,11 +4203,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.55.33/32 | EC2 | eu-south-2 |
   | 35.71.120.0/24 | EC2 | eu-south-2 |
   | 99.77.55.254/32 | EC2 | eu-south-2 |
+  | 99.77.55.54/32 | EC2 | eu-south-2 |
   | 99.77.55.25/32 | EC2 | eu-south-2 |
   | 99.77.55.37/32 | EC2 | eu-south-2 |
   | 99.77.55.40/32 | EC2 | eu-south-2 |
   | 99.77.55.47/32 | EC2 | eu-south-2 |
   | 99.77.55.44/32 | EC2 | eu-south-2 |
+  | 99.77.55.55/32 | EC2 | eu-south-2 |
   | 99.77.55.14/32 | EC2 | eu-south-2 |
   | 99.77.55.45/32 | EC2 | eu-south-2 |
   | 99.77.55.0/32 | EC2 | eu-south-2 |
@@ -4213,13 +4217,17 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.97.0/24 | EC2 | eu-south-2 |
   | 99.77.55.253/32 | EC2 | eu-south-2 |
   | 52.94.249.240/28 | EC2 | eu-south-2 |
+  | 99.77.55.53/32 | EC2 | eu-south-2 |
   | 99.77.55.39/32 | EC2 | eu-south-2 |
   | 99.77.55.1/32 | EC2 | eu-south-2 |
+  | 99.77.55.52/32 | EC2 | eu-south-2 |
   | 51.92.0.0/16 | EC2 | eu-south-2 |
+  | 99.77.55.50/32 | EC2 | eu-south-2 |
   | 99.77.55.42/32 | EC2 | eu-south-2 |
   | 99.151.64.0/21 | EC2 | eu-south-2 |
   | 3.5.32.0/22 | EC2 | eu-south-2 |
   | 99.77.55.35/32 | EC2 | eu-south-2 |
+  | 99.77.55.56/32 | EC2 | eu-south-2 |
   | 99.77.55.15/32 | EC2 | eu-south-2 |
   | 99.77.55.36/32 | EC2 | eu-south-2 |
   | 99.77.55.12/32 | EC2 | eu-south-2 |
