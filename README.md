@@ -2372,40 +2372,60 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 13.34.32.205/32 | AMAZON | ap-southeast-3 |
   | 104.255.59.104/32 | AMAZON | ap-southeast-3 |
   | 56.128.0.0/16 | AMAZON | ap-southeast-3 |
+  | 13.34.32.196/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.199/32 | AMAZON | ap-southeast-3 |
   | 159.248.224.0/21 | AMAZON | ap-southeast-3 |
   | 104.255.59.103/32 | AMAZON | ap-southeast-3 |
   | 15.230.4.164/31 | AMAZON | ap-southeast-3 |
+  | 13.34.32.202/32 | AMAZON | ap-southeast-3 |
   | 52.95.178.0/23 | AMAZON | ap-southeast-3 |
   | 3.5.36.0/22 | AMAZON | ap-southeast-3 |
+  | 13.34.32.194/32 | AMAZON | ap-southeast-3 |
   | 13.34.35.224/27 | AMAZON | ap-southeast-3 |
   | 15.230.178.0/24 | AMAZON | ap-southeast-3 |
   | 13.248.110.0/24 | AMAZON | ap-southeast-3 |
+  | 13.34.32.197/32 | AMAZON | ap-southeast-3 |
   | 108.136.0.0/15 | AMAZON | ap-southeast-3 |
   | 150.222.49.128/27 | AMAZON | ap-southeast-3 |
+  | 13.34.32.241/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.201/32 | AMAZON | ap-southeast-3 |
   | 35.71.96.0/24 | AMAZON | ap-southeast-3 |
+  | 13.34.32.225/32 | AMAZON | ap-southeast-3 |
   | 13.34.22.96/27 | AMAZON | ap-southeast-3 |
+  | 13.34.32.240/32 | AMAZON | ap-southeast-3 |
   | 15.230.4.166/31 | AMAZON | ap-southeast-3 |
   | 104.255.59.138/32 | AMAZON | ap-southeast-3 |
   | 13.34.35.192/27 | AMAZON | ap-southeast-3 |
   | 15.230.64.0/26 | AMAZON | ap-southeast-3 |
+  | 13.34.32.227/32 | AMAZON | ap-southeast-3 |
   | 56.131.0.0/16 | AMAZON | ap-southeast-3 |
+  | 13.34.32.200/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.193/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.230/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.239/32 | AMAZON | ap-southeast-3 |
   | 99.78.232.0/21 | AMAZON | ap-southeast-3 |
   | 99.78.240.0/20 | AMAZON | ap-southeast-3 |
+  | 13.34.32.207/32 | AMAZON | ap-southeast-3 |
   | 104.255.59.101/32 | AMAZON | ap-southeast-3 |
   | 150.222.49.96/27 | AMAZON | ap-southeast-3 |
   | 150.222.49.160/27 | AMAZON | ap-southeast-3 |
   | 15.230.64.64/26 | AMAZON | ap-southeast-3 |
   | 52.95.177.0/24 | AMAZON | ap-southeast-3 |
+  | 13.34.32.209/32 | AMAZON | ap-southeast-3 |
   | 43.218.0.0/16 | AMAZON | ap-southeast-3 |
   | 13.34.16.192/27 | AMAZON | ap-southeast-3 |
   | 13.248.71.0/24 | AMAZON | ap-southeast-3 |
   | 15.230.217.0/24 | AMAZON | ap-southeast-3 |
   | 52.94.249.192/28 | AMAZON | ap-southeast-3 |
   | 56.129.0.0/16 | AMAZON | ap-southeast-3 |
+  | 13.34.32.235/32 | AMAZON | ap-southeast-3 |
   | 13.34.78.32/27 | AMAZON | ap-southeast-3 |
   | 13.34.16.224/27 | AMAZON | ap-southeast-3 |
+  | 13.34.32.195/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.208/32 | AMAZON | ap-southeast-3 |
   | 52.95.235.0/24 | AMAZON | ap-southeast-3 |
   | 56.130.0.0/16 | AMAZON | ap-southeast-3 |
   | 104.255.59.105/32 | AMAZON | ap-southeast-3 |
@@ -2413,16 +2433,30 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.228.0/22 | AMAZON | ap-southeast-3 |
   | 13.34.36.0/27 | AMAZON | ap-southeast-3 |
   | 13.34.17.32/27 | AMAZON | ap-southeast-3 |
+  | 13.34.32.236/32 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
+  | 13.34.32.206/32 | AMAZON | ap-southeast-3 |
   | 16.79.0.0/16 | AMAZON | ap-southeast-3 |
+  | 13.34.32.198/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.238/32 | AMAZON | ap-southeast-3 |
   | 13.34.22.128/27 | AMAZON | ap-southeast-3 |
   | 13.34.36.32/27 | AMAZON | ap-southeast-3 |
+  | 13.34.32.231/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.234/32 | AMAZON | ap-southeast-3 |
   | 104.255.59.102/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.204/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.233/32 | AMAZON | ap-southeast-3 |
   | 104.255.59.139/32 | AMAZON | ap-southeast-3 |
   | 104.255.59.106/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.228/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.237/32 | AMAZON | ap-southeast-3 |
   | 13.34.78.0/27 | AMAZON | ap-southeast-3 |
+  | 13.34.32.203/32 | AMAZON | ap-southeast-3 |
   | 16.78.0.0/16 | AMAZON | ap-southeast-3 |
+  | 13.34.32.226/32 | AMAZON | ap-southeast-3 |
+  | 13.34.32.229/32 | AMAZON | ap-southeast-3 |
   | 99.77.237.0/24 | AMAZON | ap-southeast-3 |
+  | 13.34.32.232/32 | AMAZON | ap-southeast-3 |
   | 15.230.64.128/26 | AMAZON | ap-southeast-3 |
   | 15.177.92.0/24 | AMAZON | ap-southeast-3 |
   | 99.77.237.0/24 | CHIME_VOICECONNECTOR | ap-southeast-3 |
@@ -2514,6 +2548,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.37.32/27 | AMAZON | ap-southeast-4 |
   | 150.222.51.224/27 | AMAZON | ap-southeast-4 |
   | 13.34.37.224/27 | AMAZON | ap-southeast-4 |
+  | 15.230.118.0/24 | AMAZON | ap-southeast-4 |
   | 104.255.59.131/32 | AMAZON | ap-southeast-4 |
   | 16.50.0.0/15 | AMAZON | ap-southeast-4 |
   | 13.34.18.224/27 | AMAZON | ap-southeast-4 |
