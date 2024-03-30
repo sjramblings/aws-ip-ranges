@@ -33801,6 +33801,18 @@
         "network_border_group": "sa-east-1"
       },
       {
+        "ip_prefix": "18.230.229.0/24",
+        "region": "sa-east-1",
+        "service": "CLOUDFRONT",
+        "network_border_group": "sa-east-1"
+      },
+      {
+        "ip_prefix": "18.230.230.0/25",
+        "region": "sa-east-1",
+        "service": "CLOUDFRONT",
+        "network_border_group": "sa-east-1"
+      },
+      {
         "ip_prefix": "18.230.46.0/27",
         "region": "sa-east-1",
         "service": "CLOUD9",

@@ -5827,6 +5827,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.229.99.0/24 | API_GATEWAY | sa-east-1 |
   | 18.230.103.0/24 | WORKSPACES_GATEWAYS | sa-east-1 |
   | 18.230.104.0/23 | WORKSPACES_GATEWAYS | sa-east-1 |
+  | 18.230.229.0/24 | CLOUDFRONT | sa-east-1 |
+  | 18.230.230.0/25 | CLOUDFRONT | sa-east-1 |
   | 18.230.46.0/27 | CLOUD9 | sa-east-1 |
   | 18.230.46.128/26 | AMAZON | sa-east-1 |
   | 18.230.46.32/27 | CLOUD9 | sa-east-1 |
