@@ -6355,6 +6355,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.2.239/32 | AMAZON | us-east-1 |
   | 13.34.3.72/32 | AMAZON | us-east-1 |
   | 13.34.84.64/27 | AMAZON | us-east-1 |
+  | 13.34.117.96/27 | AMAZON | us-east-1 |
   | 52.95.63.0/24 | AMAZON | us-east-1 |
   | 69.107.7.40/29 | AMAZON | us-east-1 |
   | 13.34.2.197/32 | AMAZON | us-east-1 |
@@ -6449,6 +6450,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.240.216.0/22 | AMAZON | us-east-1 |
   | 99.82.166.0/24 | AMAZON | us-east-1 |
   | 13.34.51.32/27 | AMAZON | us-east-1 |
+  | 13.34.117.64/27 | AMAZON | us-east-1 |
   | 52.93.91.96/32 | AMAZON | us-east-1 |
   | 99.151.190.0/23 | AMAZON | us-east-1 |
   | 13.34.31.192/27 | AMAZON | us-east-1 |
@@ -7484,6 +7486,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.222.159.176/28 | EBS | us-east-1 |
   | 44.222.66.0/24 | CLOUDFRONT | us-east-1 |
   | 44.223.121.0/24 | AMAZON | us-east-1 |
+  | 44.223.122.0/24 | AMAZON | us-east-1 |
   | 52.23.61.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.23.62.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.55.191.224/27 | AMAZON_CONNECT | us-east-1 |
@@ -8834,6 +8837,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.24.160/27 | AMAZON | us-west-2 |
   | 15.230.102.0/24 | AMAZON | us-west-2 |
   | 13.34.99.160/27 | AMAZON | us-west-2 |
+  | 13.34.117.160/27 | AMAZON | us-west-2 |
   | 13.34.10.108/32 | AMAZON | us-west-2 |
   | 13.34.104.32/27 | AMAZON | us-west-2 |
   | 15.220.252.0/22 | AMAZON | us-west-2-las-1 |
@@ -8953,6 +8957,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 193.57.170.0/23 | AMAZON | us-west-2 |
   | 108.166.232.0/21 | AMAZON | us-west-2 |
   | 13.34.14.160/27 | AMAZON | us-west-2 |
+  | 13.34.117.128/27 | AMAZON | us-west-2 |
   | 52.93.246.222/32 | AMAZON | us-west-2 |
   | 54.214.0.0/16 | AMAZON | us-west-2 |
   | 52.93.246.220/32 | AMAZON | us-west-2 |
