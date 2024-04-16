@@ -3847,6 +3847,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.196.161.32/27 | ROUTE53_RESOLVER | eu-central-1 |
   | 18.196.161.80/29 | ROUTE53_RESOLVER | eu-central-1 |
   | 18.196.161.88/29 | ROUTE53_RESOLVER | eu-central-1 |
+  | 18.199.211.0/24 | AMAZON | eu-central-1 |
   | 18.199.68.0/22 | CLOUDFRONT | eu-central-1 |
   | 18.199.72.0/22 | CLOUDFRONT | eu-central-1 |
   | 18.199.76.0/22 | CLOUDFRONT | eu-central-1 |
