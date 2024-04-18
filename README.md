@@ -4193,7 +4193,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.48.186.128/27 | CLOUD9 | eu-north-1 |
   | 13.48.186.160/27 | CLOUD9 | eu-north-1 |
   | 13.48.186.192/27 | AMAZON | eu-north-1 |
-  | 13.48.32.0/24 | CLOUDFRONT | eu-north-1 |
   | 13.48.4.128/28 | ROUTE53_RESOLVER | eu-north-1 |
   | 13.48.4.144/28 | ROUTE53_RESOLVER | eu-north-1 |
   | 13.48.4.160/28 | ROUTE53_RESOLVER | eu-north-1 |
@@ -6790,6 +6789,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.21.192/27 | AMAZON | us-east-1 |
   | 13.34.109.64/27 | AMAZON | us-east-1 |
   | 52.93.1.0/24 | AMAZON | us-east-1 |
+  | 3.4.11.0/24 | AMAZON | us-east-1 |
   | 13.34.1.202/32 | AMAZON | us-east-1 |
   | 13.34.8.165/32 | AMAZON | us-east-1 |
   | 13.34.70.192/27 | AMAZON | us-east-1 |
@@ -7177,6 +7177,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.34.232.0/21 | EC2 | us-east-1 |
   | 72.44.32.0/19 | EC2 | us-east-1 |
   | 15.181.96.0/20 | EC2 | us-east-1-mci-1 |
+  | 3.4.11.0/24 | EC2 | us-east-1 |
   | 3.4.2.0/24 | EC2 | us-east-1 |
   | 54.92.128.0/17 | EC2 | us-east-1 |
   | 99.77.151.0/24 | EC2 | us-east-1 |
