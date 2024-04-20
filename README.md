@@ -991,6 +991,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 57.181.142.182/31 | EBS | ap-northeast-1 |
   | 57.181.142.224/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
   | 57.181.142.228/30 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
+  | 57.181.184.192/26 | AMAZON | ap-northeast-1 |
 </details>
 
 <details>
@@ -2215,6 +2216,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 47.128.82.102/31 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
   | 47.129.23.128/30 | EBS | ap-southeast-1 |
   | 47.129.23.132/30 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
+  | 47.129.81.64/26 | AMAZON | ap-southeast-1 |
   | 52.220.191.0/26 | CLOUDFRONT | ap-southeast-1 |
   | 52.221.221.128/29 | CODEBUILD | ap-southeast-1 |
   | 52.76.127.0/24 | WORKSPACES_GATEWAYS | ap-southeast-1 |
@@ -6601,6 +6603,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.167.0/24 | AMAZON | us-east-1 |
   | 13.34.42.96/27 | AMAZON | us-east-1 |
   | 13.34.103.0/27 | AMAZON | us-east-1 |
+  | 13.34.119.192/27 | AMAZON | us-east-1 |
   | 104.255.56.20/32 | AMAZON | us-east-1 |
   | 184.72.128.0/17 | AMAZON | us-east-1 |
   | 205.251.248.0/24 | AMAZON | us-east-1 |
@@ -6672,6 +6675,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.60.32/27 | AMAZON | us-east-1 |
   | 15.230.66.128/25 | AMAZON | us-east-1 |
   | 13.34.113.64/27 | AMAZON | us-east-1 |
+  | 13.34.119.224/27 | AMAZON | us-east-1 |
   | 52.93.127.19/32 | AMAZON | us-east-1 |
   | 52.93.127.216/32 | AMAZON | us-east-1 |
   | 96.0.84.0/22 | AMAZON | us-east-1-msp-1 |
