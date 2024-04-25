@@ -2035,6 +2035,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.44.128/27 | AMAZON | ap-southeast-1 |
   | 13.34.19.36/32 | AMAZON | ap-southeast-1 |
   | 15.230.4.176/28 | AMAZON | ap-southeast-1 |
+  | 15.230.120.0/31 | AMAZON | ap-southeast-1 |
   | 18.138.0.0/15 | AMAZON | ap-southeast-1 |
   | 13.34.14.3/32 | AMAZON | ap-southeast-1 |
   | 13.34.14.38/32 | AMAZON | ap-southeast-1 |
