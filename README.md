@@ -8187,6 +8187,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 108.175.56.0/22 | EC2 | us-gov-west-1 |
   | 136.18.0.0/23 | EC2 | us-gov-west-1 |
   | 3.30.0.0/15 | EC2 | us-gov-west-1 |
+  | 56.136.0.0/16 | EC2 | us-gov-west-1 |
   | 160.1.0.0/16 | EC2 | us-gov-west-1 |
   | 3.32.0.0/16 | EC2 | us-gov-west-1 |
   | 52.61.0.0/16 | EC2 | us-gov-west-1 |
