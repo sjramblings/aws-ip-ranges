@@ -1230,6 +1230,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.20.164/32 | AMAZON | ap-northeast-3 |
   | 104.255.59.114/32 | AMAZON | ap-northeast-3 |
   | 52.95.182.0/23 | AMAZON | ap-northeast-3 |
+  | 13.34.121.192/27 | AMAZON | ap-northeast-3 |
   | 13.34.20.134/32 | AMAZON | ap-northeast-3 |
   | 13.208.0.0/16 | AMAZON | ap-northeast-3 |
   | 13.34.20.166/32 | AMAZON | ap-northeast-3 |
@@ -1284,6 +1285,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.20.171/32 | AMAZON | ap-northeast-3 |
   | 13.34.97.160/27 | AMAZON | ap-northeast-3 |
   | 13.34.20.136/32 | AMAZON | ap-northeast-3 |
+  | 13.34.121.224/27 | AMAZON | ap-northeast-3 |
   | 52.144.233.130/31 | AMAZON | ap-northeast-3 |
   | 56.155.0.0/17 | AMAZON | ap-northeast-3 |
   | 15.230.24.0/22 | AMAZON | ap-northeast-3 |
@@ -1800,6 +1802,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.48.0/21 | AMAZON | ap-southeast-1 |
   | 13.34.1.139/32 | AMAZON | ap-southeast-1 |
   | 13.34.1.143/32 | AMAZON | ap-southeast-1 |
+  | 13.34.121.128/27 | AMAZON | ap-southeast-1 |
   | 13.34.1.171/32 | AMAZON | ap-southeast-1 |
   | 13.34.113.224/27 | AMAZON | ap-southeast-1 |
   | 15.230.251.4/31 | AMAZON | ap-southeast-1 |
@@ -1819,6 +1822,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.1.134/32 | AMAZON | ap-southeast-1 |
   | 54.255.0.0/16 | AMAZON | ap-southeast-1 |
   | 13.34.19.33/32 | AMAZON | ap-southeast-1 |
+  | 13.34.121.160/27 | AMAZON | ap-southeast-1 |
   | 99.83.102.0/24 | AMAZON | ap-southeast-1 |
   | 13.34.17.133/32 | AMAZON | ap-southeast-1 |
   | 13.34.17.174/32 | AMAZON | ap-southeast-1 |
@@ -7262,6 +7266,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.165.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 13.248.116.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 15.177.64.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-east-1 |
+  | 100.27.238.0/23 | AMAZON | us-east-1 |
   | 107.23.255.0/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
   | 18.206.107.160/29 | ROUTE53_RESOLVER | us-east-1 |
   | 18.206.107.24/29 | EC2_INSTANCE_CONNECT | us-east-1 |
