@@ -173,6 +173,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.197.20.0/22 | AMAZON | GLOBAL |
   | 52.46.166.0/23 | AMAZON | GLOBAL |
   | 15.197.30.0/23 | AMAZON | GLOBAL |
+  | 15.193.0.0/19 | AMAZON | GLOBAL |
+  | 64.252.64.0/18 | AMAZON | GLOBAL |
+  | 99.77.128.0/18 | AMAZON | GLOBAL |
   | 15.177.0.0/18 | ROUTE53_HEALTHCHECKS | GLOBAL |
   | 76.223.102.0/24 | S3 | GLOBAL |
   | 76.223.96.0/24 | S3 | GLOBAL |
@@ -300,6 +303,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 65.9.0.0/17 | CLOUDFRONT | GLOBAL |
   | 108.138.0.0/15 | CLOUDFRONT | GLOBAL |
   | 120.253.241.160/27 | CLOUDFRONT | GLOBAL |
+  | 64.252.64.0/18 | CLOUDFRONT | GLOBAL |
   | 15.197.34.0/23 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.36.0/22 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.64.0/19 | GLOBALACCELERATOR | GLOBAL |
@@ -337,11 +341,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.189.0/24 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.20.0/22 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.30.0/23 | GLOBALACCELERATOR | GLOBAL |
-  | 15.193.0.0/19 | AMAZON | GLOBAL |
   | 15.193.0.0/19 | AMAZON_CONNECT | GLOBAL |
-  | 64.252.64.0/18 | AMAZON | GLOBAL |
-  | 64.252.64.0/18 | CLOUDFRONT | GLOBAL |
-  | 99.77.128.0/18 | AMAZON | GLOBAL |
   | 99.77.128.0/18 | CHIME_MEETINGS | GLOBAL |
   | 130.176.88.0/21 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 54.239.134.0/23 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
@@ -442,14 +442,26 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.86.32/27 | AMAZON | af-south-1 |
   | 15.193.10.0/24 | AMAZON | af-south-1 |
   | 3.5.202.0/23 | AMAZON | af-south-1 |
+  | 13.244.121.0/26 | AMAZON | af-south-1 |
+  | 13.244.122.0/24 | AMAZON | af-south-1 |
+  | 13.244.165.192/26 | AMAZON | af-south-1 |
+  | 13.244.176.128/26 | AMAZON | af-south-1 |
+  | 13.244.176.64/26 | AMAZON | af-south-1 |
+  | 13.244.35.128/26 | AMAZON | af-south-1 |
+  | 13.244.35.192/26 | AMAZON | af-south-1 |
+  | 13.245.241.64/26 | AMAZON | af-south-1 |
+  | 13.246.243.128/25 | AMAZON | af-south-1 |
+  | 13.246.243.64/26 | AMAZON | af-south-1 |
+  | 13.246.244.0/23 | AMAZON | af-south-1 |
+  | 13.246.248.0/22 | AMAZON | af-south-1 |
   | 99.77.235.0/24 | CHIME_VOICECONNECTOR | af-south-1 |
   | 3.5.228.0/22 | S3 | af-south-1 |
   | 52.95.176.0/24 | S3 | af-south-1 |
   | 52.95.175.0/24 | S3 | af-south-1 |
   | 52.95.180.0/24 | S3 | af-south-1 |
   | 3.5.202.0/23 | S3 | af-south-1 |
-  | 35.71.103.0/24 | DYNAMODB | af-south-1 |
-  | 52.94.30.0/24 | DYNAMODB | af-south-1 |
+  | 13.245.93.176/28 | S3 | af-south-1 |
+  | 13.245.93.192/28 | S3 | af-south-1 |
   | 13.247.0.0/16 | EC2 | af-south-1 |
   | 96.0.40.0/21 | EC2 | af-south-1-los-1 |
   | 99.77.148.0/24 | EC2 | af-south-1 |
@@ -466,47 +478,35 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.193.10.0/24 | EC2 | af-south-1 |
   | 3.5.202.0/23 | EC2 | af-south-1 |
   | 15.177.91.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | af-south-1 |
-  | 13.244.121.0/26 | AMAZON | af-south-1 |
-  | 13.244.121.196/30 | EC2_INSTANCE_CONNECT | af-south-1 |
-  | 13.244.122.0/24 | AMAZON | af-south-1 |
-  | 13.244.132.0/23 | API_GATEWAY | af-south-1 |
-  | 13.244.165.192/26 | AMAZON | af-south-1 |
-  | 13.244.176.128/26 | AMAZON | af-south-1 |
-  | 13.244.176.64/26 | AMAZON | af-south-1 |
+  | 13.245.155.128/27 | CLOUD9 | af-south-1 |
+  | 13.245.155.224/27 | CLOUD9 | af-south-1 |
   | 13.244.202.40/29 | CODEBUILD | af-south-1 |
+  | 13.245.166.176/29 | CODEBUILD | af-south-1 |
+  | 13.244.132.0/23 | API_GATEWAY | af-south-1 |
+  | 13.246.70.0/23 | API_GATEWAY | af-south-1 |
   | 13.244.244.192/27 | ROUTE53_RESOLVER | af-south-1 |
   | 13.244.244.224/27 | ROUTE53_RESOLVER | af-south-1 |
   | 13.244.33.0/26 | ROUTE53_RESOLVER | af-south-1 |
   | 13.244.33.128/26 | ROUTE53_RESOLVER | af-south-1 |
   | 13.244.33.64/26 | ROUTE53_RESOLVER | af-south-1 |
-  | 13.244.35.128/26 | AMAZON | af-south-1 |
-  | 13.244.35.192/26 | AMAZON | af-south-1 |
   | 13.245.1.32/27 | ROUTE53_RESOLVER | af-south-1 |
   | 13.245.112.0/24 | ROUTE53_RESOLVER | af-south-1 |
   | 13.245.113.0/24 | ROUTE53_RESOLVER | af-south-1 |
   | 13.245.114.0/24 | ROUTE53_RESOLVER | af-south-1 |
-  | 13.245.127.232/30 | AMAZON_APPFLOW | af-south-1 |
-  | 13.245.155.128/27 | CLOUD9 | af-south-1 |
-  | 13.245.155.224/27 | CLOUD9 | af-south-1 |
-  | 13.245.166.128/30 | AMAZON_APPFLOW | af-south-1 |
-  | 13.245.166.132/30 | AMAZON_APPFLOW | af-south-1 |
-  | 13.245.166.176/29 | CODEBUILD | af-south-1 |
-  | 13.245.241.64/26 | AMAZON | af-south-1 |
   | 13.245.93.140/30 | EBS | af-south-1 |
   | 13.245.93.160/29 | EBS | af-south-1 |
-  | 13.245.93.176/28 | S3 | af-south-1 |
-  | 13.245.93.192/28 | S3 | af-south-1 |
-  | 13.246.108.0/22 | WORKSPACES_GATEWAYS | af-south-1 |
-  | 13.246.120.0/22 | WORKSPACES_GATEWAYS | af-south-1 |
-  | 13.246.243.128/25 | AMAZON | af-south-1 |
-  | 13.246.243.64/26 | AMAZON | af-south-1 |
-  | 13.246.244.0/23 | AMAZON | af-south-1 |
-  | 13.246.248.0/22 | AMAZON | af-south-1 |
-  | 13.246.70.0/23 | API_GATEWAY | af-south-1 |
   | 13.247.50.244/31 | EBS | af-south-1 |
   | 13.247.50.248/30 | EBS | af-south-1 |
+  | 13.244.121.196/30 | EC2_INSTANCE_CONNECT | af-south-1 |
   | 13.247.76.100/30 | KINESIS_VIDEO_STREAMS | af-south-1 |
   | 13.247.76.96/31 | KINESIS_VIDEO_STREAMS | af-south-1 |
+  | 13.246.108.0/22 | WORKSPACES_GATEWAYS | af-south-1 |
+  | 13.246.120.0/22 | WORKSPACES_GATEWAYS | af-south-1 |
+  | 13.245.127.232/30 | AMAZON_APPFLOW | af-south-1 |
+  | 13.245.166.128/30 | AMAZON_APPFLOW | af-south-1 |
+  | 13.245.166.132/30 | AMAZON_APPFLOW | af-south-1 |
+  | 35.71.103.0/24 | DYNAMODB | af-south-1 |
+  | 52.94.30.0/24 | DYNAMODB | af-south-1 |
 </details>
 
 <details>
@@ -568,6 +568,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.7.96/27 | AMAZON | ap-east-1 |
   | 18.166.0.0/15 | AMAZON | ap-east-1 |
   | 52.93.35.0/24 | AMAZON | ap-east-1 |
+  | 16.163.63.64/26 | AMAZON | ap-east-1 |
+  | 18.163.201.0/26 | AMAZON | ap-east-1 |
+  | 18.163.66.0/23 | AMAZON | ap-east-1 |
+  | 18.163.68.0/26 | AMAZON | ap-east-1 |
+  | 18.166.20.128/26 | AMAZON | ap-east-1 |
+  | 18.166.20.192/26 | AMAZON | ap-east-1 |
+  | 18.166.20.64/26 | AMAZON | ap-east-1 |
+  | 43.198.166.0/23 | AMAZON | ap-east-1 |
+  | 43.198.168.0/22 | AMAZON | ap-east-1 |
   | 99.77.241.0/24 | CHIME_VOICECONNECTOR | ap-east-1 |
   | 16.12.6.0/23 | S3 | ap-east-1 |
   | 52.95.160.0/23 | S3 | ap-east-1 |
@@ -575,8 +584,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.162.0/24 | S3 | ap-east-1 |
   | 16.12.8.0/24 | S3 | ap-east-1 |
   | 3.5.236.0/22 | S3 | ap-east-1 |
-  | 52.119.248.0/24 | DYNAMODB | ap-east-1 |
-  | 35.71.107.0/24 | DYNAMODB | ap-east-1 |
+  | 18.167.88.112/28 | S3 | ap-east-1 |
+  | 18.167.88.96/28 | S3 | ap-east-1 |
   | 52.95.226.0/24 | EC2 | ap-east-1 |
   | 52.94.249.144/28 | EC2 | ap-east-1 |
   | 15.177.86.0/24 | EC2 | ap-east-1 |
@@ -595,44 +604,35 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.83.96.0/24 | GLOBALACCELERATOR | ap-east-1 |
   | 15.177.86.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-east-1 |
   | 15.177.85.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-east-1 |
+  | 18.163.139.32/27 | CLOUD9 | ap-east-1 |
+  | 18.163.201.96/27 | CLOUD9 | ap-east-1 |
   | 16.162.162.96/29 | CODEBUILD | ap-east-1 |
   | 16.162.52.0/24 | API_GATEWAY | ap-east-1 |
   | 16.163.196.0/22 | API_GATEWAY | ap-east-1 |
   | 16.163.206.0/23 | API_GATEWAY | ap-east-1 |
-  | 16.163.63.64/26 | AMAZON | ap-east-1 |
+  | 18.162.189.0/24 | API_GATEWAY | ap-east-1 |
+  | 18.163.204.0/23 | API_GATEWAY | ap-east-1 |
   | 18.162.127.0/27 | ROUTE53_RESOLVER | ap-east-1 |
   | 18.162.127.32/27 | ROUTE53_RESOLVER | ap-east-1 |
   | 18.162.127.64/27 | ROUTE53_RESOLVER | ap-east-1 |
-  | 18.162.189.0/24 | API_GATEWAY | ap-east-1 |
   | 18.162.221.128/27 | ROUTE53_RESOLVER | ap-east-1 |
   | 18.162.221.160/27 | ROUTE53_RESOLVER | ap-east-1 |
   | 18.162.221.192/27 | ROUTE53_RESOLVER | ap-east-1 |
-  | 18.163.139.32/27 | CLOUD9 | ap-east-1 |
-  | 18.163.201.0/26 | AMAZON | ap-east-1 |
-  | 18.163.201.96/27 | CLOUD9 | ap-east-1 |
-  | 18.163.204.0/23 | API_GATEWAY | ap-east-1 |
-  | 18.163.66.0/23 | AMAZON | ap-east-1 |
-  | 18.163.68.0/26 | AMAZON | ap-east-1 |
-  | 18.166.20.128/26 | AMAZON | ap-east-1 |
-  | 18.166.20.192/26 | AMAZON | ap-east-1 |
-  | 18.166.20.64/26 | AMAZON | ap-east-1 |
   | 18.166.237.128/27 | ROUTE53_RESOLVER | ap-east-1 |
   | 18.166.237.64/27 | ROUTE53_RESOLVER | ap-east-1 |
   | 18.166.237.96/27 | ROUTE53_RESOLVER | ap-east-1 |
   | 18.167.111.0/24 | ROUTE53_RESOLVER | ap-east-1 |
   | 18.167.112.0/24 | ROUTE53_RESOLVER | ap-east-1 |
   | 18.167.113.0/24 | ROUTE53_RESOLVER | ap-east-1 |
-  | 18.167.88.112/28 | S3 | ap-east-1 |
   | 18.167.88.72/29 | EBS | ap-east-1 |
   | 18.167.88.80/30 | EBS | ap-east-1 |
-  | 18.167.88.96/28 | S3 | ap-east-1 |
-  | 43.198.166.0/23 | AMAZON | ap-east-1 |
-  | 43.198.168.0/22 | AMAZON | ap-east-1 |
+  | 43.199.26.42/31 | EBS | ap-east-1 |
+  | 43.199.26.44/30 | EBS | ap-east-1 |
   | 43.198.192.104/29 | EC2_INSTANCE_CONNECT | ap-east-1 |
   | 43.199.26.124/31 | KINESIS_VIDEO_STREAMS | ap-east-1 |
   | 43.199.26.128/30 | KINESIS_VIDEO_STREAMS | ap-east-1 |
-  | 43.199.26.42/31 | EBS | ap-east-1 |
-  | 43.199.26.44/30 | EBS | ap-east-1 |
+  | 52.119.248.0/24 | DYNAMODB | ap-east-1 |
+  | 35.71.107.0/24 | DYNAMODB | ap-east-1 |
 </details>
 
 <details>
@@ -836,7 +836,22 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.208.0/22 | AMAZON | ap-northeast-1 |
   | 150.222.38.64/26 | AMAZON | ap-northeast-1 |
   | 52.93.127.252/32 | AMAZON | ap-northeast-1 |
+  | 18.177.156.192/26 | AMAZON | ap-northeast-1 |
+  | 18.181.204.128/26 | AMAZON | ap-northeast-1 |
+  | 18.181.204.192/26 | AMAZON | ap-northeast-1 |
+  | 18.181.242.0/23 | AMAZON | ap-northeast-1 |
+  | 18.183.37.0/26 | AMAZON | ap-northeast-1 |
+  | 3.112.64.0/23 | AMAZON | ap-northeast-1 |
+  | 3.113.218.0/26 | AMAZON | ap-northeast-1 |
+  | 35.76.252.0/23 | AMAZON | ap-northeast-1 |
+  | 35.77.0.128/26 | AMAZON | ap-northeast-1 |
+  | 52.195.198.0/23 | AMAZON | ap-northeast-1 |
+  | 52.195.200.0/22 | AMAZON | ap-northeast-1 |
+  | 57.180.138.64/26 | AMAZON | ap-northeast-1 |
+  | 57.181.184.192/26 | AMAZON | ap-northeast-1 |
   | 99.77.244.0/24 | CHIME_VOICECONNECTOR | ap-northeast-1 |
+  | 54.248.220.0/26 | ROUTE53_HEALTHCHECKS | ap-northeast-1 |
+  | 54.250.253.192/26 | ROUTE53_HEALTHCHECKS | ap-northeast-1 |
   | 52.219.68.0/22 | S3 | ap-northeast-1 |
   | 52.219.162.0/23 | S3 | ap-northeast-1 |
   | 52.219.16.0/22 | S3 | ap-northeast-1 |
@@ -851,10 +866,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.152.0/22 | S3 | ap-northeast-1 |
   | 52.219.150.0/23 | S3 | ap-northeast-1 |
   | 52.219.196.0/22 | S3 | ap-northeast-1 |
-  | 13.248.70.0/24 | DYNAMODB | ap-northeast-1 |
-  | 35.71.114.0/24 | DYNAMODB | ap-northeast-1 |
-  | 52.94.8.0/24 | DYNAMODB | ap-northeast-1 |
-  | 13.248.69.0/24 | DYNAMODB | ap-northeast-1 |
+  | 35.72.164.240/28 | S3 | ap-northeast-1 |
+  | 35.73.115.0/28 | S3 | ap-northeast-1 |
   | 43.206.0.0/15 | EC2 | ap-northeast-1 |
   | 54.248.0.0/15 | EC2 | ap-northeast-1 |
   | 99.77.244.0/24 | EC2 | ap-northeast-1 |
@@ -908,14 +921,26 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.160.0/24 | EC2 | ap-northeast-1 |
   | 18.183.0.0/16 | EC2 | ap-northeast-1 |
   | 52.196.0.0/14 | EC2 | ap-northeast-1 |
+  | 13.113.196.64/26 | CLOUDFRONT | ap-northeast-1 |
+  | 13.113.203.0/24 | CLOUDFRONT | ap-northeast-1 |
+  | 52.199.127.192/26 | CLOUDFRONT | ap-northeast-1 |
   | 99.82.170.0/24 | GLOBALACCELERATOR | ap-northeast-1 |
   | 13.248.98.0/24 | GLOBALACCELERATOR | ap-northeast-1 |
   | 13.248.115.0/24 | GLOBALACCELERATOR | ap-northeast-1 |
+  | 18.182.96.64/26 | AMAZON_CONNECT | ap-northeast-1 |
   | 15.177.79.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-northeast-1 |
+  | 18.179.48.128/27 | CLOUD9 | ap-northeast-1 |
+  | 18.179.48.96/27 | CLOUD9 | ap-northeast-1 |
   | 13.112.191.184/29 | CODEBUILD | ap-northeast-1 |
-  | 13.113.196.64/26 | CLOUDFRONT | ap-northeast-1 |
-  | 13.113.203.0/24 | CLOUDFRONT | ap-northeast-1 |
-  | 13.113.244.25/32 | EBS | ap-northeast-1 |
+  | 35.75.131.80/29 | CODEBUILD | ap-northeast-1 |
+  | 18.180.88.0/23 | API_GATEWAY | ap-northeast-1 |
+  | 3.112.162.0/23 | API_GATEWAY | ap-northeast-1 |
+  | 3.112.96.160/27 | API_GATEWAY | ap-northeast-1 |
+  | 35.73.115.128/25 | API_GATEWAY | ap-northeast-1 |
+  | 35.75.130.0/24 | API_GATEWAY | ap-northeast-1 |
+  | 35.75.131.0/26 | API_GATEWAY | ap-northeast-1 |
+  | 35.77.112.0/22 | API_GATEWAY | ap-northeast-1 |
+  | 35.77.124.0/23 | API_GATEWAY | ap-northeast-1 |
   | 13.230.21.128/26 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 13.230.21.224/28 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 13.230.21.240/28 | ROUTE53_RESOLVER | ap-northeast-1 |
@@ -927,73 +952,48 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.231.6.72/29 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 13.231.6.80/29 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 13.231.6.88/29 | ROUTE53_RESOLVER | ap-northeast-1 |
-  | 18.176.203.120/30 | AMAZON_APPFLOW | ap-northeast-1 |
-  | 18.177.156.192/26 | AMAZON | ap-northeast-1 |
-  | 18.179.48.128/27 | CLOUD9 | ap-northeast-1 |
-  | 18.179.48.96/27 | CLOUD9 | ap-northeast-1 |
-  | 18.180.178.0/24 | WORKSPACES_GATEWAYS | ap-northeast-1 |
-  | 18.180.180.0/23 | WORKSPACES_GATEWAYS | ap-northeast-1 |
-  | 18.180.88.0/23 | API_GATEWAY | ap-northeast-1 |
-  | 18.181.204.128/26 | AMAZON | ap-northeast-1 |
-  | 18.181.204.192/26 | AMAZON | ap-northeast-1 |
-  | 18.181.242.0/23 | AMAZON | ap-northeast-1 |
-  | 18.182.96.64/26 | AMAZON_CONNECT | ap-northeast-1 |
-  | 18.183.37.0/26 | AMAZON | ap-northeast-1 |
-  | 3.112.162.0/23 | API_GATEWAY | ap-northeast-1 |
-  | 3.112.23.0/29 | EC2_INSTANCE_CONNECT | ap-northeast-1 |
-  | 3.112.64.0/23 | AMAZON | ap-northeast-1 |
   | 3.112.85.96/27 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 3.112.96.0/26 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 3.112.96.128/27 | ROUTE53_RESOLVER | ap-northeast-1 |
-  | 3.112.96.160/27 | API_GATEWAY | ap-northeast-1 |
   | 3.112.96.64/26 | ROUTE53_RESOLVER | ap-northeast-1 |
-  | 3.113.218.0/26 | AMAZON | ap-northeast-1 |
   | 3.113.218.112/28 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 3.113.218.128/27 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 3.113.218.68/30 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 3.113.218.72/30 | ROUTE53_RESOLVER | ap-northeast-1 |
-  | 3.113.218.76/30 | AMAZON_APPFLOW | ap-northeast-1 |
-  | 3.114.164.0/22 | WORKSPACES_GATEWAYS | ap-northeast-1 |
-  | 35.72.164.212/30 | EBS | ap-northeast-1 |
-  | 35.72.164.232/29 | EBS | ap-northeast-1 |
-  | 35.72.164.240/28 | S3 | ap-northeast-1 |
   | 35.72.255.0/24 | ROUTE53_RESOLVER | ap-northeast-1 |
-  | 35.72.36.140/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
-  | 35.72.36.142/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
-  | 35.72.36.144/30 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
-  | 35.72.36.148/30 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
   | 35.72.36.192/27 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 35.72.36.224/27 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 35.72.37.0/25 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 35.72.37.128/25 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 35.73.0.0/22 | ROUTE53_RESOLVER | ap-northeast-1 |
-  | 35.73.115.0/28 | S3 | ap-northeast-1 |
-  | 35.73.115.128/25 | API_GATEWAY | ap-northeast-1 |
   | 35.73.4.0/24 | ROUTE53_RESOLVER | ap-northeast-1 |
   | 35.73.8.0/22 | ROUTE53_RESOLVER | ap-northeast-1 |
-  | 35.74.77.240/30 | AMAZON_APPFLOW | ap-northeast-1 |
-  | 35.75.130.0/24 | API_GATEWAY | ap-northeast-1 |
-  | 35.75.131.0/26 | API_GATEWAY | ap-northeast-1 |
-  | 35.75.131.80/29 | CODEBUILD | ap-northeast-1 |
-  | 35.76.252.0/23 | AMAZON | ap-northeast-1 |
-  | 35.77.0.128/26 | AMAZON | ap-northeast-1 |
-  | 35.77.112.0/22 | API_GATEWAY | ap-northeast-1 |
-  | 35.77.124.0/23 | API_GATEWAY | ap-northeast-1 |
-  | 43.207.179.168/29 | MEDIA_PACKAGE_V2 | ap-northeast-1 |
-  | 43.207.179.176/29 | MEDIA_PACKAGE_V2 | ap-northeast-1 |
-  | 52.195.198.0/23 | AMAZON | ap-northeast-1 |
-  | 52.195.200.0/22 | AMAZON | ap-northeast-1 |
-  | 52.199.127.192/26 | CLOUDFRONT | ap-northeast-1 |
-  | 54.248.220.0/26 | ROUTE53_HEALTHCHECKS | ap-northeast-1 |
-  | 54.250.251.0/24 | WORKSPACES_GATEWAYS | ap-northeast-1 |
-  | 54.250.253.192/26 | ROUTE53_HEALTHCHECKS | ap-northeast-1 |
-  | 57.180.138.64/26 | AMAZON | ap-northeast-1 |
+  | 13.113.244.25/32 | EBS | ap-northeast-1 |
+  | 35.72.164.212/30 | EBS | ap-northeast-1 |
+  | 35.72.164.232/29 | EBS | ap-northeast-1 |
   | 57.181.142.164/31 | EBS | ap-northeast-1 |
   | 57.181.142.168/30 | EBS | ap-northeast-1 |
   | 57.181.142.182/31 | EBS | ap-northeast-1 |
+  | 3.112.23.0/29 | EC2_INSTANCE_CONNECT | ap-northeast-1 |
+  | 35.72.36.140/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
+  | 35.72.36.142/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
+  | 35.72.36.144/30 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
+  | 35.72.36.148/30 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
   | 57.181.142.224/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
   | 57.181.142.228/30 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
-  | 57.181.184.192/26 | AMAZON | ap-northeast-1 |
+  | 18.180.178.0/24 | WORKSPACES_GATEWAYS | ap-northeast-1 |
+  | 18.180.180.0/23 | WORKSPACES_GATEWAYS | ap-northeast-1 |
+  | 3.114.164.0/22 | WORKSPACES_GATEWAYS | ap-northeast-1 |
+  | 54.250.251.0/24 | WORKSPACES_GATEWAYS | ap-northeast-1 |
+  | 18.176.203.120/30 | AMAZON_APPFLOW | ap-northeast-1 |
+  | 3.113.218.76/30 | AMAZON_APPFLOW | ap-northeast-1 |
+  | 35.74.77.240/30 | AMAZON_APPFLOW | ap-northeast-1 |
+  | 43.207.179.168/29 | MEDIA_PACKAGE_V2 | ap-northeast-1 |
+  | 43.207.179.176/29 | MEDIA_PACKAGE_V2 | ap-northeast-1 |
+  | 13.248.70.0/24 | DYNAMODB | ap-northeast-1 |
+  | 35.71.114.0/24 | DYNAMODB | ap-northeast-1 |
+  | 52.94.8.0/24 | DYNAMODB | ap-northeast-1 |
+  | 13.248.69.0/24 | DYNAMODB | ap-northeast-1 |
 </details>
 
 <details>
@@ -1110,6 +1110,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.151.144.0/21 | AMAZON | ap-northeast-2 |
   | 16.187.0.0/16 | AMAZON | ap-northeast-2 |
   | 13.34.12.136/32 | AMAZON | ap-northeast-2 |
+  | 15.164.243.224/27 | AMAZON | ap-northeast-2 |
+  | 15.165.193.128/26 | AMAZON | ap-northeast-2 |
+  | 15.165.193.64/26 | AMAZON | ap-northeast-2 |
+  | 3.34.101.192/26 | AMAZON | ap-northeast-2 |
+  | 3.34.228.0/26 | AMAZON | ap-northeast-2 |
+  | 3.34.228.64/26 | AMAZON | ap-northeast-2 |
+  | 3.38.131.192/26 | AMAZON | ap-northeast-2 |
+  | 43.202.70.0/23 | AMAZON | ap-northeast-2 |
+  | 43.202.72.0/22 | AMAZON | ap-northeast-2 |
+  | 54.180.184.0/23 | AMAZON | ap-northeast-2 |
   | 99.77.242.0/24 | CHIME_VOICECONNECTOR | ap-northeast-2 |
   | 3.5.140.0/22 | S3 | ap-northeast-2 |
   | 52.219.60.0/23 | S3 | ap-northeast-2 |
@@ -1120,8 +1130,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.144.0/23 | S3 | ap-northeast-2 |
   | 52.219.56.0/22 | S3 | ap-northeast-2 |
   | 52.219.144.0/22 | S3 | ap-northeast-2 |
-  | 52.94.6.0/24 | DYNAMODB | ap-northeast-2 |
-  | 35.71.109.0/24 | DYNAMODB | ap-northeast-2 |
+  | 3.36.167.64/28 | S3 | ap-northeast-2 |
+  | 3.36.167.80/28 | S3 | ap-northeast-2 |
   | 3.5.140.0/22 | EC2 | ap-northeast-2 |
   | 151.148.40.0/24 | EC2 | ap-northeast-2 |
   | 15.177.76.0/24 | EC2 | ap-northeast-2 |
@@ -1148,78 +1158,68 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.164.0.0/15 | EC2 | ap-northeast-2 |
   | 3.34.0.0/15 | EC2 | ap-northeast-2 |
   | 99.151.144.0/21 | EC2 | ap-northeast-2 |
+  | 13.124.199.0/24 | CLOUDFRONT | ap-northeast-2 |
+  | 3.35.130.128/25 | CLOUDFRONT | ap-northeast-2 |
+  | 52.78.247.128/26 | CLOUDFRONT | ap-northeast-2 |
   | 99.82.168.0/24 | GLOBALACCELERATOR | ap-northeast-2 |
   | 15.177.76.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-northeast-2 |
+  | 13.124.199.0/24 | CLOUDFRONT_ORIGIN_FACING | ap-northeast-2 |
+  | 15.164.243.192/27 | CLOUD9 | ap-northeast-2 |
+  | 15.164.243.32/27 | CLOUD9 | ap-northeast-2 |
+  | 13.124.145.16/29 | CODEBUILD | ap-northeast-2 |
+  | 3.38.90.8/29 | CODEBUILD | ap-northeast-2 |
+  | 15.164.156.0/23 | API_GATEWAY | ap-northeast-2 |
+  | 15.165.224.0/23 | API_GATEWAY | ap-northeast-2 |
+  | 3.38.229.0/25 | API_GATEWAY | ap-northeast-2 |
+  | 3.38.248.0/23 | API_GATEWAY | ap-northeast-2 |
+  | 3.39.113.0/24 | API_GATEWAY | ap-northeast-2 |
+  | 3.39.114.0/23 | API_GATEWAY | ap-northeast-2 |
+  | 3.39.116.0/26 | API_GATEWAY | ap-northeast-2 |
+  | 3.39.82.128/25 | API_GATEWAY | ap-northeast-2 |
   | 13.124.145.104/29 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 13.124.145.112/29 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 13.124.145.120/29 | ROUTE53_RESOLVER | ap-northeast-2 |
-  | 13.124.145.16/29 | CODEBUILD | ap-northeast-2 |
   | 13.124.145.24/29 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 13.124.145.64/29 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 13.124.145.72/29 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 13.124.145.80/29 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 13.124.145.88/29 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 13.124.145.96/29 | ROUTE53_RESOLVER | ap-northeast-2 |
-  | 13.124.199.0/24 | CLOUDFRONT_ORIGIN_FACING | ap-northeast-2 |
-  | 13.124.199.0/24 | CLOUDFRONT | ap-northeast-2 |
-  | 13.124.247.0/24 | WORKSPACES_GATEWAYS | ap-northeast-2 |
   | 13.209.1.0/29 | ROUTE53_RESOLVER | ap-northeast-2 |
-  | 13.209.1.56/29 | EC2_INSTANCE_CONNECT | ap-northeast-2 |
   | 13.209.1.8/29 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 13.209.1.96/27 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 13.209.71.128/27 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 13.209.71.224/27 | ROUTE53_RESOLVER | ap-northeast-2 |
-  | 15.164.156.0/23 | API_GATEWAY | ap-northeast-2 |
   | 15.164.243.0/28 | ROUTE53_RESOLVER | ap-northeast-2 |
-  | 15.164.243.192/27 | CLOUD9 | ap-northeast-2 |
-  | 15.164.243.224/27 | AMAZON | ap-northeast-2 |
-  | 15.164.243.32/27 | CLOUD9 | ap-northeast-2 |
-  | 15.165.193.128/26 | AMAZON | ap-northeast-2 |
-  | 15.165.193.64/26 | AMAZON | ap-northeast-2 |
-  | 15.165.224.0/23 | API_GATEWAY | ap-northeast-2 |
-  | 3.34.101.192/26 | AMAZON | ap-northeast-2 |
-  | 3.34.228.0/26 | AMAZON | ap-northeast-2 |
-  | 3.34.228.64/26 | AMAZON | ap-northeast-2 |
-  | 3.34.37.0/24 | WORKSPACES_GATEWAYS | ap-northeast-2 |
-  | 3.34.38.0/23 | WORKSPACES_GATEWAYS | ap-northeast-2 |
-  | 3.34.89.192/30 | AMAZON_APPFLOW | ap-northeast-2 |
-  | 3.34.89.196/30 | AMAZON_APPFLOW | ap-northeast-2 |
   | 3.34.89.64/26 | ROUTE53_RESOLVER | ap-northeast-2 |
-  | 3.35.130.128/25 | CLOUDFRONT | ap-northeast-2 |
-  | 3.35.160.0/22 | WORKSPACES_GATEWAYS | ap-northeast-2 |
   | 3.36.167.128/25 | ROUTE53_RESOLVER | ap-northeast-2 |
-  | 3.36.167.28/30 | EBS | ap-northeast-2 |
-  | 3.36.167.48/29 | EBS | ap-northeast-2 |
-  | 3.36.167.64/28 | S3 | ap-northeast-2 |
-  | 3.36.167.80/28 | S3 | ap-northeast-2 |
   | 3.36.190.0/23 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 3.36.192.0/23 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 3.36.194.0/23 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 3.36.202.0/25 | ROUTE53_RESOLVER | ap-northeast-2 |
-  | 3.36.245.204/30 | EBS | ap-northeast-2 |
-  | 3.36.245.232/30 | AMAZON_APPFLOW | ap-northeast-2 |
   | 3.36.3.160/28 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 3.36.3.192/27 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 3.36.3.224/27 | ROUTE53_RESOLVER | ap-northeast-2 |
   | 3.36.3.96/27 | ROUTE53_RESOLVER | ap-northeast-2 |
-  | 3.38.131.192/26 | AMAZON | ap-northeast-2 |
-  | 3.38.229.0/25 | API_GATEWAY | ap-northeast-2 |
-  | 3.38.248.0/23 | API_GATEWAY | ap-northeast-2 |
-  | 3.38.90.8/29 | CODEBUILD | ap-northeast-2 |
-  | 3.39.113.0/24 | API_GATEWAY | ap-northeast-2 |
-  | 3.39.114.0/23 | API_GATEWAY | ap-northeast-2 |
-  | 3.39.116.0/26 | API_GATEWAY | ap-northeast-2 |
-  | 3.39.82.128/25 | API_GATEWAY | ap-northeast-2 |
-  | 43.201.155.152/29 | MEDIA_PACKAGE_V2 | ap-northeast-2 |
-  | 43.201.155.160/29 | MEDIA_PACKAGE_V2 | ap-northeast-2 |
+  | 3.36.167.28/30 | EBS | ap-northeast-2 |
+  | 3.36.167.48/29 | EBS | ap-northeast-2 |
+  | 3.36.245.204/30 | EBS | ap-northeast-2 |
   | 43.202.108.242/31 | EBS | ap-northeast-2 |
   | 43.202.213.128/30 | EBS | ap-northeast-2 |
+  | 13.209.1.56/29 | EC2_INSTANCE_CONNECT | ap-northeast-2 |
   | 43.202.213.132/31 | KINESIS_VIDEO_STREAMS | ap-northeast-2 |
   | 43.202.213.136/30 | KINESIS_VIDEO_STREAMS | ap-northeast-2 |
-  | 43.202.70.0/23 | AMAZON | ap-northeast-2 |
-  | 43.202.72.0/22 | AMAZON | ap-northeast-2 |
-  | 52.78.247.128/26 | CLOUDFRONT | ap-northeast-2 |
-  | 54.180.184.0/23 | AMAZON | ap-northeast-2 |
+  | 13.124.247.0/24 | WORKSPACES_GATEWAYS | ap-northeast-2 |
+  | 3.34.37.0/24 | WORKSPACES_GATEWAYS | ap-northeast-2 |
+  | 3.34.38.0/23 | WORKSPACES_GATEWAYS | ap-northeast-2 |
+  | 3.35.160.0/22 | WORKSPACES_GATEWAYS | ap-northeast-2 |
+  | 3.34.89.192/30 | AMAZON_APPFLOW | ap-northeast-2 |
+  | 3.34.89.196/30 | AMAZON_APPFLOW | ap-northeast-2 |
+  | 3.36.245.232/30 | AMAZON_APPFLOW | ap-northeast-2 |
+  | 43.201.155.152/29 | MEDIA_PACKAGE_V2 | ap-northeast-2 |
+  | 43.201.155.160/29 | MEDIA_PACKAGE_V2 | ap-northeast-2 |
+  | 52.94.6.0/24 | DYNAMODB | ap-northeast-2 |
+  | 35.71.109.0/24 | DYNAMODB | ap-northeast-2 |
 </details>
 
 <details>
@@ -1315,14 +1315,23 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.150.96.0/21 | AMAZON | ap-northeast-3 |
   | 13.34.92.128/27 | AMAZON | ap-northeast-3 |
   | 56.155.128.0/17 | AMAZON | ap-northeast-3 |
+  | 13.208.170.0/23 | AMAZON | ap-northeast-3 |
+  | 15.152.24.192/26 | AMAZON | ap-northeast-3 |
+  | 15.152.24.64/26 | AMAZON | ap-northeast-3 |
+  | 15.152.8.192/26 | AMAZON | ap-northeast-3 |
+  | 15.168.100.0/23 | AMAZON | ap-northeast-3 |
+  | 15.168.162.0/23 | AMAZON | ap-northeast-3 |
+  | 15.168.40.0/25 | AMAZON | ap-northeast-3 |
+  | 15.168.40.128/25 | AMAZON | ap-northeast-3 |
+  | 15.168.96.0/22 | AMAZON | ap-northeast-3 |
   | 99.77.243.0/24 | CHIME_VOICECONNECTOR | ap-northeast-3 |
   | 52.95.182.0/23 | S3 | ap-northeast-3 |
   | 52.95.157.0/24 | S3 | ap-northeast-3 |
   | 3.5.240.0/22 | S3 | ap-northeast-3 |
   | 52.95.158.0/23 | S3 | ap-northeast-3 |
   | 52.95.181.0/24 | S3 | ap-northeast-3 |
-  | 35.71.110.0/24 | DYNAMODB | ap-northeast-3 |
-  | 52.94.19.0/24 | DYNAMODB | ap-northeast-3 |
+  | 15.152.133.112/28 | S3 | ap-northeast-3 |
+  | 15.152.133.128/28 | S3 | ap-northeast-3 |
   | 13.208.0.0/16 | EC2 | ap-northeast-3 |
   | 15.168.0.0/16 | EC2 | ap-northeast-3 |
   | 15.177.77.0/24 | EC2 | ap-northeast-3 |
@@ -1339,6 +1348,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.150.96.0/21 | EC2 | ap-northeast-3 |
   | 99.83.100.0/24 | GLOBALACCELERATOR | ap-northeast-3 |
   | 15.177.77.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-northeast-3 |
+  | 15.152.24.0/27 | CLOUD9 | ap-northeast-3 |
+  | 15.152.24.32/27 | CLOUD9 | ap-northeast-3 |
+  | 15.152.24.128/29 | CODEBUILD | ap-northeast-3 |
+  | 13.208.180.0/24 | API_GATEWAY | ap-northeast-3 |
+  | 13.208.194.0/23 | API_GATEWAY | ap-northeast-3 |
+  | 15.152.10.0/24 | API_GATEWAY | ap-northeast-3 |
+  | 15.152.174.0/23 | API_GATEWAY | ap-northeast-3 |
+  | 15.152.176.0/22 | API_GATEWAY | ap-northeast-3 |
   | 13.208.131.0/29 | ROUTE53_RESOLVER | ap-northeast-3 |
   | 13.208.131.128/27 | ROUTE53_RESOLVER | ap-northeast-3 |
   | 13.208.131.16/29 | ROUTE53_RESOLVER | ap-northeast-3 |
@@ -1351,41 +1368,24 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.208.131.32/29 | ROUTE53_RESOLVER | ap-northeast-3 |
   | 13.208.131.40/29 | ROUTE53_RESOLVER | ap-northeast-3 |
   | 13.208.131.8/29 | ROUTE53_RESOLVER | ap-northeast-3 |
-  | 13.208.170.0/23 | AMAZON | ap-northeast-3 |
   | 13.208.177.224/27 | ROUTE53_RESOLVER | ap-northeast-3 |
-  | 13.208.180.0/24 | API_GATEWAY | ap-northeast-3 |
-  | 13.208.194.0/23 | API_GATEWAY | ap-northeast-3 |
   | 13.208.217.64/27 | ROUTE53_RESOLVER | ap-northeast-3 |
   | 13.208.217.96/27 | ROUTE53_RESOLVER | ap-northeast-3 |
   | 13.208.227.0/25 | ROUTE53_RESOLVER | ap-northeast-3 |
   | 13.208.227.128/25 | ROUTE53_RESOLVER | ap-northeast-3 |
   | 13.208.228.0/25 | ROUTE53_RESOLVER | ap-northeast-3 |
-  | 13.208.228.128/29 | EBS | ap-northeast-3 |
-  | 13.208.228.136/30 | EBS | ap-northeast-3 |
   | 13.208.33.16/29 | ROUTE53_RESOLVER | ap-northeast-3 |
   | 13.208.33.24/29 | ROUTE53_RESOLVER | ap-northeast-3 |
   | 13.208.33.8/29 | ROUTE53_RESOLVER | ap-northeast-3 |
-  | 15.152.10.0/24 | API_GATEWAY | ap-northeast-3 |
-  | 15.152.133.112/28 | S3 | ap-northeast-3 |
-  | 15.152.133.128/28 | S3 | ap-northeast-3 |
+  | 13.208.228.128/29 | EBS | ap-northeast-3 |
+  | 13.208.228.136/30 | EBS | ap-northeast-3 |
   | 15.152.133.252/31 | EBS | ap-northeast-3 |
-  | 15.152.174.0/23 | API_GATEWAY | ap-northeast-3 |
-  | 15.152.176.0/22 | API_GATEWAY | ap-northeast-3 |
-  | 15.152.24.0/27 | CLOUD9 | ap-northeast-3 |
-  | 15.152.24.128/29 | CODEBUILD | ap-northeast-3 |
-  | 15.152.24.192/26 | AMAZON | ap-northeast-3 |
-  | 15.152.24.32/27 | CLOUD9 | ap-northeast-3 |
-  | 15.152.24.64/26 | AMAZON | ap-northeast-3 |
-  | 15.152.8.192/26 | AMAZON | ap-northeast-3 |
-  | 15.168.100.0/23 | AMAZON | ap-northeast-3 |
+  | 15.168.105.168/30 | EBS | ap-northeast-3 |
+  | 15.168.105.160/29 | EC2_INSTANCE_CONNECT | ap-northeast-3 |
   | 15.168.105.144/29 | MEDIA_PACKAGE_V2 | ap-northeast-3 |
   | 15.168.105.152/29 | MEDIA_PACKAGE_V2 | ap-northeast-3 |
-  | 15.168.105.160/29 | EC2_INSTANCE_CONNECT | ap-northeast-3 |
-  | 15.168.105.168/30 | EBS | ap-northeast-3 |
-  | 15.168.162.0/23 | AMAZON | ap-northeast-3 |
-  | 15.168.40.0/25 | AMAZON | ap-northeast-3 |
-  | 15.168.40.128/25 | AMAZON | ap-northeast-3 |
-  | 15.168.96.0/22 | AMAZON | ap-northeast-3 |
+  | 35.71.110.0/24 | DYNAMODB | ap-northeast-3 |
+  | 52.94.19.0/24 | DYNAMODB | ap-northeast-3 |
 </details>
 
 <details>
@@ -1567,6 +1567,20 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.13.230/32 | AMAZON | ap-south-1 |
   | 13.34.80.160/27 | AMAZON | ap-south-1 |
   | 13.34.98.0/27 | AMAZON | ap-south-1 |
+  | 13.200.90.0/23 | AMAZON | ap-south-1 |
+  | 13.200.92.0/22 | AMAZON | ap-south-1 |
+  | 13.201.231.0/24 | AMAZON | ap-south-1 |
+  | 13.234.221.192/26 | AMAZON | ap-south-1 |
+  | 13.234.8.0/23 | AMAZON | ap-south-1 |
+  | 15.206.137.128/26 | AMAZON | ap-south-1 |
+  | 15.206.137.192/26 | AMAZON | ap-south-1 |
+  | 15.207.13.0/26 | AMAZON | ap-south-1 |
+  | 3.110.57.0/24 | AMAZON | ap-south-1 |
+  | 3.110.71.0/26 | AMAZON | ap-south-1 |
+  | 3.6.70.128/26 | AMAZON | ap-south-1 |
+  | 65.2.14.0/23 | AMAZON | ap-south-1 |
+  | 65.2.16.0/23 | AMAZON | ap-south-1 |
+  | 65.2.192.0/26 | AMAZON | ap-south-1 |
   | 99.77.238.0/24 | CHIME_VOICECONNECTOR | ap-south-1 |
   | 3.5.208.0/22 | S3 | ap-south-1 |
   | 52.219.62.0/23 | S3 | ap-south-1 |
@@ -1576,8 +1590,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.64.0/22 | S3 | ap-south-1 |
   | 52.219.156.0/22 | S3 | ap-south-1 |
   | 16.12.40.0/23 | S3 | ap-south-1 |
-  | 35.71.100.0/24 | DYNAMODB | ap-south-1 |
-  | 52.94.20.0/24 | DYNAMODB | ap-south-1 |
+  | 65.1.103.208/28 | S3 | ap-south-1 |
+  | 65.1.103.224/28 | S3 | ap-south-1 |
   | 3.108.0.0/14 | EC2 | ap-south-1 |
   | 15.220.216.0/22 | EC2 | ap-south-1-del-2 |
   | 99.77.238.0/24 | EC2 | ap-south-1 |
@@ -1616,74 +1630,60 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 64.252.99.0/24 | EC2 | ap-south-1 |
   | 15.220.128.0/21 | EC2 | ap-south-1-del-1 |
   | 142.4.177.0/24 | EC2 | ap-south-1 |
+  | 13.233.177.192/26 | CLOUDFRONT | ap-south-1 |
+  | 15.207.13.128/25 | CLOUDFRONT | ap-south-1 |
+  | 15.207.213.128/25 | CLOUDFRONT | ap-south-1 |
+  | 52.66.194.128/26 | CLOUDFRONT | ap-south-1 |
   | 13.248.117.0/24 | GLOBALACCELERATOR | ap-south-1 |
   | 13.248.105.0/24 | GLOBALACCELERATOR | ap-south-1 |
   | 99.82.160.0/24 | GLOBALACCELERATOR | ap-south-1 |
   | 15.177.73.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-south-1 |
+  | 13.232.67.128/27 | CLOUD9 | ap-south-1 |
+  | 13.232.67.160/27 | CLOUD9 | ap-south-1 |
+  | 13.127.70.136/29 | CODEBUILD | ap-south-1 |
+  | 3.109.72.152/29 | CODEBUILD | ap-south-1 |
+  | 13.200.140.0/23 | API_GATEWAY | ap-south-1 |
+  | 13.235.228.0/24 | API_GATEWAY | ap-south-1 |
+  | 13.235.6.0/23 | API_GATEWAY | ap-south-1 |
+  | 3.109.72.0/25 | API_GATEWAY | ap-south-1 |
+  | 3.111.110.0/23 | API_GATEWAY | ap-south-1 |
+  | 3.111.251.0/24 | API_GATEWAY | ap-south-1 |
+  | 3.111.90.0/23 | API_GATEWAY | ap-south-1 |
+  | 3.7.10.0/23 | API_GATEWAY | ap-south-1 |
   | 13.126.23.136/29 | ROUTE53_RESOLVER | ap-south-1 |
   | 13.126.23.144/29 | ROUTE53_RESOLVER | ap-south-1 |
   | 13.126.23.152/29 | ROUTE53_RESOLVER | ap-south-1 |
   | 13.126.23.160/27 | ROUTE53_RESOLVER | ap-south-1 |
   | 13.126.23.192/27 | ROUTE53_RESOLVER | ap-south-1 |
-  | 13.126.243.0/24 | WORKSPACES_GATEWAYS | ap-south-1 |
   | 13.127.70.128/29 | ROUTE53_RESOLVER | ap-south-1 |
-  | 13.127.70.136/29 | CODEBUILD | ap-south-1 |
   | 13.127.70.144/29 | ROUTE53_RESOLVER | ap-south-1 |
   | 13.127.70.152/29 | ROUTE53_RESOLVER | ap-south-1 |
   | 13.127.70.160/29 | ROUTE53_RESOLVER | ap-south-1 |
-  | 13.200.140.0/23 | API_GATEWAY | ap-south-1 |
-  | 13.200.142.112/30 | EBS | ap-south-1 |
-  | 13.200.142.116/31 | KINESIS_VIDEO_STREAMS | ap-south-1 |
-  | 13.200.142.82/31 | EBS | ap-south-1 |
-  | 13.200.7.128/29 | MEDIA_PACKAGE_V2 | ap-south-1 |
-  | 13.200.7.136/29 | MEDIA_PACKAGE_V2 | ap-south-1 |
-  | 13.200.90.0/23 | AMAZON | ap-south-1 |
-  | 13.200.92.0/22 | AMAZON | ap-south-1 |
-  | 13.201.195.64/30 | KINESIS_VIDEO_STREAMS | ap-south-1 |
-  | 13.201.231.0/24 | AMAZON | ap-south-1 |
-  | 13.232.67.128/27 | CLOUD9 | ap-south-1 |
-  | 13.232.67.160/27 | CLOUD9 | ap-south-1 |
-  | 13.233.177.0/29 | EC2_INSTANCE_CONNECT | ap-south-1 |
-  | 13.233.177.192/26 | CLOUDFRONT | ap-south-1 |
   | 13.233.177.32/27 | ROUTE53_RESOLVER | ap-south-1 |
   | 13.234.221.136/29 | ROUTE53_RESOLVER | ap-south-1 |
-  | 13.234.221.192/26 | AMAZON | ap-south-1 |
-  | 13.234.8.0/23 | AMAZON | ap-south-1 |
   | 13.235.197.96/27 | ROUTE53_RESOLVER | ap-south-1 |
-  | 13.235.228.0/24 | API_GATEWAY | ap-south-1 |
-  | 13.235.6.0/23 | API_GATEWAY | ap-south-1 |
-  | 15.206.137.128/26 | AMAZON | ap-south-1 |
-  | 15.206.137.192/26 | AMAZON | ap-south-1 |
-  | 15.207.13.0/26 | AMAZON | ap-south-1 |
-  | 15.207.13.128/25 | CLOUDFRONT | ap-south-1 |
-  | 15.207.213.128/25 | CLOUDFRONT | ap-south-1 |
-  | 3.108.13.124/30 | AMAZON_APPFLOW | ap-south-1 |
-  | 3.109.72.0/25 | API_GATEWAY | ap-south-1 |
-  | 3.109.72.152/29 | CODEBUILD | ap-south-1 |
-  | 3.110.57.0/24 | AMAZON | ap-south-1 |
-  | 3.110.71.0/26 | AMAZON | ap-south-1 |
-  | 3.111.110.0/23 | API_GATEWAY | ap-south-1 |
-  | 3.111.251.0/24 | API_GATEWAY | ap-south-1 |
-  | 3.111.90.0/23 | API_GATEWAY | ap-south-1 |
-  | 3.6.70.128/26 | AMAZON | ap-south-1 |
-  | 3.6.70.76/30 | AMAZON_APPFLOW | ap-south-1 |
-  | 3.7.10.0/23 | API_GATEWAY | ap-south-1 |
-  | 3.7.25.48/30 | AMAZON_APPFLOW | ap-south-1 |
-  | 52.66.194.128/26 | CLOUDFRONT | ap-south-1 |
   | 65.0.192.176/28 | ROUTE53_RESOLVER | ap-south-1 |
   | 65.0.192.224/27 | ROUTE53_RESOLVER | ap-south-1 |
   | 65.0.234.0/26 | ROUTE53_RESOLVER | ap-south-1 |
-  | 65.1.103.192/29 | EBS | ap-south-1 |
-  | 65.1.103.200/30 | EBS | ap-south-1 |
-  | 65.1.103.208/28 | S3 | ap-south-1 |
-  | 65.1.103.224/28 | S3 | ap-south-1 |
-  | 65.1.156.0/22 | WORKSPACES_GATEWAYS | ap-south-1 |
   | 65.1.170.0/23 | ROUTE53_RESOLVER | ap-south-1 |
   | 65.1.172.0/23 | ROUTE53_RESOLVER | ap-south-1 |
   | 65.1.174.0/23 | ROUTE53_RESOLVER | ap-south-1 |
-  | 65.2.14.0/23 | AMAZON | ap-south-1 |
-  | 65.2.16.0/23 | AMAZON | ap-south-1 |
-  | 65.2.192.0/26 | AMAZON | ap-south-1 |
+  | 13.200.142.112/30 | EBS | ap-south-1 |
+  | 13.200.142.82/31 | EBS | ap-south-1 |
+  | 65.1.103.192/29 | EBS | ap-south-1 |
+  | 65.1.103.200/30 | EBS | ap-south-1 |
+  | 13.233.177.0/29 | EC2_INSTANCE_CONNECT | ap-south-1 |
+  | 13.200.142.116/31 | KINESIS_VIDEO_STREAMS | ap-south-1 |
+  | 13.201.195.64/30 | KINESIS_VIDEO_STREAMS | ap-south-1 |
+  | 13.126.243.0/24 | WORKSPACES_GATEWAYS | ap-south-1 |
+  | 65.1.156.0/22 | WORKSPACES_GATEWAYS | ap-south-1 |
+  | 3.108.13.124/30 | AMAZON_APPFLOW | ap-south-1 |
+  | 3.6.70.76/30 | AMAZON_APPFLOW | ap-south-1 |
+  | 3.7.25.48/30 | AMAZON_APPFLOW | ap-south-1 |
+  | 13.200.7.128/29 | MEDIA_PACKAGE_V2 | ap-south-1 |
+  | 13.200.7.136/29 | MEDIA_PACKAGE_V2 | ap-south-1 |
+  | 35.71.100.0/24 | DYNAMODB | ap-south-1 |
+  | 52.94.20.0/24 | DYNAMODB | ap-south-1 |
 </details>
 
 <details>
@@ -1732,19 +1732,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.87.8.0/21 | AMAZON | ap-south-2 |
   | 150.222.50.128/27 | AMAZON | ap-south-2 |
   | 40.195.0.0/16 | AMAZON | ap-south-2 |
-  | 3.5.44.0/22 | S3 | ap-south-2 |
-  | 52.95.186.0/24 | S3 | ap-south-2 |
-  | 52.95.184.0/23 | S3 | ap-south-2 |
-  | 13.248.64.0/24 | DYNAMODB | ap-south-2 |
-  | 35.71.108.0/24 | DYNAMODB | ap-south-2 |
-  | 15.177.94.0/24 | EC2 | ap-south-2 |
-  | 52.94.249.208/28 | EC2 | ap-south-2 |
-  | 18.60.0.0/15 | EC2 | ap-south-2 |
-  | 3.5.44.0/22 | EC2 | ap-south-2 |
-  | 99.150.112.0/21 | EC2 | ap-south-2 |
-  | 98.130.0.0/16 | EC2 | ap-south-2 |
-  | 35.71.108.0/24 | EC2 | ap-south-2 |
-  | 15.177.94.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-south-2 |
   | 18.60.125.0/24 | AMAZON | ap-south-2 |
   | 18.60.127.0/24 | AMAZON | ap-south-2 |
   | 18.60.128.0/24 | AMAZON | ap-south-2 |
@@ -1754,20 +1741,33 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.60.192.0/25 | AMAZON | ap-south-2 |
   | 18.60.196.0/25 | AMAZON | ap-south-2 |
   | 18.60.196.128/25 | AMAZON | ap-south-2 |
-  | 18.60.252.248/29 | EC2_INSTANCE_CONNECT | ap-south-2 |
-  | 18.60.64.192/26 | ROUTE53_RESOLVER | ap-south-2 |
-  | 18.60.65.0/24 | API_GATEWAY | ap-south-2 |
-  | 18.60.68.0/26 | ROUTE53_RESOLVER | ap-south-2 |
-  | 18.60.68.64/26 | ROUTE53_RESOLVER | ap-south-2 |
   | 18.60.76.0/23 | AMAZON | ap-south-2 |
-  | 18.60.78.192/28 | S3 | ap-south-2 |
-  | 18.60.78.208/28 | S3 | ap-south-2 |
-  | 18.60.78.240/28 | CODEBUILD | ap-south-2 |
   | 18.61.120.0/22 | AMAZON | ap-south-2 |
   | 18.61.124.0/23 | AMAZON | ap-south-2 |
+  | 3.5.44.0/22 | S3 | ap-south-2 |
+  | 52.95.186.0/24 | S3 | ap-south-2 |
+  | 52.95.184.0/23 | S3 | ap-south-2 |
+  | 18.60.78.192/28 | S3 | ap-south-2 |
+  | 18.60.78.208/28 | S3 | ap-south-2 |
+  | 15.177.94.0/24 | EC2 | ap-south-2 |
+  | 52.94.249.208/28 | EC2 | ap-south-2 |
+  | 18.60.0.0/15 | EC2 | ap-south-2 |
+  | 3.5.44.0/22 | EC2 | ap-south-2 |
+  | 99.150.112.0/21 | EC2 | ap-south-2 |
+  | 98.130.0.0/16 | EC2 | ap-south-2 |
+  | 35.71.108.0/24 | EC2 | ap-south-2 |
+  | 15.177.94.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-south-2 |
+  | 18.60.78.240/28 | CODEBUILD | ap-south-2 |
+  | 18.60.65.0/24 | API_GATEWAY | ap-south-2 |
   | 18.61.189.0/24 | API_GATEWAY | ap-south-2 |
   | 18.61.26.0/25 | API_GATEWAY | ap-south-2 |
   | 18.61.26.128/25 | API_GATEWAY | ap-south-2 |
+  | 18.60.64.192/26 | ROUTE53_RESOLVER | ap-south-2 |
+  | 18.60.68.0/26 | ROUTE53_RESOLVER | ap-south-2 |
+  | 18.60.68.64/26 | ROUTE53_RESOLVER | ap-south-2 |
+  | 18.60.252.248/29 | EC2_INSTANCE_CONNECT | ap-south-2 |
+  | 13.248.64.0/24 | DYNAMODB | ap-south-2 |
+  | 35.71.108.0/24 | DYNAMODB | ap-south-2 |
 </details>
 
 <details>
@@ -2081,7 +2081,22 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.17.164/32 | AMAZON | ap-southeast-1 |
   | 54.240.226.0/24 | AMAZON | ap-southeast-1 |
   | 13.228.0.0/15 | AMAZON | ap-southeast-1 |
+  | 13.212.3.128/26 | AMAZON | ap-southeast-1 |
+  | 13.212.3.64/26 | AMAZON | ap-southeast-1 |
+  | 13.214.118.0/23 | AMAZON | ap-southeast-1 |
+  | 13.214.124.128/26 | AMAZON | ap-southeast-1 |
+  | 13.251.113.64/26 | AMAZON | ap-southeast-1 |
+  | 13.251.116.0/23 | AMAZON | ap-southeast-1 |
+  | 18.141.148.0/26 | AMAZON | ap-southeast-1 |
+  | 18.141.226.0/23 | AMAZON | ap-southeast-1 |
+  | 18.141.238.0/26 | AMAZON | ap-southeast-1 |
+  | 18.143.204.64/26 | AMAZON | ap-southeast-1 |
+  | 47.128.4.0/22 | AMAZON | ap-southeast-1 |
+  | 47.128.8.0/23 | AMAZON | ap-southeast-1 |
+  | 47.129.81.64/26 | AMAZON | ap-southeast-1 |
   | 99.77.240.0/24 | CHIME_VOICECONNECTOR | ap-southeast-1 |
+  | 54.251.31.128/26 | ROUTE53_HEALTHCHECKS | ap-southeast-1 |
+  | 54.255.254.192/26 | ROUTE53_HEALTHCHECKS | ap-southeast-1 |
   | 16.12.48.0/21 | S3 | ap-southeast-1 |
   | 52.219.32.0/21 | S3 | ap-southeast-1 |
   | 52.219.180.0/22 | S3 | ap-southeast-1 |
@@ -2093,8 +2108,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.184.0/21 | S3 | ap-southeast-1 |
   | 52.219.132.0/22 | S3 | ap-southeast-1 |
   | 3.5.148.0/22 | S3 | ap-southeast-1 |
-  | 35.71.118.0/24 | DYNAMODB | ap-southeast-1 |
-  | 52.94.11.0/24 | DYNAMODB | ap-southeast-1 |
+  | 13.213.20.144/28 | S3 | ap-southeast-1 |
+  | 13.213.20.160/28 | S3 | ap-southeast-1 |
   | 15.193.2.0/24 | EC2 | ap-southeast-1 |
   | 15.177.82.0/24 | EC2 | ap-southeast-1 |
   | 47.128.0.0/14 | EC2 | ap-southeast-1 |
@@ -2155,6 +2170,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 96.0.128.0/23 | EC2 | ap-southeast-1-sggov-sin-1b |
   | 151.148.38.0/24 | EC2 | ap-southeast-1 |
   | 13.228.0.0/15 | EC2 | ap-southeast-1 |
+  | 13.228.69.0/24 | CLOUDFRONT | ap-southeast-1 |
+  | 52.220.191.0/26 | CLOUDFRONT | ap-southeast-1 |
   | 99.83.102.0/24 | GLOBALACCELERATOR | ap-southeast-1 |
   | 99.82.173.0/24 | GLOBALACCELERATOR | ap-southeast-1 |
   | 13.248.127.0/24 | GLOBALACCELERATOR | ap-southeast-1 |
@@ -2162,75 +2179,58 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.125.0/24 | GLOBALACCELERATOR | ap-southeast-1 |
   | 13.248.107.0/24 | GLOBALACCELERATOR | ap-southeast-1 |
   | 15.177.82.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-1 |
-  | 13.212.132.0/22 | WORKSPACES_GATEWAYS | ap-southeast-1 |
-  | 13.212.209.128/26 | ROUTE53_RESOLVER | ap-southeast-1 |
-  | 13.212.209.94/31 | ROUTE53_RESOLVER | ap-southeast-1 |
-  | 13.212.209.96/27 | ROUTE53_RESOLVER | ap-southeast-1 |
-  | 13.212.3.128/26 | AMAZON | ap-southeast-1 |
-  | 13.212.3.64/26 | AMAZON | ap-southeast-1 |
-  | 13.213.20.132/30 | EBS | ap-southeast-1 |
-  | 13.213.20.136/29 | EBS | ap-southeast-1 |
-  | 13.213.20.144/28 | S3 | ap-southeast-1 |
-  | 13.213.20.160/28 | S3 | ap-southeast-1 |
-  | 13.213.21.0/24 | ROUTE53_RESOLVER | ap-southeast-1 |
-  | 13.213.22.0/23 | ROUTE53_RESOLVER | ap-southeast-1 |
-  | 13.213.24.0/23 | ROUTE53_RESOLVER | ap-southeast-1 |
+  | 13.250.186.128/27 | CLOUD9 | ap-southeast-1 |
+  | 13.250.186.160/27 | CLOUD9 | ap-southeast-1 |
   | 13.213.75.224/29 | CODEBUILD | ap-southeast-1 |
-  | 13.214.118.0/23 | AMAZON | ap-southeast-1 |
-  | 13.214.124.128/26 | AMAZON | ap-southeast-1 |
+  | 52.221.221.128/29 | CODEBUILD | ap-southeast-1 |
   | 13.214.224.0/23 | API_GATEWAY | ap-southeast-1 |
   | 13.214.228.0/22 | API_GATEWAY | ap-southeast-1 |
   | 13.215.92.0/24 | API_GATEWAY | ap-southeast-1 |
   | 13.215.93.0/25 | API_GATEWAY | ap-southeast-1 |
   | 13.215.93.128/26 | API_GATEWAY | ap-southeast-1 |
-  | 13.228.69.0/24 | CLOUDFRONT | ap-southeast-1 |
+  | 18.138.134.128/25 | API_GATEWAY | ap-southeast-1 |
+  | 18.138.244.0/23 | API_GATEWAY | ap-southeast-1 |
+  | 18.141.148.128/25 | API_GATEWAY | ap-southeast-1 |
+  | 18.141.150.0/23 | API_GATEWAY | ap-southeast-1 |
+  | 13.212.209.128/26 | ROUTE53_RESOLVER | ap-southeast-1 |
+  | 13.212.209.94/31 | ROUTE53_RESOLVER | ap-southeast-1 |
+  | 13.212.209.96/27 | ROUTE53_RESOLVER | ap-southeast-1 |
+  | 13.213.21.0/24 | ROUTE53_RESOLVER | ap-southeast-1 |
+  | 13.213.22.0/23 | ROUTE53_RESOLVER | ap-southeast-1 |
+  | 13.213.24.0/23 | ROUTE53_RESOLVER | ap-southeast-1 |
   | 13.229.187.192/27 | ROUTE53_RESOLVER | ap-southeast-1 |
   | 13.229.187.232/29 | ROUTE53_RESOLVER | ap-southeast-1 |
   | 13.250.186.0/29 | ROUTE53_RESOLVER | ap-southeast-1 |
-  | 13.250.186.128/27 | CLOUD9 | ap-southeast-1 |
   | 13.250.186.16/29 | ROUTE53_RESOLVER | ap-southeast-1 |
-  | 13.250.186.160/27 | CLOUD9 | ap-southeast-1 |
   | 13.250.186.192/29 | ROUTE53_RESOLVER | ap-southeast-1 |
   | 13.250.186.200/29 | ROUTE53_RESOLVER | ap-southeast-1 |
   | 13.250.186.208/29 | ROUTE53_RESOLVER | ap-southeast-1 |
   | 13.250.186.8/29 | ROUTE53_RESOLVER | ap-southeast-1 |
-  | 13.251.113.64/26 | AMAZON | ap-southeast-1 |
-  | 13.251.116.0/23 | AMAZON | ap-southeast-1 |
   | 18.136.1.192/27 | ROUTE53_RESOLVER | ap-southeast-1 |
   | 18.136.1.224/27 | ROUTE53_RESOLVER | ap-southeast-1 |
-  | 18.138.134.128/25 | API_GATEWAY | ap-southeast-1 |
-  | 18.138.244.0/23 | API_GATEWAY | ap-southeast-1 |
   | 18.139.204.176/28 | ROUTE53_RESOLVER | ap-southeast-1 |
   | 18.139.204.192/27 | ROUTE53_RESOLVER | ap-southeast-1 |
   | 18.140.177.0/26 | ROUTE53_RESOLVER | ap-southeast-1 |
   | 18.140.177.64/26 | ROUTE53_RESOLVER | ap-southeast-1 |
-  | 18.141.148.0/26 | AMAZON | ap-southeast-1 |
-  | 18.141.148.128/25 | API_GATEWAY | ap-southeast-1 |
-  | 18.141.150.0/23 | API_GATEWAY | ap-southeast-1 |
+  | 3.0.5.224/27 | ROUTE53_RESOLVER | ap-southeast-1 |
+  | 13.213.20.132/30 | EBS | ap-southeast-1 |
+  | 13.213.20.136/29 | EBS | ap-southeast-1 |
+  | 47.128.82.100/31 | EBS | ap-southeast-1 |
+  | 47.129.23.128/30 | EBS | ap-southeast-1 |
+  | 3.0.5.32/29 | EC2_INSTANCE_CONNECT | ap-southeast-1 |
+  | 47.128.82.102/31 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
+  | 47.129.23.132/30 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
+  | 13.212.132.0/22 | WORKSPACES_GATEWAYS | ap-southeast-1 |
   | 18.141.152.0/24 | WORKSPACES_GATEWAYS | ap-southeast-1 |
   | 18.141.154.0/23 | WORKSPACES_GATEWAYS | ap-southeast-1 |
-  | 18.141.226.0/23 | AMAZON | ap-southeast-1 |
-  | 18.141.238.0/26 | AMAZON | ap-southeast-1 |
+  | 52.76.127.0/24 | WORKSPACES_GATEWAYS | ap-southeast-1 |
   | 18.141.238.68/30 | AMAZON_APPFLOW | ap-southeast-1 |
   | 18.141.66.248/30 | AMAZON_APPFLOW | ap-southeast-1 |
   | 18.141.66.252/30 | AMAZON_APPFLOW | ap-southeast-1 |
-  | 18.143.204.64/26 | AMAZON | ap-southeast-1 |
   | 18.143.206.152/29 | MEDIA_PACKAGE_V2 | ap-southeast-1 |
   | 18.143.206.160/29 | MEDIA_PACKAGE_V2 | ap-southeast-1 |
-  | 3.0.5.224/27 | ROUTE53_RESOLVER | ap-southeast-1 |
-  | 3.0.5.32/29 | EC2_INSTANCE_CONNECT | ap-southeast-1 |
-  | 47.128.4.0/22 | AMAZON | ap-southeast-1 |
-  | 47.128.8.0/23 | AMAZON | ap-southeast-1 |
-  | 47.128.82.100/31 | EBS | ap-southeast-1 |
-  | 47.128.82.102/31 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
-  | 47.129.23.128/30 | EBS | ap-southeast-1 |
-  | 47.129.23.132/30 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
-  | 47.129.81.64/26 | AMAZON | ap-southeast-1 |
-  | 52.220.191.0/26 | CLOUDFRONT | ap-southeast-1 |
-  | 52.221.221.128/29 | CODEBUILD | ap-southeast-1 |
-  | 52.76.127.0/24 | WORKSPACES_GATEWAYS | ap-southeast-1 |
-  | 54.251.31.128/26 | ROUTE53_HEALTHCHECKS | ap-southeast-1 |
-  | 54.255.254.192/26 | ROUTE53_HEALTHCHECKS | ap-southeast-1 |
+  | 35.71.118.0/24 | DYNAMODB | ap-southeast-1 |
+  | 52.94.11.0/24 | DYNAMODB | ap-southeast-1 |
 </details>
 
 <details>
@@ -2500,13 +2500,24 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.7.173/32 | AMAZON | ap-southeast-2 |
   | 13.34.68.204/32 | AMAZON | ap-southeast-2 |
   | 13.34.1.65/32 | AMAZON | ap-southeast-2 |
+  | 3.104.82.0/23 | AMAZON | ap-southeast-2 |
+  | 3.24.227.192/26 | AMAZON | ap-southeast-2 |
+  | 3.25.138.0/26 | AMAZON | ap-southeast-2 |
+  | 3.25.138.64/26 | AMAZON | ap-southeast-2 |
+  | 3.25.178.128/26 | AMAZON | ap-southeast-2 |
+  | 3.25.37.64/26 | AMAZON | ap-southeast-2 |
+  | 3.26.137.0/24 | AMAZON | ap-southeast-2 |
+  | 3.26.140.64/26 | AMAZON | ap-southeast-2 |
+  | 3.27.176.0/22 | AMAZON | ap-southeast-2 |
   | 99.77.239.0/24 | CHIME_VOICECONNECTOR | ap-southeast-2 |
+  | 54.252.254.192/26 | ROUTE53_HEALTHCHECKS | ap-southeast-2 |
+  | 54.252.79.128/26 | ROUTE53_HEALTHCHECKS | ap-southeast-2 |
   | 52.95.128.0/21 | S3 | ap-southeast-2 |
   | 16.12.74.0/24 | S3 | ap-southeast-2 |
   | 3.5.164.0/22 | S3 | ap-southeast-2 |
   | 3.5.168.0/23 | S3 | ap-southeast-2 |
-  | 52.94.13.0/24 | DYNAMODB | ap-southeast-2 |
-  | 35.71.97.0/24 | DYNAMODB | ap-southeast-2 |
+  | 3.26.88.0/28 | S3 | ap-southeast-2 |
+  | 3.26.88.16/28 | S3 | ap-southeast-2 |
   | 96.0.80.0/22 | EC2 | ap-southeast-2-akl-1 |
   | 15.193.3.0/24 | EC2 | ap-southeast-2 |
   | 13.236.0.0/14 | EC2 | ap-southeast-2 |
@@ -2545,11 +2556,27 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.65.0.0/16 | EC2 | ap-southeast-2 |
   | 64.252.109.0/24 | EC2 | ap-southeast-2 |
   | 54.79.0.0/16 | EC2 | ap-southeast-2 |
+  | 13.210.67.128/26 | CLOUDFRONT | ap-southeast-2 |
+  | 13.54.63.128/26 | CLOUDFRONT | ap-southeast-2 |
+  | 3.107.43.128/25 | CLOUDFRONT | ap-southeast-2 |
+  | 3.107.44.0/25 | CLOUDFRONT | ap-southeast-2 |
+  | 3.107.44.128/25 | CLOUDFRONT | ap-southeast-2 |
   | 13.248.109.0/24 | GLOBALACCELERATOR | ap-southeast-2 |
   | 13.248.102.0/24 | GLOBALACCELERATOR | ap-southeast-2 |
-  | 15.177.83.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-2 |
   | 13.210.2.192/26 | AMAZON_CONNECT | ap-southeast-2 |
-  | 13.210.67.128/26 | CLOUDFRONT | ap-southeast-2 |
+  | 13.236.8.0/25 | AMAZON_CONNECT | ap-southeast-2 |
+  | 15.177.83.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-2 |
+  | 13.236.82.128/27 | CLOUD9 | ap-southeast-2 |
+  | 13.236.82.96/27 | CLOUD9 | ap-southeast-2 |
+  | 13.55.255.216/29 | CODEBUILD | ap-southeast-2 |
+  | 3.26.127.24/29 | CODEBUILD | ap-southeast-2 |
+  | 3.105.172.0/22 | API_GATEWAY | ap-southeast-2 |
+  | 3.25.37.128/25 | API_GATEWAY | ap-southeast-2 |
+  | 3.25.38.0/23 | API_GATEWAY | ap-southeast-2 |
+  | 3.25.40.0/24 | API_GATEWAY | ap-southeast-2 |
+  | 3.26.138.0/23 | API_GATEWAY | ap-southeast-2 |
+  | 3.26.246.0/23 | API_GATEWAY | ap-southeast-2 |
+  | 3.26.248.0/22 | API_GATEWAY | ap-southeast-2 |
   | 13.211.12.160/27 | ROUTE53_RESOLVER | ap-southeast-2 |
   | 13.211.12.192/29 | ROUTE53_RESOLVER | ap-southeast-2 |
   | 13.211.12.200/29 | ROUTE53_RESOLVER | ap-southeast-2 |
@@ -2558,60 +2585,33 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.211.12.248/29 | ROUTE53_RESOLVER | ap-southeast-2 |
   | 13.211.166.192/29 | ROUTE53_RESOLVER | ap-southeast-2 |
   | 13.211.166.200/29 | ROUTE53_RESOLVER | ap-southeast-2 |
-  | 13.236.8.0/25 | AMAZON_CONNECT | ap-southeast-2 |
-  | 13.236.82.128/27 | CLOUD9 | ap-southeast-2 |
-  | 13.236.82.96/27 | CLOUD9 | ap-southeast-2 |
-  | 13.239.158.0/29 | EC2_INSTANCE_CONNECT | ap-southeast-2 |
-  | 13.54.63.128/26 | CLOUDFRONT | ap-southeast-2 |
-  | 13.55.255.216/29 | CODEBUILD | ap-southeast-2 |
-  | 3.104.82.0/23 | AMAZON | ap-southeast-2 |
-  | 3.105.172.0/22 | API_GATEWAY | ap-southeast-2 |
   | 3.105.5.0/27 | ROUTE53_RESOLVER | ap-southeast-2 |
   | 3.105.5.32/27 | ROUTE53_RESOLVER | ap-southeast-2 |
-  | 3.107.11.160/31 | EBS | ap-southeast-2 |
-  | 3.107.11.164/30 | EBS | ap-southeast-2 |
-  | 3.107.30.180/31 | KINESIS_VIDEO_STREAMS | ap-southeast-2 |
-  | 3.107.30.184/30 | KINESIS_VIDEO_STREAMS | ap-southeast-2 |
-  | 3.107.43.128/25 | CLOUDFRONT | ap-southeast-2 |
-  | 3.107.44.0/25 | CLOUDFRONT | ap-southeast-2 |
-  | 3.107.44.128/25 | CLOUDFRONT | ap-southeast-2 |
   | 3.24.1.208/28 | ROUTE53_RESOLVER | ap-southeast-2 |
-  | 3.24.227.192/26 | AMAZON | ap-southeast-2 |
-  | 3.25.138.0/26 | AMAZON | ap-southeast-2 |
-  | 3.25.138.64/26 | AMAZON | ap-southeast-2 |
-  | 3.25.178.128/26 | AMAZON | ap-southeast-2 |
-  | 3.25.248.0/22 | WORKSPACES_GATEWAYS | ap-southeast-2 |
-  | 3.25.37.128/25 | API_GATEWAY | ap-southeast-2 |
-  | 3.25.37.64/26 | AMAZON | ap-southeast-2 |
-  | 3.25.38.0/23 | API_GATEWAY | ap-southeast-2 |
-  | 3.25.40.0/24 | API_GATEWAY | ap-southeast-2 |
-  | 3.25.43.0/24 | WORKSPACES_GATEWAYS | ap-southeast-2 |
-  | 3.25.44.0/23 | WORKSPACES_GATEWAYS | ap-southeast-2 |
-  | 3.25.47.28/30 | AMAZON_APPFLOW | ap-southeast-2 |
-  | 3.25.47.32/30 | AMAZON_APPFLOW | ap-southeast-2 |
-  | 3.26.109.216/30 | AMAZON_APPFLOW | ap-southeast-2 |
-  | 3.26.127.24/29 | CODEBUILD | ap-southeast-2 |
-  | 3.26.137.0/24 | AMAZON | ap-southeast-2 |
-  | 3.26.138.0/23 | API_GATEWAY | ap-southeast-2 |
-  | 3.26.140.64/26 | AMAZON | ap-southeast-2 |
-  | 3.26.246.0/23 | API_GATEWAY | ap-southeast-2 |
-  | 3.26.248.0/22 | API_GATEWAY | ap-southeast-2 |
   | 3.26.58.224/27 | ROUTE53_RESOLVER | ap-southeast-2 |
   | 3.26.81.0/27 | ROUTE53_RESOLVER | ap-southeast-2 |
   | 3.26.81.32/27 | ROUTE53_RESOLVER | ap-southeast-2 |
-  | 3.26.82.236/30 | EBS | ap-southeast-2 |
-  | 3.26.82.240/29 | EBS | ap-southeast-2 |
   | 3.26.83.0/24 | ROUTE53_RESOLVER | ap-southeast-2 |
   | 3.26.84.0/23 | ROUTE53_RESOLVER | ap-southeast-2 |
   | 3.26.86.0/23 | ROUTE53_RESOLVER | ap-southeast-2 |
-  | 3.26.88.0/28 | S3 | ap-southeast-2 |
-  | 3.26.88.16/28 | S3 | ap-southeast-2 |
+  | 3.107.11.160/31 | EBS | ap-southeast-2 |
+  | 3.107.11.164/30 | EBS | ap-southeast-2 |
+  | 3.26.82.236/30 | EBS | ap-southeast-2 |
+  | 3.26.82.240/29 | EBS | ap-southeast-2 |
+  | 13.239.158.0/29 | EC2_INSTANCE_CONNECT | ap-southeast-2 |
+  | 3.107.30.180/31 | KINESIS_VIDEO_STREAMS | ap-southeast-2 |
+  | 3.107.30.184/30 | KINESIS_VIDEO_STREAMS | ap-southeast-2 |
+  | 3.25.248.0/22 | WORKSPACES_GATEWAYS | ap-southeast-2 |
+  | 3.25.43.0/24 | WORKSPACES_GATEWAYS | ap-southeast-2 |
+  | 3.25.44.0/23 | WORKSPACES_GATEWAYS | ap-southeast-2 |
+  | 54.153.254.0/24 | WORKSPACES_GATEWAYS | ap-southeast-2 |
+  | 3.25.47.28/30 | AMAZON_APPFLOW | ap-southeast-2 |
+  | 3.25.47.32/30 | AMAZON_APPFLOW | ap-southeast-2 |
+  | 3.26.109.216/30 | AMAZON_APPFLOW | ap-southeast-2 |
   | 3.27.127.176/29 | MEDIA_PACKAGE_V2 | ap-southeast-2 |
   | 3.27.127.184/29 | MEDIA_PACKAGE_V2 | ap-southeast-2 |
-  | 3.27.176.0/22 | AMAZON | ap-southeast-2 |
-  | 54.153.254.0/24 | WORKSPACES_GATEWAYS | ap-southeast-2 |
-  | 54.252.254.192/26 | ROUTE53_HEALTHCHECKS | ap-southeast-2 |
-  | 54.252.79.128/26 | ROUTE53_HEALTHCHECKS | ap-southeast-2 |
+  | 52.94.13.0/24 | DYNAMODB | ap-southeast-2 |
+  | 35.71.97.0/24 | DYNAMODB | ap-southeast-2 |
 </details>
 
 <details>
@@ -2706,12 +2706,27 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.32.232/32 | AMAZON | ap-southeast-3 |
   | 15.230.64.128/26 | AMAZON | ap-southeast-3 |
   | 15.177.92.0/24 | AMAZON | ap-southeast-3 |
+  | 108.136.151.0/24 | AMAZON | ap-southeast-3 |
+  | 108.136.221.0/26 | AMAZON | ap-southeast-3 |
+  | 108.137.114.64/26 | AMAZON | ap-southeast-3 |
+  | 108.137.58.0/26 | AMAZON | ap-southeast-3 |
+  | 108.137.58.128/26 | AMAZON | ap-southeast-3 |
+  | 108.137.58.192/26 | AMAZON | ap-southeast-3 |
+  | 108.137.58.64/26 | AMAZON | ap-southeast-3 |
+  | 43.218.156.0/24 | AMAZON | ap-southeast-3 |
+  | 43.218.158.0/23 | AMAZON | ap-southeast-3 |
+  | 43.218.160.0/22 | AMAZON | ap-southeast-3 |
   | 99.77.237.0/24 | CHIME_VOICECONNECTOR | ap-southeast-3 |
   | 52.95.178.0/23 | S3 | ap-southeast-3 |
   | 3.5.36.0/22 | S3 | ap-southeast-3 |
   | 52.95.177.0/24 | S3 | ap-southeast-3 |
-  | 35.71.96.0/24 | DYNAMODB | ap-southeast-3 |
-  | 13.248.71.0/24 | DYNAMODB | ap-southeast-3 |
+  | 108.136.154.16/28 | S3 | ap-southeast-3 |
+  | 108.136.154.32/28 | S3 | ap-southeast-3 |
+  | 108.136.154.48/28 | S3 | ap-southeast-3 |
+  | 43.218.193.112/28 | S3 | ap-southeast-3 |
+  | 43.218.193.96/28 | S3 | ap-southeast-3 |
+  | 43.218.222.160/28 | S3 | ap-southeast-3 |
+  | 43.218.222.176/28 | S3 | ap-southeast-3 |
   | 159.248.224.0/21 | EC2 | ap-southeast-3 |
   | 3.5.36.0/22 | EC2 | ap-southeast-3 |
   | 108.136.0.0/15 | EC2 | ap-southeast-3 |
@@ -2725,37 +2740,22 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.78.0.0/16 | EC2 | ap-southeast-3 |
   | 99.77.237.0/24 | EC2 | ap-southeast-3 |
   | 15.177.92.0/24 | EC2 | ap-southeast-3 |
-  | 13.248.110.0/24 | GLOBALACCELERATOR | ap-southeast-3 |
-  | 15.177.92.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-3 |
-  | 108.136.122.0/26 | ROUTE53_RESOLVER | ap-southeast-3 |
-  | 108.136.122.64/26 | ROUTE53_RESOLVER | ap-southeast-3 |
-  | 108.136.151.0/24 | AMAZON | ap-southeast-3 |
-  | 108.136.154.16/28 | S3 | ap-southeast-3 |
-  | 108.136.154.32/28 | S3 | ap-southeast-3 |
-  | 108.136.154.48/28 | S3 | ap-southeast-3 |
-  | 108.136.170.0/23 | API_GATEWAY | ap-southeast-3 |
-  | 108.136.221.0/26 | AMAZON | ap-southeast-3 |
-  | 108.136.38.192/26 | ROUTE53_RESOLVER | ap-southeast-3 |
-  | 108.137.114.0/28 | CODEBUILD | ap-southeast-3 |
-  | 108.137.114.64/26 | AMAZON | ap-southeast-3 |
-  | 108.137.25.0/24 | API_GATEWAY | ap-southeast-3 |
-  | 108.137.26.0/24 | API_GATEWAY | ap-southeast-3 |
-  | 108.137.58.0/26 | AMAZON | ap-southeast-3 |
-  | 108.137.58.128/26 | AMAZON | ap-southeast-3 |
-  | 108.137.58.192/26 | AMAZON | ap-southeast-3 |
-  | 108.137.58.64/26 | AMAZON | ap-southeast-3 |
-  | 43.218.156.0/24 | AMAZON | ap-southeast-3 |
-  | 43.218.158.0/23 | AMAZON | ap-southeast-3 |
-  | 43.218.160.0/22 | AMAZON | ap-southeast-3 |
-  | 43.218.193.112/28 | S3 | ap-southeast-3 |
-  | 43.218.193.64/29 | EC2_INSTANCE_CONNECT | ap-southeast-3 |
-  | 43.218.193.96/28 | S3 | ap-southeast-3 |
-  | 43.218.222.160/28 | S3 | ap-southeast-3 |
-  | 43.218.222.176/28 | S3 | ap-southeast-3 |
   | 43.218.56.128/26 | CLOUDFRONT | ap-southeast-3 |
   | 43.218.56.192/26 | CLOUDFRONT | ap-southeast-3 |
   | 43.218.56.64/26 | CLOUDFRONT | ap-southeast-3 |
   | 43.218.71.0/26 | CLOUDFRONT | ap-southeast-3 |
+  | 13.248.110.0/24 | GLOBALACCELERATOR | ap-southeast-3 |
+  | 15.177.92.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-3 |
+  | 108.137.114.0/28 | CODEBUILD | ap-southeast-3 |
+  | 108.136.170.0/23 | API_GATEWAY | ap-southeast-3 |
+  | 108.137.25.0/24 | API_GATEWAY | ap-southeast-3 |
+  | 108.137.26.0/24 | API_GATEWAY | ap-southeast-3 |
+  | 108.136.122.0/26 | ROUTE53_RESOLVER | ap-southeast-3 |
+  | 108.136.122.64/26 | ROUTE53_RESOLVER | ap-southeast-3 |
+  | 108.136.38.192/26 | ROUTE53_RESOLVER | ap-southeast-3 |
+  | 43.218.193.64/29 | EC2_INSTANCE_CONNECT | ap-southeast-3 |
+  | 35.71.96.0/24 | DYNAMODB | ap-southeast-3 |
+  | 13.248.71.0/24 | DYNAMODB | ap-southeast-3 |
 </details>
 
 <details>
@@ -2803,11 +2803,20 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.249.0/24 | AMAZON | ap-southeast-4 |
   | 56.96.0.0/16 | AMAZON | ap-southeast-4 |
   | 104.255.59.135/32 | AMAZON | ap-southeast-4 |
+  | 16.50.144.0/25 | AMAZON | ap-southeast-4 |
+  | 16.50.144.128/25 | AMAZON | ap-southeast-4 |
+  | 16.50.161.0/25 | AMAZON | ap-southeast-4 |
+  | 16.50.181.128/25 | AMAZON | ap-southeast-4 |
+  | 16.50.182.0/25 | AMAZON | ap-southeast-4 |
+  | 16.50.206.0/25 | AMAZON | ap-southeast-4 |
+  | 16.50.70.0/23 | AMAZON | ap-southeast-4 |
+  | 16.51.30.0/23 | AMAZON | ap-southeast-4 |
+  | 16.51.32.0/22 | AMAZON | ap-southeast-4 |
   | 3.5.40.0/22 | S3 | ap-southeast-4 |
   | 52.95.168.0/24 | S3 | ap-southeast-4 |
   | 52.95.166.0/23 | S3 | ap-southeast-4 |
-  | 13.248.67.0/24 | DYNAMODB | ap-southeast-4 |
-  | 35.71.112.0/24 | DYNAMODB | ap-southeast-4 |
+  | 16.50.69.192/28 | S3 | ap-southeast-4 |
+  | 16.50.69.208/28 | S3 | ap-southeast-4 |
   | 3.5.40.0/22 | EC2 | ap-southeast-4 |
   | 52.94.250.16/28 | EC2 | ap-southeast-4 |
   | 70.232.86.125/32 | EC2 | ap-southeast-4 |
@@ -2819,26 +2828,17 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 70.232.86.124/32 | EC2 | ap-southeast-4 |
   | 15.177.96.0/24 | EC2 | ap-southeast-4 |
   | 15.177.96.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-4 |
-  | 16.50.144.0/25 | AMAZON | ap-southeast-4 |
-  | 16.50.144.128/25 | AMAZON | ap-southeast-4 |
-  | 16.50.161.0/25 | AMAZON | ap-southeast-4 |
-  | 16.50.181.128/25 | AMAZON | ap-southeast-4 |
-  | 16.50.182.0/25 | AMAZON | ap-southeast-4 |
-  | 16.50.184.0/23 | API_GATEWAY | ap-southeast-4 |
-  | 16.50.206.0/25 | AMAZON | ap-southeast-4 |
   | 16.50.248.32/28 | CODEBUILD | ap-southeast-4 |
-  | 16.50.248.80/29 | EC2_INSTANCE_CONNECT | ap-southeast-4 |
+  | 16.50.184.0/23 | API_GATEWAY | ap-southeast-4 |
   | 16.50.66.0/24 | API_GATEWAY | ap-southeast-4 |
   | 16.50.67.0/26 | ROUTE53_RESOLVER | ap-southeast-4 |
   | 16.50.67.128/26 | ROUTE53_RESOLVER | ap-southeast-4 |
   | 16.50.67.64/26 | ROUTE53_RESOLVER | ap-southeast-4 |
-  | 16.50.69.192/28 | S3 | ap-southeast-4 |
-  | 16.50.69.208/28 | S3 | ap-southeast-4 |
-  | 16.50.70.0/23 | AMAZON | ap-southeast-4 |
-  | 16.51.30.0/23 | AMAZON | ap-southeast-4 |
-  | 16.51.32.0/22 | AMAZON | ap-southeast-4 |
+  | 16.50.248.80/29 | EC2_INSTANCE_CONNECT | ap-southeast-4 |
   | 16.51.86.16/29 | MEDIA_PACKAGE_V2 | ap-southeast-4 |
   | 16.51.86.8/29 | MEDIA_PACKAGE_V2 | ap-southeast-4 |
+  | 13.248.67.0/24 | DYNAMODB | ap-southeast-4 |
+  | 35.71.112.0/24 | DYNAMODB | ap-southeast-4 |
 </details>
 
 <details>
@@ -2914,13 +2914,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.44.0/24 | S3 | ap-southeast-5 |
   | 16.12.42.0/23 | S3 | ap-southeast-5 |
   | 3.5.180.0/22 | S3 | ap-southeast-5 |
-  | 13.248.75.0/24 | DYNAMODB | ap-southeast-5 |
   | 99.151.160.0/21 | EC2 | ap-southeast-5 |
   | 15.177.95.0/24 | EC2 | ap-southeast-5 |
   | 43.216.0.0/15 | EC2 | ap-southeast-5 |
   | 3.5.180.0/22 | EC2 | ap-southeast-5 |
   | 52.94.250.80/28 | EC2 | ap-southeast-5 |
   | 15.177.95.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-5 |
+  | 13.248.75.0/24 | DYNAMODB | ap-southeast-5 |
 </details>
 
 <details>
@@ -3024,14 +3024,25 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.85.160/27 | AMAZON | ca-central-1 |
   | 15.193.8.0/24 | AMAZON | ca-central-1 |
   | 99.77.150.0/24 | AMAZON | ca-central-1 |
+  | 15.156.212.0/22 | AMAZON | ca-central-1 |
+  | 15.156.216.0/23 | AMAZON | ca-central-1 |
+  | 15.156.38.0/27 | AMAZON | ca-central-1 |
+  | 15.156.38.64/26 | AMAZON | ca-central-1 |
+  | 15.222.43.128/26 | AMAZON | ca-central-1 |
+  | 15.222.43.32/27 | AMAZON | ca-central-1 |
+  | 3.96.143.128/26 | AMAZON | ca-central-1 |
+  | 3.96.143.192/26 | AMAZON | ca-central-1 |
+  | 3.96.84.0/26 | AMAZON | ca-central-1 |
+  | 3.99.124.0/26 | AMAZON | ca-central-1 |
+  | 99.79.34.0/23 | AMAZON | ca-central-1 |
   | 99.77.233.0/24 | CHIME_VOICECONNECTOR | ca-central-1 |
   | 3.5.252.0/22 | S3 | ca-central-1 |
   | 52.95.190.0/24 | S3 | ca-central-1 |
   | 52.95.146.0/23 | S3 | ca-central-1 |
   | 16.12.4.0/23 | S3 | ca-central-1 |
   | 52.95.145.0/24 | S3 | ca-central-1 |
-  | 35.71.119.0/24 | DYNAMODB | ca-central-1 |
-  | 52.94.14.0/24 | DYNAMODB | ca-central-1 |
+  | 3.98.24.0/28 | S3 | ca-central-1 |
+  | 3.98.24.16/28 | S3 | ca-central-1 |
   | 130.171.0.128/26 | EC2 | ca-central-1 |
   | 15.222.0.0/15 | EC2 | ca-central-1 |
   | 35.71.119.0/24 | EC2 | ca-central-1 |
@@ -3055,70 +3066,59 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 161.193.128.0/18 | EC2 | ca-central-1 |
   | 15.193.8.0/24 | EC2 | ca-central-1 |
   | 99.77.150.0/24 | EC2 | ca-central-1 |
+  | 99.79.169.0/24 | CLOUDFRONT | ca-central-1 |
   | 99.82.174.0/24 | GLOBALACCELERATOR | ca-central-1 |
   | 13.248.126.0/24 | GLOBALACCELERATOR | ca-central-1 |
   | 15.177.84.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ca-central-1 |
-  | 15.156.152.184/29 | MEDIA_PACKAGE_V2 | ca-central-1 |
-  | 15.156.152.192/29 | MEDIA_PACKAGE_V2 | ca-central-1 |
-  | 15.156.212.0/22 | AMAZON | ca-central-1 |
-  | 15.156.216.0/23 | AMAZON | ca-central-1 |
-  | 15.156.38.0/27 | AMAZON | ca-central-1 |
-  | 15.156.38.64/26 | AMAZON | ca-central-1 |
-  | 15.157.167.134/31 | KINESIS_VIDEO_STREAMS | ca-central-1 |
-  | 15.157.167.136/30 | KINESIS_VIDEO_STREAMS | ca-central-1 |
-  | 15.157.167.28/30 | EBS | ca-central-1 |
-  | 15.222.16.32/27 | ROUTE53_RESOLVER | ca-central-1 |
-  | 15.222.16.8/29 | ROUTE53_RESOLVER | ca-central-1 |
   | 15.222.16.96/27 | CLOUD9 | ca-central-1 |
   | 15.222.43.0/27 | CLOUD9 | ca-central-1 |
-  | 15.222.43.128/26 | AMAZON | ca-central-1 |
-  | 15.222.43.32/27 | AMAZON | ca-central-1 |
-  | 15.222.43.64/26 | ROUTE53_RESOLVER | ca-central-1 |
-  | 15.223.100.0/24 | WORKSPACES_GATEWAYS | ca-central-1 |
-  | 15.223.102.0/23 | WORKSPACES_GATEWAYS | ca-central-1 |
+  | 3.98.171.224/29 | CODEBUILD | ca-central-1 |
+  | 35.182.14.48/29 | CODEBUILD | ca-central-1 |
   | 15.223.52.0/23 | API_GATEWAY | ca-central-1 |
-  | 3.96.143.128/26 | AMAZON | ca-central-1 |
-  | 3.96.143.192/26 | AMAZON | ca-central-1 |
-  | 3.96.2.68/30 | AMAZON_APPFLOW | ca-central-1 |
-  | 3.96.2.72/30 | AMAZON_APPFLOW | ca-central-1 |
-  | 3.96.84.0/26 | AMAZON | ca-central-1 |
-  | 3.97.192.112/29 | EBS | ca-central-1 |
+  | 3.97.49.128/25 | API_GATEWAY | ca-central-1 |
+  | 3.98.86.0/23 | API_GATEWAY | ca-central-1 |
+  | 3.99.194.0/23 | API_GATEWAY | ca-central-1 |
+  | 3.99.196.0/22 | API_GATEWAY | ca-central-1 |
+  | 99.79.126.0/24 | API_GATEWAY | ca-central-1 |
+  | 15.222.16.32/27 | ROUTE53_RESOLVER | ca-central-1 |
+  | 15.222.16.8/29 | ROUTE53_RESOLVER | ca-central-1 |
+  | 15.222.43.64/26 | ROUTE53_RESOLVER | ca-central-1 |
   | 3.97.192.128/25 | ROUTE53_RESOLVER | ca-central-1 |
-  | 3.97.20.0/22 | WORKSPACES_GATEWAYS | ca-central-1 |
   | 3.97.217.0/24 | ROUTE53_RESOLVER | ca-central-1 |
   | 3.97.218.0/24 | ROUTE53_RESOLVER | ca-central-1 |
   | 3.97.219.0/24 | ROUTE53_RESOLVER | ca-central-1 |
   | 3.97.230.0/25 | ROUTE53_RESOLVER | ca-central-1 |
-  | 3.97.49.128/25 | API_GATEWAY | ca-central-1 |
   | 3.97.99.128/27 | ROUTE53_RESOLVER | ca-central-1 |
   | 3.97.99.160/27 | ROUTE53_RESOLVER | ca-central-1 |
   | 3.97.99.64/28 | ROUTE53_RESOLVER | ca-central-1 |
   | 3.97.99.96/27 | ROUTE53_RESOLVER | ca-central-1 |
-  | 3.98.171.196/30 | AMAZON_APPFLOW | ca-central-1 |
-  | 3.98.171.224/29 | CODEBUILD | ca-central-1 |
-  | 3.98.171.92/30 | EBS | ca-central-1 |
-  | 3.98.24.0/28 | S3 | ca-central-1 |
-  | 3.98.24.16/28 | S3 | ca-central-1 |
-  | 3.98.86.0/23 | API_GATEWAY | ca-central-1 |
-  | 3.99.124.0/26 | AMAZON | ca-central-1 |
-  | 3.99.194.0/23 | API_GATEWAY | ca-central-1 |
-  | 3.99.196.0/22 | API_GATEWAY | ca-central-1 |
   | 35.182.14.208/29 | ROUTE53_RESOLVER | ca-central-1 |
   | 35.182.14.216/29 | ROUTE53_RESOLVER | ca-central-1 |
-  | 35.182.14.48/29 | CODEBUILD | ca-central-1 |
-  | 35.183.255.0/24 | WORKSPACES_GATEWAYS | ca-central-1 |
   | 35.183.38.0/27 | ROUTE53_RESOLVER | ca-central-1 |
   | 35.183.38.32/29 | ROUTE53_RESOLVER | ca-central-1 |
   | 35.183.38.40/29 | ROUTE53_RESOLVER | ca-central-1 |
   | 35.183.38.48/29 | ROUTE53_RESOLVER | ca-central-1 |
   | 35.183.38.56/29 | ROUTE53_RESOLVER | ca-central-1 |
   | 35.183.38.64/29 | ROUTE53_RESOLVER | ca-central-1 |
-  | 35.183.92.176/29 | EC2_INSTANCE_CONNECT | ca-central-1 |
-  | 99.79.126.0/24 | API_GATEWAY | ca-central-1 |
-  | 99.79.169.0/24 | CLOUDFRONT | ca-central-1 |
   | 99.79.20.192/27 | ROUTE53_RESOLVER | ca-central-1 |
   | 99.79.20.224/27 | ROUTE53_RESOLVER | ca-central-1 |
-  | 99.79.34.0/23 | AMAZON | ca-central-1 |
+  | 15.157.167.28/30 | EBS | ca-central-1 |
+  | 3.97.192.112/29 | EBS | ca-central-1 |
+  | 3.98.171.92/30 | EBS | ca-central-1 |
+  | 35.183.92.176/29 | EC2_INSTANCE_CONNECT | ca-central-1 |
+  | 15.157.167.134/31 | KINESIS_VIDEO_STREAMS | ca-central-1 |
+  | 15.157.167.136/30 | KINESIS_VIDEO_STREAMS | ca-central-1 |
+  | 15.223.100.0/24 | WORKSPACES_GATEWAYS | ca-central-1 |
+  | 15.223.102.0/23 | WORKSPACES_GATEWAYS | ca-central-1 |
+  | 3.97.20.0/22 | WORKSPACES_GATEWAYS | ca-central-1 |
+  | 35.183.255.0/24 | WORKSPACES_GATEWAYS | ca-central-1 |
+  | 3.96.2.68/30 | AMAZON_APPFLOW | ca-central-1 |
+  | 3.96.2.72/30 | AMAZON_APPFLOW | ca-central-1 |
+  | 3.98.171.196/30 | AMAZON_APPFLOW | ca-central-1 |
+  | 15.156.152.184/29 | MEDIA_PACKAGE_V2 | ca-central-1 |
+  | 15.156.152.192/29 | MEDIA_PACKAGE_V2 | ca-central-1 |
+  | 35.71.119.0/24 | DYNAMODB | ca-central-1 |
+  | 52.94.14.0/24 | DYNAMODB | ca-central-1 |
 </details>
 
 <details>
@@ -3156,20 +3156,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.52.128/27 | AMAZON | ca-west-1 |
   | 15.190.48.0/20 | AMAZON | ca-west-1 |
   | 99.151.168.0/21 | AMAZON | ca-west-1 |
-  | 16.12.58.0/24 | S3 | ca-west-1 |
-  | 3.5.172.0/22 | S3 | ca-west-1 |
-  | 16.12.56.0/23 | S3 | ca-west-1 |
-  | 13.248.73.0/24 | DYNAMODB | ca-west-1 |
-  | 15.177.100.0/24 | EC2 | ca-west-1 |
-  | 40.176.0.0/15 | EC2 | ca-west-1 |
-  | 56.112.0.0/16 | EC2 | ca-west-1 |
-  | 3.5.172.0/22 | EC2 | ca-west-1 |
-  | 52.94.250.48/28 | EC2 | ca-west-1 |
-  | 99.151.168.0/21 | EC2 | ca-west-1 |
-  | 15.177.100.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ca-west-1 |
   | 40.176.101.0/26 | AMAZON | ca-west-1 |
-  | 40.176.101.64/28 | S3 | ca-west-1 |
-  | 40.176.65.0/24 | API_GATEWAY | ca-west-1 |
   | 40.176.82.0/24 | AMAZON | ca-west-1 |
   | 40.176.83.0/24 | AMAZON | ca-west-1 |
   | 40.176.85.0/26 | AMAZON | ca-west-1 |
@@ -3177,7 +3164,20 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 40.176.85.192/26 | AMAZON | ca-west-1 |
   | 40.176.86.0/26 | AMAZON | ca-west-1 |
   | 40.176.86.64/26 | AMAZON | ca-west-1 |
+  | 16.12.58.0/24 | S3 | ca-west-1 |
+  | 3.5.172.0/22 | S3 | ca-west-1 |
+  | 16.12.56.0/23 | S3 | ca-west-1 |
+  | 40.176.101.64/28 | S3 | ca-west-1 |
   | 40.176.98.240/28 | S3 | ca-west-1 |
+  | 15.177.100.0/24 | EC2 | ca-west-1 |
+  | 40.176.0.0/15 | EC2 | ca-west-1 |
+  | 56.112.0.0/16 | EC2 | ca-west-1 |
+  | 3.5.172.0/22 | EC2 | ca-west-1 |
+  | 52.94.250.48/28 | EC2 | ca-west-1 |
+  | 99.151.168.0/21 | EC2 | ca-west-1 |
+  | 15.177.100.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ca-west-1 |
+  | 40.176.65.0/24 | API_GATEWAY | ca-west-1 |
+  | 13.248.73.0/24 | DYNAMODB | ca-west-1 |
 </details>
 
 <details>
@@ -3229,12 +3229,31 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 107.176.0.0/15 | AMAZON | cn-north-1 |
   | 54.222.96.0/22 | AMAZON | cn-north-1 |
   | 54.222.58.32/28 | AMAZON | cn-north-1 |
+  | 140.179.15.0/26 | AMAZON | cn-north-1 |
+  | 140.179.15.64/26 | AMAZON | cn-north-1 |
+  | 43.196.14.0/23 | AMAZON | cn-north-1 |
+  | 43.196.16.0/23 | AMAZON | cn-north-1 |
+  | 43.196.18.0/24 | AMAZON | cn-north-1 |
+  | 43.196.19.0/24 | AMAZON | cn-north-1 |
+  | 43.196.3.64/26 | AMAZON | cn-north-1 |
+  | 52.81.124.0/23 | AMAZON | cn-north-1 |
+  | 52.81.167.128/27 | AMAZON | cn-north-1 |
+  | 52.81.167.192/26 | AMAZON | cn-north-1 |
+  | 52.81.232.0/26 | AMAZON | cn-north-1 |
+  | 71.131.196.128/26 | AMAZON | cn-north-1 |
+  | 52.80.197.0/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
+  | 52.80.197.128/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
+  | 52.80.198.0/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
   | 54.222.100.0/22 | S3 | cn-north-1 |
   | 54.222.52.0/22 | S3 | cn-north-1 |
   | 54.222.112.0/20 | S3 | cn-north-1 |
   | 54.222.48.0/22 | S3 | cn-north-1 |
   | 54.222.96.0/22 | S3 | cn-north-1 |
-  | 54.222.57.0/24 | DYNAMODB | cn-north-1 |
+  | 140.179.36.208/28 | S3 | cn-north-1 |
+  | 140.179.36.224/28 | S3 | cn-north-1 |
+  | 140.179.36.240/28 | S3 | cn-north-1 |
+  | 71.131.196.224/28 | S3 | cn-north-1 |
+  | 71.131.196.240/28 | S3 | cn-north-1 |
   | 54.222.88.0/24 | EC2 | cn-north-1 |
   | 54.222.64.0/24 | EC2 | cn-north-1 |
   | 71.131.192.0/18 | EC2 | cn-north-1 |
@@ -3257,38 +3276,22 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.222.58.32/28 | EC2 | cn-north-1 |
   | 140.179.1.64/27 | CLOUD9 | cn-north-1 |
   | 140.179.1.96/27 | CLOUD9 | cn-north-1 |
+  | 140.179.79.160/27 | CLOUD9 | cn-north-1 |
+  | 140.179.79.192/27 | CLOUD9 | cn-north-1 |
   | 140.179.113.248/29 | CODEBUILD | cn-north-1 |
+  | 52.80.198.136/29 | CODEBUILD | cn-north-1 |
   | 140.179.144.128/25 | API_GATEWAY | cn-north-1 |
-  | 140.179.15.0/26 | AMAZON | cn-north-1 |
-  | 140.179.15.64/26 | AMAZON | cn-north-1 |
   | 140.179.176.0/23 | API_GATEWAY | cn-north-1 |
+  | 52.81.135.128/25 | API_GATEWAY | cn-north-1 |
+  | 52.81.137.0/24 | API_GATEWAY | cn-north-1 |
+  | 52.81.216.0/23 | API_GATEWAY | cn-north-1 |
   | 140.179.36.16/29 | ROUTE53_RESOLVER | cn-north-1 |
-  | 140.179.36.208/28 | S3 | cn-north-1 |
-  | 140.179.36.224/28 | S3 | cn-north-1 |
-  | 140.179.36.240/28 | S3 | cn-north-1 |
   | 140.179.36.32/27 | ROUTE53_RESOLVER | cn-north-1 |
   | 140.179.36.64/27 | ROUTE53_RESOLVER | cn-north-1 |
   | 140.179.57.0/24 | ROUTE53_RESOLVER | cn-north-1 |
   | 140.179.58.0/26 | ROUTE53_RESOLVER | cn-north-1 |
-  | 140.179.58.88/29 | EBS | cn-north-1 |
   | 140.179.59.0/24 | ROUTE53_RESOLVER | cn-north-1 |
-  | 140.179.79.160/27 | CLOUD9 | cn-north-1 |
-  | 140.179.79.192/27 | CLOUD9 | cn-north-1 |
-  | 140.179.79.244/30 | EBS | cn-north-1 |
   | 140.179.79.64/26 | ROUTE53_RESOLVER | cn-north-1 |
-  | 43.196.14.0/23 | AMAZON | cn-north-1 |
-  | 43.196.16.0/23 | AMAZON | cn-north-1 |
-  | 43.196.18.0/24 | AMAZON | cn-north-1 |
-  | 43.196.19.0/24 | AMAZON | cn-north-1 |
-  | 43.196.20.176/30 | EBS | cn-north-1 |
-  | 43.196.20.40/29 | EC2_INSTANCE_CONNECT | cn-north-1 |
-  | 43.196.24.4/31 | KINESIS_VIDEO_STREAMS | cn-north-1 |
-  | 43.196.24.8/30 | KINESIS_VIDEO_STREAMS | cn-north-1 |
-  | 43.196.3.64/26 | AMAZON | cn-north-1 |
-  | 52.80.197.0/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
-  | 52.80.197.128/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
-  | 52.80.198.0/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
-  | 52.80.198.136/29 | CODEBUILD | cn-north-1 |
   | 52.80.51.200/29 | ROUTE53_RESOLVER | cn-north-1 |
   | 52.80.51.208/29 | ROUTE53_RESOLVER | cn-north-1 |
   | 52.80.51.216/29 | ROUTE53_RESOLVER | cn-north-1 |
@@ -3298,17 +3301,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.81.113.32/27 | ROUTE53_RESOLVER | cn-north-1 |
   | 52.81.113.64/27 | ROUTE53_RESOLVER | cn-north-1 |
   | 52.81.113.96/27 | ROUTE53_RESOLVER | cn-north-1 |
-  | 52.81.124.0/23 | AMAZON | cn-north-1 |
-  | 52.81.135.128/25 | API_GATEWAY | cn-north-1 |
-  | 52.81.137.0/24 | API_GATEWAY | cn-north-1 |
   | 52.81.151.0/27 | ROUTE53_RESOLVER | cn-north-1 |
-  | 52.81.167.128/27 | AMAZON | cn-north-1 |
-  | 52.81.167.192/26 | AMAZON | cn-north-1 |
-  | 52.81.216.0/23 | API_GATEWAY | cn-north-1 |
-  | 52.81.232.0/26 | AMAZON | cn-north-1 |
-  | 71.131.196.128/26 | AMAZON | cn-north-1 |
-  | 71.131.196.224/28 | S3 | cn-north-1 |
-  | 71.131.196.240/28 | S3 | cn-north-1 |
+  | 140.179.58.88/29 | EBS | cn-north-1 |
+  | 140.179.79.244/30 | EBS | cn-north-1 |
+  | 43.196.20.176/30 | EBS | cn-north-1 |
+  | 43.196.20.40/29 | EC2_INSTANCE_CONNECT | cn-north-1 |
+  | 43.196.24.4/31 | KINESIS_VIDEO_STREAMS | cn-north-1 |
+  | 43.196.24.8/30 | KINESIS_VIDEO_STREAMS | cn-north-1 |
+  | 54.222.57.0/24 | DYNAMODB | cn-north-1 |
 </details>
 
 <details>
@@ -3355,10 +3355,25 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.103/32 | AMAZON | cn-northwest-1 |
   | 52.82.192.0/18 | AMAZON | cn-northwest-1 |
   | 52.82.188.0/22 | AMAZON | cn-northwest-1 |
+  | 161.189.66.128/26 | AMAZON | cn-northwest-1 |
+  | 161.189.66.192/26 | AMAZON | cn-northwest-1 |
+  | 43.192.156.0/23 | AMAZON | cn-northwest-1 |
+  | 43.192.160.0/22 | AMAZON | cn-northwest-1 |
+  | 52.82.92.0/23 | AMAZON | cn-northwest-1 |
+  | 52.83.26.0/26 | AMAZON | cn-northwest-1 |
+  | 52.83.26.64/26 | AMAZON | cn-northwest-1 |
+  | 52.83.5.0/26 | AMAZON | cn-northwest-1 |
+  | 69.234.197.192/26 | AMAZON | cn-northwest-1 |
+  | 52.83.34.128/25 | ROUTE53_HEALTHCHECKS | cn-northwest-1 |
+  | 52.83.35.0/25 | ROUTE53_HEALTHCHECKS | cn-northwest-1 |
+  | 52.83.35.128/25 | ROUTE53_HEALTHCHECKS | cn-northwest-1 |
   | 52.82.184.0/23 | S3 | cn-northwest-1 |
   | 52.82.164.0/22 | S3 | cn-northwest-1 |
   | 52.82.188.0/22 | S3 | cn-northwest-1 |
-  | 52.82.187.0/24 | DYNAMODB | cn-northwest-1 |
+  | 68.79.2.192/28 | S3 | cn-northwest-1 |
+  | 68.79.2.224/28 | S3 | cn-northwest-1 |
+  | 69.234.250.64/28 | S3 | cn-northwest-1 |
+  | 69.234.250.80/28 | S3 | cn-northwest-1 |
   | 52.82.169.0/28 | EC2 | cn-northwest-1 |
   | 43.193.0.0/18 | EC2 | cn-northwest-1 |
   | 52.83.0.0/16 | EC2 | cn-northwest-1 |
@@ -3376,56 +3391,41 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.82.0.0/17 | EC2 | cn-northwest-1 |
   | 69.234.192.0/18 | EC2 | cn-northwest-1 |
   | 52.82.164.0/22 | EC2 | cn-northwest-1 |
-  | 161.189.148.0/23 | API_GATEWAY | cn-northwest-1 |
-  | 161.189.23.0/27 | ROUTE53_RESOLVER | cn-northwest-1 |
-  | 161.189.23.32/27 | ROUTE53_RESOLVER | cn-northwest-1 |
-  | 161.189.66.128/26 | AMAZON | cn-northwest-1 |
-  | 161.189.66.192/26 | AMAZON | cn-northwest-1 |
-  | 43.192.144.0/22 | WORKSPACES_GATEWAYS | cn-northwest-1 |
-  | 43.192.155.130/31 | EBS | cn-northwest-1 |
-  | 43.192.155.140/30 | EBS | cn-northwest-1 |
-  | 43.192.155.8/29 | EC2_INSTANCE_CONNECT | cn-northwest-1 |
-  | 43.192.156.0/23 | AMAZON | cn-northwest-1 |
-  | 43.192.160.0/22 | AMAZON | cn-northwest-1 |
-  | 52.82.1.0/29 | CODEBUILD | cn-northwest-1 |
-  | 52.82.127.0/24 | API_GATEWAY | cn-northwest-1 |
-  | 52.82.92.0/23 | AMAZON | cn-northwest-1 |
   | 52.83.25.128/27 | CLOUD9 | cn-northwest-1 |
   | 52.83.25.160/27 | CLOUD9 | cn-northwest-1 |
-  | 52.83.26.0/26 | AMAZON | cn-northwest-1 |
+  | 52.82.1.0/29 | CODEBUILD | cn-northwest-1 |
+  | 69.234.197.72/29 | CODEBUILD | cn-northwest-1 |
+  | 161.189.148.0/23 | API_GATEWAY | cn-northwest-1 |
+  | 52.82.127.0/24 | API_GATEWAY | cn-northwest-1 |
+  | 69.230.219.0/24 | API_GATEWAY | cn-northwest-1 |
+  | 69.235.170.0/23 | API_GATEWAY | cn-northwest-1 |
+  | 161.189.23.0/27 | ROUTE53_RESOLVER | cn-northwest-1 |
+  | 161.189.23.32/27 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 52.83.26.192/27 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 52.83.26.224/27 | ROUTE53_RESOLVER | cn-northwest-1 |
-  | 52.83.26.64/26 | AMAZON | cn-northwest-1 |
   | 52.83.33.104/29 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 52.83.33.112/29 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 52.83.33.72/29 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 52.83.33.80/29 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 52.83.33.88/29 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 52.83.33.96/29 | ROUTE53_RESOLVER | cn-northwest-1 |
-  | 52.83.34.128/25 | ROUTE53_HEALTHCHECKS | cn-northwest-1 |
   | 52.83.34.72/29 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 52.83.34.80/29 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 52.83.34.88/29 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 52.83.34.96/27 | ROUTE53_RESOLVER | cn-northwest-1 |
-  | 52.83.35.0/25 | ROUTE53_HEALTHCHECKS | cn-northwest-1 |
-  | 52.83.35.128/25 | ROUTE53_HEALTHCHECKS | cn-northwest-1 |
-  | 52.83.5.0/26 | AMAZON | cn-northwest-1 |
-  | 52.83.58.0/24 | WORKSPACES_GATEWAYS | cn-northwest-1 |
-  | 68.79.2.192/28 | S3 | cn-northwest-1 |
-  | 68.79.2.224/28 | S3 | cn-northwest-1 |
-  | 68.79.2.244/30 | EBS | cn-northwest-1 |
-  | 68.79.2.248/29 | EBS | cn-northwest-1 |
   | 68.79.2.64/27 | ROUTE53_RESOLVER | cn-northwest-1 |
-  | 69.230.219.0/24 | API_GATEWAY | cn-northwest-1 |
   | 69.230.226.0/24 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 69.230.227.0/24 | ROUTE53_RESOLVER | cn-northwest-1 |
   | 69.230.228.0/24 | ROUTE53_RESOLVER | cn-northwest-1 |
-  | 69.234.197.192/26 | AMAZON | cn-northwest-1 |
-  | 69.234.197.72/29 | CODEBUILD | cn-northwest-1 |
-  | 69.234.250.64/28 | S3 | cn-northwest-1 |
-  | 69.234.250.80/28 | S3 | cn-northwest-1 |
+  | 43.192.155.130/31 | EBS | cn-northwest-1 |
+  | 43.192.155.140/30 | EBS | cn-northwest-1 |
+  | 68.79.2.244/30 | EBS | cn-northwest-1 |
+  | 68.79.2.248/29 | EBS | cn-northwest-1 |
+  | 43.192.155.8/29 | EC2_INSTANCE_CONNECT | cn-northwest-1 |
+  | 43.192.144.0/22 | WORKSPACES_GATEWAYS | cn-northwest-1 |
+  | 52.83.58.0/24 | WORKSPACES_GATEWAYS | cn-northwest-1 |
   | 69.235.162.0/24 | WORKSPACES_GATEWAYS | cn-northwest-1 |
-  | 69.235.170.0/23 | API_GATEWAY | cn-northwest-1 |
+  | 52.82.187.0/24 | DYNAMODB | cn-northwest-1 |
 </details>
 
 <details>
@@ -3767,6 +3767,21 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.68.0/23 | AMAZON | eu-central-1 |
   | 15.230.15.3/32 | AMAZON | eu-central-1 |
   | 15.230.15.80/31 | AMAZON | eu-central-1 |
+  | 18.153.115.128/26 | AMAZON | eu-central-1 |
+  | 18.153.115.192/26 | AMAZON | eu-central-1 |
+  | 18.153.40.0/22 | AMAZON | eu-central-1 |
+  | 18.157.237.128/26 | AMAZON | eu-central-1 |
+  | 18.157.237.192/26 | AMAZON | eu-central-1 |
+  | 18.157.71.192/26 | AMAZON | eu-central-1 |
+  | 18.199.211.0/24 | AMAZON | eu-central-1 |
+  | 3.122.128.0/23 | AMAZON | eu-central-1 |
+  | 3.123.12.192/26 | AMAZON | eu-central-1 |
+  | 3.127.48.128/26 | AMAZON | eu-central-1 |
+  | 3.70.212.128/26 | AMAZON | eu-central-1 |
+  | 3.74.148.128/26 | AMAZON | eu-central-1 |
+  | 3.75.112.0/24 | AMAZON | eu-central-1 |
+  | 3.78.202.0/23 | AMAZON | eu-central-1 |
+  | 3.78.204.0/22 | AMAZON | eu-central-1 |
   | 99.77.247.0/24 | CHIME_VOICECONNECTOR | eu-central-1 |
   | 52.219.170.0/23 | S3 | eu-central-1 |
   | 52.219.168.0/24 | S3 | eu-central-1 |
@@ -3782,8 +3797,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.140.0/24 | S3 | eu-central-1 |
   | 52.219.208.0/23 | S3 | eu-central-1 |
   | 3.5.134.0/23 | S3 | eu-central-1 |
-  | 52.94.17.0/24 | DYNAMODB | eu-central-1 |
-  | 35.71.105.0/24 | DYNAMODB | eu-central-1 |
+  | 3.65.246.0/28 | S3 | eu-central-1 |
+  | 3.65.246.16/28 | S3 | eu-central-1 |
   | 3.5.136.0/22 | EC2 | eu-central-1 |
   | 18.192.0.0/15 | EC2 | eu-central-1 |
   | 64.252.89.0/24 | EC2 | eu-central-1 |
@@ -3828,31 +3843,37 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.28.0.0/16 | EC2 | eu-central-1 |
   | 3.5.134.0/23 | EC2 | eu-central-1 |
   | 15.177.68.0/23 | EC2 | eu-central-1 |
+  | 18.192.142.0/23 | CLOUDFRONT | eu-central-1 |
+  | 18.199.68.0/22 | CLOUDFRONT | eu-central-1 |
+  | 18.199.72.0/22 | CLOUDFRONT | eu-central-1 |
+  | 18.199.76.0/22 | CLOUDFRONT | eu-central-1 |
+  | 35.158.136.0/24 | CLOUDFRONT | eu-central-1 |
+  | 52.57.254.0/24 | CLOUDFRONT | eu-central-1 |
   | 3.2.53.0/24 | GLOBALACCELERATOR | eu-central-1 |
   | 13.248.97.0/24 | GLOBALACCELERATOR | eu-central-1 |
   | 13.248.123.0/24 | GLOBALACCELERATOR | eu-central-1 |
   | 99.83.99.0/24 | GLOBALACCELERATOR | eu-central-1 |
   | 99.82.163.0/24 | GLOBALACCELERATOR | eu-central-1 |
   | 99.83.103.0/24 | GLOBALACCELERATOR | eu-central-1 |
-  | 15.177.68.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-central-1 |
-  | 18.153.115.128/26 | AMAZON | eu-central-1 |
-  | 18.153.115.192/26 | AMAZON | eu-central-1 |
-  | 18.153.168.0/23 | API_GATEWAY | eu-central-1 |
-  | 18.153.184.142/31 | KINESIS_VIDEO_STREAMS | eu-central-1 |
-  | 18.153.184.148/30 | KINESIS_VIDEO_STREAMS | eu-central-1 |
-  | 18.153.184.84/31 | EBS | eu-central-1 |
-  | 18.153.184.88/30 | EBS | eu-central-1 |
-  | 18.153.40.0/22 | AMAZON | eu-central-1 |
-  | 18.156.52.0/24 | WORKSPACES_GATEWAYS | eu-central-1 |
-  | 18.156.54.0/23 | WORKSPACES_GATEWAYS | eu-central-1 |
-  | 18.157.237.128/26 | AMAZON | eu-central-1 |
-  | 18.157.237.192/26 | AMAZON | eu-central-1 |
-  | 18.157.71.192/26 | AMAZON | eu-central-1 |
-  | 18.184.138.224/27 | CLOUD9 | eu-central-1 |
   | 18.184.2.128/25 | AMAZON_CONNECT | eu-central-1 |
+  | 35.158.127.64/26 | AMAZON_CONNECT | eu-central-1 |
+  | 15.177.68.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-central-1 |
+  | 18.184.138.224/27 | CLOUD9 | eu-central-1 |
   | 18.184.203.128/27 | CLOUD9 | eu-central-1 |
-  | 18.192.142.0/23 | CLOUDFRONT | eu-central-1 |
-  | 18.192.216.0/22 | WORKSPACES_GATEWAYS | eu-central-1 |
+  | 3.68.251.232/29 | CODEBUILD | eu-central-1 |
+  | 35.157.127.248/29 | CODEBUILD | eu-central-1 |
+  | 18.153.168.0/23 | API_GATEWAY | eu-central-1 |
+  | 3.123.14.0/24 | API_GATEWAY | eu-central-1 |
+  | 3.123.15.0/25 | API_GATEWAY | eu-central-1 |
+  | 3.127.74.0/23 | API_GATEWAY | eu-central-1 |
+  | 3.66.172.0/24 | API_GATEWAY | eu-central-1 |
+  | 3.70.195.128/25 | API_GATEWAY | eu-central-1 |
+  | 3.70.195.64/26 | API_GATEWAY | eu-central-1 |
+  | 3.70.211.0/25 | API_GATEWAY | eu-central-1 |
+  | 3.71.104.0/24 | API_GATEWAY | eu-central-1 |
+  | 3.71.120.0/22 | API_GATEWAY | eu-central-1 |
+  | 3.72.168.0/24 | API_GATEWAY | eu-central-1 |
+  | 3.72.33.128/25 | API_GATEWAY | eu-central-1 |
   | 18.196.161.0/27 | ROUTE53_RESOLVER | eu-central-1 |
   | 18.196.161.184/29 | ROUTE53_RESOLVER | eu-central-1 |
   | 18.196.161.192/29 | ROUTE53_RESOLVER | eu-central-1 |
@@ -3860,59 +3881,38 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.196.161.32/27 | ROUTE53_RESOLVER | eu-central-1 |
   | 18.196.161.80/29 | ROUTE53_RESOLVER | eu-central-1 |
   | 18.196.161.88/29 | ROUTE53_RESOLVER | eu-central-1 |
-  | 18.199.211.0/24 | AMAZON | eu-central-1 |
-  | 18.199.68.0/22 | CLOUDFRONT | eu-central-1 |
-  | 18.199.72.0/22 | CLOUDFRONT | eu-central-1 |
-  | 18.199.76.0/22 | CLOUDFRONT | eu-central-1 |
   | 3.120.181.224/27 | ROUTE53_RESOLVER | eu-central-1 |
-  | 3.120.181.40/29 | EC2_INSTANCE_CONNECT | eu-central-1 |
-  | 3.122.128.0/23 | AMAZON | eu-central-1 |
-  | 3.123.12.192/26 | AMAZON | eu-central-1 |
-  | 3.123.14.0/24 | API_GATEWAY | eu-central-1 |
-  | 3.123.15.0/25 | API_GATEWAY | eu-central-1 |
   | 3.123.44.0/27 | ROUTE53_RESOLVER | eu-central-1 |
   | 3.123.44.128/27 | ROUTE53_RESOLVER | eu-central-1 |
   | 3.123.44.160/27 | ROUTE53_RESOLVER | eu-central-1 |
   | 3.123.44.80/28 | ROUTE53_RESOLVER | eu-central-1 |
   | 3.123.44.96/27 | ROUTE53_RESOLVER | eu-central-1 |
-  | 3.127.48.128/26 | AMAZON | eu-central-1 |
-  | 3.127.48.244/30 | AMAZON_APPFLOW | eu-central-1 |
-  | 3.127.48.248/30 | AMAZON_APPFLOW | eu-central-1 |
-  | 3.127.74.0/23 | API_GATEWAY | eu-central-1 |
   | 3.64.1.0/26 | ROUTE53_RESOLVER | eu-central-1 |
   | 3.64.1.128/26 | ROUTE53_RESOLVER | eu-central-1 |
   | 3.64.1.192/29 | ROUTE53_RESOLVER | eu-central-1 |
   | 3.64.1.200/29 | ROUTE53_RESOLVER | eu-central-1 |
   | 3.64.1.64/26 | ROUTE53_RESOLVER | eu-central-1 |
-  | 3.64.226.232/29 | EBS | eu-central-1 |
-  | 3.64.226.240/30 | EBS | eu-central-1 |
   | 3.65.124.0/22 | ROUTE53_RESOLVER | eu-central-1 |
   | 3.65.128.0/22 | ROUTE53_RESOLVER | eu-central-1 |
   | 3.65.132.0/22 | ROUTE53_RESOLVER | eu-central-1 |
-  | 3.65.246.0/28 | S3 | eu-central-1 |
-  | 3.65.246.16/28 | S3 | eu-central-1 |
-  | 3.66.172.0/24 | API_GATEWAY | eu-central-1 |
+  | 18.153.184.84/31 | EBS | eu-central-1 |
+  | 18.153.184.88/30 | EBS | eu-central-1 |
+  | 3.64.226.232/29 | EBS | eu-central-1 |
+  | 3.64.226.240/30 | EBS | eu-central-1 |
+  | 3.120.181.40/29 | EC2_INSTANCE_CONNECT | eu-central-1 |
+  | 18.153.184.142/31 | KINESIS_VIDEO_STREAMS | eu-central-1 |
+  | 18.153.184.148/30 | KINESIS_VIDEO_STREAMS | eu-central-1 |
+  | 18.156.52.0/24 | WORKSPACES_GATEWAYS | eu-central-1 |
+  | 18.156.54.0/23 | WORKSPACES_GATEWAYS | eu-central-1 |
+  | 18.192.216.0/22 | WORKSPACES_GATEWAYS | eu-central-1 |
+  | 52.59.127.0/24 | WORKSPACES_GATEWAYS | eu-central-1 |
+  | 3.127.48.244/30 | AMAZON_APPFLOW | eu-central-1 |
+  | 3.127.48.248/30 | AMAZON_APPFLOW | eu-central-1 |
   | 3.68.251.176/30 | AMAZON_APPFLOW | eu-central-1 |
-  | 3.68.251.232/29 | CODEBUILD | eu-central-1 |
-  | 3.70.195.128/25 | API_GATEWAY | eu-central-1 |
-  | 3.70.195.64/26 | API_GATEWAY | eu-central-1 |
-  | 3.70.211.0/25 | API_GATEWAY | eu-central-1 |
-  | 3.70.212.128/26 | AMAZON | eu-central-1 |
-  | 3.71.104.0/24 | API_GATEWAY | eu-central-1 |
-  | 3.71.120.0/22 | API_GATEWAY | eu-central-1 |
-  | 3.72.168.0/24 | API_GATEWAY | eu-central-1 |
-  | 3.72.33.128/25 | API_GATEWAY | eu-central-1 |
-  | 3.74.148.128/26 | AMAZON | eu-central-1 |
-  | 3.75.112.0/24 | AMAZON | eu-central-1 |
   | 3.77.79.224/29 | MEDIA_PACKAGE_V2 | eu-central-1 |
   | 3.77.79.232/29 | MEDIA_PACKAGE_V2 | eu-central-1 |
-  | 3.78.202.0/23 | AMAZON | eu-central-1 |
-  | 3.78.204.0/22 | AMAZON | eu-central-1 |
-  | 35.157.127.248/29 | CODEBUILD | eu-central-1 |
-  | 35.158.127.64/26 | AMAZON_CONNECT | eu-central-1 |
-  | 35.158.136.0/24 | CLOUDFRONT | eu-central-1 |
-  | 52.57.254.0/24 | CLOUDFRONT | eu-central-1 |
-  | 52.59.127.0/24 | WORKSPACES_GATEWAYS | eu-central-1 |
+  | 52.94.17.0/24 | DYNAMODB | eu-central-1 |
+  | 35.71.105.0/24 | DYNAMODB | eu-central-1 |
 </details>
 
 <details>
@@ -3960,11 +3960,20 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.244.0/24 | AMAZON | eu-central-2 |
   | 70.232.112.0/21 | AMAZON | eu-central-2 |
   | 3.5.52.0/22 | AMAZON | eu-central-2 |
+  | 16.62.140.0/25 | AMAZON | eu-central-2 |
+  | 16.62.140.128/25 | AMAZON | eu-central-2 |
+  | 16.62.141.0/24 | AMAZON | eu-central-2 |
+  | 16.62.183.128/25 | AMAZON | eu-central-2 |
+  | 16.62.188.0/25 | AMAZON | eu-central-2 |
+  | 16.62.194.0/25 | AMAZON | eu-central-2 |
+  | 16.62.70.0/23 | AMAZON | eu-central-2 |
+  | 16.63.88.0/22 | AMAZON | eu-central-2 |
+  | 16.63.92.0/23 | AMAZON | eu-central-2 |
   | 52.95.139.0/24 | S3 | eu-central-2 |
   | 52.95.140.0/23 | S3 | eu-central-2 |
   | 3.5.52.0/22 | S3 | eu-central-2 |
-  | 13.248.68.0/24 | DYNAMODB | eu-central-2 |
-  | 35.71.121.0/24 | DYNAMODB | eu-central-2 |
+  | 16.62.56.224/28 | S3 | eu-central-2 |
+  | 16.62.56.240/28 | S3 | eu-central-2 |
   | 99.151.80.0/21 | EC2 | eu-central-2 |
   | 16.62.0.0/15 | EC2 | eu-central-2 |
   | 51.96.0.0/16 | EC2 | eu-central-2 |
@@ -3973,25 +3982,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.250.0/28 | EC2 | eu-central-2 |
   | 3.5.52.0/22 | EC2 | eu-central-2 |
   | 15.177.98.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-central-2 |
-  | 16.62.140.0/25 | AMAZON | eu-central-2 |
-  | 16.62.140.128/25 | AMAZON | eu-central-2 |
-  | 16.62.141.0/24 | AMAZON | eu-central-2 |
-  | 16.62.183.128/25 | AMAZON | eu-central-2 |
-  | 16.62.188.0/25 | AMAZON | eu-central-2 |
   | 16.62.188.224/28 | CODEBUILD | eu-central-2 |
-  | 16.62.194.0/25 | AMAZON | eu-central-2 |
   | 16.62.248.128/25 | API_GATEWAY | eu-central-2 |
   | 16.62.51.0/24 | API_GATEWAY | eu-central-2 |
+  | 16.63.20.0/25 | API_GATEWAY | eu-central-2 |
   | 16.62.54.0/26 | ROUTE53_RESOLVER | eu-central-2 |
   | 16.62.54.64/26 | ROUTE53_RESOLVER | eu-central-2 |
-  | 16.62.56.224/28 | S3 | eu-central-2 |
-  | 16.62.56.240/28 | S3 | eu-central-2 |
   | 16.62.7.192/26 | ROUTE53_RESOLVER | eu-central-2 |
-  | 16.62.70.0/23 | AMAZON | eu-central-2 |
-  | 16.63.20.0/25 | API_GATEWAY | eu-central-2 |
   | 16.63.77.8/29 | EC2_INSTANCE_CONNECT | eu-central-2 |
-  | 16.63.88.0/22 | AMAZON | eu-central-2 |
-  | 16.63.92.0/23 | AMAZON | eu-central-2 |
+  | 13.248.68.0/24 | DYNAMODB | eu-central-2 |
+  | 35.71.121.0/24 | DYNAMODB | eu-central-2 |
 </details>
 
 <details>
@@ -4167,14 +4167,25 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.6.134/32 | AMAZON | eu-north-1 |
   | 13.34.14.67/32 | AMAZON | eu-north-1 |
   | 150.222.42.0/26 | AMAZON | eu-north-1 |
+  | 13.48.186.192/27 | AMAZON | eu-north-1 |
+  | 13.49.126.128/26 | AMAZON | eu-north-1 |
+  | 13.49.143.0/26 | AMAZON | eu-north-1 |
+  | 13.49.143.64/26 | AMAZON | eu-north-1 |
+  | 13.49.40.64/26 | AMAZON | eu-north-1 |
+  | 13.50.12.192/26 | AMAZON | eu-north-1 |
+  | 13.50.89.0/24 | AMAZON | eu-north-1 |
+  | 13.53.180.0/23 | AMAZON | eu-north-1 |
+  | 16.16.108.0/23 | AMAZON | eu-north-1 |
+  | 16.170.199.0/26 | AMAZON | eu-north-1 |
+  | 16.171.80.0/22 | AMAZON | eu-north-1 |
   | 99.77.246.0/24 | CHIME_VOICECONNECTOR | eu-north-1 |
   | 16.12.10.0/23 | S3 | eu-north-1 |
   | 52.95.169.0/24 | S3 | eu-north-1 |
   | 3.5.216.0/22 | S3 | eu-north-1 |
   | 16.12.9.0/24 | S3 | eu-north-1 |
   | 52.95.170.0/23 | S3 | eu-north-1 |
-  | 35.71.98.0/24 | DYNAMODB | eu-north-1 |
-  | 52.94.23.0/24 | DYNAMODB | eu-north-1 |
+  | 13.51.71.176/28 | S3 | eu-north-1 |
+  | 13.51.71.192/28 | S3 | eu-north-1 |
   | 96.0.32.0/22 | EC2 | eu-north-1-cph-1 |
   | 15.220.168.0/21 | EC2 | eu-north-1-hel-1 |
   | 51.20.0.0/16 | EC2 | eu-north-1 |
@@ -4205,48 +4216,37 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.72.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-north-1 |
   | 13.48.186.128/27 | CLOUD9 | eu-north-1 |
   | 13.48.186.160/27 | CLOUD9 | eu-north-1 |
-  | 13.48.186.192/27 | AMAZON | eu-north-1 |
+  | 13.48.4.192/29 | CODEBUILD | eu-north-1 |
+  | 13.51.253.80/29 | CODEBUILD | eu-north-1 |
+  | 13.48.74.0/24 | API_GATEWAY | eu-north-1 |
+  | 13.49.42.0/23 | API_GATEWAY | eu-north-1 |
+  | 13.51.120.0/24 | API_GATEWAY | eu-north-1 |
+  | 16.16.2.0/23 | API_GATEWAY | eu-north-1 |
+  | 16.171.48.0/22 | API_GATEWAY | eu-north-1 |
   | 13.48.4.128/28 | ROUTE53_RESOLVER | eu-north-1 |
   | 13.48.4.144/28 | ROUTE53_RESOLVER | eu-north-1 |
   | 13.48.4.160/28 | ROUTE53_RESOLVER | eu-north-1 |
-  | 13.48.4.192/29 | CODEBUILD | eu-north-1 |
-  | 13.48.4.200/30 | EC2_INSTANCE_CONNECT | eu-north-1 |
   | 13.48.4.208/29 | ROUTE53_RESOLVER | eu-north-1 |
   | 13.48.4.216/29 | ROUTE53_RESOLVER | eu-north-1 |
   | 13.48.4.224/29 | ROUTE53_RESOLVER | eu-north-1 |
-  | 13.48.74.0/24 | API_GATEWAY | eu-north-1 |
-  | 13.49.126.128/26 | AMAZON | eu-north-1 |
-  | 13.49.143.0/26 | AMAZON | eu-north-1 |
-  | 13.49.143.64/26 | AMAZON | eu-north-1 |
   | 13.49.253.224/27 | ROUTE53_RESOLVER | eu-north-1 |
-  | 13.49.40.64/26 | AMAZON | eu-north-1 |
-  | 13.49.42.0/23 | API_GATEWAY | eu-north-1 |
-  | 13.50.12.192/26 | AMAZON | eu-north-1 |
-  | 13.50.179.168/29 | MEDIA_PACKAGE_V2 | eu-north-1 |
-  | 13.50.179.176/29 | MEDIA_PACKAGE_V2 | eu-north-1 |
-  | 13.50.89.0/24 | AMAZON | eu-north-1 |
-  | 13.51.120.0/24 | API_GATEWAY | eu-north-1 |
-  | 13.51.253.80/29 | CODEBUILD | eu-north-1 |
   | 13.51.29.0/27 | ROUTE53_RESOLVER | eu-north-1 |
   | 13.51.29.32/27 | ROUTE53_RESOLVER | eu-north-1 |
-  | 13.51.71.152/29 | EBS | eu-north-1 |
-  | 13.51.71.160/30 | EBS | eu-north-1 |
-  | 13.51.71.176/28 | S3 | eu-north-1 |
-  | 13.51.71.192/28 | S3 | eu-north-1 |
   | 13.51.95.0/24 | ROUTE53_RESOLVER | eu-north-1 |
   | 13.51.96.0/24 | ROUTE53_RESOLVER | eu-north-1 |
   | 13.51.97.0/24 | ROUTE53_RESOLVER | eu-north-1 |
-  | 13.53.180.0/23 | AMAZON | eu-north-1 |
   | 13.53.63.128/27 | ROUTE53_RESOLVER | eu-north-1 |
   | 13.53.63.160/27 | ROUTE53_RESOLVER | eu-north-1 |
   | 13.53.63.192/27 | ROUTE53_RESOLVER | eu-north-1 |
+  | 13.51.71.152/29 | EBS | eu-north-1 |
+  | 13.51.71.160/30 | EBS | eu-north-1 |
   | 13.60.1.84/31 | EBS | eu-north-1 |
   | 13.60.1.88/30 | EBS | eu-north-1 |
-  | 16.16.108.0/23 | AMAZON | eu-north-1 |
-  | 16.16.2.0/23 | API_GATEWAY | eu-north-1 |
-  | 16.170.199.0/26 | AMAZON | eu-north-1 |
-  | 16.171.48.0/22 | API_GATEWAY | eu-north-1 |
-  | 16.171.80.0/22 | AMAZON | eu-north-1 |
+  | 13.48.4.200/30 | EC2_INSTANCE_CONNECT | eu-north-1 |
+  | 13.50.179.168/29 | MEDIA_PACKAGE_V2 | eu-north-1 |
+  | 13.50.179.176/29 | MEDIA_PACKAGE_V2 | eu-north-1 |
+  | 35.71.98.0/24 | DYNAMODB | eu-north-1 |
+  | 52.94.23.0/24 | DYNAMODB | eu-north-1 |
 </details>
 
 <details>
@@ -4379,6 +4379,17 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.119.128.0/20 | AMAZON | eu-south-1 |
   | 52.119.144.0/21 | AMAZON | eu-south-1 |
   | 54.240.236.89/32 | AMAZON | eu-south-1 |
+  | 15.160.90.64/26 | AMAZON | eu-south-1 |
+  | 15.161.135.0/26 | AMAZON | eu-south-1 |
+  | 15.161.136.0/24 | AMAZON | eu-south-1 |
+  | 15.161.164.128/26 | AMAZON | eu-south-1 |
+  | 15.161.192.0/26 | AMAZON | eu-south-1 |
+  | 15.161.192.64/26 | AMAZON | eu-south-1 |
+  | 15.161.68.128/26 | AMAZON | eu-south-1 |
+  | 15.161.68.192/26 | AMAZON | eu-south-1 |
+  | 18.102.158.128/25 | AMAZON | eu-south-1 |
+  | 18.102.158.64/26 | AMAZON | eu-south-1 |
+  | 18.102.160.0/22 | AMAZON | eu-south-1 |
   | 99.77.245.0/24 | CHIME_VOICECONNECTOR | eu-south-1 |
   | 52.95.151.0/24 | S3 | eu-south-1 |
   | 3.5.248.0/22 | S3 | eu-south-1 |
@@ -4386,8 +4397,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.21.0/24 | S3 | eu-south-1 |
   | 16.12.59.0/24 | S3 | eu-south-1 |
   | 52.219.254.0/24 | S3 | eu-south-1 |
-  | 35.71.113.0/24 | DYNAMODB | eu-south-1 |
-  | 52.94.18.0/24 | DYNAMODB | eu-south-1 |
+  | 35.152.74.144/28 | S3 | eu-south-1 |
+  | 35.152.74.160/28 | S3 | eu-south-1 |
   | 52.95.224.0/24 | EC2 | eu-south-1 |
   | 18.102.0.0/16 | EC2 | eu-south-1 |
   | 99.77.159.0/24 | EC2 | eu-south-1 |
@@ -4403,39 +4414,28 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.160.0.0/16 | EC2 | eu-south-1 |
   | 52.94.249.48/28 | EC2 | eu-south-1 |
   | 15.177.90.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-south-1 |
-  | 15.160.55.112/29 | CODEBUILD | eu-south-1 |
-  | 15.160.90.64/26 | AMAZON | eu-south-1 |
-  | 15.161.135.0/26 | AMAZON | eu-south-1 |
-  | 15.161.135.164/30 | EC2_INSTANCE_CONNECT | eu-south-1 |
   | 15.161.135.64/27 | CLOUD9 | eu-south-1 |
   | 15.161.135.96/27 | CLOUD9 | eu-south-1 |
-  | 15.161.136.0/24 | AMAZON | eu-south-1 |
-  | 15.161.140.0/23 | API_GATEWAY | eu-south-1 |
-  | 15.161.164.128/26 | AMAZON | eu-south-1 |
-  | 15.161.192.0/26 | AMAZON | eu-south-1 |
+  | 15.160.55.112/29 | CODEBUILD | eu-south-1 |
   | 15.161.192.240/28 | CODEBUILD | eu-south-1 |
-  | 15.161.192.64/26 | AMAZON | eu-south-1 |
+  | 15.161.140.0/23 | API_GATEWAY | eu-south-1 |
+  | 18.102.2.0/23 | API_GATEWAY | eu-south-1 |
   | 15.161.247.128/27 | ROUTE53_RESOLVER | eu-south-1 |
   | 15.161.247.64/27 | ROUTE53_RESOLVER | eu-south-1 |
   | 15.161.247.96/27 | ROUTE53_RESOLVER | eu-south-1 |
   | 15.161.66.0/26 | ROUTE53_RESOLVER | eu-south-1 |
   | 15.161.66.128/26 | ROUTE53_RESOLVER | eu-south-1 |
   | 15.161.66.64/26 | ROUTE53_RESOLVER | eu-south-1 |
-  | 15.161.68.128/26 | AMAZON | eu-south-1 |
-  | 15.161.68.192/26 | AMAZON | eu-south-1 |
-  | 18.102.158.128/25 | AMAZON | eu-south-1 |
-  | 18.102.158.64/26 | AMAZON | eu-south-1 |
-  | 18.102.160.0/22 | AMAZON | eu-south-1 |
-  | 18.102.189.204/31 | EBS | eu-south-1 |
-  | 18.102.189.208/30 | EBS | eu-south-1 |
-  | 18.102.2.0/23 | API_GATEWAY | eu-south-1 |
-  | 35.152.74.128/29 | EBS | eu-south-1 |
-  | 35.152.74.136/30 | EBS | eu-south-1 |
-  | 35.152.74.144/28 | S3 | eu-south-1 |
-  | 35.152.74.160/28 | S3 | eu-south-1 |
   | 35.152.86.0/24 | ROUTE53_RESOLVER | eu-south-1 |
   | 35.152.87.0/24 | ROUTE53_RESOLVER | eu-south-1 |
   | 35.152.88.0/24 | ROUTE53_RESOLVER | eu-south-1 |
+  | 18.102.189.204/31 | EBS | eu-south-1 |
+  | 18.102.189.208/30 | EBS | eu-south-1 |
+  | 35.152.74.128/29 | EBS | eu-south-1 |
+  | 35.152.74.136/30 | EBS | eu-south-1 |
+  | 15.161.135.164/30 | EC2_INSTANCE_CONNECT | eu-south-1 |
+  | 35.71.113.0/24 | DYNAMODB | eu-south-1 |
+  | 52.94.18.0/24 | DYNAMODB | eu-south-1 |
 </details>
 
 <details>
@@ -4448,6 +4448,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.38.64/27 | AMAZON | eu-south-2 |
   | 13.34.38.160/27 | AMAZON | eu-south-2 |
   | 150.222.50.64/27 | AMAZON | eu-south-2 |
+  | 3.5.88.0/22 | AMAZON | eu-south-2 |
   | 13.34.38.0/27 | AMAZON | eu-south-2 |
   | 35.71.120.0/24 | AMAZON | eu-south-2 |
   | 13.34.38.128/27 | AMAZON | eu-south-2 |
@@ -4468,15 +4469,27 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.50.96/27 | AMAZON | eu-south-2 |
   | 99.77.28.0/22 | AMAZON | eu-south-2 |
   | 99.77.48.0/21 | AMAZON | eu-south-2 |
+  | 18.100.160.0/24 | AMAZON | eu-south-2 |
+  | 18.100.184.0/25 | AMAZON | eu-south-2 |
+  | 18.100.184.128/25 | AMAZON | eu-south-2 |
+  | 18.100.194.128/25 | AMAZON | eu-south-2 |
+  | 18.100.196.128/25 | AMAZON | eu-south-2 |
+  | 18.100.71.128/25 | AMAZON | eu-south-2 |
+  | 18.100.74.0/23 | AMAZON | eu-south-2 |
+  | 18.101.212.0/23 | AMAZON | eu-south-2 |
+  | 18.101.80.0/22 | AMAZON | eu-south-2 |
+  | 18.101.84.0/23 | AMAZON | eu-south-2 |
   | 52.95.136.0/23 | S3 | eu-south-2 |
+  | 3.5.88.0/22 | S3 | eu-south-2 |
   | 52.95.138.0/24 | S3 | eu-south-2 |
   | 3.5.32.0/22 | S3 | eu-south-2 |
-  | 35.71.120.0/24 | DYNAMODB | eu-south-2 |
-  | 13.248.65.0/24 | DYNAMODB | eu-south-2 |
+  | 18.100.209.224/28 | S3 | eu-south-2 |
+  | 18.100.209.240/28 | S3 | eu-south-2 |
   | 99.77.55.49/32 | EC2 | eu-south-2 |
   | 99.77.55.46/32 | EC2 | eu-south-2 |
   | 99.77.55.41/32 | EC2 | eu-south-2 |
   | 99.77.55.3/32 | EC2 | eu-south-2 |
+  | 3.5.88.0/22 | EC2 | eu-south-2 |
   | 99.77.55.38/32 | EC2 | eu-south-2 |
   | 99.77.55.51/32 | EC2 | eu-south-2 |
   | 99.77.55.43/32 | EC2 | eu-south-2 |
@@ -4520,24 +4533,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.55.255/32 | EC2 | eu-south-2 |
   | 99.77.55.13/32 | EC2 | eu-south-2 |
   | 15.177.97.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-south-2 |
-  | 18.100.160.0/24 | AMAZON | eu-south-2 |
-  | 18.100.184.0/25 | AMAZON | eu-south-2 |
-  | 18.100.184.128/25 | AMAZON | eu-south-2 |
-  | 18.100.194.128/25 | AMAZON | eu-south-2 |
-  | 18.100.196.128/25 | AMAZON | eu-south-2 |
   | 18.100.209.192/28 | CODEBUILD | eu-south-2 |
-  | 18.100.209.224/28 | S3 | eu-south-2 |
-  | 18.100.209.240/28 | S3 | eu-south-2 |
+  | 18.100.66.0/23 | API_GATEWAY | eu-south-2 |
   | 18.100.64.128/26 | ROUTE53_RESOLVER | eu-south-2 |
   | 18.100.64.192/26 | ROUTE53_RESOLVER | eu-south-2 |
   | 18.100.65.0/26 | ROUTE53_RESOLVER | eu-south-2 |
-  | 18.100.66.0/23 | API_GATEWAY | eu-south-2 |
-  | 18.100.71.128/25 | AMAZON | eu-south-2 |
-  | 18.100.74.0/23 | AMAZON | eu-south-2 |
-  | 18.101.212.0/23 | AMAZON | eu-south-2 |
-  | 18.101.80.0/22 | AMAZON | eu-south-2 |
-  | 18.101.84.0/23 | AMAZON | eu-south-2 |
   | 18.101.90.48/29 | EC2_INSTANCE_CONNECT | eu-south-2 |
+  | 35.71.120.0/24 | DYNAMODB | eu-south-2 |
+  | 13.248.65.0/24 | DYNAMODB | eu-south-2 |
 </details>
 
 <details>
@@ -5004,16 +5007,41 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.9.227/32 | AMAZON | eu-west-1 |
   | 13.34.10.15/32 | AMAZON | eu-west-1 |
   | 13.34.3.7/32 | AMAZON | eu-west-1 |
+  | 3.248.244.0/26 | AMAZON | eu-west-1 |
+  | 3.250.209.192/26 | AMAZON | eu-west-1 |
+  | 3.250.210.0/23 | AMAZON | eu-west-1 |
+  | 3.250.243.64/26 | AMAZON | eu-west-1 |
+  | 3.250.244.0/26 | AMAZON | eu-west-1 |
+  | 3.251.106.128/25 | AMAZON | eu-west-1 |
+  | 3.251.215.192/26 | AMAZON | eu-west-1 |
+  | 3.251.216.0/23 | AMAZON | eu-west-1 |
+  | 3.252.50.64/26 | AMAZON | eu-west-1 |
+  | 3.253.166.0/23 | AMAZON | eu-west-1 |
+  | 3.253.168.0/22 | AMAZON | eu-west-1 |
+  | 3.253.176.0/22 | AMAZON | eu-west-1 |
+  | 3.253.180.0/22 | AMAZON | eu-west-1 |
+  | 3.253.212.0/22 | AMAZON | eu-west-1 |
+  | 3.253.216.0/22 | AMAZON | eu-west-1 |
+  | 3.253.220.0/22 | AMAZON | eu-west-1 |
+  | 3.253.224.0/22 | AMAZON | eu-west-1 |
+  | 3.253.228.0/22 | AMAZON | eu-west-1 |
+  | 3.254.10.0/25 | AMAZON | eu-west-1 |
+  | 3.254.178.192/26 | AMAZON | eu-west-1 |
+  | 3.254.234.0/25 | AMAZON | eu-west-1 |
+  | 3.254.234.128/25 | AMAZON | eu-west-1 |
+  | 3.254.236.0/22 | AMAZON | eu-west-1 |
+  | 3.254.8.0/25 | AMAZON | eu-west-1 |
+  | 63.34.60.0/22 | AMAZON | eu-west-1 |
+  | 99.80.34.128/25 | AMAZON | eu-west-1 |
   | 99.77.250.0/24 | CHIME_VOICECONNECTOR | eu-west-1 |
+  | 176.34.159.192/26 | ROUTE53_HEALTHCHECKS | eu-west-1 |
+  | 54.228.16.0/26 | ROUTE53_HEALTHCHECKS | eu-west-1 |
   | 3.5.72.0/23 | S3 | eu-west-1 |
   | 52.218.0.0/17 | S3 | eu-west-1 |
   | 3.5.64.0/21 | S3 | eu-west-1 |
   | 52.92.0.0/17 | S3 | eu-west-1 |
-  | 52.94.24.0/23 | DYNAMODB | eu-west-1 |
-  | 52.94.26.0/23 | DYNAMODB | eu-west-1 |
-  | 52.119.240.0/21 | DYNAMODB | eu-west-1 |
-  | 35.71.72.0/22 | DYNAMODB | eu-west-1 |
-  | 52.94.5.0/24 | DYNAMODB | eu-west-1 |
+  | 3.251.110.208/28 | S3 | eu-west-1 |
+  | 3.251.110.224/28 | S3 | eu-west-1 |
   | 54.247.0.0/16 | EC2 | eu-west-1 |
   | 18.200.0.0/16 | EC2 | eu-west-1 |
   | 54.74.0.0/15 | EC2 | eu-west-1 |
@@ -5075,6 +5103,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.246.0.0/16 | EC2 | eu-west-1 |
   | 99.77.250.0/24 | EC2 | eu-west-1 |
   | 46.137.0.0/17 | EC2 | eu-west-1 |
+  | 18.200.212.0/23 | CLOUDFRONT | eu-west-1 |
+  | 52.212.248.0/26 | CLOUDFRONT | eu-west-1 |
   | 13.248.119.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 13.248.113.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 13.248.96.0/24 | GLOBALACCELERATOR | eu-west-1 |
@@ -5083,14 +5113,23 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.162.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 15.177.89.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-west-1 |
   | 15.177.75.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-west-1 |
+  | 34.245.205.0/27 | CLOUD9 | eu-west-1 |
+  | 34.245.205.64/27 | CLOUD9 | eu-west-1 |
+  | 3.251.148.120/29 | CODEBUILD | eu-west-1 |
+  | 34.250.63.248/29 | CODEBUILD | eu-west-1 |
   | 108.128.160.0/23 | API_GATEWAY | eu-west-1 |
   | 108.128.162.0/24 | API_GATEWAY | eu-west-1 |
-  | 176.34.159.192/26 | ROUTE53_HEALTHCHECKS | eu-west-1 |
-  | 18.200.212.0/23 | CLOUDFRONT | eu-west-1 |
-  | 18.200.73.58/31 | EBS | eu-west-1 |
-  | 18.200.73.60/30 | EBS | eu-west-1 |
-  | 18.202.216.48/29 | EC2_INSTANCE_CONNECT | eu-west-1 |
-  | 3.248.176.0/22 | WORKSPACES_GATEWAYS | eu-west-1 |
+  | 3.248.245.0/24 | API_GATEWAY | eu-west-1 |
+  | 3.248.246.0/23 | API_GATEWAY | eu-west-1 |
+  | 3.251.56.0/24 | API_GATEWAY | eu-west-1 |
+  | 3.251.62.128/25 | API_GATEWAY | eu-west-1 |
+  | 3.251.94.0/24 | API_GATEWAY | eu-west-1 |
+  | 3.253.134.0/23 | API_GATEWAY | eu-west-1 |
+  | 3.253.148.0/22 | API_GATEWAY | eu-west-1 |
+  | 3.253.174.0/23 | API_GATEWAY | eu-west-1 |
+  | 3.253.184.0/22 | API_GATEWAY | eu-west-1 |
+  | 3.253.188.0/24 | API_GATEWAY | eu-west-1 |
+  | 3.255.16.0/22 | API_GATEWAY | eu-west-1 |
   | 3.248.180.128/25 | ROUTE53_RESOLVER | eu-west-1 |
   | 3.248.180.40/29 | ROUTE53_RESOLVER | eu-west-1 |
   | 3.248.180.64/26 | ROUTE53_RESOLVER | eu-west-1 |
@@ -5098,87 +5137,51 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.248.186.128/25 | ROUTE53_RESOLVER | eu-west-1 |
   | 3.248.186.32/27 | ROUTE53_RESOLVER | eu-west-1 |
   | 3.248.186.64/29 | ROUTE53_RESOLVER | eu-west-1 |
-  | 3.248.186.92/30 | AMAZON_APPFLOW | eu-west-1 |
   | 3.248.216.32/27 | ROUTE53_RESOLVER | eu-west-1 |
-  | 3.248.244.0/26 | AMAZON | eu-west-1 |
-  | 3.248.244.240/30 | AMAZON_APPFLOW | eu-west-1 |
-  | 3.248.245.0/24 | API_GATEWAY | eu-west-1 |
-  | 3.248.246.0/23 | API_GATEWAY | eu-west-1 |
-  | 3.249.28.0/23 | WORKSPACES_GATEWAYS | eu-west-1 |
-  | 3.250.209.192/26 | AMAZON | eu-west-1 |
-  | 3.250.210.0/23 | AMAZON | eu-west-1 |
-  | 3.250.243.64/26 | AMAZON | eu-west-1 |
-  | 3.250.244.0/26 | AMAZON | eu-west-1 |
   | 3.251.104.0/26 | ROUTE53_RESOLVER | eu-west-1 |
   | 3.251.104.128/25 | ROUTE53_RESOLVER | eu-west-1 |
   | 3.251.105.0/25 | ROUTE53_RESOLVER | eu-west-1 |
   | 3.251.105.128/25 | ROUTE53_RESOLVER | eu-west-1 |
-  | 3.251.106.128/25 | AMAZON | eu-west-1 |
-  | 3.251.109.92/30 | EBS | eu-west-1 |
-  | 3.251.110.208/28 | S3 | eu-west-1 |
-  | 3.251.110.224/28 | S3 | eu-west-1 |
-  | 3.251.144.0/29 | EBS | eu-west-1 |
-  | 3.251.148.120/29 | CODEBUILD | eu-west-1 |
-  | 3.251.152.44/30 | AMAZON_APPFLOW | eu-west-1 |
-  | 3.251.215.192/26 | AMAZON | eu-west-1 |
-  | 3.251.216.0/23 | AMAZON | eu-west-1 |
-  | 3.251.220.215/32 | EBS | eu-west-1 |
-  | 3.251.56.0/24 | API_GATEWAY | eu-west-1 |
-  | 3.251.62.128/25 | API_GATEWAY | eu-west-1 |
-  | 3.251.94.0/24 | API_GATEWAY | eu-west-1 |
   | 3.251.95.128/27 | ROUTE53_RESOLVER | eu-west-1 |
   | 3.251.95.96/27 | ROUTE53_RESOLVER | eu-west-1 |
-  | 3.252.50.64/26 | AMAZON | eu-west-1 |
-  | 3.253.134.0/23 | API_GATEWAY | eu-west-1 |
-  | 3.253.148.0/22 | API_GATEWAY | eu-west-1 |
-  | 3.253.166.0/23 | AMAZON | eu-west-1 |
-  | 3.253.168.0/22 | AMAZON | eu-west-1 |
-  | 3.253.174.0/23 | API_GATEWAY | eu-west-1 |
-  | 3.253.176.0/22 | AMAZON | eu-west-1 |
-  | 3.253.180.0/22 | AMAZON | eu-west-1 |
-  | 3.253.184.0/22 | API_GATEWAY | eu-west-1 |
-  | 3.253.188.0/24 | API_GATEWAY | eu-west-1 |
-  | 3.253.189.64/29 | MEDIA_PACKAGE_V2 | eu-west-1 |
-  | 3.253.189.72/29 | MEDIA_PACKAGE_V2 | eu-west-1 |
-  | 3.253.212.0/22 | AMAZON | eu-west-1 |
-  | 3.253.216.0/22 | AMAZON | eu-west-1 |
-  | 3.253.220.0/22 | AMAZON | eu-west-1 |
-  | 3.253.224.0/22 | AMAZON | eu-west-1 |
-  | 3.253.228.0/22 | AMAZON | eu-west-1 |
-  | 3.254.10.0/25 | AMAZON | eu-west-1 |
-  | 3.254.178.192/26 | AMAZON | eu-west-1 |
-  | 3.254.234.0/25 | AMAZON | eu-west-1 |
-  | 3.254.234.128/25 | AMAZON | eu-west-1 |
-  | 3.254.236.0/22 | AMAZON | eu-west-1 |
-  | 3.254.8.0/25 | AMAZON | eu-west-1 |
-  | 3.255.16.0/22 | API_GATEWAY | eu-west-1 |
   | 34.242.153.128/26 | ROUTE53_RESOLVER | eu-west-1 |
   | 34.242.153.224/28 | ROUTE53_RESOLVER | eu-west-1 |
   | 34.242.153.240/28 | ROUTE53_RESOLVER | eu-west-1 |
-  | 34.245.205.0/27 | CLOUD9 | eu-west-1 |
   | 34.245.205.128/28 | ROUTE53_RESOLVER | eu-west-1 |
   | 34.245.205.160/27 | ROUTE53_RESOLVER | eu-west-1 |
-  | 34.245.205.64/27 | CLOUD9 | eu-west-1 |
   | 34.245.205.96/27 | ROUTE53_RESOLVER | eu-west-1 |
   | 34.245.82.0/28 | ROUTE53_RESOLVER | eu-west-1 |
   | 34.245.82.16/28 | ROUTE53_RESOLVER | eu-west-1 |
   | 34.245.82.32/28 | ROUTE53_RESOLVER | eu-west-1 |
   | 34.245.82.48/28 | ROUTE53_RESOLVER | eu-west-1 |
-  | 34.250.63.248/29 | CODEBUILD | eu-west-1 |
-  | 52.19.124.0/23 | WORKSPACES_GATEWAYS | eu-west-1 |
-  | 52.212.248.0/26 | CLOUDFRONT | eu-west-1 |
   | 52.215.218.112/28 | ROUTE53_RESOLVER | eu-west-1 |
   | 52.215.218.64/28 | ROUTE53_RESOLVER | eu-west-1 |
-  | 54.228.16.0/26 | ROUTE53_HEALTHCHECKS | eu-west-1 |
-  | 54.247.241.96/29 | EBS | eu-west-1 |
-  | 54.247.243.134/31 | KINESIS_VIDEO_STREAMS | eu-west-1 |
-  | 54.247.243.136/30 | KINESIS_VIDEO_STREAMS | eu-west-1 |
-  | 63.34.60.0/22 | AMAZON | eu-west-1 |
-  | 99.80.34.128/25 | AMAZON | eu-west-1 |
   | 99.80.34.48/28 | ROUTE53_RESOLVER | eu-west-1 |
   | 99.80.34.64/26 | ROUTE53_RESOLVER | eu-west-1 |
   | 99.80.88.0/26 | ROUTE53_RESOLVER | eu-west-1 |
   | 99.80.88.64/26 | ROUTE53_RESOLVER | eu-west-1 |
+  | 18.200.73.58/31 | EBS | eu-west-1 |
+  | 18.200.73.60/30 | EBS | eu-west-1 |
+  | 3.251.109.92/30 | EBS | eu-west-1 |
+  | 3.251.144.0/29 | EBS | eu-west-1 |
+  | 3.251.220.215/32 | EBS | eu-west-1 |
+  | 54.247.241.96/29 | EBS | eu-west-1 |
+  | 18.202.216.48/29 | EC2_INSTANCE_CONNECT | eu-west-1 |
+  | 54.247.243.134/31 | KINESIS_VIDEO_STREAMS | eu-west-1 |
+  | 54.247.243.136/30 | KINESIS_VIDEO_STREAMS | eu-west-1 |
+  | 3.248.176.0/22 | WORKSPACES_GATEWAYS | eu-west-1 |
+  | 3.249.28.0/23 | WORKSPACES_GATEWAYS | eu-west-1 |
+  | 52.19.124.0/23 | WORKSPACES_GATEWAYS | eu-west-1 |
+  | 3.248.186.92/30 | AMAZON_APPFLOW | eu-west-1 |
+  | 3.248.244.240/30 | AMAZON_APPFLOW | eu-west-1 |
+  | 3.251.152.44/30 | AMAZON_APPFLOW | eu-west-1 |
+  | 3.253.189.64/29 | MEDIA_PACKAGE_V2 | eu-west-1 |
+  | 3.253.189.72/29 | MEDIA_PACKAGE_V2 | eu-west-1 |
+  | 52.94.24.0/23 | DYNAMODB | eu-west-1 |
+  | 52.94.26.0/23 | DYNAMODB | eu-west-1 |
+  | 52.119.240.0/21 | DYNAMODB | eu-west-1 |
+  | 35.71.72.0/22 | DYNAMODB | eu-west-1 |
+  | 52.94.5.0/24 | DYNAMODB | eu-west-1 |
 </details>
 
 <details>
@@ -5373,6 +5376,17 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.25.45/32 | AMAZON | eu-west-2 |
   | 13.34.25.34/32 | AMAZON | eu-west-2 |
   | 15.230.190.0/25 | AMAZON | eu-west-2 |
+  | 13.40.1.192/26 | AMAZON | eu-west-2 |
+  | 13.41.1.160/27 | AMAZON | eu-west-2 |
+  | 13.43.44.0/22 | AMAZON | eu-west-2 |
+  | 13.43.48.0/23 | AMAZON | eu-west-2 |
+  | 18.132.146.192/26 | AMAZON | eu-west-2 |
+  | 18.133.45.0/26 | AMAZON | eu-west-2 |
+  | 18.133.45.64/26 | AMAZON | eu-west-2 |
+  | 18.171.35.128/26 | AMAZON | eu-west-2 |
+  | 3.10.201.128/27 | AMAZON | eu-west-2 |
+  | 3.10.201.192/26 | AMAZON | eu-west-2 |
+  | 3.8.168.0/23 | AMAZON | eu-west-2 |
   | 99.77.249.0/24 | CHIME_VOICECONNECTOR | eu-west-2 |
   | 52.95.150.0/24 | S3 | eu-west-2 |
   | 16.12.15.0/24 | S3 | eu-west-2 |
@@ -5383,8 +5397,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.142.0/23 | S3 | eu-west-2 |
   | 52.95.191.0/24 | S3 | eu-west-2 |
   | 3.5.244.0/22 | S3 | eu-west-2 |
-  | 52.94.15.0/24 | DYNAMODB | eu-west-2 |
-  | 35.71.111.0/24 | DYNAMODB | eu-west-2 |
+  | 18.168.37.160/28 | S3 | eu-west-2 |
+  | 18.168.37.176/28 | S3 | eu-west-2 |
   | 208.78.132.0/23 | EC2 | eu-west-2 |
   | 64.252.85.0/24 | EC2 | eu-west-2 |
   | 216.39.136.0/21 | EC2 | eu-west-2 |
@@ -5415,62 +5429,38 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.244.0/22 | EC2 | eu-west-2 |
   | 13.40.0.0/14 | EC2 | eu-west-2 |
   | 216.39.152.0/21 | EC2 | eu-west-2 |
+  | 18.175.65.0/24 | CLOUDFRONT | eu-west-2 |
+  | 18.175.66.0/24 | CLOUDFRONT | eu-west-2 |
+  | 18.175.67.0/24 | CLOUDFRONT | eu-west-2 |
+  | 3.10.17.128/25 | CLOUDFRONT | eu-west-2 |
+  | 3.11.53.0/24 | CLOUDFRONT | eu-west-2 |
+  | 52.56.127.0/25 | CLOUDFRONT | eu-west-2 |
   | 13.248.120.0/24 | GLOBALACCELERATOR | eu-west-2 |
   | 99.82.169.0/24 | GLOBALACCELERATOR | eu-west-2 |
   | 3.2.48.0/24 | GLOBALACCELERATOR | eu-west-2 |
   | 13.248.101.0/24 | GLOBALACCELERATOR | eu-west-2 |
   | 15.177.78.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-west-2 |
-  | 13.40.1.192/26 | AMAZON | eu-west-2 |
+  | 3.10.127.32/27 | CLOUD9 | eu-west-2 |
+  | 3.10.201.64/27 | CLOUD9 | eu-west-2 |
+  | 18.169.230.200/29 | CODEBUILD | eu-west-2 |
+  | 35.176.92.32/29 | CODEBUILD | eu-west-2 |
   | 13.40.202.0/23 | API_GATEWAY | eu-west-2 |
   | 13.40.204.0/22 | API_GATEWAY | eu-west-2 |
-  | 13.41.1.160/27 | AMAZON | eu-west-2 |
-  | 13.42.133.192/29 | MEDIA_PACKAGE_V2 | eu-west-2 |
-  | 13.42.133.200/29 | MEDIA_PACKAGE_V2 | eu-west-2 |
-  | 13.43.44.0/22 | AMAZON | eu-west-2 |
-  | 13.43.48.0/23 | AMAZON | eu-west-2 |
-  | 18.130.91.144/30 | AMAZON_APPFLOW | eu-west-2 |
-  | 18.130.91.148/30 | AMAZON_APPFLOW | eu-west-2 |
-  | 18.132.146.192/26 | AMAZON | eu-west-2 |
-  | 18.132.21.0/24 | WORKSPACES_GATEWAYS | eu-west-2 |
-  | 18.132.22.0/23 | WORKSPACES_GATEWAYS | eu-west-2 |
-  | 18.133.45.0/26 | AMAZON | eu-west-2 |
-  | 18.133.45.64/26 | AMAZON | eu-west-2 |
+  | 18.168.133.0/24 | API_GATEWAY | eu-west-2 |
+  | 3.10.17.0/25 | API_GATEWAY | eu-west-2 |
+  | 3.9.94.0/24 | API_GATEWAY | eu-west-2 |
+  | 35.179.42.0/23 | API_GATEWAY | eu-west-2 |
   | 18.134.255.160/27 | ROUTE53_RESOLVER | eu-west-2 |
   | 18.134.255.192/27 | ROUTE53_RESOLVER | eu-west-2 |
   | 18.134.255.224/27 | ROUTE53_RESOLVER | eu-west-2 |
-  | 18.134.68.0/22 | WORKSPACES_GATEWAYS | eu-west-2 |
   | 18.135.226.192/26 | ROUTE53_RESOLVER | eu-west-2 |
-  | 18.168.133.0/24 | API_GATEWAY | eu-west-2 |
   | 18.168.33.0/24 | ROUTE53_RESOLVER | eu-west-2 |
   | 18.168.34.0/23 | ROUTE53_RESOLVER | eu-west-2 |
   | 18.168.36.0/24 | ROUTE53_RESOLVER | eu-west-2 |
   | 18.168.37.0/27 | ROUTE53_RESOLVER | eu-west-2 |
-  | 18.168.37.136/29 | EBS | eu-west-2 |
-  | 18.168.37.144/30 | EBS | eu-west-2 |
-  | 18.168.37.160/28 | S3 | eu-west-2 |
-  | 18.168.37.176/28 | S3 | eu-west-2 |
   | 18.168.37.32/28 | ROUTE53_RESOLVER | eu-west-2 |
   | 18.168.37.48/30 | ROUTE53_RESOLVER | eu-west-2 |
   | 18.168.37.64/26 | ROUTE53_RESOLVER | eu-west-2 |
-  | 18.169.230.136/30 | AMAZON_APPFLOW | eu-west-2 |
-  | 18.169.230.200/29 | CODEBUILD | eu-west-2 |
-  | 18.171.35.128/26 | AMAZON | eu-west-2 |
-  | 18.171.35.212/31 | EBS | eu-west-2 |
-  | 18.171.35.214/31 | KINESIS_VIDEO_STREAMS | eu-west-2 |
-  | 18.171.63.32/30 | EBS | eu-west-2 |
-  | 18.171.63.36/30 | KINESIS_VIDEO_STREAMS | eu-west-2 |
-  | 18.175.65.0/24 | CLOUDFRONT | eu-west-2 |
-  | 18.175.66.0/24 | CLOUDFRONT | eu-west-2 |
-  | 18.175.67.0/24 | CLOUDFRONT | eu-west-2 |
-  | 3.10.127.32/27 | CLOUD9 | eu-west-2 |
-  | 3.10.17.0/25 | API_GATEWAY | eu-west-2 |
-  | 3.10.17.128/25 | CLOUDFRONT | eu-west-2 |
-  | 3.10.201.128/27 | AMAZON | eu-west-2 |
-  | 3.10.201.192/26 | AMAZON | eu-west-2 |
-  | 3.10.201.64/27 | CLOUD9 | eu-west-2 |
-  | 3.11.53.0/24 | CLOUDFRONT | eu-west-2 |
-  | 3.8.168.0/23 | AMAZON | eu-west-2 |
-  | 3.8.37.24/29 | EC2_INSTANCE_CONNECT | eu-west-2 |
   | 3.8.37.96/27 | ROUTE53_RESOLVER | eu-west-2 |
   | 3.9.159.64/30 | ROUTE53_RESOLVER | eu-west-2 |
   | 3.9.159.68/30 | ROUTE53_RESOLVER | eu-west-2 |
@@ -5478,17 +5468,30 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.9.41.0/27 | ROUTE53_RESOLVER | eu-west-2 |
   | 3.9.41.32/27 | ROUTE53_RESOLVER | eu-west-2 |
   | 3.9.41.64/27 | ROUTE53_RESOLVER | eu-west-2 |
-  | 3.9.94.0/24 | API_GATEWAY | eu-west-2 |
-  | 35.176.32.0/24 | WORKSPACES_GATEWAYS | eu-west-2 |
-  | 35.176.92.32/29 | CODEBUILD | eu-west-2 |
   | 35.177.154.128/28 | ROUTE53_RESOLVER | eu-west-2 |
   | 35.177.154.144/28 | ROUTE53_RESOLVER | eu-west-2 |
   | 35.177.154.160/28 | ROUTE53_RESOLVER | eu-west-2 |
   | 35.177.154.176/29 | ROUTE53_RESOLVER | eu-west-2 |
   | 35.177.154.184/29 | ROUTE53_RESOLVER | eu-west-2 |
   | 35.177.154.192/29 | ROUTE53_RESOLVER | eu-west-2 |
-  | 35.179.42.0/23 | API_GATEWAY | eu-west-2 |
-  | 52.56.127.0/25 | CLOUDFRONT | eu-west-2 |
+  | 18.168.37.136/29 | EBS | eu-west-2 |
+  | 18.168.37.144/30 | EBS | eu-west-2 |
+  | 18.171.35.212/31 | EBS | eu-west-2 |
+  | 18.171.63.32/30 | EBS | eu-west-2 |
+  | 3.8.37.24/29 | EC2_INSTANCE_CONNECT | eu-west-2 |
+  | 18.171.35.214/31 | KINESIS_VIDEO_STREAMS | eu-west-2 |
+  | 18.171.63.36/30 | KINESIS_VIDEO_STREAMS | eu-west-2 |
+  | 18.132.21.0/24 | WORKSPACES_GATEWAYS | eu-west-2 |
+  | 18.132.22.0/23 | WORKSPACES_GATEWAYS | eu-west-2 |
+  | 18.134.68.0/22 | WORKSPACES_GATEWAYS | eu-west-2 |
+  | 35.176.32.0/24 | WORKSPACES_GATEWAYS | eu-west-2 |
+  | 18.130.91.144/30 | AMAZON_APPFLOW | eu-west-2 |
+  | 18.130.91.148/30 | AMAZON_APPFLOW | eu-west-2 |
+  | 18.169.230.136/30 | AMAZON_APPFLOW | eu-west-2 |
+  | 13.42.133.192/29 | MEDIA_PACKAGE_V2 | eu-west-2 |
+  | 13.42.133.200/29 | MEDIA_PACKAGE_V2 | eu-west-2 |
+  | 52.94.15.0/24 | DYNAMODB | eu-west-2 |
+  | 35.71.111.0/24 | DYNAMODB | eu-west-2 |
 </details>
 
 <details>
@@ -5571,6 +5574,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.36.96/27 | AMAZON | eu-west-3 |
   | 99.77.135.0/24 | AMAZON | eu-west-3 |
   | 3.5.224.0/22 | AMAZON | eu-west-3 |
+  | 13.37.1.64/26 | AMAZON | eu-west-3 |
+  | 13.38.202.64/26 | AMAZON | eu-west-3 |
+  | 13.39.220.0/22 | AMAZON | eu-west-3 |
+  | 13.39.224.0/23 | AMAZON | eu-west-3 |
+  | 15.188.210.0/27 | AMAZON | eu-west-3 |
+  | 15.188.210.128/26 | AMAZON | eu-west-3 |
+  | 15.236.155.192/26 | AMAZON | eu-west-3 |
+  | 15.236.231.0/26 | AMAZON | eu-west-3 |
+  | 15.236.231.64/26 | AMAZON | eu-west-3 |
+  | 35.180.244.0/23 | AMAZON | eu-west-3 |
   | 99.77.248.0/24 | CHIME_VOICECONNECTOR | eu-west-3 |
   | 16.12.20.0/24 | S3 | eu-west-3 |
   | 52.95.156.0/24 | S3 | eu-west-3 |
@@ -5578,8 +5591,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.154.0/23 | S3 | eu-west-3 |
   | 16.12.18.0/23 | S3 | eu-west-3 |
   | 3.5.224.0/22 | S3 | eu-west-3 |
-  | 52.94.16.0/24 | DYNAMODB | eu-west-3 |
-  | 35.71.101.0/24 | DYNAMODB | eu-west-3 |
+  | 13.36.84.48/28 | S3 | eu-west-3 |
+  | 13.36.84.64/28 | S3 | eu-west-3 |
   | 35.180.0.0/16 | EC2 | eu-west-3 |
   | 52.47.0.0/16 | EC2 | eu-west-3 |
   | 13.36.0.0/14 | EC2 | eu-west-3 |
@@ -5599,45 +5612,26 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.74.0/24 | EC2 | eu-west-3 |
   | 99.77.135.0/24 | EC2 | eu-west-3 |
   | 3.5.224.0/22 | EC2 | eu-west-3 |
+  | 15.188.184.0/24 | CLOUDFRONT | eu-west-3 |
+  | 52.47.139.0/24 | CLOUDFRONT | eu-west-3 |
   | 99.82.161.0/24 | GLOBALACCELERATOR | eu-west-3 |
   | 15.177.74.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-west-3 |
+  | 15.188.210.32/27 | CLOUD9 | eu-west-3 |
+  | 15.188.210.64/27 | CLOUD9 | eu-west-3 |
+  | 13.36.84.112/29 | CODEBUILD | eu-west-3 |
+  | 52.47.73.72/29 | CODEBUILD | eu-west-3 |
   | 13.36.155.0/24 | API_GATEWAY | eu-west-3 |
+  | 13.38.132.0/22 | API_GATEWAY | eu-west-3 |
+  | 13.38.140.0/23 | API_GATEWAY | eu-west-3 |
+  | 15.236.80.0/23 | API_GATEWAY | eu-west-3 |
+  | 35.181.128.0/24 | API_GATEWAY | eu-west-3 |
   | 13.36.18.0/28 | ROUTE53_RESOLVER | eu-west-3 |
   | 13.36.18.32/27 | ROUTE53_RESOLVER | eu-west-3 |
   | 13.36.18.64/27 | ROUTE53_RESOLVER | eu-west-3 |
   | 13.36.76.0/24 | ROUTE53_RESOLVER | eu-west-3 |
   | 13.36.77.0/24 | ROUTE53_RESOLVER | eu-west-3 |
   | 13.36.78.0/24 | ROUTE53_RESOLVER | eu-west-3 |
-  | 13.36.84.112/29 | CODEBUILD | eu-west-3 |
-  | 13.36.84.126/31 | EBS | eu-west-3 |
-  | 13.36.84.24/29 | EBS | eu-west-3 |
-  | 13.36.84.32/30 | EBS | eu-west-3 |
-  | 13.36.84.44/30 | AMAZON_APPFLOW | eu-west-3 |
-  | 13.36.84.48/28 | S3 | eu-west-3 |
-  | 13.36.84.64/28 | S3 | eu-west-3 |
-  | 13.37.1.64/26 | AMAZON | eu-west-3 |
-  | 13.38.132.0/22 | API_GATEWAY | eu-west-3 |
-  | 13.38.140.0/23 | API_GATEWAY | eu-west-3 |
-  | 13.38.202.64/26 | AMAZON | eu-west-3 |
-  | 13.39.103.180/30 | EBS | eu-west-3 |
-  | 13.39.141.160/29 | MEDIA_PACKAGE_V2 | eu-west-3 |
-  | 13.39.141.168/29 | MEDIA_PACKAGE_V2 | eu-west-3 |
-  | 13.39.220.0/22 | AMAZON | eu-west-3 |
-  | 13.39.224.0/23 | AMAZON | eu-west-3 |
   | 15.188.102.0/27 | ROUTE53_RESOLVER | eu-west-3 |
-  | 15.188.184.0/24 | CLOUDFRONT | eu-west-3 |
-  | 15.188.210.0/27 | AMAZON | eu-west-3 |
-  | 15.188.210.128/26 | AMAZON | eu-west-3 |
-  | 15.188.210.196/30 | AMAZON_APPFLOW | eu-west-3 |
-  | 15.188.210.200/30 | AMAZON_APPFLOW | eu-west-3 |
-  | 15.188.210.206/31 | KINESIS_VIDEO_STREAMS | eu-west-3 |
-  | 15.188.210.32/27 | CLOUD9 | eu-west-3 |
-  | 15.188.210.64/27 | CLOUD9 | eu-west-3 |
-  | 15.236.155.192/26 | AMAZON | eu-west-3 |
-  | 15.236.231.0/26 | AMAZON | eu-west-3 |
-  | 15.236.231.64/26 | AMAZON | eu-west-3 |
-  | 15.236.80.0/23 | API_GATEWAY | eu-west-3 |
-  | 15.237.162.40/30 | KINESIS_VIDEO_STREAMS | eu-west-3 |
   | 35.180.1.16/29 | ROUTE53_RESOLVER | eu-west-3 |
   | 35.180.1.24/29 | ROUTE53_RESOLVER | eu-west-3 |
   | 35.180.1.32/29 | ROUTE53_RESOLVER | eu-west-3 |
@@ -5647,12 +5641,21 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.180.1.8/29 | ROUTE53_RESOLVER | eu-west-3 |
   | 35.180.112.128/27 | ROUTE53_RESOLVER | eu-west-3 |
   | 35.180.112.160/27 | ROUTE53_RESOLVER | eu-west-3 |
-  | 35.180.112.80/29 | EC2_INSTANCE_CONNECT | eu-west-3 |
-  | 35.180.244.0/23 | AMAZON | eu-west-3 |
-  | 35.181.128.0/24 | API_GATEWAY | eu-west-3 |
-  | 52.47.139.0/24 | CLOUDFRONT | eu-west-3 |
   | 52.47.73.160/27 | ROUTE53_RESOLVER | eu-west-3 |
-  | 52.47.73.72/29 | CODEBUILD | eu-west-3 |
+  | 13.36.84.126/31 | EBS | eu-west-3 |
+  | 13.36.84.24/29 | EBS | eu-west-3 |
+  | 13.36.84.32/30 | EBS | eu-west-3 |
+  | 13.39.103.180/30 | EBS | eu-west-3 |
+  | 35.180.112.80/29 | EC2_INSTANCE_CONNECT | eu-west-3 |
+  | 15.188.210.206/31 | KINESIS_VIDEO_STREAMS | eu-west-3 |
+  | 15.237.162.40/30 | KINESIS_VIDEO_STREAMS | eu-west-3 |
+  | 13.36.84.44/30 | AMAZON_APPFLOW | eu-west-3 |
+  | 15.188.210.196/30 | AMAZON_APPFLOW | eu-west-3 |
+  | 15.188.210.200/30 | AMAZON_APPFLOW | eu-west-3 |
+  | 13.39.141.160/29 | MEDIA_PACKAGE_V2 | eu-west-3 |
+  | 13.39.141.168/29 | MEDIA_PACKAGE_V2 | eu-west-3 |
+  | 52.94.16.0/24 | DYNAMODB | eu-west-3 |
+  | 35.71.101.0/24 | DYNAMODB | eu-west-3 |
 </details>
 
 <details>
@@ -5693,6 +5696,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.65.160/27 | AMAZON | il-central-1 |
   | 13.34.64.192/27 | AMAZON | il-central-1 |
   | 13.34.65.128/27 | AMAZON | il-central-1 |
+  | 16.12.81.0/24 | AMAZON | il-central-1 |
   | 150.222.52.64/27 | AMAZON | il-central-1 |
   | 13.34.65.192/27 | AMAZON | il-central-1 |
   | 13.34.65.96/27 | AMAZON | il-central-1 |
@@ -5700,6 +5704,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.84.0.0/16 | AMAZON | il-central-1 |
   | 15.251.0.29/32 | AMAZON | il-central-1 |
   | 13.34.64.224/27 | AMAZON | il-central-1 |
+  | 16.12.82.0/23 | AMAZON | il-central-1 |
   | 13.34.65.224/27 | AMAZON | il-central-1 |
   | 51.86.0.0/15 | AMAZON | il-central-1 |
   | 16.12.12.0/23 | AMAZON | il-central-1 |
@@ -5715,10 +5720,22 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.16.0.0/15 | AMAZON | il-central-1 |
   | 15.190.0.0/22 | AMAZON | il-central-1 |
   | 99.151.152.0/21 | AMAZON | il-central-1 |
+  | 51.16.103.128/25 | AMAZON | il-central-1 |
+  | 51.16.104.0/23 | AMAZON | il-central-1 |
+  | 51.16.204.0/24 | AMAZON | il-central-1 |
+  | 51.16.205.0/24 | AMAZON | il-central-1 |
+  | 51.16.238.0/23 | AMAZON | il-central-1 |
+  | 51.16.240.0/22 | AMAZON | il-central-1 |
+  | 51.16.255.0/24 | AMAZON | il-central-1 |
+  | 51.17.0.0/24 | AMAZON | il-central-1 |
+  | 51.17.1.0/24 | AMAZON | il-central-1 |
+  | 16.12.81.0/24 | S3 | il-central-1 |
+  | 16.12.82.0/23 | S3 | il-central-1 |
   | 16.12.12.0/23 | S3 | il-central-1 |
   | 16.12.14.0/24 | S3 | il-central-1 |
   | 3.5.56.0/22 | S3 | il-central-1 |
-  | 13.248.72.0/24 | DYNAMODB | il-central-1 |
+  | 51.17.129.160/28 | S3 | il-central-1 |
+  | 51.17.129.176/28 | S3 | il-central-1 |
   | 51.85.0.0/16 | EC2 | il-central-1 |
   | 15.177.99.0/24 | EC2 | il-central-1 |
   | 51.84.0.0/16 | EC2 | il-central-1 |
@@ -5728,24 +5745,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.16.0.0/15 | EC2 | il-central-1 |
   | 99.151.152.0/21 | EC2 | il-central-1 |
   | 15.177.99.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | il-central-1 |
-  | 51.16.103.128/25 | AMAZON | il-central-1 |
-  | 51.16.103.16/28 | CODEBUILD | il-central-1 |
   | 51.16.103.32/27 | CLOUD9 | il-central-1 |
-  | 51.16.104.0/23 | AMAZON | il-central-1 |
+  | 51.16.183.64/27 | CLOUD9 | il-central-1 |
+  | 51.16.103.16/28 | CODEBUILD | il-central-1 |
   | 51.16.149.0/24 | API_GATEWAY | il-central-1 |
   | 51.16.150.0/24 | API_GATEWAY | il-central-1 |
   | 51.16.183.224/29 | EC2_INSTANCE_CONNECT | il-central-1 |
-  | 51.16.183.64/27 | CLOUD9 | il-central-1 |
-  | 51.16.204.0/24 | AMAZON | il-central-1 |
-  | 51.16.205.0/24 | AMAZON | il-central-1 |
-  | 51.16.238.0/23 | AMAZON | il-central-1 |
-  | 51.16.240.0/22 | AMAZON | il-central-1 |
-  | 51.16.255.0/24 | AMAZON | il-central-1 |
-  | 51.17.0.0/24 | AMAZON | il-central-1 |
-  | 51.17.1.0/24 | AMAZON | il-central-1 |
-  | 51.17.129.160/28 | S3 | il-central-1 |
-  | 51.17.129.176/28 | S3 | il-central-1 |
   | 51.17.72.0/22 | WORKSPACES_GATEWAYS | il-central-1 |
+  | 13.248.72.0/24 | DYNAMODB | il-central-1 |
 </details>
 
 <details>
@@ -5789,11 +5796,25 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.80.0/21 | AMAZON | me-central-1 |
   | 13.34.59.32/27 | AMAZON | me-central-1 |
   | 15.230.177.4/32 | AMAZON | me-central-1 |
+  | 3.28.211.128/25 | AMAZON | me-central-1 |
+  | 3.28.229.0/24 | AMAZON | me-central-1 |
+  | 3.28.255.128/25 | AMAZON | me-central-1 |
+  | 3.28.72.0/23 | AMAZON | me-central-1 |
+  | 3.29.156.0/22 | AMAZON | me-central-1 |
+  | 3.29.160.0/23 | AMAZON | me-central-1 |
+  | 3.29.17.0/25 | AMAZON | me-central-1 |
+  | 3.29.17.128/25 | AMAZON | me-central-1 |
+  | 3.29.3.128/25 | AMAZON | me-central-1 |
   | 52.95.187.0/24 | S3 | me-central-1 |
   | 3.5.48.0/22 | S3 | me-central-1 |
   | 52.95.188.0/23 | S3 | me-central-1 |
-  | 35.71.104.0/24 | DYNAMODB | me-central-1 |
-  | 13.248.66.0/24 | DYNAMODB | me-central-1 |
+  | 3.28.70.112/28 | S3 | me-central-1 |
+  | 3.28.70.48/28 | S3 | me-central-1 |
+  | 3.28.70.96/28 | S3 | me-central-1 |
+  | 3.29.147.48/28 | S3 | me-central-1 |
+  | 3.29.202.240/28 | S3 | me-central-1 |
+  | 51.112.11.64/28 | S3 | me-central-1 |
+  | 51.112.11.80/28 | S3 | me-central-1 |
   | 40.172.0.0/16 | EC2 | me-central-1 |
   | 35.71.104.0/24 | EC2 | me-central-1 |
   | 3.5.48.0/22 | EC2 | me-central-1 |
@@ -5804,36 +5825,22 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.93.0/24 | EC2 | me-central-1 |
   | 3.28.0.0/15 | EC2 | me-central-1 |
   | 51.0.80.0/21 | EC2 | me-central-1 |
-  | 15.177.93.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | me-central-1 |
-  | 3.28.211.128/25 | AMAZON | me-central-1 |
-  | 3.28.229.0/24 | AMAZON | me-central-1 |
-  | 3.28.255.128/25 | AMAZON | me-central-1 |
-  | 3.28.255.80/28 | CODEBUILD | me-central-1 |
-  | 3.28.63.128/26 | ROUTE53_RESOLVER | me-central-1 |
-  | 3.28.63.192/26 | ROUTE53_RESOLVER | me-central-1 |
-  | 3.28.64.0/24 | API_GATEWAY | me-central-1 |
-  | 3.28.65.0/26 | ROUTE53_RESOLVER | me-central-1 |
-  | 3.28.70.112/28 | S3 | me-central-1 |
-  | 3.28.70.48/28 | S3 | me-central-1 |
-  | 3.28.70.96/28 | S3 | me-central-1 |
-  | 3.28.72.0/23 | AMAZON | me-central-1 |
-  | 3.29.147.40/29 | EC2_INSTANCE_CONNECT | me-central-1 |
-  | 3.29.147.48/28 | S3 | me-central-1 |
-  | 3.29.156.0/22 | AMAZON | me-central-1 |
-  | 3.29.160.0/23 | AMAZON | me-central-1 |
-  | 3.29.17.0/25 | AMAZON | me-central-1 |
-  | 3.29.17.128/25 | AMAZON | me-central-1 |
-  | 3.29.202.240/28 | S3 | me-central-1 |
-  | 3.29.3.128/25 | AMAZON | me-central-1 |
   | 3.29.40.128/26 | CLOUDFRONT | me-central-1 |
   | 3.29.40.192/26 | CLOUDFRONT | me-central-1 |
   | 3.29.40.64/26 | CLOUDFRONT | me-central-1 |
-  | 3.29.57.0/26 | CLOUDFRONT_ORIGIN_FACING | me-central-1 |
   | 3.29.57.0/26 | CLOUDFRONT | me-central-1 |
+  | 15.177.93.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | me-central-1 |
+  | 3.29.57.0/26 | CLOUDFRONT_ORIGIN_FACING | me-central-1 |
+  | 3.28.255.80/28 | CODEBUILD | me-central-1 |
+  | 3.28.64.0/24 | API_GATEWAY | me-central-1 |
   | 3.29.89.0/24 | API_GATEWAY | me-central-1 |
-  | 51.112.11.64/28 | S3 | me-central-1 |
-  | 51.112.11.80/28 | S3 | me-central-1 |
   | 51.112.20.0/23 | API_GATEWAY | me-central-1 |
+  | 3.28.63.128/26 | ROUTE53_RESOLVER | me-central-1 |
+  | 3.28.63.192/26 | ROUTE53_RESOLVER | me-central-1 |
+  | 3.28.65.0/26 | ROUTE53_RESOLVER | me-central-1 |
+  | 3.29.147.40/29 | EC2_INSTANCE_CONNECT | me-central-1 |
+  | 35.71.104.0/24 | DYNAMODB | me-central-1 |
+  | 13.248.66.0/24 | DYNAMODB | me-central-1 |
 </details>
 
 <details>
@@ -5890,16 +5897,26 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.7.0/24 | AMAZON | me-south-1 |
   | 15.177.87.0/24 | AMAZON | me-south-1 |
   | 54.239.1.112/28 | AMAZON | me-south-1 |
+  | 15.230.121.0/31 | AMAZON | me-south-1 |
   | 13.34.78.192/27 | AMAZON | me-south-1 |
   | 56.185.0.0/16 | AMAZON | me-south-1 |
   | 13.34.20.32/27 | AMAZON | me-south-1 |
   | 15.220.160.0/21 | AMAZON | me-south-1-mct-1 |
+  | 15.184.1.128/26 | AMAZON | me-south-1 |
+  | 15.184.1.64/26 | AMAZON | me-south-1 |
+  | 15.185.141.192/26 | AMAZON | me-south-1 |
+  | 15.185.245.0/26 | AMAZON | me-south-1 |
+  | 15.185.251.0/26 | AMAZON | me-south-1 |
+  | 15.185.33.192/26 | AMAZON | me-south-1 |
+  | 15.185.86.0/23 | AMAZON | me-south-1 |
+  | 16.24.30.0/23 | AMAZON | me-south-1 |
+  | 16.24.32.0/22 | AMAZON | me-south-1 |
   | 99.77.236.0/24 | CHIME_VOICECONNECTOR | me-south-1 |
   | 52.95.174.0/24 | S3 | me-south-1 |
   | 52.95.172.0/23 | S3 | me-south-1 |
   | 3.5.220.0/22 | S3 | me-south-1 |
-  | 35.71.99.0/24 | DYNAMODB | me-south-1 |
-  | 52.119.249.0/24 | DYNAMODB | me-south-1 |
+  | 15.184.125.240/28 | S3 | me-south-1 |
+  | 15.184.153.0/28 | S3 | me-south-1 |
   | 15.185.0.0/16 | EC2 | me-south-1 |
   | 35.71.99.0/24 | EC2 | me-south-1 |
   | 157.241.0.0/16 | EC2 | me-south-1 |
@@ -5916,41 +5933,32 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.160.0/21 | EC2 | me-south-1-mct-1 |
   | 13.248.106.0/24 | GLOBALACCELERATOR | me-south-1 |
   | 15.177.87.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | me-south-1 |
-  | 15.184.1.128/26 | AMAZON | me-south-1 |
-  | 15.184.1.64/26 | AMAZON | me-south-1 |
-  | 15.184.125.0/26 | ROUTE53_RESOLVER | me-south-1 |
-  | 15.184.125.128/26 | ROUTE53_RESOLVER | me-south-1 |
-  | 15.184.125.224/29 | EBS | me-south-1 |
-  | 15.184.125.232/30 | EBS | me-south-1 |
-  | 15.184.125.240/28 | S3 | me-south-1 |
-  | 15.184.125.64/26 | ROUTE53_RESOLVER | me-south-1 |
-  | 15.184.153.0/28 | S3 | me-south-1 |
-  | 15.184.184.96/29 | CODEBUILD | me-south-1 |
-  | 15.184.70.200/29 | ROUTE53_RESOLVER | me-south-1 |
-  | 15.184.70.224/29 | ROUTE53_RESOLVER | me-south-1 |
   | 15.185.141.160/27 | CLOUD9 | me-south-1 |
-  | 15.185.141.192/26 | AMAZON | me-south-1 |
-  | 15.185.144.0/23 | API_GATEWAY | me-south-1 |
-  | 15.185.245.0/26 | AMAZON | me-south-1 |
-  | 15.185.251.0/26 | AMAZON | me-south-1 |
-  | 15.185.33.192/26 | AMAZON | me-south-1 |
-  | 15.185.33.32/27 | ROUTE53_RESOLVER | me-south-1 |
-  | 15.185.33.64/27 | ROUTE53_RESOLVER | me-south-1 |
-  | 15.185.33.96/27 | ROUTE53_RESOLVER | me-south-1 |
-  | 15.185.86.0/23 | AMAZON | me-south-1 |
   | 15.185.91.32/27 | CLOUD9 | me-south-1 |
-  | 157.175.102.128/27 | ROUTE53_RESOLVER | me-south-1 |
-  | 157.175.102.160/27 | ROUTE53_RESOLVER | me-south-1 |
-  | 157.175.102.96/27 | ROUTE53_RESOLVER | me-south-1 |
+  | 15.184.184.96/29 | CODEBUILD | me-south-1 |
+  | 15.185.144.0/23 | API_GATEWAY | me-south-1 |
   | 157.175.140.0/23 | API_GATEWAY | me-south-1 |
   | 157.175.255.0/24 | API_GATEWAY | me-south-1 |
   | 157.241.2.0/23 | API_GATEWAY | me-south-1 |
   | 157.241.25.0/24 | API_GATEWAY | me-south-1 |
-  | 16.24.30.0/23 | AMAZON | me-south-1 |
-  | 16.24.32.0/22 | AMAZON | me-south-1 |
-  | 16.24.46.56/29 | EC2_INSTANCE_CONNECT | me-south-1 |
+  | 15.184.125.0/26 | ROUTE53_RESOLVER | me-south-1 |
+  | 15.184.125.128/26 | ROUTE53_RESOLVER | me-south-1 |
+  | 15.184.125.64/26 | ROUTE53_RESOLVER | me-south-1 |
+  | 15.184.70.200/29 | ROUTE53_RESOLVER | me-south-1 |
+  | 15.184.70.224/29 | ROUTE53_RESOLVER | me-south-1 |
+  | 15.185.33.32/27 | ROUTE53_RESOLVER | me-south-1 |
+  | 15.185.33.64/27 | ROUTE53_RESOLVER | me-south-1 |
+  | 15.185.33.96/27 | ROUTE53_RESOLVER | me-south-1 |
+  | 157.175.102.128/27 | ROUTE53_RESOLVER | me-south-1 |
+  | 157.175.102.160/27 | ROUTE53_RESOLVER | me-south-1 |
+  | 157.175.102.96/27 | ROUTE53_RESOLVER | me-south-1 |
+  | 15.184.125.224/29 | EBS | me-south-1 |
+  | 15.184.125.232/30 | EBS | me-south-1 |
   | 16.24.65.180/31 | EBS | me-south-1 |
   | 16.24.65.184/30 | EBS | me-south-1 |
+  | 16.24.46.56/29 | EC2_INSTANCE_CONNECT | me-south-1 |
+  | 35.71.99.0/24 | DYNAMODB | me-south-1 |
+  | 52.119.249.0/24 | DYNAMODB | me-south-1 |
 </details>
 
 <details>
@@ -6128,14 +6136,25 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 69.107.7.120/29 | AMAZON | sa-east-1 |
   | 13.34.84.0/27 | AMAZON | sa-east-1 |
   | 177.71.128.0/17 | AMAZON | sa-east-1 |
+  | 15.228.1.128/26 | AMAZON | sa-east-1 |
+  | 15.228.1.192/26 | AMAZON | sa-east-1 |
+  | 15.228.1.64/26 | AMAZON | sa-east-1 |
+  | 15.228.150.128/26 | AMAZON | sa-east-1 |
+  | 15.229.198.0/23 | AMAZON | sa-east-1 |
+  | 15.229.200.0/22 | AMAZON | sa-east-1 |
+  | 18.228.246.0/23 | AMAZON | sa-east-1 |
+  | 18.229.220.128/26 | AMAZON | sa-east-1 |
+  | 18.230.46.128/26 | AMAZON | sa-east-1 |
   | 99.77.234.0/24 | CHIME_VOICECONNECTOR | sa-east-1 |
+  | 177.71.207.128/26 | ROUTE53_HEALTHCHECKS | sa-east-1 |
+  | 54.232.40.64/26 | ROUTE53_HEALTHCHECKS | sa-east-1 |
   | 16.12.2.0/24 | S3 | sa-east-1 |
   | 52.95.164.0/23 | S3 | sa-east-1 |
   | 16.12.0.0/23 | S3 | sa-east-1 |
   | 52.95.163.0/24 | S3 | sa-east-1 |
   | 3.5.232.0/22 | S3 | sa-east-1 |
-  | 52.94.7.0/24 | DYNAMODB | sa-east-1 |
-  | 35.71.106.0/24 | DYNAMODB | sa-east-1 |
+  | 15.228.107.0/28 | S3 | sa-east-1 |
+  | 15.228.107.16/28 | S3 | sa-east-1 |
   | 64.252.81.0/24 | EC2 | sa-east-1 |
   | 99.77.149.0/24 | EC2 | sa-east-1 |
   | 64.252.79.0/24 | EC2 | sa-east-1 |
@@ -6165,80 +6184,69 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.207.0.0/16 | EC2 | sa-east-1 |
   | 15.220.112.0/21 | EC2 | sa-east-1 |
   | 177.71.128.0/17 | EC2 | sa-east-1 |
+  | 18.229.220.192/26 | CLOUDFRONT | sa-east-1 |
+  | 18.230.229.0/24 | CLOUDFRONT | sa-east-1 |
+  | 18.230.230.0/25 | CLOUDFRONT | sa-east-1 |
+  | 54.233.255.128/26 | CLOUDFRONT | sa-east-1 |
   | 3.2.49.0/24 | GLOBALACCELERATOR | sa-east-1 |
   | 99.82.164.0/24 | GLOBALACCELERATOR | sa-east-1 |
   | 13.248.114.0/24 | GLOBALACCELERATOR | sa-east-1 |
   | 13.248.104.0/24 | GLOBALACCELERATOR | sa-east-1 |
   | 15.177.88.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | sa-east-1 |
   | 15.177.70.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | sa-east-1 |
-  | 15.228.1.128/26 | AMAZON | sa-east-1 |
-  | 15.228.1.192/26 | AMAZON | sa-east-1 |
-  | 15.228.1.64/26 | AMAZON | sa-east-1 |
-  | 15.228.103.240/29 | EBS | sa-east-1 |
+  | 18.230.46.0/27 | CLOUD9 | sa-east-1 |
+  | 18.230.46.32/27 | CLOUD9 | sa-east-1 |
+  | 15.228.126.200/29 | CODEBUILD | sa-east-1 |
+  | 18.231.194.8/29 | CODEBUILD | sa-east-1 |
+  | 15.228.129.0/24 | API_GATEWAY | sa-east-1 |
+  | 15.228.144.0/24 | API_GATEWAY | sa-east-1 |
+  | 15.228.151.0/24 | API_GATEWAY | sa-east-1 |
+  | 15.228.72.64/26 | API_GATEWAY | sa-east-1 |
+  | 15.228.97.0/24 | API_GATEWAY | sa-east-1 |
+  | 15.229.36.0/23 | API_GATEWAY | sa-east-1 |
+  | 15.229.40.0/23 | API_GATEWAY | sa-east-1 |
+  | 18.229.100.0/26 | API_GATEWAY | sa-east-1 |
+  | 18.229.99.0/24 | API_GATEWAY | sa-east-1 |
+  | 18.230.54.0/23 | API_GATEWAY | sa-east-1 |
   | 15.228.104.0/24 | ROUTE53_RESOLVER | sa-east-1 |
   | 15.228.105.0/24 | ROUTE53_RESOLVER | sa-east-1 |
   | 15.228.106.0/24 | ROUTE53_RESOLVER | sa-east-1 |
-  | 15.228.107.0/28 | S3 | sa-east-1 |
-  | 15.228.107.16/28 | S3 | sa-east-1 |
-  | 15.228.126.200/29 | CODEBUILD | sa-east-1 |
-  | 15.228.126.48/30 | EBS | sa-east-1 |
-  | 15.228.126.72/30 | AMAZON_APPFLOW | sa-east-1 |
-  | 15.228.129.0/24 | API_GATEWAY | sa-east-1 |
-  | 15.228.144.0/24 | API_GATEWAY | sa-east-1 |
-  | 15.228.150.128/26 | AMAZON | sa-east-1 |
-  | 15.228.151.0/24 | API_GATEWAY | sa-east-1 |
-  | 15.228.64.0/22 | WORKSPACES_GATEWAYS | sa-east-1 |
-  | 15.228.72.64/26 | API_GATEWAY | sa-east-1 |
   | 15.228.92.192/28 | ROUTE53_RESOLVER | sa-east-1 |
   | 15.228.92.208/28 | ROUTE53_RESOLVER | sa-east-1 |
   | 15.228.92.224/27 | ROUTE53_RESOLVER | sa-east-1 |
-  | 15.228.97.0/24 | API_GATEWAY | sa-east-1 |
-  | 15.229.120.48/29 | MEDIA_PACKAGE_V2 | sa-east-1 |
-  | 15.229.120.56/29 | MEDIA_PACKAGE_V2 | sa-east-1 |
-  | 15.229.198.0/23 | AMAZON | sa-east-1 |
-  | 15.229.200.0/22 | AMAZON | sa-east-1 |
-  | 15.229.206.194/31 | EBS | sa-east-1 |
-  | 15.229.206.196/30 | EBS | sa-east-1 |
-  | 15.229.206.224/31 | KINESIS_VIDEO_STREAMS | sa-east-1 |
-  | 15.229.206.228/30 | KINESIS_VIDEO_STREAMS | sa-east-1 |
-  | 15.229.36.0/23 | API_GATEWAY | sa-east-1 |
-  | 15.229.40.0/23 | API_GATEWAY | sa-east-1 |
-  | 177.71.207.128/26 | ROUTE53_HEALTHCHECKS | sa-east-1 |
   | 18.228.1.0/29 | ROUTE53_RESOLVER | sa-east-1 |
   | 18.228.1.16/29 | ROUTE53_RESOLVER | sa-east-1 |
   | 18.228.1.8/29 | ROUTE53_RESOLVER | sa-east-1 |
-  | 18.228.246.0/23 | AMAZON | sa-east-1 |
-  | 18.228.70.32/29 | EC2_INSTANCE_CONNECT | sa-east-1 |
-  | 18.229.100.0/26 | API_GATEWAY | sa-east-1 |
-  | 18.229.100.112/30 | AMAZON_APPFLOW | sa-east-1 |
-  | 18.229.100.116/30 | AMAZON_APPFLOW | sa-east-1 |
   | 18.229.100.128/27 | ROUTE53_RESOLVER | sa-east-1 |
   | 18.229.100.160/27 | ROUTE53_RESOLVER | sa-east-1 |
   | 18.229.100.192/26 | ROUTE53_RESOLVER | sa-east-1 |
-  | 18.229.220.128/26 | AMAZON | sa-east-1 |
-  | 18.229.220.192/26 | CLOUDFRONT | sa-east-1 |
   | 18.229.37.0/27 | ROUTE53_RESOLVER | sa-east-1 |
   | 18.229.37.32/27 | ROUTE53_RESOLVER | sa-east-1 |
   | 18.229.70.96/27 | ROUTE53_RESOLVER | sa-east-1 |
-  | 18.229.99.0/24 | API_GATEWAY | sa-east-1 |
-  | 18.230.103.0/24 | WORKSPACES_GATEWAYS | sa-east-1 |
-  | 18.230.104.0/23 | WORKSPACES_GATEWAYS | sa-east-1 |
-  | 18.230.229.0/24 | CLOUDFRONT | sa-east-1 |
-  | 18.230.230.0/25 | CLOUDFRONT | sa-east-1 |
-  | 18.230.46.0/27 | CLOUD9 | sa-east-1 |
-  | 18.230.46.128/26 | AMAZON | sa-east-1 |
-  | 18.230.46.32/27 | CLOUD9 | sa-east-1 |
-  | 18.230.54.0/23 | API_GATEWAY | sa-east-1 |
   | 18.231.105.0/28 | ROUTE53_RESOLVER | sa-east-1 |
   | 18.231.105.128/27 | ROUTE53_RESOLVER | sa-east-1 |
   | 18.231.105.160/29 | ROUTE53_RESOLVER | sa-east-1 |
   | 18.231.105.168/29 | ROUTE53_RESOLVER | sa-east-1 |
   | 18.231.105.176/29 | ROUTE53_RESOLVER | sa-east-1 |
   | 18.231.105.184/29 | ROUTE53_RESOLVER | sa-east-1 |
-  | 18.231.194.8/29 | CODEBUILD | sa-east-1 |
-  | 54.232.40.64/26 | ROUTE53_HEALTHCHECKS | sa-east-1 |
+  | 15.228.103.240/29 | EBS | sa-east-1 |
+  | 15.228.126.48/30 | EBS | sa-east-1 |
+  | 15.229.206.194/31 | EBS | sa-east-1 |
+  | 15.229.206.196/30 | EBS | sa-east-1 |
+  | 18.228.70.32/29 | EC2_INSTANCE_CONNECT | sa-east-1 |
+  | 15.229.206.224/31 | KINESIS_VIDEO_STREAMS | sa-east-1 |
+  | 15.229.206.228/30 | KINESIS_VIDEO_STREAMS | sa-east-1 |
+  | 15.228.64.0/22 | WORKSPACES_GATEWAYS | sa-east-1 |
+  | 18.230.103.0/24 | WORKSPACES_GATEWAYS | sa-east-1 |
+  | 18.230.104.0/23 | WORKSPACES_GATEWAYS | sa-east-1 |
   | 54.233.204.0/24 | WORKSPACES_GATEWAYS | sa-east-1 |
-  | 54.233.255.128/26 | CLOUDFRONT | sa-east-1 |
+  | 15.228.126.72/30 | AMAZON_APPFLOW | sa-east-1 |
+  | 18.229.100.112/30 | AMAZON_APPFLOW | sa-east-1 |
+  | 18.229.100.116/30 | AMAZON_APPFLOW | sa-east-1 |
+  | 15.229.120.48/29 | MEDIA_PACKAGE_V2 | sa-east-1 |
+  | 15.229.120.56/29 | MEDIA_PACKAGE_V2 | sa-east-1 |
+  | 52.94.7.0/24 | DYNAMODB | sa-east-1 |
+  | 35.71.106.0/24 | DYNAMODB | sa-east-1 |
 </details>
 
 <details>
@@ -7061,18 +7069,58 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.51.0/27 | AMAZON | us-east-1 |
   | 96.0.48.0/21 | AMAZON | us-east-1-scl-1 |
   | 13.34.60.64/27 | AMAZON | us-east-1 |
+  | 100.27.238.0/23 | AMAZON | us-east-1 |
+  | 3.227.250.128/25 | AMAZON | us-east-1 |
+  | 3.234.248.192/26 | AMAZON | us-east-1 |
+  | 3.235.202.128/26 | AMAZON | us-east-1 |
+  | 3.236.169.0/25 | AMAZON | us-east-1 |
+  | 3.236.32.0/22 | AMAZON | us-east-1 |
+  | 3.236.94.128/25 | AMAZON | us-east-1 |
+  | 3.237.107.0/25 | AMAZON | us-east-1 |
+  | 3.238.167.0/24 | AMAZON | us-east-1 |
+  | 3.239.232.0/24 | AMAZON | us-east-1 |
+  | 3.83.168.0/22 | AMAZON | us-east-1 |
+  | 3.91.171.128/25 | AMAZON | us-east-1 |
+  | 44.199.180.0/23 | AMAZON | us-east-1 |
+  | 44.199.222.128/26 | AMAZON | us-east-1 |
+  | 44.202.79.128/25 | AMAZON | us-east-1 |
+  | 44.210.201.0/24 | AMAZON | us-east-1 |
+  | 44.210.202.0/24 | AMAZON | us-east-1 |
+  | 44.210.246.64/26 | AMAZON | us-east-1 |
+  | 44.212.79.192/26 | AMAZON | us-east-1 |
+  | 44.213.61.128/25 | AMAZON | us-east-1 |
+  | 44.213.78.0/23 | AMAZON | us-east-1 |
+  | 44.213.98.0/24 | AMAZON | us-east-1 |
+  | 44.215.114.0/23 | AMAZON | us-east-1 |
+  | 44.215.116.0/22 | AMAZON | us-east-1 |
+  | 44.215.128.0/22 | AMAZON | us-east-1 |
+  | 44.215.132.0/22 | AMAZON | us-east-1 |
+  | 44.215.136.0/22 | AMAZON | us-east-1 |
+  | 44.215.140.0/22 | AMAZON | us-east-1 |
+  | 44.215.76.0/24 | AMAZON | us-east-1 |
+  | 44.216.184.0/22 | AMAZON | us-east-1 |
+  | 44.216.188.0/22 | AMAZON | us-east-1 |
+  | 44.216.192.0/22 | AMAZON | us-east-1 |
+  | 44.216.196.0/22 | AMAZON | us-east-1 |
+  | 44.216.200.0/22 | AMAZON | us-east-1 |
+  | 44.220.25.0/25 | AMAZON | us-east-1 |
+  | 44.220.67.128/25 | AMAZON | us-east-1 |
+  | 44.220.68.0/25 | AMAZON | us-east-1 |
+  | 44.220.72.0/22 | AMAZON | us-east-1 |
+  | 44.220.76.0/22 | AMAZON | us-east-1 |
+  | 44.223.121.0/24 | AMAZON | us-east-1 |
+  | 44.223.122.0/24 | AMAZON | us-east-1 |
   | 99.77.254.0/24 | CHIME_VOICECONNECTOR | us-east-1 |
+  | 107.23.255.0/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
+  | 54.243.31.192/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
   | 18.34.0.0/19 | S3 | us-east-1 |
   | 54.231.0.0/16 | S3 | us-east-1 |
   | 52.216.0.0/15 | S3 | us-east-1 |
   | 18.34.232.0/21 | S3 | us-east-1 |
   | 16.182.0.0/16 | S3 | us-east-1 |
   | 3.5.0.0/19 | S3 | us-east-1 |
-  | 3.218.180.0/22 | DYNAMODB | us-east-1 |
-  | 52.119.232.0/21 | DYNAMODB | us-east-1 |
-  | 35.71.68.0/22 | DYNAMODB | us-east-1 |
-  | 52.119.224.0/21 | DYNAMODB | us-east-1 |
-  | 52.94.0.0/22 | DYNAMODB | us-east-1 |
+  | 44.192.134.240/28 | S3 | us-east-1 |
+  | 44.192.140.64/28 | S3 | us-east-1 |
   | 15.181.232.0/21 | EC2 | us-east-1-iah-1 |
   | 3.2.0.0/24 | EC2 | us-east-1-iah-1 |
   | 52.4.0.0/14 | EC2 | us-east-1 |
@@ -7252,6 +7300,18 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.33.34.0/24 | EC2 | us-east-1 |
   | 3.3.2.0/24 | EC2 | us-east-1 |
   | 96.0.48.0/21 | EC2 | us-east-1-scl-1 |
+  | 3.231.2.0/25 | CLOUDFRONT | us-east-1 |
+  | 3.234.232.224/27 | CLOUDFRONT | us-east-1 |
+  | 3.236.169.192/26 | CLOUDFRONT | us-east-1 |
+  | 3.236.48.0/23 | CLOUDFRONT | us-east-1 |
+  | 34.195.252.0/24 | CLOUDFRONT | us-east-1 |
+  | 34.226.14.0/24 | CLOUDFRONT | us-east-1 |
+  | 44.220.194.0/23 | CLOUDFRONT | us-east-1 |
+  | 44.220.196.0/23 | CLOUDFRONT | us-east-1 |
+  | 44.220.198.0/23 | CLOUDFRONT | us-east-1 |
+  | 44.220.200.0/23 | CLOUDFRONT | us-east-1 |
+  | 44.220.202.0/23 | CLOUDFRONT | us-east-1 |
+  | 44.222.66.0/24 | CLOUDFRONT | us-east-1 |
   | 13.248.124.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 99.82.166.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 99.82.171.0/24 | GLOBALACCELERATOR | us-east-1 |
@@ -7265,11 +7325,30 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.2.51.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 99.82.165.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 13.248.116.0/24 | GLOBALACCELERATOR | us-east-1 |
+  | 52.55.191.224/27 | AMAZON_CONNECT | us-east-1 |
   | 15.177.64.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-east-1 |
-  | 100.27.238.0/23 | AMAZON | us-east-1 |
-  | 107.23.255.0/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
+  | 35.172.155.192/27 | CLOUD9 | us-east-1 |
+  | 35.172.155.96/27 | CLOUD9 | us-east-1 |
+  | 34.228.4.208/28 | CODEBUILD | us-east-1 |
+  | 44.192.245.160/28 | CODEBUILD | us-east-1 |
+  | 44.192.255.128/28 | CODEBUILD | us-east-1 |
+  | 3.216.135.0/24 | API_GATEWAY | us-east-1 |
+  | 3.216.136.0/21 | API_GATEWAY | us-east-1 |
+  | 3.216.144.0/23 | API_GATEWAY | us-east-1 |
+  | 3.216.148.0/22 | API_GATEWAY | us-east-1 |
+  | 3.235.26.0/23 | API_GATEWAY | us-east-1 |
+  | 3.235.32.0/21 | API_GATEWAY | us-east-1 |
+  | 3.238.166.0/24 | API_GATEWAY | us-east-1 |
+  | 3.238.212.0/22 | API_GATEWAY | us-east-1 |
+  | 44.206.4.0/22 | API_GATEWAY | us-east-1 |
+  | 44.210.64.0/22 | API_GATEWAY | us-east-1 |
+  | 44.212.176.0/23 | API_GATEWAY | us-east-1 |
+  | 44.212.178.0/23 | API_GATEWAY | us-east-1 |
+  | 44.212.180.0/23 | API_GATEWAY | us-east-1 |
+  | 44.212.182.0/23 | API_GATEWAY | us-east-1 |
+  | 44.218.96.0/23 | API_GATEWAY | us-east-1 |
+  | 44.220.28.0/22 | API_GATEWAY | us-east-1 |
   | 18.206.107.160/29 | ROUTE53_RESOLVER | us-east-1 |
-  | 18.206.107.24/29 | EC2_INSTANCE_CONNECT | us-east-1 |
   | 18.209.113.240/28 | ROUTE53_RESOLVER | us-east-1 |
   | 18.209.113.64/27 | ROUTE53_RESOLVER | us-east-1 |
   | 18.213.156.96/28 | ROUTE53_RESOLVER | us-east-1 |
@@ -7298,22 +7377,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.209.85.192/27 | ROUTE53_RESOLVER | us-east-1 |
   | 3.209.87.0/25 | ROUTE53_RESOLVER | us-east-1 |
   | 3.209.87.128/25 | ROUTE53_RESOLVER | us-east-1 |
-  | 3.216.135.0/24 | API_GATEWAY | us-east-1 |
-  | 3.216.136.0/21 | API_GATEWAY | us-east-1 |
-  | 3.216.144.0/23 | API_GATEWAY | us-east-1 |
-  | 3.216.148.0/22 | API_GATEWAY | us-east-1 |
   | 3.216.99.160/27 | ROUTE53_RESOLVER | us-east-1 |
-  | 3.217.228.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 3.218.180.0/25 | DYNAMODB | us-east-1 |
-  | 3.218.180.128/25 | DYNAMODB | us-east-1 |
-  | 3.218.181.0/25 | DYNAMODB | us-east-1 |
-  | 3.218.181.128/25 | DYNAMODB | us-east-1 |
-  | 3.218.182.0/25 | DYNAMODB | us-east-1 |
-  | 3.218.182.128/25 | DYNAMODB | us-east-1 |
-  | 3.218.183.0/25 | DYNAMODB | us-east-1 |
-  | 3.218.183.128/25 | DYNAMODB | us-east-1 |
-  | 3.227.250.128/25 | AMAZON | us-east-1 |
-  | 3.227.4.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
   | 3.228.170.0/26 | ROUTE53_RESOLVER | us-east-1 |
   | 3.228.170.128/25 | ROUTE53_RESOLVER | us-east-1 |
   | 3.228.170.64/26 | ROUTE53_RESOLVER | us-east-1 |
@@ -7335,23 +7399,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.228.182.64/27 | ROUTE53_RESOLVER | us-east-1 |
   | 3.228.182.8/31 | ROUTE53_RESOLVER | us-east-1 |
   | 3.228.182.96/30 | ROUTE53_RESOLVER | us-east-1 |
-  | 3.231.2.0/25 | CLOUDFRONT | us-east-1 |
-  | 3.234.232.224/27 | CLOUDFRONT | us-east-1 |
-  | 3.234.248.192/26 | AMAZON | us-east-1 |
-  | 3.235.112.0/21 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 3.235.189.100/30 | AMAZON_APPFLOW | us-east-1 |
-  | 3.235.189.96/30 | AMAZON_APPFLOW | us-east-1 |
-  | 3.235.202.128/26 | AMAZON | us-east-1 |
-  | 3.235.26.0/23 | API_GATEWAY | us-east-1 |
-  | 3.235.32.0/21 | API_GATEWAY | us-east-1 |
-  | 3.236.169.0/25 | AMAZON | us-east-1 |
-  | 3.236.169.192/26 | CLOUDFRONT | us-east-1 |
-  | 3.236.32.0/22 | AMAZON | us-east-1 |
-  | 3.236.48.0/23 | CLOUDFRONT | us-east-1 |
-  | 3.236.94.128/25 | AMAZON | us-east-1 |
-  | 3.237.107.0/25 | AMAZON | us-east-1 |
-  | 3.238.166.0/24 | API_GATEWAY | us-east-1 |
-  | 3.238.167.0/24 | AMAZON | us-east-1 |
   | 3.238.178.100/30 | ROUTE53_RESOLVER | us-east-1 |
   | 3.238.178.104/29 | ROUTE53_RESOLVER | us-east-1 |
   | 3.238.178.112/29 | ROUTE53_RESOLVER | us-east-1 |
@@ -7375,7 +7422,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.238.209.0/25 | ROUTE53_RESOLVER | us-east-1 |
   | 3.238.209.128/25 | ROUTE53_RESOLVER | us-east-1 |
   | 3.238.210.0/25 | ROUTE53_RESOLVER | us-east-1 |
-  | 3.238.212.0/22 | API_GATEWAY | us-east-1 |
   | 3.238.216.128/25 | ROUTE53_RESOLVER | us-east-1 |
   | 3.239.152.0/31 | ROUTE53_RESOLVER | us-east-1 |
   | 3.239.152.12/31 | ROUTE53_RESOLVER | us-east-1 |
@@ -7418,13 +7464,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.239.157.64/27 | ROUTE53_RESOLVER | us-east-1 |
   | 3.239.157.8/31 | ROUTE53_RESOLVER | us-east-1 |
   | 3.239.157.96/30 | ROUTE53_RESOLVER | us-east-1 |
-  | 3.239.232.0/24 | AMAZON | us-east-1 |
-  | 3.83.168.0/22 | AMAZON | us-east-1 |
-  | 3.91.171.128/25 | AMAZON | us-east-1 |
-  | 34.195.252.0/24 | CLOUDFRONT | us-east-1 |
   | 34.226.106.180/32 | ROUTE53_RESOLVER | us-east-1 |
-  | 34.226.14.0/24 | CLOUDFRONT | us-east-1 |
-  | 34.228.4.208/28 | CODEBUILD | us-east-1 |
   | 34.231.114.205/32 | ROUTE53_RESOLVER | us-east-1 |
   | 34.231.213.21/32 | ROUTE53_RESOLVER | us-east-1 |
   | 34.236.241.44/30 | ROUTE53_RESOLVER | us-east-1 |
@@ -7440,53 +7480,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.171.100.208/28 | ROUTE53_RESOLVER | us-east-1 |
   | 35.171.100.224/27 | ROUTE53_RESOLVER | us-east-1 |
   | 35.171.100.64/26 | ROUTE53_RESOLVER | us-east-1 |
-  | 35.172.155.192/27 | CLOUD9 | us-east-1 |
-  | 35.172.155.96/27 | CLOUD9 | us-east-1 |
-  | 44.192.134.240/28 | S3 | us-east-1 |
   | 44.192.135.0/25 | ROUTE53_RESOLVER | us-east-1 |
   | 44.192.135.128/25 | ROUTE53_RESOLVER | us-east-1 |
   | 44.192.140.112/28 | EBS | us-east-1 |
   | 44.192.140.128/29 | EBS | us-east-1 |
-  | 44.192.140.64/28 | S3 | us-east-1 |
-  | 44.192.245.160/28 | CODEBUILD | us-east-1 |
-  | 44.192.255.128/28 | CODEBUILD | us-east-1 |
-  | 44.194.111.224/30 | AMAZON_APPFLOW | us-east-1 |
-  | 44.199.180.0/23 | AMAZON | us-east-1 |
-  | 44.199.222.128/26 | AMAZON | us-east-1 |
-  | 44.202.79.128/25 | AMAZON | us-east-1 |
-  | 44.206.4.0/22 | API_GATEWAY | us-east-1 |
-  | 44.209.84.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 44.210.201.0/24 | AMAZON | us-east-1 |
-  | 44.210.202.0/24 | AMAZON | us-east-1 |
-  | 44.210.246.64/26 | AMAZON | us-east-1 |
-  | 44.210.64.0/22 | API_GATEWAY | us-east-1 |
-  | 44.212.176.0/23 | API_GATEWAY | us-east-1 |
-  | 44.212.178.0/23 | API_GATEWAY | us-east-1 |
-  | 44.212.180.0/23 | API_GATEWAY | us-east-1 |
-  | 44.212.182.0/23 | API_GATEWAY | us-east-1 |
-  | 44.212.79.192/26 | AMAZON | us-east-1 |
-  | 44.213.61.128/25 | AMAZON | us-east-1 |
-  | 44.213.78.0/23 | AMAZON | us-east-1 |
-  | 44.213.98.0/24 | AMAZON | us-east-1 |
-  | 44.214.144.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 44.214.148.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 44.214.152.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 44.214.156.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 44.215.114.0/23 | AMAZON | us-east-1 |
-  | 44.215.116.0/22 | AMAZON | us-east-1 |
-  | 44.215.128.0/22 | AMAZON | us-east-1 |
-  | 44.215.132.0/22 | AMAZON | us-east-1 |
-  | 44.215.136.0/22 | AMAZON | us-east-1 |
-  | 44.215.140.0/22 | AMAZON | us-east-1 |
-  | 44.215.76.0/24 | AMAZON | us-east-1 |
-  | 44.216.184.0/22 | AMAZON | us-east-1 |
-  | 44.216.188.0/22 | AMAZON | us-east-1 |
-  | 44.216.192.0/22 | AMAZON | us-east-1 |
-  | 44.216.196.0/22 | AMAZON | us-east-1 |
-  | 44.216.200.0/22 | AMAZON | us-east-1 |
-  | 44.216.41.152/29 | MEDIA_PACKAGE_V2 | us-east-1 |
-  | 44.216.41.160/29 | MEDIA_PACKAGE_V2 | us-east-1 |
-  | 44.218.96.0/23 | API_GATEWAY | us-east-1 |
+  | 44.222.159.166/31 | EBS | us-east-1 |
+  | 44.222.159.176/28 | EBS | us-east-1 |
+  | 18.206.107.24/29 | EC2_INSTANCE_CONNECT | us-east-1 |
   | 44.220.189.16/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
   | 44.220.189.20/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
   | 44.220.189.44/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
@@ -7507,26 +7507,26 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.220.189.88/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
   | 44.220.189.92/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
   | 44.220.189.96/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
-  | 44.220.194.0/23 | CLOUDFRONT | us-east-1 |
-  | 44.220.196.0/23 | CLOUDFRONT | us-east-1 |
-  | 44.220.198.0/23 | CLOUDFRONT | us-east-1 |
-  | 44.220.200.0/23 | CLOUDFRONT | us-east-1 |
-  | 44.220.202.0/23 | CLOUDFRONT | us-east-1 |
-  | 44.220.25.0/25 | AMAZON | us-east-1 |
-  | 44.220.28.0/22 | API_GATEWAY | us-east-1 |
-  | 44.220.67.128/25 | AMAZON | us-east-1 |
-  | 44.220.68.0/25 | AMAZON | us-east-1 |
-  | 44.220.72.0/22 | AMAZON | us-east-1 |
-  | 44.220.76.0/22 | AMAZON | us-east-1 |
-  | 44.222.159.166/31 | EBS | us-east-1 |
-  | 44.222.159.176/28 | EBS | us-east-1 |
-  | 44.222.66.0/24 | CLOUDFRONT | us-east-1 |
-  | 44.223.121.0/24 | AMAZON | us-east-1 |
-  | 44.223.122.0/24 | AMAZON | us-east-1 |
+  | 3.217.228.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 3.227.4.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 3.235.112.0/21 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 44.209.84.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 44.214.144.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 44.214.148.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 44.214.152.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 44.214.156.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.23.61.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.23.62.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 52.55.191.224/27 | AMAZON_CONNECT | us-east-1 |
-  | 54.243.31.192/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
+  | 3.235.189.100/30 | AMAZON_APPFLOW | us-east-1 |
+  | 3.235.189.96/30 | AMAZON_APPFLOW | us-east-1 |
+  | 44.194.111.224/30 | AMAZON_APPFLOW | us-east-1 |
+  | 44.216.41.152/29 | MEDIA_PACKAGE_V2 | us-east-1 |
+  | 44.216.41.160/29 | MEDIA_PACKAGE_V2 | us-east-1 |
+  | 3.218.180.0/22 | DYNAMODB | us-east-1 |
+  | 52.119.232.0/21 | DYNAMODB | us-east-1 |
+  | 35.71.68.0/22 | DYNAMODB | us-east-1 |
+  | 52.119.224.0/21 | DYNAMODB | us-east-1 |
+  | 52.94.0.0/22 | DYNAMODB | us-east-1 |
 </details>
 
 <details>
@@ -7949,6 +7949,20 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.39.148/31 | AMAZON | us-east-2 |
   | 15.230.71.128/26 | AMAZON | us-east-2 |
   | 52.93.199.37/32 | AMAZON | us-east-2 |
+  | 3.12.23.128/26 | AMAZON | us-east-2 |
+  | 3.128.56.128/26 | AMAZON | us-east-2 |
+  | 3.128.56.192/26 | AMAZON | us-east-2 |
+  | 3.128.56.64/26 | AMAZON | us-east-2 |
+  | 3.145.232.192/26 | AMAZON | us-east-2 |
+  | 3.145.242.0/24 | AMAZON | us-east-2 |
+  | 3.145.31.128/26 | AMAZON | us-east-2 |
+  | 3.146.12.0/22 | AMAZON | us-east-2 |
+  | 3.146.22.0/26 | AMAZON | us-east-2 |
+  | 3.146.36.192/26 | AMAZON | us-east-2 |
+  | 3.146.43.0/25 | AMAZON | us-east-2 |
+  | 3.146.8.0/22 | AMAZON | us-east-2 |
+  | 3.15.36.64/26 | AMAZON | us-east-2 |
+  | 3.17.136.0/23 | AMAZON | us-east-2 |
   | 99.77.252.0/24 | CHIME_VOICECONNECTOR | us-east-2 |
   | 52.219.212.0/22 | S3 | us-east-2 |
   | 52.219.143.0/24 | S3 | us-east-2 |
@@ -7966,8 +7980,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.224.0/22 | S3 | us-east-2 |
   | 52.219.80.0/20 | S3 | us-east-2 |
   | 52.219.228.0/22 | S3 | us-east-2 |
-  | 35.71.102.0/24 | DYNAMODB | us-east-2 |
-  | 52.94.4.0/24 | DYNAMODB | us-east-2 |
+  | 3.141.102.208/28 | S3 | us-east-2 |
+  | 3.141.102.224/28 | S3 | us-east-2 |
   | 18.191.0.0/16 | EC2 | us-east-2 |
   | 3.33.43.0/24 | EC2 | us-east-2 |
   | 3.132.0.0/14 | EC2 | us-east-2 |
@@ -8015,76 +8029,62 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 64.252.75.0/24 | EC2 | us-east-2 |
   | 3.128.0.0/15 | EC2 | us-east-2 |
   | 173.83.192.0/22 | EC2 | us-east-2 |
+  | 13.59.250.0/26 | CLOUDFRONT | us-east-2 |
+  | 18.216.170.128/25 | CLOUDFRONT | us-east-2 |
+  | 3.128.93.0/24 | CLOUDFRONT | us-east-2 |
+  | 3.134.215.0/24 | CLOUDFRONT | us-east-2 |
+  | 3.146.232.0/22 | CLOUDFRONT | us-east-2 |
+  | 3.147.164.0/22 | CLOUDFRONT | us-east-2 |
+  | 3.147.244.0/22 | CLOUDFRONT | us-east-2 |
+  | 52.15.127.128/26 | CLOUDFRONT | us-east-2 |
   | 13.248.111.0/24 | GLOBALACCELERATOR | us-east-2 |
   | 15.177.66.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-east-2 |
-  | 13.59.250.0/26 | CLOUDFRONT | us-east-2 |
-  | 18.117.239.68/30 | AMAZON_APPFLOW | us-east-2 |
   | 18.188.9.0/27 | CLOUD9 | us-east-2 |
   | 18.188.9.32/27 | CLOUD9 | us-east-2 |
+  | 3.143.206.104/29 | CODEBUILD | us-east-2 |
+  | 52.15.247.208/29 | CODEBUILD | us-east-2 |
+  | 3.12.216.0/22 | API_GATEWAY | us-east-2 |
+  | 3.144.141.192/26 | API_GATEWAY | us-east-2 |
+  | 3.145.220.0/22 | API_GATEWAY | us-east-2 |
+  | 3.145.230.0/24 | API_GATEWAY | us-east-2 |
+  | 3.145.31.0/26 | API_GATEWAY | us-east-2 |
+  | 3.146.44.0/23 | API_GATEWAY | us-east-2 |
+  | 3.15.35.0/24 | API_GATEWAY | us-east-2 |
+  | 3.15.36.0/26 | API_GATEWAY | us-east-2 |
+  | 3.21.86.0/23 | API_GATEWAY | us-east-2 |
   | 18.188.9.64/29 | ROUTE53_RESOLVER | us-east-2 |
   | 18.188.9.80/29 | ROUTE53_RESOLVER | us-east-2 |
   | 18.188.9.88/29 | ROUTE53_RESOLVER | us-east-2 |
-  | 18.216.170.128/25 | CLOUDFRONT | us-east-2 |
   | 18.217.41.192/29 | ROUTE53_RESOLVER | us-east-2 |
   | 18.217.41.200/29 | ROUTE53_RESOLVER | us-east-2 |
   | 18.217.41.208/29 | ROUTE53_RESOLVER | us-east-2 |
   | 18.217.41.216/29 | ROUTE53_RESOLVER | us-east-2 |
   | 18.217.41.64/26 | ROUTE53_RESOLVER | us-east-2 |
-  | 3.12.216.0/22 | API_GATEWAY | us-east-2 |
-  | 3.12.23.128/26 | AMAZON | us-east-2 |
-  | 3.12.23.88/30 | AMAZON_APPFLOW | us-east-2 |
-  | 3.12.23.92/30 | AMAZON_APPFLOW | us-east-2 |
-  | 3.128.56.128/26 | AMAZON | us-east-2 |
-  | 3.128.56.192/26 | AMAZON | us-east-2 |
-  | 3.128.56.64/26 | AMAZON | us-east-2 |
-  | 3.128.93.0/24 | CLOUDFRONT | us-east-2 |
-  | 3.134.215.0/24 | CLOUDFRONT | us-east-2 |
   | 3.139.136.128/27 | ROUTE53_RESOLVER | us-east-2 |
   | 3.139.136.184/30 | ROUTE53_RESOLVER | us-east-2 |
   | 3.139.136.192/26 | ROUTE53_RESOLVER | us-east-2 |
   | 3.140.136.128/27 | ROUTE53_RESOLVER | us-east-2 |
-  | 3.141.102.184/29 | EBS | us-east-2 |
-  | 3.141.102.192/30 | EBS | us-east-2 |
-  | 3.141.102.208/28 | S3 | us-east-2 |
-  | 3.141.102.224/28 | S3 | us-east-2 |
   | 3.141.252.0/22 | ROUTE53_RESOLVER | us-east-2 |
   | 3.142.0.0/22 | ROUTE53_RESOLVER | us-east-2 |
   | 3.142.4.0/22 | ROUTE53_RESOLVER | us-east-2 |
-  | 3.143.206.104/29 | CODEBUILD | us-east-2 |
-  | 3.144.141.192/26 | API_GATEWAY | us-east-2 |
-  | 3.145.220.0/22 | API_GATEWAY | us-east-2 |
-  | 3.145.230.0/24 | API_GATEWAY | us-east-2 |
-  | 3.145.232.192/26 | AMAZON | us-east-2 |
-  | 3.145.242.0/24 | AMAZON | us-east-2 |
-  | 3.145.246.48/29 | MEDIA_PACKAGE_V2 | us-east-2 |
-  | 3.145.246.56/29 | MEDIA_PACKAGE_V2 | us-east-2 |
-  | 3.145.31.0/26 | API_GATEWAY | us-east-2 |
-  | 3.145.31.128/26 | AMAZON | us-east-2 |
-  | 3.146.12.0/22 | AMAZON | us-east-2 |
-  | 3.146.22.0/26 | AMAZON | us-east-2 |
-  | 3.146.232.0/22 | CLOUDFRONT | us-east-2 |
-  | 3.146.29.66/31 | EBS | us-east-2 |
-  | 3.146.36.192/26 | AMAZON | us-east-2 |
-  | 3.146.42.64/30 | EBS | us-east-2 |
-  | 3.146.42.74/31 | KINESIS_VIDEO_STREAMS | us-east-2 |
-  | 3.146.42.80/30 | KINESIS_VIDEO_STREAMS | us-east-2 |
-  | 3.146.43.0/25 | AMAZON | us-east-2 |
-  | 3.146.44.0/23 | API_GATEWAY | us-east-2 |
-  | 3.146.8.0/22 | AMAZON | us-east-2 |
-  | 3.147.164.0/22 | CLOUDFRONT | us-east-2 |
-  | 3.147.244.0/22 | CLOUDFRONT | us-east-2 |
-  | 3.15.35.0/24 | API_GATEWAY | us-east-2 |
-  | 3.15.36.0/26 | API_GATEWAY | us-east-2 |
-  | 3.15.36.64/26 | AMAZON | us-east-2 |
-  | 3.16.146.0/29 | EC2_INSTANCE_CONNECT | us-east-2 |
-  | 3.17.136.0/23 | AMAZON | us-east-2 |
   | 3.18.132.0/26 | ROUTE53_RESOLVER | us-east-2 |
   | 3.18.132.64/26 | ROUTE53_RESOLVER | us-east-2 |
   | 3.19.147.0/25 | ROUTE53_RESOLVER | us-east-2 |
   | 3.19.147.128/25 | ROUTE53_RESOLVER | us-east-2 |
-  | 3.21.86.0/23 | API_GATEWAY | us-east-2 |
-  | 52.15.127.128/26 | CLOUDFRONT | us-east-2 |
-  | 52.15.247.208/29 | CODEBUILD | us-east-2 |
+  | 3.141.102.184/29 | EBS | us-east-2 |
+  | 3.141.102.192/30 | EBS | us-east-2 |
+  | 3.146.29.66/31 | EBS | us-east-2 |
+  | 3.146.42.64/30 | EBS | us-east-2 |
+  | 3.16.146.0/29 | EC2_INSTANCE_CONNECT | us-east-2 |
+  | 3.146.42.74/31 | KINESIS_VIDEO_STREAMS | us-east-2 |
+  | 3.146.42.80/30 | KINESIS_VIDEO_STREAMS | us-east-2 |
+  | 18.117.239.68/30 | AMAZON_APPFLOW | us-east-2 |
+  | 3.12.23.88/30 | AMAZON_APPFLOW | us-east-2 |
+  | 3.12.23.92/30 | AMAZON_APPFLOW | us-east-2 |
+  | 3.145.246.48/29 | MEDIA_PACKAGE_V2 | us-east-2 |
+  | 3.145.246.56/29 | MEDIA_PACKAGE_V2 | us-east-2 |
+  | 35.71.102.0/24 | DYNAMODB | us-east-2 |
+  | 52.94.4.0/24 | DYNAMODB | us-east-2 |
 </details>
 
 <details>
@@ -8112,10 +8112,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.239.1.64/28 | AMAZON | us-gov-east-1 |
   | 18.254.0.0/16 | AMAZON | us-gov-east-1 |
   | 3.4.24.0/21 | AMAZON | us-gov-east-1 |
+  | 18.252.126.0/25 | AMAZON | us-gov-east-1 |
+  | 18.252.165.0/26 | AMAZON | us-gov-east-1 |
+  | 18.252.58.0/23 | AMAZON | us-gov-east-1 |
+  | 18.254.23.64/26 | AMAZON | us-gov-east-1 |
+  | 18.254.61.128/26 | AMAZON | us-gov-east-1 |
   | 108.175.52.0/22 | S3 | us-gov-east-1 |
   | 108.175.60.0/22 | S3 | us-gov-east-1 |
-  | 35.71.115.0/24 | DYNAMODB | us-gov-east-1 |
-  | 52.94.22.0/24 | DYNAMODB | us-gov-east-1 |
+  | 18.252.145.192/28 | S3 | us-gov-east-1 |
+  | 18.252.145.208/28 | S3 | us-gov-east-1 |
   | 35.71.115.0/24 | EC2 | us-gov-east-1 |
   | 99.77.183.0/24 | EC2 | us-gov-east-1 |
   | 182.30.0.0/16 | EC2 | us-gov-east-1 |
@@ -8126,24 +8131,19 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.112/28 | EC2 | us-gov-east-1 |
   | 18.254.0.0/16 | EC2 | us-gov-east-1 |
   | 3.4.24.0/21 | EC2 | us-gov-east-1 |
-  | 18.252.126.0/25 | AMAZON | us-gov-east-1 |
-  | 18.252.145.156/30 | EBS | us-gov-east-1 |
-  | 18.252.145.160/29 | EBS | us-gov-east-1 |
   | 18.252.145.168/29 | CODEBUILD | us-gov-east-1 |
-  | 18.252.145.192/28 | S3 | us-gov-east-1 |
-  | 18.252.145.208/28 | S3 | us-gov-east-1 |
-  | 18.252.165.0/26 | AMAZON | us-gov-east-1 |
-  | 18.252.165.140/30 | KINESIS_VIDEO_STREAMS | us-gov-east-1 |
-  | 18.252.4.0/30 | EC2_INSTANCE_CONNECT | us-gov-east-1 |
   | 18.252.4.16/29 | CODEBUILD | us-gov-east-1 |
   | 18.252.56.0/23 | API_GATEWAY | us-gov-east-1 |
-  | 18.252.58.0/23 | AMAZON | us-gov-east-1 |
   | 18.253.186.0/24 | API_GATEWAY | us-gov-east-1 |
+  | 18.254.68.0/23 | API_GATEWAY | us-gov-east-1 |
+  | 18.252.145.156/30 | EBS | us-gov-east-1 |
+  | 18.252.145.160/29 | EBS | us-gov-east-1 |
+  | 18.252.4.0/30 | EC2_INSTANCE_CONNECT | us-gov-east-1 |
+  | 18.252.165.140/30 | KINESIS_VIDEO_STREAMS | us-gov-east-1 |
   | 18.254.140.0/22 | WORKSPACES_GATEWAYS | us-gov-east-1 |
   | 18.254.148.0/22 | WORKSPACES_GATEWAYS | us-gov-east-1 |
-  | 18.254.23.64/26 | AMAZON | us-gov-east-1 |
-  | 18.254.61.128/26 | AMAZON | us-gov-east-1 |
-  | 18.254.68.0/23 | API_GATEWAY | us-gov-east-1 |
+  | 35.71.115.0/24 | DYNAMODB | us-gov-east-1 |
+  | 52.94.22.0/24 | DYNAMODB | us-gov-east-1 |
 </details>
 
 <details>
@@ -8192,11 +8192,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.152.193/32 | AMAZON | us-gov-west-1 |
   | 75.79.0.0/16 | AMAZON | us-gov-west-1 |
   | 52.46.176.0/22 | AMAZON | us-gov-west-1 |
+  | 15.200.150.0/23 | AMAZON | us-gov-west-1 |
+  | 15.200.176.192/26 | AMAZON | us-gov-west-1 |
+  | 3.30.98.128/26 | AMAZON | us-gov-west-1 |
+  | 3.30.98.64/26 | AMAZON | us-gov-west-1 |
+  | 3.32.190.0/25 | AMAZON | us-gov-west-1 |
   | 108.175.56.0/22 | S3 | us-gov-west-1 |
   | 136.18.0.0/23 | S3 | us-gov-west-1 |
   | 108.175.48.0/22 | S3 | us-gov-west-1 |
-  | 52.94.9.0/24 | DYNAMODB | us-gov-west-1 |
-  | 35.71.116.0/24 | DYNAMODB | us-gov-west-1 |
+  | 15.200.176.128/28 | S3 | us-gov-west-1 |
+  | 15.200.28.240/28 | S3 | us-gov-west-1 |
   | 15.205.0.0/16 | EC2 | us-gov-west-1 |
   | 108.175.56.0/22 | EC2 | us-gov-west-1 |
   | 136.18.0.0/23 | EC2 | us-gov-west-1 |
@@ -8212,28 +8217,23 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.71.116.0/24 | EC2 | us-gov-west-1 |
   | 52.222.0.0/17 | EC2 | us-gov-west-1 |
   | 15.200.0.0/16 | EC2 | us-gov-west-1 |
-  | 15.200.141.0/25 | API_GATEWAY | us-gov-west-1 |
-  | 15.200.150.0/23 | AMAZON | us-gov-west-1 |
-  | 15.200.176.128/28 | S3 | us-gov-west-1 |
-  | 15.200.176.192/26 | AMAZON | us-gov-west-1 |
-  | 15.200.28.240/28 | S3 | us-gov-west-1 |
-  | 15.200.28.80/30 | EC2_INSTANCE_CONNECT | us-gov-west-1 |
   | 15.200.28.88/29 | CODEBUILD | us-gov-west-1 |
+  | 52.61.40.104/29 | CODEBUILD | us-gov-west-1 |
+  | 15.200.141.0/25 | API_GATEWAY | us-gov-west-1 |
   | 15.205.82.0/23 | API_GATEWAY | us-gov-west-1 |
   | 15.205.84.0/23 | API_GATEWAY | us-gov-west-1 |
   | 160.1.128.0/24 | API_GATEWAY | us-gov-west-1 |
-  | 3.30.129.0/24 | WORKSPACES_GATEWAYS | us-gov-west-1 |
-  | 3.30.130.0/23 | WORKSPACES_GATEWAYS | us-gov-west-1 |
   | 3.30.204.0/24 | API_GATEWAY | us-gov-west-1 |
-  | 3.30.40.84/30 | KINESIS_VIDEO_STREAMS | us-gov-west-1 |
-  | 3.30.98.128/26 | AMAZON | us-gov-west-1 |
-  | 3.30.98.64/26 | AMAZON | us-gov-west-1 |
-  | 3.32.139.0/24 | WORKSPACES_GATEWAYS | us-gov-west-1 |
-  | 3.32.190.0/25 | AMAZON | us-gov-west-1 |
   | 3.32.190.244/30 | EBS | us-gov-west-1 |
   | 3.32.190.248/29 | EBS | us-gov-west-1 |
+  | 15.200.28.80/30 | EC2_INSTANCE_CONNECT | us-gov-west-1 |
+  | 3.30.40.84/30 | KINESIS_VIDEO_STREAMS | us-gov-west-1 |
+  | 3.30.129.0/24 | WORKSPACES_GATEWAYS | us-gov-west-1 |
+  | 3.30.130.0/23 | WORKSPACES_GATEWAYS | us-gov-west-1 |
+  | 3.32.139.0/24 | WORKSPACES_GATEWAYS | us-gov-west-1 |
   | 52.61.193.0/24 | WORKSPACES_GATEWAYS | us-gov-west-1 |
-  | 52.61.40.104/29 | CODEBUILD | us-gov-west-1 |
+  | 52.94.9.0/24 | DYNAMODB | us-gov-west-1 |
+  | 35.71.116.0/24 | DYNAMODB | us-gov-west-1 |
 </details>
 
 <details>
@@ -8735,7 +8735,17 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.178.153/32 | AMAZON | us-west-1 |
   | 150.222.234.102/32 | AMAZON | us-west-1 |
   | 13.34.18.99/32 | AMAZON | us-west-1 |
+  | 13.52.118.0/23 | AMAZON | us-west-1 |
+  | 13.52.146.192/26 | AMAZON | us-west-1 |
+  | 18.144.158.64/26 | AMAZON | us-west-1 |
+  | 3.101.114.0/26 | AMAZON | us-west-1 |
+  | 3.101.114.64/26 | AMAZON | us-west-1 |
+  | 3.101.194.128/26 | AMAZON | us-west-1 |
+  | 3.101.232.0/22 | AMAZON | us-west-1 |
+  | 3.101.87.0/26 | AMAZON | us-west-1 |
   | 99.77.251.0/24 | CHIME_VOICECONNECTOR | us-west-1 |
+  | 54.183.255.128/26 | ROUTE53_HEALTHCHECKS | us-west-1 |
+  | 54.241.32.64/26 | ROUTE53_HEALTHCHECKS | us-west-1 |
   | 52.219.192.0/23 | S3 | us-west-1 |
   | 3.5.160.0/22 | S3 | us-west-1 |
   | 52.219.255.0/24 | S3 | us-west-1 |
@@ -8746,8 +8756,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.220.0/23 | S3 | us-west-1 |
   | 52.219.112.0/21 | S3 | us-west-1 |
   | 52.219.216.0/23 | S3 | us-west-1 |
-  | 52.94.12.0/24 | DYNAMODB | us-west-1 |
-  | 35.71.117.0/24 | DYNAMODB | us-west-1 |
+  | 3.101.163.64/28 | S3 | us-west-1 |
+  | 3.101.163.80/28 | S3 | us-west-1 |
+  | 3.101.163.96/28 | S3 | us-west-1 |
   | 192.31.212.0/24 | EC2 | us-west-1 |
   | 99.77.132.0/24 | EC2 | us-west-1 |
   | 64.252.118.0/24 | EC2 | us-west-1 |
@@ -8793,75 +8804,65 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 208.78.134.0/24 | EC2 | us-west-1 |
   | 54.176.0.0/15 | EC2 | us-west-1 |
   | 52.94.248.128/28 | EC2 | us-west-1 |
+  | 3.101.158.0/23 | CLOUDFRONT | us-west-1 |
+  | 52.52.191.128/26 | CLOUDFRONT | us-west-1 |
+  | 99.83.97.0/24 | GLOBALACCELERATOR | us-west-1 |
   | 99.82.172.0/24 | GLOBALACCELERATOR | us-west-1 |
   | 3.2.54.0/24 | GLOBALACCELERATOR | us-west-1 |
   | 99.83.98.0/24 | GLOBALACCELERATOR | us-west-1 |
   | 13.248.99.0/24 | GLOBALACCELERATOR | us-west-1 |
   | 15.177.81.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-west-1 |
+  | 13.52.232.224/27 | CLOUD9 | us-west-1 |
+  | 18.144.158.0/27 | CLOUD9 | us-west-1 |
+  | 13.56.32.200/29 | CODEBUILD | us-west-1 |
+  | 3.101.177.48/29 | CODEBUILD | us-west-1 |
+  | 13.52.201.0/24 | API_GATEWAY | us-west-1 |
+  | 13.52.202.0/24 | API_GATEWAY | us-west-1 |
+  | 18.144.184.0/23 | API_GATEWAY | us-west-1 |
+  | 18.144.76.128/25 | API_GATEWAY | us-west-1 |
+  | 3.101.100.128/25 | API_GATEWAY | us-west-1 |
+  | 3.101.157.128/25 | API_GATEWAY | us-west-1 |
+  | 3.101.176.0/24 | API_GATEWAY | us-west-1 |
+  | 3.101.200.0/24 | API_GATEWAY | us-west-1 |
+  | 3.101.201.128/25 | API_GATEWAY | us-west-1 |
+  | 3.101.202.0/23 | API_GATEWAY | us-west-1 |
+  | 3.101.208.0/24 | API_GATEWAY | us-west-1 |
+  | 3.101.209.0/26 | API_GATEWAY | us-west-1 |
   | 13.52.1.0/28 | ROUTE53_RESOLVER | us-west-1 |
   | 13.52.1.16/28 | ROUTE53_RESOLVER | us-west-1 |
   | 13.52.1.32/29 | ROUTE53_RESOLVER | us-west-1 |
   | 13.52.110.192/26 | ROUTE53_RESOLVER | us-west-1 |
-  | 13.52.118.0/23 | AMAZON | us-west-1 |
   | 13.52.146.128/28 | ROUTE53_RESOLVER | us-west-1 |
-  | 13.52.146.192/26 | AMAZON | us-west-1 |
   | 13.52.200.160/27 | ROUTE53_RESOLVER | us-west-1 |
-  | 13.52.201.0/24 | API_GATEWAY | us-west-1 |
-  | 13.52.202.0/24 | API_GATEWAY | us-west-1 |
-  | 13.52.232.224/27 | CLOUD9 | us-west-1 |
   | 13.52.32.96/27 | ROUTE53_RESOLVER | us-west-1 |
-  | 13.52.6.112/29 | EC2_INSTANCE_CONNECT | us-west-1 |
   | 13.56.112.168/29 | ROUTE53_RESOLVER | us-west-1 |
-  | 13.56.32.200/29 | CODEBUILD | us-west-1 |
   | 13.57.180.176/29 | ROUTE53_RESOLVER | us-west-1 |
   | 13.57.180.184/29 | ROUTE53_RESOLVER | us-west-1 |
   | 13.57.180.208/29 | ROUTE53_RESOLVER | us-west-1 |
   | 13.57.180.216/29 | ROUTE53_RESOLVER | us-west-1 |
   | 13.57.180.64/26 | ROUTE53_RESOLVER | us-west-1 |
-  | 18.144.158.0/27 | CLOUD9 | us-west-1 |
-  | 18.144.158.64/26 | AMAZON | us-west-1 |
-  | 18.144.184.0/23 | API_GATEWAY | us-west-1 |
-  | 18.144.76.128/25 | API_GATEWAY | us-west-1 |
   | 18.144.76.32/29 | ROUTE53_RESOLVER | us-west-1 |
-  | 3.101.100.128/25 | API_GATEWAY | us-west-1 |
-  | 3.101.114.0/26 | AMAZON | us-west-1 |
-  | 3.101.114.64/26 | AMAZON | us-west-1 |
   | 3.101.145.192/27 | ROUTE53_RESOLVER | us-west-1 |
   | 3.101.145.224/27 | ROUTE53_RESOLVER | us-west-1 |
   | 3.101.156.0/26 | ROUTE53_RESOLVER | us-west-1 |
-  | 3.101.157.128/25 | API_GATEWAY | us-west-1 |
-  | 3.101.158.0/23 | CLOUDFRONT | us-west-1 |
-  | 3.101.160.240/29 | EBS | us-west-1 |
   | 3.101.160.44/30 | ROUTE53_RESOLVER | us-west-1 |
   | 3.101.160.48/28 | ROUTE53_RESOLVER | us-west-1 |
   | 3.101.161.0/25 | ROUTE53_RESOLVER | us-west-1 |
   | 3.101.161.128/25 | ROUTE53_RESOLVER | us-west-1 |
   | 3.101.162.0/24 | ROUTE53_RESOLVER | us-west-1 |
   | 3.101.163.0/26 | ROUTE53_RESOLVER | us-west-1 |
-  | 3.101.163.64/28 | S3 | us-west-1 |
-  | 3.101.163.80/28 | S3 | us-west-1 |
-  | 3.101.163.96/28 | S3 | us-west-1 |
   | 3.101.164.0/24 | ROUTE53_RESOLVER | us-west-1 |
-  | 3.101.176.0/24 | API_GATEWAY | us-west-1 |
-  | 3.101.177.20/30 | AMAZON_APPFLOW | us-west-1 |
-  | 3.101.177.48/29 | CODEBUILD | us-west-1 |
-  | 3.101.194.128/26 | AMAZON | us-west-1 |
-  | 3.101.200.0/24 | API_GATEWAY | us-west-1 |
-  | 3.101.201.128/25 | API_GATEWAY | us-west-1 |
-  | 3.101.202.0/23 | API_GATEWAY | us-west-1 |
-  | 3.101.208.0/24 | API_GATEWAY | us-west-1 |
-  | 3.101.209.0/26 | API_GATEWAY | us-west-1 |
-  | 3.101.226.80/29 | MEDIA_PACKAGE_V2 | us-west-1 |
-  | 3.101.226.88/29 | MEDIA_PACKAGE_V2 | us-west-1 |
-  | 3.101.232.0/22 | AMAZON | us-west-1 |
+  | 3.101.160.240/29 | EBS | us-west-1 |
   | 3.101.239.34/31 | EBS | us-west-1 |
   | 3.101.239.36/30 | EBS | us-west-1 |
+  | 13.52.6.112/29 | EC2_INSTANCE_CONNECT | us-west-1 |
+  | 3.101.177.20/30 | AMAZON_APPFLOW | us-west-1 |
   | 3.101.52.208/30 | AMAZON_APPFLOW | us-west-1 |
   | 3.101.52.212/30 | AMAZON_APPFLOW | us-west-1 |
-  | 3.101.87.0/26 | AMAZON | us-west-1 |
-  | 52.52.191.128/26 | CLOUDFRONT | us-west-1 |
-  | 54.183.255.128/26 | ROUTE53_HEALTHCHECKS | us-west-1 |
-  | 54.241.32.64/26 | ROUTE53_HEALTHCHECKS | us-west-1 |
+  | 3.101.226.80/29 | MEDIA_PACKAGE_V2 | us-west-1 |
+  | 3.101.226.88/29 | MEDIA_PACKAGE_V2 | us-west-1 |
+  | 52.94.12.0/24 | DYNAMODB | us-west-1 |
+  | 35.71.117.0/24 | DYNAMODB | us-west-1 |
 </details>
 
 <details>
@@ -9158,18 +9159,43 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.6.0/27 | AMAZON | us-west-2 |
   | 13.34.28.192/27 | AMAZON | us-west-2 |
   | 150.222.38.192/26 | AMAZON | us-west-2 |
+  | 18.246.100.0/22 | AMAZON | us-west-2 |
+  | 18.246.112.0/22 | AMAZON | us-west-2 |
+  | 18.246.116.0/22 | AMAZON | us-west-2 |
+  | 18.246.120.0/22 | AMAZON | us-west-2 |
+  | 18.246.148.128/25 | AMAZON | us-west-2 |
+  | 18.246.151.0/25 | AMAZON | us-west-2 |
+  | 18.246.190.128/25 | AMAZON | us-west-2 |
+  | 18.246.220.0/25 | AMAZON | us-west-2 |
+  | 18.246.220.128/25 | AMAZON | us-west-2 |
+  | 18.246.88.0/23 | AMAZON | us-west-2 |
+  | 18.246.92.0/22 | AMAZON | us-west-2 |
+  | 18.246.96.0/22 | AMAZON | us-west-2 |
+  | 34.223.24.0/22 | AMAZON | us-west-2 |
+  | 34.223.45.0/25 | AMAZON | us-west-2 |
+  | 35.86.187.128/26 | AMAZON | us-west-2 |
+  | 35.86.66.0/23 | AMAZON | us-west-2 |
+  | 35.89.72.0/25 | AMAZON | us-west-2 |
+  | 35.90.103.192/26 | AMAZON | us-west-2 |
+  | 35.92.124.192/26 | AMAZON | us-west-2 |
+  | 44.234.106.0/23 | AMAZON | us-west-2 |
+  | 44.234.113.64/26 | AMAZON | us-west-2 |
+  | 44.234.123.128/26 | AMAZON | us-west-2 |
+  | 44.234.123.64/26 | AMAZON | us-west-2 |
+  | 44.234.22.128/26 | AMAZON | us-west-2 |
+  | 44.242.184.128/25 | AMAZON | us-west-2 |
   | 99.77.253.0/24 | CHIME_VOICECONNECTOR | us-west-2 |
   | 99.77.232.0/24 | CHIME_VOICECONNECTOR | us-west-2 |
+  | 54.244.52.192/26 | ROUTE53_HEALTHCHECKS | us-west-2 |
+  | 54.245.168.0/26 | ROUTE53_HEALTHCHECKS | us-west-2 |
   | 3.5.76.0/22 | S3 | us-west-2 |
   | 18.34.244.0/22 | S3 | us-west-2 |
   | 18.34.48.0/20 | S3 | us-west-2 |
   | 3.5.80.0/21 | S3 | us-west-2 |
   | 52.218.128.0/17 | S3 | us-west-2 |
   | 52.92.128.0/17 | S3 | us-west-2 |
-  | 52.119.252.0/22 | DYNAMODB | us-west-2 |
-  | 52.94.10.0/24 | DYNAMODB | us-west-2 |
-  | 35.71.64.0/22 | DYNAMODB | us-west-2 |
-  | 52.94.28.0/23 | DYNAMODB | us-west-2 |
+  | 35.80.36.208/28 | S3 | us-west-2 |
+  | 35.80.36.224/28 | S3 | us-west-2 |
   | 15.220.252.0/22 | EC2 | us-west-2-las-1 |
   | 54.148.0.0/15 | EC2 | us-west-2 |
   | 99.77.130.0/24 | EC2 | us-west-2 |
@@ -9263,27 +9289,94 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.40.0/22 | EC2 | us-west-2-den-1 |
   | 52.94.248.96/28 | EC2 | us-west-2 |
   | 99.77.186.0/24 | EC2 | us-west-2 |
+  | 34.216.51.0/25 | CLOUDFRONT | us-west-2 |
+  | 34.223.12.224/27 | CLOUDFRONT | us-west-2 |
+  | 34.223.80.192/26 | CLOUDFRONT | us-west-2 |
+  | 35.162.63.192/26 | CLOUDFRONT | us-west-2 |
+  | 35.167.191.128/26 | CLOUDFRONT | us-west-2 |
+  | 35.93.168.0/23 | CLOUDFRONT | us-west-2 |
+  | 35.93.170.0/23 | CLOUDFRONT | us-west-2 |
+  | 35.93.172.0/23 | CLOUDFRONT | us-west-2 |
+  | 44.227.178.0/24 | CLOUDFRONT | us-west-2 |
+  | 44.234.108.128/25 | CLOUDFRONT | us-west-2 |
+  | 44.234.90.252/30 | CLOUDFRONT | us-west-2 |
   | 13.248.112.0/24 | GLOBALACCELERATOR | us-west-2 |
-  | 15.177.80.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-west-2 |
   | 18.236.61.0/25 | AMAZON_CONNECT | us-west-2 |
-  | 18.237.140.160/29 | EC2_INSTANCE_CONNECT | us-west-2 |
-  | 18.246.100.0/22 | AMAZON | us-west-2 |
-  | 18.246.107.128/29 | MEDIA_PACKAGE_V2 | us-west-2 |
-  | 18.246.107.8/29 | MEDIA_PACKAGE_V2 | us-west-2 |
-  | 18.246.112.0/22 | AMAZON | us-west-2 |
-  | 18.246.116.0/22 | AMAZON | us-west-2 |
-  | 18.246.120.0/22 | AMAZON | us-west-2 |
-  | 18.246.148.128/25 | AMAZON | us-west-2 |
-  | 18.246.151.0/25 | AMAZON | us-west-2 |
+  | 54.190.198.32/28 | AMAZON_CONNECT | us-west-2 |
+  | 15.177.80.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-west-2 |
+  | 34.217.141.224/27 | CLOUD9 | us-west-2 |
+  | 34.218.119.32/27 | CLOUD9 | us-west-2 |
+  | 35.82.136.192/29 | CODEBUILD | us-west-2 |
+  | 35.83.248.40/29 | CODEBUILD | us-west-2 |
+  | 52.43.76.88/29 | CODEBUILD | us-west-2 |
   | 18.246.176.0/24 | API_GATEWAY | us-west-2 |
   | 18.246.178.0/23 | API_GATEWAY | us-west-2 |
   | 18.246.181.0/24 | API_GATEWAY | us-west-2 |
   | 18.246.182.0/23 | API_GATEWAY | us-west-2 |
   | 18.246.184.0/23 | API_GATEWAY | us-west-2 |
-  | 18.246.190.128/25 | AMAZON | us-west-2 |
-  | 18.246.220.0/25 | AMAZON | us-west-2 |
-  | 18.246.220.128/25 | AMAZON | us-west-2 |
+  | 34.223.68.0/22 | API_GATEWAY | us-west-2 |
+  | 34.223.72.0/23 | API_GATEWAY | us-west-2 |
+  | 34.223.74.0/25 | API_GATEWAY | us-west-2 |
+  | 35.90.132.0/23 | API_GATEWAY | us-west-2 |
+  | 35.92.26.0/24 | API_GATEWAY | us-west-2 |
+  | 35.93.124.0/22 | API_GATEWAY | us-west-2 |
+  | 35.94.72.0/22 | API_GATEWAY | us-west-2 |
+  | 44.233.54.0/23 | API_GATEWAY | us-west-2 |
+  | 44.234.28.0/22 | API_GATEWAY | us-west-2 |
+  | 34.216.226.136/29 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.216.226.144/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.216.226.192/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.216.226.208/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.216.226.224/29 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.216.226.232/29 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.216.226.240/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.217.141.0/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.217.141.16/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.217.141.32/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.218.119.112/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.218.119.128/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.218.119.144/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.218.119.80/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.218.119.96/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.218.216.160/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.218.216.176/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.218.216.208/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.218.216.240/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.221.183.224/27 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.221.183.32/27 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.222.66.64/27 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.112.0/26 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.112.128/25 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.112.64/27 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.21.192/26 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.22.176/29 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.37.224/27 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.45.128/25 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.46.0/25 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.46.128/25 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.47.0/27 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.47.128/25 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.49.128/25 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.51.0/26 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.64.224/27 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.92.0/25 | ROUTE53_RESOLVER | us-west-2 |
+  | 34.223.95.176/28 | ROUTE53_RESOLVER | us-west-2 |
+  | 35.80.35.0/24 | ROUTE53_RESOLVER | us-west-2 |
+  | 44.242.176.192/26 | ROUTE53_RESOLVER | us-west-2 |
+  | 44.242.177.0/26 | ROUTE53_RESOLVER | us-west-2 |
+  | 44.242.177.128/27 | ROUTE53_RESOLVER | us-west-2 |
+  | 44.242.177.64/26 | ROUTE53_RESOLVER | us-west-2 |
+  | 44.242.178.0/24 | ROUTE53_RESOLVER | us-west-2 |
+  | 44.242.179.0/24 | ROUTE53_RESOLVER | us-west-2 |
+  | 44.242.180.0/24 | ROUTE53_RESOLVER | us-west-2 |
+  | 44.242.181.0/27 | ROUTE53_RESOLVER | us-west-2 |
+  | 44.242.181.32/28 | ROUTE53_RESOLVER | us-west-2 |
   | 18.246.224.18/32 | EBS | us-west-2 |
+  | 18.246.224.24/29 | EBS | us-west-2 |
+  | 35.80.36.192/28 | EBS | us-west-2 |
+  | 35.94.128.244/31 | EBS | us-west-2 |
+  | 35.94.128.248/30 | EBS | us-west-2 |
+  | 18.237.140.160/29 | EC2_INSTANCE_CONNECT | us-west-2 |
   | 18.246.224.200/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 18.246.224.202/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 18.246.224.204/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
@@ -9298,103 +9391,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.246.224.232/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 18.246.224.236/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 18.246.224.238/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
-  | 18.246.224.24/29 | EBS | us-west-2 |
   | 18.246.224.240/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 18.246.224.244/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 18.246.224.248/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 18.246.224.252/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
-  | 18.246.88.0/23 | AMAZON | us-west-2 |
-  | 18.246.92.0/22 | AMAZON | us-west-2 |
-  | 18.246.96.0/22 | AMAZON | us-west-2 |
-  | 34.216.226.136/29 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.216.226.144/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.216.226.192/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.216.226.208/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.216.226.224/29 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.216.226.232/29 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.216.226.240/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.216.51.0/25 | CLOUDFRONT | us-west-2 |
-  | 34.217.141.0/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.217.141.16/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.217.141.224/27 | CLOUD9 | us-west-2 |
-  | 34.217.141.32/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.218.119.112/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.218.119.128/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.218.119.144/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.218.119.32/27 | CLOUD9 | us-west-2 |
-  | 34.218.119.80/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.218.119.96/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.218.216.160/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.218.216.176/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.218.216.208/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.218.216.240/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.221.183.224/27 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.221.183.32/27 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.222.66.64/27 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.112.0/26 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.112.128/25 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.112.64/27 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.12.224/27 | CLOUDFRONT | us-west-2 |
-  | 34.223.21.192/26 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.22.176/29 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.24.0/22 | AMAZON | us-west-2 |
-  | 34.223.37.224/27 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.45.0/25 | AMAZON | us-west-2 |
-  | 34.223.45.128/25 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.46.0/25 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.46.128/25 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.47.0/27 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.47.128/25 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.49.128/25 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.51.0/26 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.64.224/27 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.68.0/22 | API_GATEWAY | us-west-2 |
-  | 34.223.72.0/23 | API_GATEWAY | us-west-2 |
-  | 34.223.74.0/25 | API_GATEWAY | us-west-2 |
-  | 34.223.80.192/26 | CLOUDFRONT | us-west-2 |
-  | 34.223.92.0/25 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.95.176/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 34.223.96.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
-  | 35.162.63.192/26 | CLOUDFRONT | us-west-2 |
-  | 35.167.191.128/26 | CLOUDFRONT | us-west-2 |
-  | 35.80.35.0/24 | ROUTE53_RESOLVER | us-west-2 |
-  | 35.80.36.192/28 | EBS | us-west-2 |
-  | 35.80.36.208/28 | S3 | us-west-2 |
-  | 35.80.36.224/28 | S3 | us-west-2 |
-  | 35.80.88.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
-  | 35.80.92.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
-  | 35.82.136.192/29 | CODEBUILD | us-west-2 |
-  | 35.83.248.40/29 | CODEBUILD | us-west-2 |
-  | 35.84.36.0/30 | AMAZON_APPFLOW | us-west-2 |
-  | 35.86.187.128/26 | AMAZON | us-west-2 |
-  | 35.86.66.0/23 | AMAZON | us-west-2 |
-  | 35.89.72.0/25 | AMAZON | us-west-2 |
-  | 35.90.103.192/26 | AMAZON | us-west-2 |
-  | 35.90.132.0/23 | API_GATEWAY | us-west-2 |
-  | 35.92.124.192/26 | AMAZON | us-west-2 |
-  | 35.92.26.0/24 | API_GATEWAY | us-west-2 |
-  | 35.93.124.0/22 | API_GATEWAY | us-west-2 |
-  | 35.93.168.0/23 | CLOUDFRONT | us-west-2 |
-  | 35.93.170.0/23 | CLOUDFRONT | us-west-2 |
-  | 35.93.172.0/23 | CLOUDFRONT | us-west-2 |
   | 35.93.175.4/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 35.93.175.8/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
-  | 35.94.128.244/31 | EBS | us-west-2 |
-  | 35.94.128.248/30 | EBS | us-west-2 |
-  | 35.94.72.0/22 | API_GATEWAY | us-west-2 |
-  | 44.227.178.0/24 | CLOUDFRONT | us-west-2 |
-  | 44.233.54.0/23 | API_GATEWAY | us-west-2 |
-  | 44.234.106.0/23 | AMAZON | us-west-2 |
-  | 44.234.108.128/25 | CLOUDFRONT | us-west-2 |
-  | 44.234.113.64/26 | AMAZON | us-west-2 |
-  | 44.234.123.128/26 | AMAZON | us-west-2 |
-  | 44.234.123.64/26 | AMAZON | us-west-2 |
-  | 44.234.22.128/26 | AMAZON | us-west-2 |
-  | 44.234.28.0/22 | API_GATEWAY | us-west-2 |
-  | 44.234.54.0/23 | WORKSPACES_GATEWAYS | us-west-2 |
-  | 44.234.73.116/30 | AMAZON_APPFLOW | us-west-2 |
-  | 44.234.73.120/30 | AMAZON_APPFLOW | us-west-2 |
-  | 44.234.90.252/30 | CLOUDFRONT | us-west-2 |
   | 44.242.143.180/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 44.242.143.224/30 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 44.242.143.242/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
@@ -9410,20 +9412,19 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.242.161.4/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 44.242.161.6/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 44.242.161.8/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
-  | 44.242.176.192/26 | ROUTE53_RESOLVER | us-west-2 |
-  | 44.242.177.0/26 | ROUTE53_RESOLVER | us-west-2 |
-  | 44.242.177.128/27 | ROUTE53_RESOLVER | us-west-2 |
-  | 44.242.177.64/26 | ROUTE53_RESOLVER | us-west-2 |
-  | 44.242.178.0/24 | ROUTE53_RESOLVER | us-west-2 |
-  | 44.242.179.0/24 | ROUTE53_RESOLVER | us-west-2 |
-  | 44.242.180.0/24 | ROUTE53_RESOLVER | us-west-2 |
-  | 44.242.181.0/27 | ROUTE53_RESOLVER | us-west-2 |
-  | 44.242.181.32/28 | ROUTE53_RESOLVER | us-west-2 |
-  | 44.242.184.128/25 | AMAZON | us-west-2 |
-  | 52.43.76.88/29 | CODEBUILD | us-west-2 |
-  | 54.190.198.32/28 | AMAZON_CONNECT | us-west-2 |
+  | 34.223.96.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
+  | 35.80.88.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
+  | 35.80.92.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
+  | 44.234.54.0/23 | WORKSPACES_GATEWAYS | us-west-2 |
   | 54.244.46.0/23 | WORKSPACES_GATEWAYS | us-west-2 |
-  | 54.244.52.192/26 | ROUTE53_HEALTHCHECKS | us-west-2 |
-  | 54.245.168.0/26 | ROUTE53_HEALTHCHECKS | us-west-2 |
+  | 35.84.36.0/30 | AMAZON_APPFLOW | us-west-2 |
+  | 44.234.73.116/30 | AMAZON_APPFLOW | us-west-2 |
+  | 44.234.73.120/30 | AMAZON_APPFLOW | us-west-2 |
+  | 18.246.107.128/29 | MEDIA_PACKAGE_V2 | us-west-2 |
+  | 18.246.107.8/29 | MEDIA_PACKAGE_V2 | us-west-2 |
+  | 52.119.252.0/22 | DYNAMODB | us-west-2 |
+  | 52.94.10.0/24 | DYNAMODB | us-west-2 |
+  | 35.71.64.0/22 | DYNAMODB | us-west-2 |
+  | 52.94.28.0/23 | DYNAMODB | us-west-2 |
 </details>
 
