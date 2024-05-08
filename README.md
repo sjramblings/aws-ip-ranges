@@ -540,6 +540,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.16.96/27 | AMAZON | ap-east-1 |
   | 18.163.0.0/16 | AMAZON | ap-east-1 |
   | 52.95.162.0/24 | AMAZON | ap-east-1 |
+  | 13.34.122.0/27 | AMAZON | ap-east-1 |
   | 99.77.142.0/24 | AMAZON | ap-east-1 |
   | 99.77.241.0/24 | AMAZON | ap-east-1 |
   | 54.239.1.80/28 | AMAZON | ap-east-1 |
@@ -550,6 +551,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.11.0/27 | AMAZON | ap-east-1 |
   | 99.150.88.0/21 | AMAZON | ap-east-1 |
   | 13.248.48.0/21 | AMAZON | ap-east-1 |
+  | 13.34.122.32/27 | AMAZON | ap-east-1 |
   | 13.248.60.0/22 | AMAZON | ap-east-1 |
   | 150.222.47.128/26 | AMAZON | ap-east-1 |
   | 35.71.107.0/24 | AMAZON | ap-east-1 |
@@ -1425,6 +1427,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.46.32/27 | AMAZON | ap-south-1 |
   | 13.34.13.206/32 | AMAZON | ap-south-1 |
   | 52.93.148.0/26 | AMAZON | ap-south-1 |
+  | 13.34.122.128/27 | AMAZON | ap-south-1 |
   | 13.34.13.160/27 | AMAZON | ap-south-1 |
   | 13.248.105.0/24 | AMAZON | ap-south-1 |
   | 52.144.228.0/31 | AMAZON | ap-south-1 |
@@ -1450,6 +1453,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.71.160/27 | AMAZON | ap-south-1 |
   | 43.204.0.0/15 | AMAZON | ap-south-1 |
   | 142.4.179.0/24 | AMAZON | ap-south-1 |
+  | 13.34.122.160/27 | AMAZON | ap-south-1 |
   | 173.83.211.0/24 | AMAZON | ap-south-1 |
   | 15.220.228.0/22 | AMAZON | ap-south-1-ccu-2 |
   | 52.93.126.245/32 | AMAZON | ap-south-1 |
@@ -1507,6 +1511,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.203.0/24 | AMAZON | ap-south-1 |
   | 3.5.212.0/23 | AMAZON | ap-south-1 |
   | 52.93.68.0/24 | AMAZON | ap-south-1 |
+  | 13.34.122.64/27 | AMAZON | ap-south-1 |
   | 52.219.64.0/22 | AMAZON | ap-south-1 |
   | 52.93.98.0/24 | AMAZON | ap-south-1 |
   | 13.34.70.160/27 | AMAZON | ap-south-1 |
@@ -1553,6 +1558,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.13.128/27 | AMAZON | ap-south-1 |
   | 99.83.72.0/22 | AMAZON | ap-south-1 |
   | 142.4.180.0/24 | AMAZON | ap-south-1 |
+  | 13.34.122.96/27 | AMAZON | ap-south-1 |
   | 52.94.20.0/24 | AMAZON | ap-south-1 |
   | 104.255.59.86/32 | AMAZON | ap-south-1 |
   | 13.34.13.231/32 | AMAZON | ap-south-1 |
