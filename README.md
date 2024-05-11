@@ -2177,6 +2177,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 151.148.38.0/24 | EC2 | ap-southeast-1 |
   | 13.228.0.0/15 | EC2 | ap-southeast-1 |
   | 13.228.69.0/24 | CLOUDFRONT | ap-southeast-1 |
+  | 47.129.82.0/24 | CLOUDFRONT | ap-southeast-1 |
+  | 47.129.83.0/24 | CLOUDFRONT | ap-southeast-1 |
+  | 47.129.84.0/24 | CLOUDFRONT | ap-southeast-1 |
   | 52.220.191.0/26 | CLOUDFRONT | ap-southeast-1 |
   | 99.83.102.0/24 | GLOBALACCELERATOR | ap-southeast-1 |
   | 99.82.173.0/24 | GLOBALACCELERATOR | ap-southeast-1 |
@@ -4455,7 +4458,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.38.64/27 | AMAZON | eu-south-2 |
   | 13.34.38.160/27 | AMAZON | eu-south-2 |
   | 150.222.50.64/27 | AMAZON | eu-south-2 |
-  | 3.5.88.0/22 | AMAZON | eu-south-2 |
   | 13.34.38.0/27 | AMAZON | eu-south-2 |
   | 35.71.120.0/24 | AMAZON | eu-south-2 |
   | 13.34.38.128/27 | AMAZON | eu-south-2 |
@@ -4487,7 +4489,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.101.80.0/22 | AMAZON | eu-south-2 |
   | 18.101.84.0/23 | AMAZON | eu-south-2 |
   | 52.95.136.0/23 | S3 | eu-south-2 |
-  | 3.5.88.0/22 | S3 | eu-south-2 |
   | 52.95.138.0/24 | S3 | eu-south-2 |
   | 3.5.32.0/22 | S3 | eu-south-2 |
   | 18.100.209.224/28 | S3 | eu-south-2 |
@@ -4496,7 +4497,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.55.46/32 | EC2 | eu-south-2 |
   | 99.77.55.41/32 | EC2 | eu-south-2 |
   | 99.77.55.3/32 | EC2 | eu-south-2 |
-  | 3.5.88.0/22 | EC2 | eu-south-2 |
   | 99.77.55.38/32 | EC2 | eu-south-2 |
   | 99.77.55.51/32 | EC2 | eu-south-2 |
   | 99.77.55.43/32 | EC2 | eu-south-2 |
@@ -5703,7 +5703,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.65.160/27 | AMAZON | il-central-1 |
   | 13.34.64.192/27 | AMAZON | il-central-1 |
   | 13.34.65.128/27 | AMAZON | il-central-1 |
-  | 16.12.81.0/24 | AMAZON | il-central-1 |
   | 150.222.52.64/27 | AMAZON | il-central-1 |
   | 13.34.65.192/27 | AMAZON | il-central-1 |
   | 13.34.65.96/27 | AMAZON | il-central-1 |
@@ -5711,7 +5710,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.84.0.0/16 | AMAZON | il-central-1 |
   | 15.251.0.29/32 | AMAZON | il-central-1 |
   | 13.34.64.224/27 | AMAZON | il-central-1 |
-  | 16.12.82.0/23 | AMAZON | il-central-1 |
   | 13.34.65.224/27 | AMAZON | il-central-1 |
   | 51.86.0.0/15 | AMAZON | il-central-1 |
   | 16.12.12.0/23 | AMAZON | il-central-1 |
@@ -5736,8 +5734,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.16.255.0/24 | AMAZON | il-central-1 |
   | 51.17.0.0/24 | AMAZON | il-central-1 |
   | 51.17.1.0/24 | AMAZON | il-central-1 |
-  | 16.12.81.0/24 | S3 | il-central-1 |
-  | 16.12.82.0/23 | S3 | il-central-1 |
   | 16.12.12.0/23 | S3 | il-central-1 |
   | 16.12.14.0/24 | S3 | il-central-1 |
   | 3.5.56.0/22 | S3 | il-central-1 |
