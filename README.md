@@ -1245,11 +1245,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.20.133/32 | AMAZON | ap-northeast-3 |
   | 13.34.20.174/32 | AMAZON | ap-northeast-3 |
   | 99.83.100.0/24 | AMAZON | ap-northeast-3 |
+  | 13.34.124.0/27 | AMAZON | ap-northeast-3 |
   | 13.34.20.137/32 | AMAZON | ap-northeast-3 |
   | 69.107.6.200/29 | AMAZON | ap-northeast-3 |
   | 15.168.0.0/16 | AMAZON | ap-northeast-3 |
   | 52.144.233.70/31 | AMAZON | ap-northeast-3 |
   | 13.248.0.0/20 | AMAZON | ap-northeast-3 |
+  | 13.34.124.32/27 | AMAZON | ap-northeast-3 |
   | 13.34.20.143/32 | AMAZON | ap-northeast-3 |
   | 52.95.157.0/24 | AMAZON | ap-northeast-3 |
   | 13.34.20.165/32 | AMAZON | ap-northeast-3 |
