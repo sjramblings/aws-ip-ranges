@@ -2092,6 +2092,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.17.168/32 | AMAZON | ap-southeast-1 |
   | 15.220.44.0/22 | AMAZON | ap-southeast-1 |
   | 13.34.14.36/32 | AMAZON | ap-southeast-1 |
+  | 136.18.34.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.209.0/24 | AMAZON | ap-southeast-1 |
   | 13.34.14.9/32 | AMAZON | ap-southeast-1 |
   | 13.34.19.1/32 | AMAZON | ap-southeast-1 |
