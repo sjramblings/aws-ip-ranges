@@ -3837,6 +3837,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.75.112.0/24 | AMAZON | eu-central-1 |
   | 3.78.202.0/23 | AMAZON | eu-central-1 |
   | 3.78.204.0/22 | AMAZON | eu-central-1 |
+  | 35.159.158.0/23 | AMAZON | eu-central-1 |
   | 99.77.247.0/24 | CHIME_VOICECONNECTOR | eu-central-1 |
   | 52.219.170.0/23 | S3 | eu-central-1 |
   | 52.219.168.0/24 | S3 | eu-central-1 |
@@ -6519,6 +6520,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 162.250.238.0/23 | AMAZON | us-east-1 |
   | 150.222.100.0/24 | AMAZON | us-east-1 |
   | 13.34.0.102/32 | AMAZON | us-east-1 |
+  | 16.15.192.0/18 | AMAZON | us-east-1 |
   | 52.93.238.0/25 | AMAZON | us-east-1 |
   | 136.18.138.0/23 | AMAZON | us-east-1 |
   | 13.34.30.96/27 | AMAZON | us-east-1 |
@@ -6952,6 +6954,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.2.193/32 | AMAZON | us-east-1 |
   | 13.34.8.137/32 | AMAZON | us-east-1 |
   | 13.34.8.161/32 | AMAZON | us-east-1 |
+  | 16.15.176.0/20 | AMAZON | us-east-1 |
   | 52.93.126.212/32 | AMAZON | us-east-1 |
   | 13.34.2.225/32 | AMAZON | us-east-1 |
   | 13.34.91.32/27 | AMAZON | us-east-1 |
@@ -7194,9 +7197,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 107.23.255.0/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
   | 54.243.31.192/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
   | 18.34.0.0/19 | S3 | us-east-1 |
+  | 16.15.192.0/18 | S3 | us-east-1 |
   | 54.231.0.0/16 | S3 | us-east-1 |
   | 52.216.0.0/15 | S3 | us-east-1 |
   | 18.34.232.0/21 | S3 | us-east-1 |
+  | 16.15.176.0/20 | S3 | us-east-1 |
   | 16.182.0.0/16 | S3 | us-east-1 |
   | 3.5.0.0/19 | S3 | us-east-1 |
   | 44.192.134.240/28 | S3 | us-east-1 |
@@ -7242,6 +7247,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.192.0.0/11 | EC2 | us-east-1 |
   | 3.4.9.0/24 | EC2 | us-east-1 |
   | 162.250.238.0/23 | EC2 | us-east-1 |
+  | 16.15.192.0/18 | EC2 | us-east-1 |
   | 136.18.138.0/23 | EC2 | us-east-1 |
   | 23.20.0.0/14 | EC2 | us-east-1 |
   | 64.252.64.0/24 | EC2 | us-east-1 |
@@ -7345,6 +7351,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.26.166.0/24 | EC2 | us-east-1 |
   | 15.220.220.0/23 | EC2 | us-east-1-mia-1 |
   | 52.72.0.0/15 | EC2 | us-east-1 |
+  | 16.15.176.0/20 | EC2 | us-east-1 |
   | 54.160.0.0/13 | EC2 | us-east-1 |
   | 54.234.0.0/15 | EC2 | us-east-1 |
   | 15.220.248.0/23 | EC2 | us-east-1-phl-1 |
