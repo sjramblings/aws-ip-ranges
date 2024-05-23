@@ -1501,9 +1501,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.87.32/27 | AMAZON | ap-south-1 |
   | 13.34.48.32/27 | AMAZON | ap-south-1 |
   | 15.220.136.0/21 | AMAZON | ap-south-1-del-1 |
+  | 13.34.25.204/32 | AMAZON | ap-south-1 |
   | 52.93.126.205/32 | AMAZON | ap-south-1 |
   | 15.230.54.0/24 | AMAZON | ap-south-1 |
-  | 13.34.25.192/27 | AMAZON | ap-south-1 |
   | 150.222.115.0/24 | AMAZON | ap-south-1 |
   | 52.219.160.0/23 | AMAZON | ap-south-1 |
   | 13.34.80.224/27 | AMAZON | ap-south-1 |
@@ -1539,6 +1539,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.70.128/26 | AMAZON | ap-south-1 |
   | 15.193.0.0/24 | AMAZON | ap-south-1 |
   | 52.66.0.0/16 | AMAZON | ap-south-1 |
+  | 13.34.25.216/29 | AMAZON | ap-south-1 |
   | 104.255.59.91/32 | AMAZON | ap-south-1 |
   | 104.255.59.85/32 | AMAZON | ap-south-1 |
   | 52.219.156.0/22 | AMAZON | ap-south-1 |
@@ -1577,6 +1578,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.55.96/27 | AMAZON | ap-south-1 |
   | 99.151.136.0/21 | AMAZON | ap-south-1 |
   | 13.34.13.128/27 | AMAZON | ap-south-1 |
+  | 13.34.25.205/32 | AMAZON | ap-south-1 |
   | 99.83.72.0/22 | AMAZON | ap-south-1 |
   | 142.4.180.0/24 | AMAZON | ap-south-1 |
   | 13.34.122.96/27 | AMAZON | ap-south-1 |
@@ -7675,6 +7677,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.39.220/31 | AMAZON | us-east-2 |
   | 18.116.0.0/14 | AMAZON | us-east-2 |
   | 52.93.199.91/32 | AMAZON | us-east-2 |
+  | 13.34.124.192/27 | AMAZON | us-east-2 |
   | 13.34.104.176/32 | AMAZON | us-east-2 |
   | 15.230.39.40/31 | AMAZON | us-east-2 |
   | 52.93.62.0/24 | AMAZON | us-east-2 |
@@ -7881,6 +7884,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.130.0.0/16 | AMAZON | us-east-2 |
   | 15.230.39.222/31 | AMAZON | us-east-2 |
   | 52.14.0.0/16 | AMAZON | us-east-2 |
+  | 13.34.124.224/27 | AMAZON | us-east-2 |
   | 13.34.104.177/32 | AMAZON | us-east-2 |
   | 13.34.104.241/32 | AMAZON | us-east-2 |
   | 13.34.104.173/32 | AMAZON | us-east-2 |
