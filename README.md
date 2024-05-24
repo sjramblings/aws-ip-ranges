@@ -5922,6 +5922,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 15.185.0.0/16 | AMAZON | me-south-1 |
   | 35.71.99.0/24 | AMAZON | me-south-1 |
+  | 13.34.125.0/27 | AMAZON | me-south-1 |
   | 69.107.7.136/29 | AMAZON | me-south-1 |
   | 52.95.174.0/24 | AMAZON | me-south-1 |
   | 13.34.20.0/27 | AMAZON | me-south-1 |
@@ -5950,6 +5951,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.228.0/24 | AMAZON | me-south-1 |
   | 56.184.0.0/16 | AMAZON | me-south-1 |
   | 15.230.69.128/26 | AMAZON | me-south-1 |
+  | 13.34.125.32/27 | AMAZON | me-south-1 |
   | 16.25.0.0/16 | AMAZON | me-south-1 |
   | 3.5.220.0/22 | AMAZON | me-south-1 |
   | 13.248.106.0/24 | AMAZON | me-south-1 |
