@@ -2901,11 +2901,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.190.32.0/20 | AMAZON | ap-southeast-5 |
   | 16.12.44.0/24 | AMAZON | ap-southeast-5 |
   | 99.151.160.0/21 | AMAZON | ap-southeast-5 |
+  | 150.222.52.224/27 | AMAZON | ap-southeast-5 |
   | 13.34.108.192/27 | AMAZON | ap-southeast-5 |
   | 13.34.18.4/32 | AMAZON | ap-southeast-5 |
   | 104.255.59.201/32 | AMAZON | ap-southeast-5 |
   | 13.248.75.0/24 | AMAZON | ap-southeast-5 |
   | 13.34.18.35/32 | AMAZON | ap-southeast-5 |
+  | 150.222.53.0/27 | AMAZON | ap-southeast-5 |
   | 13.34.18.3/32 | AMAZON | ap-southeast-5 |
   | 13.34.18.16/32 | AMAZON | ap-southeast-5 |
   | 56.69.0.0/16 | AMAZON | ap-southeast-5 |
