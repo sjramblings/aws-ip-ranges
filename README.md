@@ -8735,6 +8735,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.32.180/32 | AMAZON | us-west-1 |
   | 54.153.0.0/17 | AMAZON | us-west-1 |
   | 13.34.21.226/32 | AMAZON | us-west-1 |
+  | 13.34.125.128/27 | AMAZON | us-west-1 |
   | 13.34.18.100/32 | AMAZON | us-west-1 |
   | 13.34.18.110/32 | AMAZON | us-west-1 |
   | 52.93.149.0/24 | AMAZON | us-west-1 |
@@ -8765,6 +8766,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.101.0.0/16 | AMAZON | us-west-1 |
   | 13.34.12.43/32 | AMAZON | us-west-1 |
   | 13.34.2.107/32 | AMAZON | us-west-1 |
+  | 13.34.125.160/27 | AMAZON | us-west-1 |
   | 15.230.28.0/24 | AMAZON | us-west-1 |
   | 150.222.234.44/31 | AMAZON | us-west-1 |
   | 150.222.234.82/31 | AMAZON | us-west-1 |
