@@ -2134,6 +2134,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 47.128.4.0/22 | AMAZON | ap-southeast-1 |
   | 47.128.8.0/23 | AMAZON | ap-southeast-1 |
   | 47.129.81.64/26 | AMAZON | ap-southeast-1 |
+  | 47.129.90.0/24 | AMAZON | ap-southeast-1 |
   | 99.77.240.0/24 | CHIME_VOICECONNECTOR | ap-southeast-1 |
   | 54.251.31.128/26 | ROUTE53_HEALTHCHECKS | ap-southeast-1 |
   | 54.255.254.192/26 | ROUTE53_HEALTHCHECKS | ap-southeast-1 |
@@ -2995,7 +2996,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.110.0/24 | AMAZON | ca-central-1 |
   | 13.34.7.224/27 | AMAZON | ca-central-1 |
   | 13.34.107.64/27 | AMAZON | ca-central-1 |
-  | 130.171.0.128/26 | AMAZON | ca-central-1 |
   | 13.34.107.32/27 | AMAZON | ca-central-1 |
   | 52.144.199.128/26 | AMAZON | ca-central-1 |
   | 52.93.45.128/25 | AMAZON | ca-central-1 |
@@ -3022,9 +3022,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.252.0/22 | AMAZON | ca-central-1 |
   | 16.52.0.0/14 | AMAZON | ca-central-1 |
   | 13.34.107.0/27 | AMAZON | ca-central-1 |
-  | 130.171.0.0/26 | AMAZON | ca-central-1 |
   | 15.230.91.0/24 | AMAZON | ca-central-1 |
-  | 130.171.0.64/26 | AMAZON | ca-central-1 |
   | 52.93.193.198/32 | AMAZON | ca-central-1 |
   | 15.251.0.47/32 | AMAZON | ca-central-1 |
   | 173.83.217.0/24 | AMAZON | ca-central-1 |
@@ -3099,15 +3097,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.145.0/24 | S3 | ca-central-1 |
   | 3.98.24.0/28 | S3 | ca-central-1 |
   | 3.98.24.16/28 | S3 | ca-central-1 |
-  | 130.171.0.128/26 | EC2 | ca-central-1 |
   | 15.222.0.0/15 | EC2 | ca-central-1 |
   | 35.71.119.0/24 | EC2 | ca-central-1 |
   | 35.182.0.0/15 | EC2 | ca-central-1 |
   | 99.77.233.0/24 | EC2 | ca-central-1 |
   | 3.96.0.0/15 | EC2 | ca-central-1 |
   | 3.5.252.0/22 | EC2 | ca-central-1 |
-  | 130.171.0.0/26 | EC2 | ca-central-1 |
-  | 130.171.0.64/26 | EC2 | ca-central-1 |
   | 173.83.217.0/24 | EC2 | ca-central-1 |
   | 99.151.128.0/21 | EC2 | ca-central-1 |
   | 99.79.0.0/16 | EC2 | ca-central-1 |
@@ -5329,6 +5324,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.138.0/24 | AMAZON | eu-west-2 |
   | 150.222.134.0/24 | AMAZON | eu-west-2 |
   | 13.34.110.160/27 | AMAZON | eu-west-2 |
+  | 13.34.126.0/27 | AMAZON | eu-west-2 |
   | 52.144.211.128/26 | AMAZON | eu-west-2 |
   | 99.82.169.0/24 | AMAZON | eu-west-2 |
   | 13.34.96.0/27 | AMAZON | eu-west-2 |
@@ -5400,6 +5396,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.191.0/24 | AMAZON | eu-west-2 |
   | 13.34.81.192/27 | AMAZON | eu-west-2 |
   | 52.94.248.192/28 | AMAZON | eu-west-2 |
+  | 13.34.126.32/27 | AMAZON | eu-west-2 |
   | 15.177.78.0/24 | AMAZON | eu-west-2 |
   | 13.34.52.192/27 | AMAZON | eu-west-2 |
   | 13.34.25.6/32 | AMAZON | eu-west-2 |
@@ -8657,6 +8654,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.122.131/32 | AMAZON | us-west-1 |
   | 52.219.194.0/24 | AMAZON | us-west-1 |
   | 150.222.234.12/31 | AMAZON | us-west-1 |
+  | 13.34.126.64/27 | AMAZON | us-west-1 |
   | 52.93.178.162/32 | AMAZON | us-west-1 |
   | 204.246.160.0/22 | AMAZON | us-west-1 |
   | 15.230.16.0/24 | AMAZON | us-west-1 |
@@ -8801,6 +8799,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.41.32/27 | AMAZON | us-west-1 |
   | 52.94.72.0/22 | AMAZON | us-west-1 |
   | 150.222.234.106/31 | AMAZON | us-west-1 |
+  | 13.34.126.96/27 | AMAZON | us-west-1 |
   | 52.93.178.233/32 | AMAZON | us-west-1 |
   | 52.93.125.42/32 | AMAZON | us-west-1 |
   | 13.34.12.33/32 | AMAZON | us-west-1 |
@@ -9077,6 +9076,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.12.0.0/15 | AMAZON | us-west-2 |
   | 13.34.67.160/27 | AMAZON | us-west-2 |
   | 13.34.123.160/27 | AMAZON | us-west-2 |
+  | 13.34.125.224/27 | AMAZON | us-west-2 |
   | 205.251.232.0/22 | AMAZON | us-west-2 |
   | 52.75.0.0/16 | AMAZON | us-west-2 |
   | 54.218.0.0/16 | AMAZON | us-west-2 |
@@ -9199,6 +9199,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.205.0/24 | AMAZON | us-west-2-den-1 |
   | 15.230.68.64/26 | AMAZON | us-west-2 |
   | 52.88.0.0/15 | AMAZON | us-west-2 |
+  | 13.34.125.192/27 | AMAZON | us-west-2 |
   | 99.77.232.0/24 | AMAZON | us-west-2 |
   | 99.78.196.0/22 | AMAZON | us-west-2 |
   | 13.34.28.0/27 | AMAZON | us-west-2 |
