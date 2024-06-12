@@ -15,6 +15,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.197.34.0/23 | AMAZON | GLOBAL |
   | 15.197.36.0/22 | AMAZON | GLOBAL |
   | 180.163.57.128/26 | AMAZON | GLOBAL |
+  | 99.181.64.0/18 | AMAZON | GLOBAL |
   | 204.246.168.0/22 | AMAZON | GLOBAL |
   | 15.197.64.0/19 | AMAZON | GLOBAL |
   | 111.13.171.128/26 | AMAZON | GLOBAL |
@@ -43,6 +44,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.224.0.0/14 | AMAZON | GLOBAL |
   | 15.197.8.0/22 | AMAZON | GLOBAL |
   | 70.132.0.0/18 | AMAZON | GLOBAL |
+  | 45.113.128.0/22 | AMAZON | GLOBAL |
   | 15.158.0.0/16 | AMAZON | GLOBAL |
   | 111.13.171.192/26 | AMAZON | GLOBAL |
   | 15.197.18.0/23 | AMAZON | GLOBAL |
@@ -62,6 +64,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.45.96/27 | AMAZON | GLOBAL |
   | 3.4.8.0/24 | AMAZON | GLOBAL |
   | 52.223.0.0/17 | AMAZON | GLOBAL |
+  | 185.42.204.0/22 | AMAZON | GLOBAL |
   | 58.254.138.0/25 | AMAZON | GLOBAL |
   | 205.251.201.0/24 | AMAZON | GLOBAL |
   | 205.251.206.0/23 | AMAZON | GLOBAL |
@@ -69,11 +72,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.188.0/24 | AMAZON | GLOBAL |
   | 54.230.208.0/20 | AMAZON | GLOBAL |
   | 99.82.156.0/22 | AMAZON | GLOBAL |
+  | 192.108.239.0/24 | AMAZON | GLOBAL |
   | 3.160.0.0/14 | AMAZON | GLOBAL |
   | 116.129.226.0/25 | AMAZON | GLOBAL |
   | 52.222.128.0/17 | AMAZON | GLOBAL |
   | 15.197.12.0/22 | AMAZON | GLOBAL |
   | 18.164.0.0/15 | AMAZON | GLOBAL |
+  | 103.53.48.0/22 | AMAZON | GLOBAL |
   | 159.248.240.0/21 | AMAZON | GLOBAL |
   | 111.13.185.32/27 | AMAZON | GLOBAL |
   | 64.252.128.0/18 | AMAZON | GLOBAL |
@@ -94,6 +99,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 216.39.168.0/21 | AMAZON | GLOBAL |
   | 13.34.45.32/27 | AMAZON | GLOBAL |
   | 3.2.4.0/23 | AMAZON | GLOBAL |
+  | 23.160.0.0/24 | AMAZON | GLOBAL |
   | 52.95.110.0/24 | AMAZON | GLOBAL |
   | 18.154.0.0/15 | AMAZON | GLOBAL |
   | 15.197.28.0/23 | AMAZON | GLOBAL |
@@ -145,6 +151,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 205.251.200.0/24 | AMAZON | GLOBAL |
   | 204.246.164.0/22 | AMAZON | GLOBAL |
   | 13.35.0.0/16 | AMAZON | GLOBAL |
+  | 192.16.64.0/21 | AMAZON | GLOBAL |
   | 192.157.72.0/23 | AMAZON | GLOBAL |
   | 3.3.0.0/23 | AMAZON | GLOBAL |
   | 130.176.255.0/24 | AMAZON | GLOBAL |
@@ -162,7 +169,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 119.147.182.128/26 | AMAZON | GLOBAL |
   | 118.193.97.128/25 | AMAZON | GLOBAL |
   | 120.232.236.128/26 | AMAZON | GLOBAL |
+  | 52.223.192.0/18 | AMAZON | GLOBAL |
   | 3.33.128.0/17 | AMAZON | GLOBAL |
+  | 199.9.248.0/21 | AMAZON | GLOBAL |
   | 204.246.176.0/20 | AMAZON | GLOBAL |
   | 15.197.24.0/22 | AMAZON | GLOBAL |
   | 65.8.0.0/16 | AMAZON | GLOBAL |
@@ -172,6 +181,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 120.253.241.160/27 | AMAZON | GLOBAL |
   | 15.197.20.0/22 | AMAZON | GLOBAL |
   | 52.46.166.0/23 | AMAZON | GLOBAL |
+  | 52.129.128.0/17 | AMAZON | GLOBAL |
   | 15.197.30.0/23 | AMAZON | GLOBAL |
   | 15.193.0.0/19 | AMAZON | GLOBAL |
   | 64.252.64.0/18 | AMAZON | GLOBAL |
@@ -197,6 +207,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.232.0/24 | S3 | GLOBAL |
   | 13.248.226.0/24 | S3 | GLOBAL |
   | 13.248.233.0/24 | S3 | GLOBAL |
+  | 99.181.64.0/18 | IVS_REALTIME | GLOBAL |
+  | 45.113.128.0/22 | IVS_REALTIME | GLOBAL |
+  | 185.42.204.0/22 | IVS_REALTIME | GLOBAL |
+  | 192.108.239.0/24 | IVS_REALTIME | GLOBAL |
+  | 103.53.48.0/22 | IVS_REALTIME | GLOBAL |
+  | 23.160.0.0/24 | IVS_REALTIME | GLOBAL |
+  | 192.16.64.0/21 | IVS_REALTIME | GLOBAL |
+  | 52.223.192.0/18 | IVS_REALTIME | GLOBAL |
+  | 199.9.248.0/21 | IVS_REALTIME | GLOBAL |
+  | 52.129.128.0/17 | IVS_REALTIME | GLOBAL |
   | 159.248.232.0/21 | EC2 | GLOBAL |
   | 3.4.8.0/24 | EC2 | GLOBAL |
   | 159.248.240.0/21 | EC2 | GLOBAL |
