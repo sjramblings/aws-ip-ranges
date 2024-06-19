@@ -5867,6 +5867,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.16.103.16/28 | CODEBUILD | il-central-1 |
   | 51.16.149.0/24 | API_GATEWAY | il-central-1 |
   | 51.16.150.0/24 | API_GATEWAY | il-central-1 |
+  | 51.16.96.192/26 | ROUTE53_RESOLVER | il-central-1 |
+  | 51.16.97.0/26 | ROUTE53_RESOLVER | il-central-1 |
+  | 51.16.97.64/26 | ROUTE53_RESOLVER | il-central-1 |
   | 51.16.183.224/29 | EC2_INSTANCE_CONNECT | il-central-1 |
   | 51.17.72.0/22 | WORKSPACES_GATEWAYS | il-central-1 |
   | 13.248.72.0/24 | DYNAMODB | il-central-1 |
@@ -8329,6 +8332,27 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.252.56.0/23 | API_GATEWAY | us-gov-east-1 |
   | 18.253.186.0/24 | API_GATEWAY | us-gov-east-1 |
   | 18.254.68.0/23 | API_GATEWAY | us-gov-east-1 |
+  | 18.252.144.0/25 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.252.144.128/25 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.252.145.0/25 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.252.4.64/28 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.252.4.80/28 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.252.4.96/28 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.138.0/29 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.138.16/29 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.138.24/29 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.138.32/29 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.138.40/29 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.138.48/29 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.138.56/29 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.138.64/29 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.138.72/29 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.138.8/29 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.138.80/29 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.138.88/29 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.204.0/27 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.204.32/27 | ROUTE53_RESOLVER | us-gov-east-1 |
+  | 18.253.204.64/27 | ROUTE53_RESOLVER | us-gov-east-1 |
   | 18.252.145.156/30 | EBS | us-gov-east-1 |
   | 18.252.145.160/29 | EBS | us-gov-east-1 |
   | 18.252.4.0/30 | EC2_INSTANCE_CONNECT | us-gov-east-1 |
@@ -8417,6 +8441,22 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.205.84.0/23 | API_GATEWAY | us-gov-west-1 |
   | 160.1.128.0/24 | API_GATEWAY | us-gov-west-1 |
   | 3.30.204.0/24 | API_GATEWAY | us-gov-west-1 |
+  | 15.200.141.128/25 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 15.200.176.0/25 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 15.200.27.96/27 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 15.200.28.0/27 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 15.200.28.32/27 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 3.32.190.128/27 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 3.32.190.160/27 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 3.32.249.128/25 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 3.32.43.160/27 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 52.61.40.16/28 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 52.61.40.32/28 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 52.61.40.48/29 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 52.61.40.56/29 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 52.61.40.64/29 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 52.61.40.72/29 | ROUTE53_RESOLVER | us-gov-west-1 |
+  | 52.61.40.80/29 | ROUTE53_RESOLVER | us-gov-west-1 |
   | 3.32.190.244/30 | EBS | us-gov-west-1 |
   | 3.32.190.248/29 | EBS | us-gov-west-1 |
   | 15.200.28.80/30 | EC2_INSTANCE_CONNECT | us-gov-west-1 |
@@ -9149,6 +9189,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 184.32.0.0/12 | AMAZON | us-west-2 |
   | 15.220.202.0/23 | AMAZON | us-west-2-pdx-1 |
   | 13.34.6.32/27 | AMAZON | us-west-2 |
+  | 13.34.127.224/27 | AMAZON | us-west-2 |
   | 13.34.10.79/32 | AMAZON | us-west-2 |
   | 13.34.82.160/27 | AMAZON | us-west-2 |
   | 52.93.246.221/32 | AMAZON | us-west-2 |
@@ -9290,6 +9331,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.54.192/27 | AMAZON | us-west-2 |
   | 13.34.10.66/32 | AMAZON | us-west-2 |
   | 13.34.42.128/27 | AMAZON | us-west-2 |
+  | 13.34.127.192/27 | AMAZON | us-west-2 |
   | 52.218.128.0/17 | AMAZON | us-west-2 |
   | 13.34.10.100/32 | AMAZON | us-west-2 |
   | 13.34.23.160/27 | AMAZON | us-west-2 |
