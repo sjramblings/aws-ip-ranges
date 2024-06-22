@@ -11989,6 +11989,12 @@
         "network_border_group": "ap-southeast-1"
       },
       {
+        "ip_prefix": "13.34.128.96/27",
+        "region": "ap-southeast-1",
+        "service": "AMAZON",
+        "network_border_group": "ap-southeast-1"
+      },
+      {
         "ip_prefix": "150.222.3.0/24",
         "region": "ap-southeast-1",
         "service": "AMAZON",
@@ -12344,6 +12350,12 @@
       },
       {
         "ip_prefix": "13.34.17.168/32",
+        "region": "ap-southeast-1",
+        "service": "AMAZON",
+        "network_border_group": "ap-southeast-1"
+      },
+      {
+        "ip_prefix": "13.34.128.64/27",
         "region": "ap-southeast-1",
         "service": "AMAZON",
         "network_border_group": "ap-southeast-1"
@@ -48576,6 +48588,12 @@
         "network_border_group": "us-gov-east-1"
       },
       {
+        "ip_prefix": "18.99.112.0/20",
+        "region": "us-gov-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-gov-east-1"
+      },
+      {
         "ip_prefix": "18.254.0.0/16",
         "region": "us-gov-east-1",
         "service": "AMAZON",
@@ -48685,6 +48703,12 @@
       },
       {
         "ip_prefix": "52.94.249.112/28",
+        "region": "us-gov-east-1",
+        "service": "EC2",
+        "network_border_group": "us-gov-east-1"
+      },
+      {
+        "ip_prefix": "18.99.112.0/20",
         "region": "us-gov-east-1",
         "service": "EC2",
         "network_border_group": "us-gov-east-1"
@@ -49043,6 +49067,12 @@
         "network_border_group": "us-gov-west-1"
       },
       {
+        "ip_prefix": "18.99.240.0/20",
+        "region": "us-gov-west-1",
+        "service": "AMAZON",
+        "network_border_group": "us-gov-west-1"
+      },
+      {
         "ip_prefix": "108.175.48.0/22",
         "region": "us-gov-west-1",
         "service": "AMAZON",
@@ -49266,6 +49296,12 @@
       },
       {
         "ip_prefix": "52.94.248.224/28",
+        "region": "us-gov-west-1",
+        "service": "EC2",
+        "network_border_group": "us-gov-west-1"
+      },
+      {
+        "ip_prefix": "18.99.240.0/20",
         "region": "us-gov-west-1",
         "service": "EC2",
         "network_border_group": "us-gov-west-1"

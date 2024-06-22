@@ -2056,6 +2056,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.14.40/32 | AMAZON | ap-southeast-1 |
   | 13.34.4.46/32 | AMAZON | ap-southeast-1 |
   | 13.34.1.169/32 | AMAZON | ap-southeast-1 |
+  | 13.34.128.96/27 | AMAZON | ap-southeast-1 |
   | 150.222.3.0/24 | AMAZON | ap-southeast-1 |
   | 13.248.125.0/24 | AMAZON | ap-southeast-1 |
   | 52.95.242.0/24 | AMAZON | ap-southeast-1 |
@@ -2116,6 +2117,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.19.46/32 | AMAZON | ap-southeast-1 |
   | 52.76.0.0/17 | AMAZON | ap-southeast-1 |
   | 13.34.17.168/32 | AMAZON | ap-southeast-1 |
+  | 13.34.128.64/27 | AMAZON | ap-southeast-1 |
   | 15.220.44.0/22 | AMAZON | ap-southeast-1 |
   | 13.34.14.36/32 | AMAZON | ap-southeast-1 |
   | 136.18.34.0/24 | AMAZON | ap-southeast-1 |
@@ -8308,6 +8310,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.66.0.0/16 | AMAZON | us-gov-east-1 |
   | 52.46.96.0/19 | AMAZON | us-gov-east-1 |
   | 54.239.1.64/28 | AMAZON | us-gov-east-1 |
+  | 18.99.112.0/20 | AMAZON | us-gov-east-1 |
   | 18.254.0.0/16 | AMAZON | us-gov-east-1 |
   | 3.4.24.0/21 | AMAZON | us-gov-east-1 |
   | 18.252.126.0/25 | AMAZON | us-gov-east-1 |
@@ -8327,6 +8330,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.151.96.0/21 | EC2 | us-gov-east-1 |
   | 18.253.0.0/16 | EC2 | us-gov-east-1 |
   | 52.94.249.112/28 | EC2 | us-gov-east-1 |
+  | 18.99.112.0/20 | EC2 | us-gov-east-1 |
   | 18.254.0.0/16 | EC2 | us-gov-east-1 |
   | 3.4.24.0/21 | EC2 | us-gov-east-1 |
   | 18.252.145.168/29 | CODEBUILD | us-gov-east-1 |
@@ -8392,6 +8396,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.152.195/32 | AMAZON | us-gov-west-1 |
   | 52.94.152.187/32 | AMAZON | us-gov-west-1 |
   | 56.138.0.0/16 | AMAZON | us-gov-west-1 |
+  | 18.99.240.0/20 | AMAZON | us-gov-west-1 |
   | 108.175.48.0/22 | AMAZON | us-gov-west-1 |
   | 99.77.184.0/24 | AMAZON | us-gov-west-1 |
   | 52.94.152.185/32 | AMAZON | us-gov-west-1 |
@@ -8430,6 +8435,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.32.0.0/16 | EC2 | us-gov-west-1 |
   | 52.61.0.0/16 | EC2 | us-gov-west-1 |
   | 52.94.248.224/28 | EC2 | us-gov-west-1 |
+  | 18.99.240.0/20 | EC2 | us-gov-west-1 |
   | 99.77.184.0/24 | EC2 | us-gov-west-1 |
   | 96.127.0.0/17 | EC2 | us-gov-west-1 |
   | 3.4.16.0/21 | EC2 | us-gov-west-1 |
