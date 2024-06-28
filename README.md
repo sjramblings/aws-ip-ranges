@@ -3262,6 +3262,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.151.168.0/21 | EC2 | ca-west-1 |
   | 15.177.100.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ca-west-1 |
   | 40.176.65.0/24 | API_GATEWAY | ca-west-1 |
+  | 40.176.213.168/29 | EC2_INSTANCE_CONNECT | ca-west-1 |
   | 13.248.73.0/24 | DYNAMODB | ca-west-1 |
 </details>
 
