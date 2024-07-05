@@ -5991,6 +5991,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.185.0.0/16 | AMAZON | me-south-1 |
   | 35.71.99.0/24 | AMAZON | me-south-1 |
   | 13.34.125.0/27 | AMAZON | me-south-1 |
+  | 15.230.121.2/32 | AMAZON | me-south-1 |
   | 69.107.7.136/29 | AMAZON | me-south-1 |
   | 52.95.174.0/24 | AMAZON | me-south-1 |
   | 13.34.20.0/27 | AMAZON | me-south-1 |
@@ -6011,6 +6012,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.172.0/23 | AMAZON | me-south-1 |
   | 15.230.174.0/24 | AMAZON | me-south-1 |
   | 18.99.224.0/20 | AMAZON | me-south-1 |
+  | 15.230.121.8/31 | AMAZON | me-south-1 |
   | 99.82.152.0/22 | AMAZON | me-south-1 |
   | 15.184.0.0/16 | AMAZON | me-south-1 |
   | 13.34.15.160/27 | AMAZON | me-south-1 |
@@ -6019,7 +6021,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.146.0/23 | AMAZON | me-south-1-mct-1 |
   | 52.95.228.0/24 | AMAZON | me-south-1 |
   | 56.184.0.0/16 | AMAZON | me-south-1 |
+  | 15.230.121.3/32 | AMAZON | me-south-1 |
   | 15.230.69.128/26 | AMAZON | me-south-1 |
+  | 15.230.121.6/31 | AMAZON | me-south-1 |
   | 13.34.125.32/27 | AMAZON | me-south-1 |
   | 16.25.0.0/16 | AMAZON | me-south-1 |
   | 3.5.220.0/22 | AMAZON | me-south-1 |
@@ -6028,9 +6032,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.24.0.0/16 | AMAZON | me-south-1 |
   | 13.34.15.128/27 | AMAZON | me-south-1 |
   | 15.230.98.0/24 | AMAZON | me-south-1 |
+  | 15.230.121.4/32 | AMAZON | me-south-1 |
   | 15.230.10.0/24 | AMAZON | me-south-1 |
   | 52.93.69.0/24 | AMAZON | me-south-1 |
   | 157.175.0.0/16 | AMAZON | me-south-1 |
+  | 15.230.121.5/32 | AMAZON | me-south-1 |
   | 150.222.45.0/27 | AMAZON | me-south-1 |
   | 15.230.198.0/24 | AMAZON | me-south-1 |
   | 99.78.220.0/22 | AMAZON | me-south-1 |
