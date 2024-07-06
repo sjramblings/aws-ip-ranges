@@ -5800,8 +5800,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 51.0.28.0/22 | AMAZON | eusc-de-east-1 |
-  | 51.0.128.0/23 | AMAZON | eusc-de-east-1 |
+  | 51.0.128.0/21 | AMAZON | eusc-de-east-1 |
   | 51.0.0.0/20 | AMAZON | eusc-de-east-1 |
   | 83.118.240.0/21 | AMAZON | eusc-de-east-1 |
   | 51.224.0.0/15 | AMAZON | eusc-de-east-1 |
@@ -5809,8 +5808,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.24.0/22 | AMAZON | eusc-de-east-1 |
   | 65.176.0.0/14 | AMAZON | eusc-de-east-1 |
   | 83.118.240.0/21 | S3 | eusc-de-east-1 |
-  | 51.0.28.0/22 | EC2 | eusc-de-east-1 |
-  | 51.0.128.0/23 | EC2 | eusc-de-east-1 |
+  | 51.0.128.0/21 | EC2 | eusc-de-east-1 |
   | 51.224.0.0/15 | EC2 | eusc-de-east-1 |
   | 83.118.240.0/22 | EC2 | eusc-de-east-1 |
 </details>
@@ -6799,6 +6797,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 98.88.0.0/13 | AMAZON | us-east-1 |
   | 52.94.132.0/22 | AMAZON | us-east-1 |
   | 104.255.56.16/32 | AMAZON | us-east-1 |
+  | 104.255.56.29/32 | AMAZON | us-east-1 |
   | 99.82.167.0/24 | AMAZON | us-east-1 |
   | 13.34.42.96/27 | AMAZON | us-east-1 |
   | 13.34.103.0/27 | AMAZON | us-east-1 |
@@ -6956,6 +6955,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.56.64/27 | AMAZON | us-east-1 |
   | 15.230.220.0/24 | AMAZON | us-east-1 |
   | 52.119.224.0/21 | AMAZON | us-east-1 |
+  | 104.255.56.28/32 | AMAZON | us-east-1 |
   | 216.182.232.0/22 | AMAZON | us-east-1 |
   | 13.34.57.160/27 | AMAZON | us-east-1 |
   | 150.222.137.0/24 | AMAZON | us-east-1 |
@@ -7193,6 +7193,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.76.128/27 | AMAZON | us-east-1 |
   | 54.240.228.0/23 | AMAZON | us-east-1 |
   | 104.255.56.12/32 | AMAZON | us-east-1 |
+  | 104.255.56.27/32 | AMAZON | us-east-1 |
   | 176.32.120.0/22 | AMAZON | us-east-1 |
   | 15.181.246.0/24 | AMAZON | us-east-1-mci-1 |
   | 15.230.119.0/31 | AMAZON | us-east-1 |
