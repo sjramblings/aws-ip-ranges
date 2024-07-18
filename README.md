@@ -2996,6 +2996,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.34.18.9/32 | AMAZON | ap-southeast-5 |
   | 13.34.18.38/32 | AMAZON | ap-southeast-5 |
   | 13.34.18.39/32 | AMAZON | ap-southeast-5 |
+  | 43.216.52.0/23 | AMAZON | ap-southeast-5 |
+  | 43.216.61.0/24 | AMAZON | ap-southeast-5 |
+  | 43.216.63.0/24 | AMAZON | ap-southeast-5 |
+  | 43.216.64.0/24 | AMAZON | ap-southeast-5 |
+  | 43.216.65.0/24 | AMAZON | ap-southeast-5 |
+  | 43.216.72.0/24 | AMAZON | ap-southeast-5 |
   | 16.12.44.0/24 | S3 | ap-southeast-5 |
   | 16.12.42.0/23 | S3 | ap-southeast-5 |
   | 3.5.180.0/22 | S3 | ap-southeast-5 |
@@ -3005,6 +3011,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.180.0/22 | EC2 | ap-southeast-5 |
   | 52.94.250.80/28 | EC2 | ap-southeast-5 |
   | 15.177.95.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-5 |
+  | 43.216.39.0/24 | API_GATEWAY | ap-southeast-5 |
   | 13.248.75.0/24 | DYNAMODB | ap-southeast-5 |
 </details>
 
