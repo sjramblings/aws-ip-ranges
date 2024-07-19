@@ -503,6 +503,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.91.0/24 | EC2 | af-south-1 |
   | 15.193.10.0/24 | EC2 | af-south-1 |
   | 3.5.202.0/23 | EC2 | af-south-1 |
+  | 15.193.10.0/24 | AMAZON_CONNECT | af-south-1 |
   | 15.177.91.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | af-south-1 |
   | 13.245.155.128/27 | CLOUD9 | af-south-1 |
   | 13.245.155.224/27 | CLOUD9 | af-south-1 |
@@ -960,6 +961,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.170.0/24 | GLOBALACCELERATOR | ap-northeast-1 |
   | 13.248.98.0/24 | GLOBALACCELERATOR | ap-northeast-1 |
   | 13.248.115.0/24 | GLOBALACCELERATOR | ap-northeast-1 |
+  | 15.193.1.0/24 | AMAZON_CONNECT | ap-northeast-1 |
   | 18.182.96.64/26 | AMAZON_CONNECT | ap-northeast-1 |
   | 15.177.79.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-northeast-1 |
   | 18.179.48.128/27 | CLOUD9 | ap-northeast-1 |
@@ -1202,6 +1204,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.35.130.128/25 | CLOUDFRONT | ap-northeast-2 |
   | 52.78.247.128/26 | CLOUDFRONT | ap-northeast-2 |
   | 99.82.168.0/24 | GLOBALACCELERATOR | ap-northeast-2 |
+  | 15.193.9.0/24 | AMAZON_CONNECT | ap-northeast-2 |
   | 15.177.76.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-northeast-2 |
   | 13.124.199.0/24 | CLOUDFRONT_ORIGIN_FACING | ap-northeast-2 |
   | 15.164.243.192/27 | CLOUD9 | ap-northeast-2 |
@@ -1693,6 +1696,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.117.0/24 | GLOBALACCELERATOR | ap-south-1 |
   | 13.248.105.0/24 | GLOBALACCELERATOR | ap-south-1 |
   | 99.82.160.0/24 | GLOBALACCELERATOR | ap-south-1 |
+  | 15.193.0.0/24 | AMAZON_CONNECT | ap-south-1 |
   | 15.177.73.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-south-1 |
   | 13.232.67.128/27 | CLOUD9 | ap-south-1 |
   | 13.232.67.160/27 | CLOUD9 | ap-south-1 |
@@ -2248,6 +2252,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.83.104.0/24 | GLOBALACCELERATOR | ap-southeast-1 |
   | 13.248.125.0/24 | GLOBALACCELERATOR | ap-southeast-1 |
   | 13.248.107.0/24 | GLOBALACCELERATOR | ap-southeast-1 |
+  | 15.193.2.0/24 | AMAZON_CONNECT | ap-southeast-1 |
   | 15.177.82.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-1 |
   | 13.250.186.128/27 | CLOUD9 | ap-southeast-1 |
   | 13.250.186.160/27 | CLOUD9 | ap-southeast-1 |
@@ -2641,6 +2646,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.107.44.128/25 | CLOUDFRONT | ap-southeast-2 |
   | 13.248.109.0/24 | GLOBALACCELERATOR | ap-southeast-2 |
   | 13.248.102.0/24 | GLOBALACCELERATOR | ap-southeast-2 |
+  | 15.193.3.0/24 | AMAZON_CONNECT | ap-southeast-2 |
   | 13.210.2.192/26 | AMAZON_CONNECT | ap-southeast-2 |
   | 13.236.8.0/25 | AMAZON_CONNECT | ap-southeast-2 |
   | 15.177.83.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-2 |
@@ -3157,6 +3163,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.79.169.0/24 | CLOUDFRONT | ca-central-1 |
   | 99.82.174.0/24 | GLOBALACCELERATOR | ca-central-1 |
   | 13.248.126.0/24 | GLOBALACCELERATOR | ca-central-1 |
+  | 15.193.8.0/24 | AMAZON_CONNECT | ca-central-1 |
   | 15.177.84.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ca-central-1 |
   | 15.222.16.96/27 | CLOUD9 | ca-central-1 |
   | 15.222.43.0/27 | CLOUD9 | ca-central-1 |
@@ -3970,6 +3977,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.83.99.0/24 | GLOBALACCELERATOR | eu-central-1 |
   | 99.82.163.0/24 | GLOBALACCELERATOR | eu-central-1 |
   | 99.83.103.0/24 | GLOBALACCELERATOR | eu-central-1 |
+  | 15.193.4.0/24 | AMAZON_CONNECT | eu-central-1 |
   | 18.184.2.128/25 | AMAZON_CONNECT | eu-central-1 |
   | 35.158.127.64/26 | AMAZON_CONNECT | eu-central-1 |
   | 15.177.68.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-central-1 |
@@ -5578,6 +5586,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.169.0/24 | GLOBALACCELERATOR | eu-west-2 |
   | 3.2.48.0/24 | GLOBALACCELERATOR | eu-west-2 |
   | 13.248.101.0/24 | GLOBALACCELERATOR | eu-west-2 |
+  | 15.193.5.0/24 | AMAZON_CONNECT | eu-west-2 |
   | 15.177.78.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-west-2 |
   | 3.10.127.32/27 | CLOUD9 | eu-west-2 |
   | 3.10.201.64/27 | CLOUD9 | eu-west-2 |
@@ -7559,6 +7568,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.2.51.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 99.82.165.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 13.248.116.0/24 | GLOBALACCELERATOR | us-east-1 |
+  | 15.193.6.0/24 | AMAZON_CONNECT | us-east-1 |
   | 52.55.191.224/27 | AMAZON_CONNECT | us-east-1 |
   | 15.177.64.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-east-1 |
   | 35.172.155.192/27 | CLOUD9 | us-east-1 |
@@ -9631,6 +9641,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.234.90.252/30 | CLOUDFRONT | us-west-2 |
   | 13.248.112.0/24 | GLOBALACCELERATOR | us-west-2 |
   | 3.2.55.0/24 | GLOBALACCELERATOR | us-west-2 |
+  | 15.193.7.0/24 | AMAZON_CONNECT | us-west-2 |
   | 18.236.61.0/25 | AMAZON_CONNECT | us-west-2 |
   | 54.190.198.32/28 | AMAZON_CONNECT | us-west-2 |
   | 15.177.80.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-west-2 |
