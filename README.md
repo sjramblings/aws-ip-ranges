@@ -3648,6 +3648,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.255.128/28 | AMAZON | eu-central-1 |
   | 150.222.10.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.142/31 | AMAZON | eu-central-1 |
+  | 83.119.128.0/18 | AMAZON | eu-central-1 |
   | 13.34.8.196/32 | AMAZON | eu-central-1 |
   | 13.34.9.70/32 | AMAZON | eu-central-1 |
   | 15.220.152.0/21 | AMAZON | eu-central-1-ham-1 |
@@ -3929,6 +3930,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.64.0/20 | EC2 | eu-central-1-waw-1 |
   | 3.33.35.0/24 | EC2 | eu-central-1 |
   | 52.95.255.128/28 | EC2 | eu-central-1 |
+  | 83.119.128.0/18 | EC2 | eu-central-1 |
   | 15.220.152.0/21 | EC2 | eu-central-1-ham-1 |
   | 18.156.0.0/14 | EC2 | eu-central-1 |
   | 15.220.144.0/23 | EC2 | eu-central-1-ham-1 |
