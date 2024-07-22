@@ -3011,6 +3011,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.44.0/24 | S3 | ap-southeast-5 |
   | 16.12.42.0/23 | S3 | ap-southeast-5 |
   | 3.5.180.0/22 | S3 | ap-southeast-5 |
+  | 43.216.87.0/28 | S3 | ap-southeast-5 |
+  | 43.216.87.16/28 | S3 | ap-southeast-5 |
   | 99.151.160.0/21 | EC2 | ap-southeast-5 |
   | 15.177.95.0/24 | EC2 | ap-southeast-5 |
   | 43.216.0.0/15 | EC2 | ap-southeast-5 |
