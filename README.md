@@ -10,7 +10,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
   | 120.52.22.96/27 | AMAZON | GLOBAL |
-  | 13.34.50.32/27 | AMAZON | GLOBAL |
   | 205.251.249.0/24 | AMAZON | GLOBAL |
   | 15.197.34.0/23 | AMAZON | GLOBAL |
   | 15.197.36.0/22 | AMAZON | GLOBAL |
@@ -20,17 +19,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.197.64.0/19 | AMAZON | GLOBAL |
   | 111.13.171.128/26 | AMAZON | GLOBAL |
   | 18.160.0.0/15 | AMAZON | GLOBAL |
-  | 13.34.45.160/27 | AMAZON | GLOBAL |
   | 205.251.252.0/23 | AMAZON | GLOBAL |
   | 99.82.8.0/21 | AMAZON | GLOBAL |
   | 54.192.0.0/16 | AMAZON | GLOBAL |
   | 15.197.32.0/23 | AMAZON | GLOBAL |
   | 204.246.173.0/24 | AMAZON | GLOBAL |
-  | 13.34.45.64/27 | AMAZON | GLOBAL |
   | 15.197.0.0/23 | AMAZON | GLOBAL |
   | 54.230.200.0/21 | AMAZON | GLOBAL |
   | 120.253.240.192/26 | AMAZON | GLOBAL |
-  | 13.34.45.224/27 | AMAZON | GLOBAL |
   | 116.129.226.128/26 | AMAZON | GLOBAL |
   | 130.176.0.0/17 | AMAZON | GLOBAL |
   | 15.197.16.0/23 | AMAZON | GLOBAL |
@@ -52,16 +48,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.238.0.0/15 | AMAZON | GLOBAL |
   | 18.244.0.0/15 | AMAZON | GLOBAL |
   | 205.251.208.0/20 | AMAZON | GLOBAL |
-  | 13.34.45.128/27 | AMAZON | GLOBAL |
   | 3.165.0.0/16 | AMAZON | GLOBAL |
   | 3.168.0.0/14 | AMAZON | GLOBAL |
-  | 13.34.45.0/27 | AMAZON | GLOBAL |
   | 65.9.128.0/18 | AMAZON | GLOBAL |
   | 35.71.128.0/17 | AMAZON | GLOBAL |
   | 130.176.128.0/18 | AMAZON | GLOBAL |
   | 3.3.8.0/21 | AMAZON | GLOBAL |
-  | 13.34.50.0/27 | AMAZON | GLOBAL |
-  | 13.34.45.96/27 | AMAZON | GLOBAL |
   | 3.4.8.0/24 | AMAZON | GLOBAL |
   | 52.223.0.0/17 | AMAZON | GLOBAL |
   | 185.42.204.0/22 | AMAZON | GLOBAL |
@@ -97,7 +89,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.164.64.0/18 | AMAZON | GLOBAL |
   | 3.2.8.0/21 | AMAZON | GLOBAL |
   | 216.39.168.0/21 | AMAZON | GLOBAL |
-  | 13.34.45.32/27 | AMAZON | GLOBAL |
   | 3.2.4.0/23 | AMAZON | GLOBAL |
   | 23.160.0.0/24 | AMAZON | GLOBAL |
   | 52.95.110.0/24 | AMAZON | GLOBAL |
@@ -157,7 +148,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 130.176.255.0/24 | AMAZON | GLOBAL |
   | 76.223.169.0/24 | AMAZON | GLOBAL |
   | 15.177.0.0/18 | AMAZON | GLOBAL |
-  | 13.34.45.192/27 | AMAZON | GLOBAL |
   | 3.4.32.0/20 | AMAZON | GLOBAL |
   | 63.246.114.0/23 | AMAZON | GLOBAL |
   | 204.246.174.0/23 | AMAZON | GLOBAL |
@@ -413,7 +403,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.111.192/27 | AMAZON | af-south-1 |
   | 99.78.152.0/22 | AMAZON | af-south-1 |
   | 16.30.0.0/16 | AMAZON | af-south-1 |
   | 150.222.48.192/27 | AMAZON | af-south-1 |
@@ -422,10 +411,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.247.0.0/16 | AMAZON | af-south-1 |
   | 96.0.40.0/21 | AMAZON | af-south-1-los-1 |
   | 99.77.148.0/24 | AMAZON | af-south-1 |
-  | 13.34.124.96/27 | AMAZON | af-south-1 |
   | 52.93.57.0/24 | AMAZON | af-south-1 |
   | 99.77.235.0/24 | AMAZON | af-south-1 |
-  | 13.34.111.224/27 | AMAZON | af-south-1 |
   | 150.222.208.0/24 | AMAZON | af-south-1 |
   | 15.230.72.192/26 | AMAZON | af-south-1 |
   | 150.222.48.224/27 | AMAZON | af-south-1 |
@@ -440,29 +427,22 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.29.0.0/16 | AMAZON | af-south-1 |
   | 13.244.0.0/15 | AMAZON | af-south-1 |
   | 52.95.175.0/24 | AMAZON | af-south-1 |
-  | 13.34.124.160/27 | AMAZON | af-south-1 |
   | 52.93.126.147/32 | AMAZON | af-south-1 |
   | 16.154.0.0/15 | AMAZON | af-south-1 |
   | 52.95.180.0/24 | AMAZON | af-south-1 |
   | 13.246.0.0/16 | AMAZON | af-south-1 |
   | 16.28.0.0/16 | AMAZON | af-south-1 |
   | 16.31.0.0/16 | AMAZON | af-south-1 |
-  | 13.34.81.32/27 | AMAZON | af-south-1 |
-  | 13.34.81.0/27 | AMAZON | af-south-1 |
   | 52.94.30.0/24 | AMAZON | af-south-1 |
   | 150.222.92.0/22 | AMAZON | af-south-1 |
-  | 13.34.124.128/27 | AMAZON | af-south-1 |
   | 52.94.249.176/28 | AMAZON | af-south-1 |
   | 150.222.48.160/27 | AMAZON | af-south-1 |
   | 15.230.72.128/26 | AMAZON | af-south-1 |
-  | 13.34.124.64/27 | AMAZON | af-south-1 |
   | 15.221.52.0/24 | AMAZON | af-south-1 |
   | 99.150.104.0/21 | AMAZON | af-south-1 |
   | 52.95.229.0/24 | AMAZON | af-south-1 |
-  | 13.34.86.0/27 | AMAZON | af-south-1 |
   | 96.0.36.0/22 | AMAZON | af-south-1-los-1 |
   | 15.177.91.0/24 | AMAZON | af-south-1 |
-  | 13.34.86.32/27 | AMAZON | af-south-1 |
   | 15.193.10.0/24 | AMAZON | af-south-1 |
   | 3.5.202.0/23 | AMAZON | af-south-1 |
   | 13.244.121.0/26 | AMAZON | af-south-1 |
@@ -539,11 +519,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.11.32/27 | AMAZON | ap-east-1 |
   | 18.99.176.0/20 | AMAZON | ap-east-1 |
   | 13.248.56.0/22 | AMAZON | ap-east-1 |
   | 15.230.73.192/26 | AMAZON | ap-east-1 |
-  | 13.34.117.32/27 | AMAZON | ap-east-1 |
   | 16.12.6.0/23 | AMAZON | ap-east-1 |
   | 52.95.226.0/24 | AMAZON | ap-east-1 |
   | 150.222.135.0/24 | AMAZON | ap-east-1 |
@@ -554,19 +532,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.46.0.0/15 | AMAZON | ap-east-1 |
   | 43.249.47.0/24 | AMAZON | ap-east-1 |
   | 52.119.248.0/24 | AMAZON | ap-east-1 |
-  | 13.34.62.32/27 | AMAZON | ap-east-1 |
-  | 13.34.63.0/27 | AMAZON | ap-east-1 |
   | 150.222.47.192/26 | AMAZON | ap-east-1 |
-  | 13.34.63.32/27 | AMAZON | ap-east-1 |
-  | 13.34.62.0/27 | AMAZON | ap-east-1 |
   | 52.144.225.0/26 | AMAZON | ap-east-1 |
   | 15.177.86.0/24 | AMAZON | ap-east-1 |
   | 52.95.160.0/23 | AMAZON | ap-east-1 |
   | 3.5.214.0/23 | AMAZON | ap-east-1 |
-  | 13.34.16.96/27 | AMAZON | ap-east-1 |
   | 18.163.0.0/16 | AMAZON | ap-east-1 |
   | 52.95.162.0/24 | AMAZON | ap-east-1 |
-  | 13.34.122.0/27 | AMAZON | ap-east-1 |
   | 99.77.142.0/24 | AMAZON | ap-east-1 |
   | 99.77.241.0/24 | AMAZON | ap-east-1 |
   | 54.239.1.80/28 | AMAZON | ap-east-1 |
@@ -574,10 +546,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.240.241.0/24 | AMAZON | ap-east-1 |
   | 52.93.156.0/22 | AMAZON | ap-east-1 |
   | 150.222.48.0/26 | AMAZON | ap-east-1 |
-  | 13.34.11.0/27 | AMAZON | ap-east-1 |
   | 99.150.88.0/21 | AMAZON | ap-east-1 |
   | 13.248.48.0/21 | AMAZON | ap-east-1 |
-  | 13.34.122.32/27 | AMAZON | ap-east-1 |
   | 13.248.60.0/22 | AMAZON | ap-east-1 |
   | 150.222.47.128/26 | AMAZON | ap-east-1 |
   | 35.71.107.0/24 | AMAZON | ap-east-1 |
@@ -585,16 +555,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.74.0/26 | AMAZON | ap-east-1 |
   | 43.198.0.0/15 | AMAZON | ap-east-1 |
   | 18.162.0.0/16 | AMAZON | ap-east-1 |
-  | 13.34.7.64/27 | AMAZON | ap-east-1 |
   | 99.83.96.0/24 | AMAZON | ap-east-1 |
-  | 13.34.117.0/27 | AMAZON | ap-east-1 |
   | 15.230.74.64/26 | AMAZON | ap-east-1 |
-  | 13.34.16.64/27 | AMAZON | ap-east-1 |
   | 15.177.85.0/24 | AMAZON | ap-east-1 |
   | 151.148.19.0/24 | AMAZON | ap-east-1 |
   | 16.162.0.0/15 | AMAZON | ap-east-1 |
   | 3.5.236.0/22 | AMAZON | ap-east-1 |
-  | 13.34.7.96/27 | AMAZON | ap-east-1 |
   | 18.166.0.0/15 | AMAZON | ap-east-1 |
   | 52.93.35.0/24 | AMAZON | ap-east-1 |
   | 16.163.63.64/26 | AMAZON | ap-east-1 |
@@ -670,19 +636,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.69.64/27 | AMAZON | ap-northeast-1 |
-  | 13.34.62.160/27 | AMAZON | ap-northeast-1 |
   | 15.221.34.0/24 | AMAZON | ap-northeast-1 |
   | 52.144.229.64/26 | AMAZON | ap-northeast-1 |
   | 13.248.70.0/24 | AMAZON | ap-northeast-1 |
   | 52.144.225.128/26 | AMAZON | ap-northeast-1 |
   | 43.206.0.0/15 | AMAZON | ap-northeast-1 |
-  | 13.34.53.192/27 | AMAZON | ap-northeast-1 |
   | 54.248.0.0/15 | AMAZON | ap-northeast-1 |
-  | 13.34.15.32/27 | AMAZON | ap-northeast-1 |
   | 104.255.59.82/32 | AMAZON | ap-northeast-1 |
   | 150.222.38.0/26 | AMAZON | ap-northeast-1 |
-  | 13.34.85.96/27 | AMAZON | ap-northeast-1 |
   | 99.77.244.0/24 | AMAZON | ap-northeast-1 |
   | 52.144.225.64/26 | AMAZON | ap-northeast-1 |
   | 35.71.114.0/24 | AMAZON | ap-northeast-1 |
@@ -691,8 +652,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.95.0/24 | AMAZON | ap-northeast-1 |
   | 52.219.162.0/23 | AMAZON | ap-northeast-1 |
   | 52.93.127.239/32 | AMAZON | ap-northeast-1 |
-  | 13.34.112.224/27 | AMAZON | ap-northeast-1 |
-  | 13.34.69.0/27 | AMAZON | ap-northeast-1 |
   | 52.219.16.0/22 | AMAZON | ap-northeast-1 |
   | 52.94.8.0/24 | AMAZON | ap-northeast-1 |
   | 54.92.0.0/17 | AMAZON | ap-northeast-1 |
@@ -703,16 +662,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.177/32 | AMAZON | ap-northeast-1 |
   | 52.93.136.0/24 | AMAZON | ap-northeast-1 |
   | 150.222.105.0/24 | AMAZON | ap-northeast-1 |
-  | 13.34.53.160/27 | AMAZON | ap-northeast-1 |
   | 52.93.127.179/32 | AMAZON | ap-northeast-1 |
-  | 13.34.112.64/27 | AMAZON | ap-northeast-1 |
-  | 13.34.113.0/27 | AMAZON | ap-northeast-1 |
   | 15.230.152.0/24 | AMAZON | ap-northeast-1 |
   | 150.222.133.0/24 | AMAZON | ap-northeast-1 |
   | 52.93.127.174/32 | AMAZON | ap-northeast-1 |
   | 52.219.195.0/24 | AMAZON | ap-northeast-1 |
   | 216.39.160.0/21 | AMAZON | ap-northeast-1 |
-  | 13.34.46.192/27 | AMAZON | ap-northeast-1 |
   | 3.5.152.0/21 | AMAZON | ap-northeast-1 |
   | 52.93.127.248/32 | AMAZON | ap-northeast-1 |
   | 52.93.121.195/32 | AMAZON | ap-northeast-1 |
@@ -728,7 +683,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.20.0/24 | AMAZON | ap-northeast-1 |
   | 151.148.37.0/24 | AMAZON | ap-northeast-1 |
   | 52.95.34.0/24 | AMAZON | ap-northeast-1 |
-  | 13.34.87.64/27 | AMAZON | ap-northeast-1 |
   | 52.93.250.0/23 | AMAZON | ap-northeast-1 |
   | 103.246.150.0/23 | AMAZON | ap-northeast-1 |
   | 54.240.225.0/24 | AMAZON | ap-northeast-1 |
@@ -745,44 +699,34 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.255.48/28 | AMAZON | ap-northeast-1 |
   | 150.222.15.128/30 | AMAZON | ap-northeast-1 |
   | 99.82.170.0/24 | AMAZON | ap-northeast-1 |
-  | 13.34.113.32/27 | AMAZON | ap-northeast-1 |
   | 52.94.152.3/32 | AMAZON | ap-northeast-1 |
   | 173.83.210.0/24 | AMAZON | ap-northeast-1 |
-  | 13.34.0.160/27 | AMAZON | ap-northeast-1 |
   | 99.83.84.0/22 | AMAZON | ap-northeast-1 |
   | 52.93.127.253/32 | AMAZON | ap-northeast-1 |
   | 52.219.136.0/22 | AMAZON | ap-northeast-1 |
   | 64.252.110.0/24 | AMAZON | ap-northeast-1 |
   | 52.95.243.0/24 | AMAZON | ap-northeast-1 |
   | 15.220.56.0/21 | AMAZON | ap-northeast-1-tpe-1 |
-  | 13.34.0.128/27 | AMAZON | ap-northeast-1 |
-  | 13.34.116.192/27 | AMAZON | ap-northeast-1 |
   | 13.248.98.0/24 | AMAZON | ap-northeast-1 |
   | 52.93.121.189/32 | AMAZON | ap-northeast-1 |
   | 52.93.127.178/32 | AMAZON | ap-northeast-1 |
-  | 13.34.112.96/27 | AMAZON | ap-northeast-1 |
   | 52.93.127.147/32 | AMAZON | ap-northeast-1 |
   | 15.230.76.192/26 | AMAZON | ap-northeast-1 |
   | 15.230.77.0/26 | AMAZON | ap-northeast-1 |
   | 136.18.20.0/24 | AMAZON | ap-northeast-1 |
   | 52.93.127.246/32 | AMAZON | ap-northeast-1 |
-  | 13.34.87.128/27 | AMAZON | ap-northeast-1 |
   | 18.182.0.0/16 | AMAZON | ap-northeast-1 |
   | 18.178.0.0/16 | AMAZON | ap-northeast-1 |
   | 52.219.201.0/24 | AMAZON | ap-northeast-1 |
   | 52.93.127.247/32 | AMAZON | ap-northeast-1 |
   | 150.222.38.128/26 | AMAZON | ap-northeast-1 |
-  | 13.34.120.160/27 | AMAZON | ap-northeast-1 |
   | 52.93.121.196/32 | AMAZON | ap-northeast-1 |
   | 52.219.172.0/22 | AMAZON | ap-northeast-1 |
-  | 13.34.15.0/27 | AMAZON | ap-northeast-1 |
   | 52.93.127.244/32 | AMAZON | ap-northeast-1 |
   | 57.180.0.0/14 | AMAZON | ap-northeast-1 |
   | 18.179.0.0/16 | AMAZON | ap-northeast-1 |
   | 52.219.200.0/24 | AMAZON | ap-northeast-1 |
   | 52.119.216.0/21 | AMAZON | ap-northeast-1 |
-  | 13.34.69.96/27 | AMAZON | ap-northeast-1 |
-  | 13.34.116.224/27 | AMAZON | ap-northeast-1 |
   | 15.230.160.0/24 | AMAZON | ap-northeast-1 |
   | 52.93.121.187/32 | AMAZON | ap-northeast-1 |
   | 52.93.127.175/32 | AMAZON | ap-northeast-1 |
@@ -792,12 +736,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.99.0/24 | AMAZON | ap-northeast-1 |
   | 52.93.127.255/32 | AMAZON | ap-northeast-1 |
   | 52.192.0.0/15 | AMAZON | ap-northeast-1 |
-  | 13.34.46.160/27 | AMAZON | ap-northeast-1 |
   | 99.77.139.0/24 | AMAZON | ap-northeast-1 |
-  | 13.34.87.160/27 | AMAZON | ap-northeast-1 |
   | 18.99.64.0/19 | AMAZON | ap-northeast-1 |
   | 103.4.8.0/21 | AMAZON | ap-northeast-1 |
-  | 13.34.46.224/27 | AMAZON | ap-northeast-1 |
   | 150.222.91.0/24 | AMAZON | ap-northeast-1 |
   | 54.238.0.0/16 | AMAZON | ap-northeast-1 |
   | 27.0.0.0/22 | AMAZON | ap-northeast-1 |
@@ -806,14 +747,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.250/32 | AMAZON | ap-northeast-1 |
   | 99.82.0.0/22 | AMAZON | ap-northeast-1 |
   | 104.255.59.136/32 | AMAZON | ap-northeast-1 |
-  | 13.34.46.128/27 | AMAZON | ap-northeast-1 |
   | 52.95.56.0/22 | AMAZON | ap-northeast-1 |
   | 104.255.59.83/32 | AMAZON | ap-northeast-1 |
   | 52.93.127.251/32 | AMAZON | ap-northeast-1 |
   | 35.72.0.0/13 | AMAZON | ap-northeast-1 |
   | 52.194.0.0/15 | AMAZON | ap-northeast-1 |
-  | 13.34.58.192/27 | AMAZON | ap-northeast-1 |
-  | 13.34.87.96/27 | AMAZON | ap-northeast-1 |
   | 176.34.32.0/19 | AMAZON | ap-northeast-1 |
   | 52.93.245.0/24 | AMAZON | ap-northeast-1 |
   | 52.93.127.157/32 | AMAZON | ap-northeast-1 |
@@ -831,12 +769,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.90.0/24 | AMAZON | ap-northeast-1 |
   | 54.240.200.0/24 | AMAZON | ap-northeast-1 |
   | 52.95.30.0/23 | AMAZON | ap-northeast-1 |
-  | 13.34.58.224/27 | AMAZON | ap-northeast-1 |
   | 52.93.121.190/32 | AMAZON | ap-northeast-1 |
   | 52.93.127.245/32 | AMAZON | ap-northeast-1 |
   | 52.93.127.156/32 | AMAZON | ap-northeast-1 |
   | 208.78.130.0/23 | AMAZON | ap-northeast-1 |
-  | 13.34.85.64/27 | AMAZON | ap-northeast-1 |
   | 15.193.1.0/24 | AMAZON | ap-northeast-1 |
   | 13.248.115.0/24 | AMAZON | ap-northeast-1 |
   | 15.230.154.0/23 | AMAZON | ap-northeast-1 |
@@ -846,19 +782,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.150.0/23 | AMAZON | ap-northeast-1 |
   | 54.178.0.0/16 | AMAZON | ap-northeast-1 |
   | 104.255.59.137/32 | AMAZON | ap-northeast-1 |
-  | 13.34.120.128/27 | AMAZON | ap-northeast-1 |
   | 52.144.230.0/26 | AMAZON | ap-northeast-1 |
   | 13.248.69.0/24 | AMAZON | ap-northeast-1 |
   | 54.239.52.0/23 | AMAZON | ap-northeast-1 |
   | 175.41.192.0/18 | AMAZON | ap-northeast-1 |
-  | 13.34.112.192/27 | AMAZON | ap-northeast-1 |
   | 104.255.59.81/32 | AMAZON | ap-northeast-1 |
   | 52.93.127.149/32 | AMAZON | ap-northeast-1 |
   | 15.230.161.0/24 | AMAZON | ap-northeast-1 |
   | 64.252.112.0/24 | AMAZON | ap-northeast-1 |
-  | 13.34.62.128/27 | AMAZON | ap-northeast-1 |
   | 52.219.196.0/22 | AMAZON | ap-northeast-1 |
-  | 13.34.69.32/27 | AMAZON | ap-northeast-1 |
   | 99.77.160.0/24 | AMAZON | ap-northeast-1 |
   | 18.183.0.0/16 | AMAZON | ap-northeast-1 |
   | 54.239.96.0/24 | AMAZON | ap-northeast-1 |
@@ -1035,25 +967,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
   | 3.5.140.0/22 | AMAZON | ap-northeast-2 |
-  | 13.34.12.166/32 | AMAZON | ap-northeast-2 |
   | 52.219.60.0/23 | AMAZON | ap-northeast-2 |
   | 43.249.45.0/24 | AMAZON | ap-northeast-2 |
   | 52.144.227.192/26 | AMAZON | ap-northeast-2 |
   | 52.219.204.0/22 | AMAZON | ap-northeast-2 |
-  | 13.34.12.168/32 | AMAZON | ap-northeast-2 |
   | 52.94.6.0/24 | AMAZON | ap-northeast-2 |
   | 151.148.40.0/24 | AMAZON | ap-northeast-2 |
-  | 13.34.12.134/32 | AMAZON | ap-northeast-2 |
   | 15.230.74.128/26 | AMAZON | ap-northeast-2 |
-  | 13.34.12.138/32 | AMAZON | ap-northeast-2 |
   | 15.230.74.192/26 | AMAZON | ap-northeast-2 |
   | 15.177.76.0/24 | AMAZON | ap-northeast-2 |
-  | 13.34.12.163/32 | AMAZON | ap-northeast-2 |
-  | 13.34.12.170/32 | AMAZON | ap-northeast-2 |
   | 52.219.148.0/23 | AMAZON | ap-northeast-2 |
-  | 13.34.12.165/32 | AMAZON | ap-northeast-2 |
-  | 13.34.12.142/32 | AMAZON | ap-northeast-2 |
-  | 13.34.12.167/32 | AMAZON | ap-northeast-2 |
   | 52.95.192.0/20 | AMAZON | ap-northeast-2 |
   | 159.248.216.0/21 | AMAZON | ap-northeast-2 |
   | 150.222.41.64/26 | AMAZON | ap-northeast-2 |
@@ -1061,14 +984,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.36.0.0/14 | AMAZON | ap-northeast-2 |
   | 54.116.0.0/15 | AMAZON | ap-northeast-2 |
   | 104.255.59.119/32 | AMAZON | ap-northeast-2 |
-  | 13.34.12.143/32 | AMAZON | ap-northeast-2 |
   | 16.185.0.0/16 | AMAZON | ap-northeast-2 |
   | 54.239.120.0/21 | AMAZON | ap-northeast-2 |
-  | 13.34.12.133/32 | AMAZON | ap-northeast-2 |
   | 54.180.0.0/15 | AMAZON | ap-northeast-2 |
-  | 13.34.12.135/32 | AMAZON | ap-northeast-2 |
   | 52.95.111.0/24 | AMAZON | ap-northeast-2 |
-  | 13.34.12.162/32 | AMAZON | ap-northeast-2 |
   | 15.230.81.0/24 | AMAZON | ap-northeast-2 |
   | 52.79.0.0/16 | AMAZON | ap-northeast-2 |
   | 52.93.137.0/24 | AMAZON | ap-northeast-2 |
@@ -1076,18 +995,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.184.0/21 | AMAZON | ap-northeast-2 |
   | 54.239.40.152/29 | AMAZON | ap-northeast-2 |
   | 15.248.36.0/22 | AMAZON | ap-northeast-2 |
-  | 13.34.12.161/32 | AMAZON | ap-northeast-2 |
   | 16.186.0.0/16 | AMAZON | ap-northeast-2 |
   | 52.93.127.198/32 | AMAZON | ap-northeast-2 |
   | 15.251.0.33/32 | AMAZON | ap-northeast-2 |
-  | 13.34.12.169/32 | AMAZON | ap-northeast-2 |
   | 99.78.188.0/22 | AMAZON | ap-northeast-2 |
-  | 13.34.12.131/32 | AMAZON | ap-northeast-2 |
-  | 13.34.12.137/32 | AMAZON | ap-northeast-2 |
   | 16.184.0.0/18 | AMAZON | ap-northeast-2 |
   | 104.255.59.118/32 | AMAZON | ap-northeast-2 |
   | 18.98.128.0/19 | AMAZON | ap-northeast-2 |
-  | 13.34.12.164/32 | AMAZON | ap-northeast-2 |
   | 99.78.184.0/22 | AMAZON | ap-northeast-2 |
   | 52.93.248.0/24 | AMAZON | ap-northeast-2 |
   | 150.222.41.0/26 | AMAZON | ap-northeast-2 |
@@ -1096,13 +1010,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.193.9.0/24 | AMAZON | ap-northeast-2 |
   | 52.219.202.0/23 | AMAZON | ap-northeast-2 |
   | 52.94.198.64/28 | AMAZON | ap-northeast-2 |
-  | 13.34.12.132/32 | AMAZON | ap-northeast-2 |
   | 16.184.128.0/17 | AMAZON | ap-northeast-2 |
   | 35.71.109.0/24 | AMAZON | ap-northeast-2 |
   | 52.94.248.176/28 | AMAZON | ap-northeast-2 |
   | 52.144.228.192/26 | AMAZON | ap-northeast-2 |
   | 13.124.0.0/16 | AMAZON | ap-northeast-2 |
-  | 13.34.12.130/32 | AMAZON | ap-northeast-2 |
   | 99.77.141.0/24 | AMAZON | ap-northeast-2 |
   | 173.83.198.0/24 | AMAZON | ap-northeast-2 |
   | 3.5.144.0/23 | AMAZON | ap-northeast-2 |
@@ -1110,16 +1022,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.78.0.0/16 | AMAZON | ap-northeast-2 |
   | 99.77.242.0/24 | AMAZON | ap-northeast-2 |
   | 99.150.24.0/21 | AMAZON | ap-northeast-2 |
-  | 13.34.12.129/32 | AMAZON | ap-northeast-2 |
-  | 13.34.12.174/32 | AMAZON | ap-northeast-2 |
   | 150.222.41.128/26 | AMAZON | ap-northeast-2 |
   | 15.230.60.0/24 | AMAZON | ap-northeast-2 |
   | 52.219.56.0/22 | AMAZON | ap-northeast-2 |
   | 52.93.127.199/32 | AMAZON | ap-northeast-2 |
   | 52.93.247.0/25 | AMAZON | ap-northeast-2 |
-  | 13.34.12.175/32 | AMAZON | ap-northeast-2 |
   | 15.230.196.0/24 | AMAZON | ap-northeast-2 |
-  | 13.34.12.171/32 | AMAZON | ap-northeast-2 |
   | 52.219.144.0/22 | AMAZON | ap-northeast-2 |
   | 15.230.207.0/24 | AMAZON | ap-northeast-2 |
   | 15.251.0.34/32 | AMAZON | ap-northeast-2 |
@@ -1127,7 +1035,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.252.0/24 | AMAZON | ap-northeast-2 |
   | 15.164.0.0/15 | AMAZON | ap-northeast-2 |
   | 54.239.0.192/28 | AMAZON | ap-northeast-2 |
-  | 13.34.12.139/32 | AMAZON | ap-northeast-2 |
   | 54.239.116.0/22 | AMAZON | ap-northeast-2 |
   | 3.34.0.0/15 | AMAZON | ap-northeast-2 |
   | 99.82.168.0/24 | AMAZON | ap-northeast-2 |
@@ -1135,7 +1042,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.75.0/26 | AMAZON | ap-northeast-2 |
   | 99.151.144.0/21 | AMAZON | ap-northeast-2 |
   | 16.187.0.0/16 | AMAZON | ap-northeast-2 |
-  | 13.34.12.136/32 | AMAZON | ap-northeast-2 |
   | 15.164.243.224/27 | AMAZON | ap-northeast-2 |
   | 15.165.193.128/26 | AMAZON | ap-northeast-2 |
   | 15.165.193.64/26 | AMAZON | ap-northeast-2 |
@@ -1256,96 +1162,58 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.20.164/32 | AMAZON | ap-northeast-3 |
   | 104.255.59.114/32 | AMAZON | ap-northeast-3 |
   | 52.95.182.0/23 | AMAZON | ap-northeast-3 |
-  | 13.34.121.192/27 | AMAZON | ap-northeast-3 |
-  | 13.34.20.134/32 | AMAZON | ap-northeast-3 |
   | 13.208.0.0/16 | AMAZON | ap-northeast-3 |
-  | 13.34.20.166/32 | AMAZON | ap-northeast-3 |
-  | 13.34.20.129/32 | AMAZON | ap-northeast-3 |
-  | 13.34.20.170/32 | AMAZON | ap-northeast-3 |
-  | 13.34.20.163/32 | AMAZON | ap-northeast-3 |
-  | 13.34.20.130/32 | AMAZON | ap-northeast-3 |
   | 150.222.49.0/27 | AMAZON | ap-northeast-3 |
-  | 13.34.20.133/32 | AMAZON | ap-northeast-3 |
-  | 13.34.20.174/32 | AMAZON | ap-northeast-3 |
   | 99.83.100.0/24 | AMAZON | ap-northeast-3 |
-  | 13.34.124.0/27 | AMAZON | ap-northeast-3 |
-  | 13.34.20.137/32 | AMAZON | ap-northeast-3 |
   | 69.107.6.200/29 | AMAZON | ap-northeast-3 |
   | 15.168.0.0/16 | AMAZON | ap-northeast-3 |
   | 52.144.233.70/31 | AMAZON | ap-northeast-3 |
   | 13.248.0.0/20 | AMAZON | ap-northeast-3 |
-  | 13.34.124.32/27 | AMAZON | ap-northeast-3 |
-  | 13.34.20.143/32 | AMAZON | ap-northeast-3 |
   | 52.95.157.0/24 | AMAZON | ap-northeast-3 |
-  | 13.34.20.165/32 | AMAZON | ap-northeast-3 |
   | 18.96.16.0/20 | AMAZON | ap-northeast-3 |
   | 15.177.77.0/24 | AMAZON | ap-northeast-3 |
-  | 13.34.20.169/32 | AMAZON | ap-northeast-3 |
   | 15.230.75.192/26 | AMAZON | ap-northeast-3 |
   | 3.5.240.0/22 | AMAZON | ap-northeast-3 |
   | 52.95.158.0/23 | AMAZON | ap-northeast-3 |
   | 52.144.233.128/31 | AMAZON | ap-northeast-3 |
-  | 13.34.20.162/32 | AMAZON | ap-northeast-3 |
-  | 13.34.20.139/32 | AMAZON | ap-northeast-3 |
   | 52.93.120.177/32 | AMAZON | ap-northeast-3 |
   | 35.71.110.0/24 | AMAZON | ap-northeast-3 |
-  | 13.34.97.128/27 | AMAZON | ap-northeast-3 |
-  | 13.34.92.160/27 | AMAZON | ap-northeast-3 |
   | 52.144.233.68/31 | AMAZON | ap-northeast-3 |
-  | 13.34.118.0/27 | AMAZON | ap-northeast-3 |
   | 192.31.213.0/24 | AMAZON | ap-northeast-3 |
   | 56.164.0.0/16 | AMAZON | ap-northeast-3 |
   | 56.162.0.0/16 | AMAZON | ap-northeast-3 |
   | 15.152.0.0/16 | AMAZON | ap-northeast-3 |
   | 99.77.243.0/24 | AMAZON | ap-northeast-3 |
-  | 13.34.20.161/32 | AMAZON | ap-northeast-3 |
   | 13.248.24.0/22 | AMAZON | ap-northeast-3 |
   | 13.248.16.0/21 | AMAZON | ap-northeast-3 |
   | 99.77.140.0/24 | AMAZON | ap-northeast-3 |
   | 52.93.120.176/32 | AMAZON | ap-northeast-3 |
-  | 13.34.20.135/32 | AMAZON | ap-northeast-3 |
-  | 13.34.20.175/32 | AMAZON | ap-northeast-3 |
   | 69.107.6.208/29 | AMAZON | ap-northeast-3 |
   | 52.144.233.64/31 | AMAZON | ap-northeast-3 |
   | 15.230.181.0/24 | AMAZON | ap-northeast-3 |
   | 52.144.233.66/31 | AMAZON | ap-northeast-3 |
   | 150.222.49.32/27 | AMAZON | ap-northeast-3 |
-  | 13.34.20.167/32 | AMAZON | ap-northeast-3 |
-  | 13.34.20.171/32 | AMAZON | ap-northeast-3 |
-  | 13.34.97.160/27 | AMAZON | ap-northeast-3 |
-  | 13.34.20.136/32 | AMAZON | ap-northeast-3 |
-  | 13.34.121.224/27 | AMAZON | ap-northeast-3 |
   | 52.144.233.130/31 | AMAZON | ap-northeast-3 |
   | 56.155.0.0/17 | AMAZON | ap-northeast-3 |
   | 15.230.24.0/22 | AMAZON | ap-northeast-3 |
   | 52.144.233.134/31 | AMAZON | ap-northeast-3 |
   | 104.255.59.115/32 | AMAZON | ap-northeast-3 |
-  | 13.34.20.131/32 | AMAZON | ap-northeast-3 |
   | 52.95.225.0/24 | AMAZON | ap-northeast-3 |
   | 150.222.49.64/27 | AMAZON | ap-northeast-3 |
   | 56.159.0.0/16 | AMAZON | ap-northeast-3 |
-  | 13.34.20.168/32 | AMAZON | ap-northeast-3 |
   | 54.239.1.48/28 | AMAZON | ap-northeast-3 |
   | 173.83.218.0/24 | AMAZON | ap-northeast-3 |
   | 13.248.28.0/22 | AMAZON | ap-northeast-3 |
-  | 13.34.118.32/27 | AMAZON | ap-northeast-3 |
   | 56.156.0.0/15 | AMAZON | ap-northeast-3 |
-  | 13.34.20.138/32 | AMAZON | ap-northeast-3 |
   | 15.230.75.64/26 | AMAZON | ap-northeast-3 |
   | 52.94.249.96/28 | AMAZON | ap-northeast-3 |
-  | 13.34.20.192/27 | AMAZON | ap-northeast-3 |
-  | 13.34.20.132/32 | AMAZON | ap-northeast-3 |
-  | 13.34.20.224/27 | AMAZON | ap-northeast-3 |
   | 15.230.75.128/26 | AMAZON | ap-northeast-3 |
   | 52.144.233.132/31 | AMAZON | ap-northeast-3 |
   | 52.95.181.0/24 | AMAZON | ap-northeast-3 |
-  | 13.34.20.142/32 | AMAZON | ap-northeast-3 |
   | 52.94.19.0/24 | AMAZON | ap-northeast-3 |
   | 99.150.96.0/21 | AMAZON | ap-northeast-3 |
-  | 13.34.92.128/27 | AMAZON | ap-northeast-3 |
   | 56.155.128.0/17 | AMAZON | ap-northeast-3 |
   | 13.208.170.0/23 | AMAZON | ap-northeast-3 |
   | 15.152.24.192/26 | AMAZON | ap-northeast-3 |
@@ -1431,26 +1299,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.117.0/24 | AMAZON | ap-south-1 |
   | 52.93.127.133/32 | AMAZON | ap-south-1 |
   | 150.222.84.0/24 | AMAZON | ap-south-1 |
-  | 13.34.13.203/32 | AMAZON | ap-south-1 |
   | 15.220.216.0/22 | AMAZON | ap-south-1-del-2 |
-  | 13.34.13.232/32 | AMAZON | ap-south-1 |
   | 13.204.0.0/14 | AMAZON | ap-south-1 |
   | 52.93.79.0/24 | AMAZON | ap-south-1 |
-  | 13.34.25.248/29 | AMAZON | ap-south-1 |
   | 15.230.70.0/26 | AMAZON | ap-south-1 |
   | 15.230.253.0/24 | AMAZON | ap-south-1 |
-  | 13.34.13.202/32 | AMAZON | ap-south-1 |
   | 52.93.127.126/32 | AMAZON | ap-south-1 |
-  | 13.34.13.227/32 | AMAZON | ap-south-1 |
   | 150.222.220.0/24 | AMAZON | ap-south-1 |
-  | 13.34.13.238/32 | AMAZON | ap-south-1 |
   | 99.77.238.0/24 | AMAZON | ap-south-1 |
   | 52.93.127.127/32 | AMAZON | ap-south-1 |
   | 3.5.208.0/22 | AMAZON | ap-south-1 |
-  | 13.34.13.239/32 | AMAZON | ap-south-1 |
-  | 13.34.13.228/32 | AMAZON | ap-south-1 |
-  | 13.34.13.195/32 | AMAZON | ap-south-1 |
-  | 13.34.13.206/32 | AMAZON | ap-south-1 |
   | 52.93.148.0/26 | AMAZON | ap-south-1 |
   | 13.248.105.0/24 | AMAZON | ap-south-1 |
   | 52.144.228.0/31 | AMAZON | ap-south-1 |
@@ -1458,31 +1316,23 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.232.0/24 | AMAZON | ap-south-1-ccu-2 |
   | 52.93.127.131/32 | AMAZON | ap-south-1 |
   | 52.94.198.80/28 | AMAZON | ap-south-1 |
-  | 13.34.13.207/32 | AMAZON | ap-south-1 |
-  | 13.34.13.226/32 | AMAZON | ap-south-1 |
   | 150.222.123.0/24 | AMAZON | ap-south-1 |
   | 54.239.0.208/28 | AMAZON | ap-south-1 |
   | 52.93.126.244/32 | AMAZON | ap-south-1 |
-  | 13.34.22.88/29 | AMAZON | ap-south-1 |
-  | 13.34.13.201/32 | AMAZON | ap-south-1 |
   | 15.230.215.0/24 | AMAZON | ap-south-1 |
   | 52.219.62.0/23 | AMAZON | ap-south-1 |
-  | 13.34.13.194/32 | AMAZON | ap-south-1 |
   | 43.204.0.0/15 | AMAZON | ap-south-1 |
   | 142.4.179.0/24 | AMAZON | ap-south-1 |
   | 173.83.211.0/24 | AMAZON | ap-south-1 |
   | 15.220.228.0/22 | AMAZON | ap-south-1-ccu-2 |
   | 52.93.126.245/32 | AMAZON | ap-south-1 |
   | 150.222.217.0/24 | AMAZON | ap-south-1 |
-  | 13.34.13.229/32 | AMAZON | ap-south-1 |
   | 52.144.228.128/26 | AMAZON | ap-south-1 |
-  | 13.34.13.200/32 | AMAZON | ap-south-1 |
   | 16.12.36.0/22 | AMAZON | ap-south-1 |
   | 52.95.249.0/24 | AMAZON | ap-south-1 |
   | 65.0.0.0/14 | AMAZON | ap-south-1 |
   | 71.141.8.0/21 | AMAZON | ap-south-1 |
   | 15.230.70.64/26 | AMAZON | ap-south-1 |
-  | 13.34.13.199/32 | AMAZON | ap-south-1 |
   | 64.252.101.0/24 | AMAZON | ap-south-1 |
   | 15.220.227.0/24 | AMAZON | ap-south-1-del-2 |
   | 15.177.73.0/24 | AMAZON | ap-south-1 |
@@ -1491,9 +1341,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.232.0.0/14 | AMAZON | ap-south-1 |
   | 52.93.116.0/24 | AMAZON | ap-south-1 |
   | 99.83.76.0/22 | AMAZON | ap-south-1 |
-  | 13.34.13.198/32 | AMAZON | ap-south-1 |
   | 15.220.136.0/21 | AMAZON | ap-south-1-del-1 |
-  | 13.34.25.204/32 | AMAZON | ap-south-1 |
   | 52.93.126.205/32 | AMAZON | ap-south-1 |
   | 15.230.54.0/24 | AMAZON | ap-south-1 |
   | 150.222.115.0/24 | AMAZON | ap-south-1 |
@@ -1501,7 +1349,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.71.100.0/24 | AMAZON | ap-south-1 |
   | 150.222.235.0/24 | AMAZON | ap-south-1 |
   | 52.93.126.204/32 | AMAZON | ap-south-1 |
-  | 13.34.13.196/32 | AMAZON | ap-south-1 |
   | 64.252.100.0/24 | AMAZON | ap-south-1 |
   | 13.126.0.0/15 | AMAZON | ap-south-1 |
   | 13.202.0.0/15 | AMAZON | ap-south-1 |
@@ -1523,23 +1370,17 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.70.128/26 | AMAZON | ap-south-1 |
   | 15.193.0.0/24 | AMAZON | ap-south-1 |
   | 52.66.0.0/16 | AMAZON | ap-south-1 |
-  | 13.34.25.216/29 | AMAZON | ap-south-1 |
   | 104.255.59.91/32 | AMAZON | ap-south-1 |
   | 104.255.59.85/32 | AMAZON | ap-south-1 |
   | 52.219.156.0/22 | AMAZON | ap-south-1 |
   | 52.93.140.0/24 | AMAZON | ap-south-1 |
-  | 13.34.13.197/32 | AMAZON | ap-south-1 |
-  | 13.34.13.225/32 | AMAZON | ap-south-1 |
   | 52.93.148.64/26 | AMAZON | ap-south-1 |
   | 52.95.64.0/20 | AMAZON | ap-south-1 |
   | 96.0.60.0/22 | AMAZON | ap-south-1-ccu-1 |
-  | 13.34.13.193/32 | AMAZON | ap-south-1 |
   | 35.154.0.0/16 | AMAZON | ap-south-1 |
   | 52.144.228.2/31 | AMAZON | ap-south-1 |
   | 52.93.127.130/32 | AMAZON | ap-south-1 |
   | 64.252.98.0/24 | AMAZON | ap-south-1 |
-  | 13.34.13.235/32 | AMAZON | ap-south-1 |
-  | 13.34.13.234/32 | AMAZON | ap-south-1 |
   | 52.95.80.0/20 | AMAZON | ap-south-1 |
   | 43.249.46.0/24 | AMAZON | ap-south-1 |
   | 15.230.194.0/24 | AMAZON | ap-south-1 |
@@ -1552,20 +1393,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.40.0/23 | AMAZON | ap-south-1 |
   | 96.0.64.0/21 | AMAZON | ap-south-1-ccu-1 |
   | 99.151.136.0/21 | AMAZON | ap-south-1 |
-  | 13.34.25.205/32 | AMAZON | ap-south-1 |
   | 99.83.72.0/22 | AMAZON | ap-south-1 |
   | 142.4.180.0/24 | AMAZON | ap-south-1 |
   | 52.94.20.0/24 | AMAZON | ap-south-1 |
   | 104.255.59.86/32 | AMAZON | ap-south-1 |
-  | 13.34.13.231/32 | AMAZON | ap-south-1 |
   | 99.77.145.0/24 | AMAZON | ap-south-1 |
   | 15.230.104.0/24 | AMAZON | ap-south-1 |
   | 64.252.99.0/24 | AMAZON | ap-south-1 |
   | 15.220.128.0/21 | AMAZON | ap-south-1-del-1 |
   | 52.93.127.132/32 | AMAZON | ap-south-1 |
-  | 13.34.13.233/32 | AMAZON | ap-south-1 |
   | 142.4.177.0/24 | AMAZON | ap-south-1 |
-  | 13.34.13.230/32 | AMAZON | ap-south-1 |
   | 13.200.90.0/23 | AMAZON | ap-south-1 |
   | 13.200.92.0/22 | AMAZON | ap-south-1 |
   | 13.201.195.192/26 | AMAZON | ap-south-1 |
@@ -1771,205 +1608,120 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 150.222.78.0/24 | AMAZON | ap-southeast-1 |
   | 150.222.43.0/26 | AMAZON | ap-southeast-1 |
-  | 13.34.17.130/32 | AMAZON | ap-southeast-1 |
   | 150.222.14.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.1.142/32 | AMAZON | ap-southeast-1 |
   | 15.221.35.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.4.129/32 | AMAZON | ap-southeast-1 |
-  | 13.34.14.47/32 | AMAZON | ap-southeast-1 |
   | 52.93.19.0/24 | AMAZON | ap-southeast-1 |
   | 15.193.2.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.200.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.133.0/24 | AMAZON | ap-southeast-1 |
   | 52.93.127.194/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.13/32 | AMAZON | ap-southeast-1 |
   | 15.230.29.0/24 | AMAZON | ap-southeast-1 |
   | 15.177.82.0/24 | AMAZON | ap-southeast-1 |
   | 47.128.0.0/14 | AMAZON | ap-southeast-1 |
   | 52.93.127.112/32 | AMAZON | ap-southeast-1 |
   | 122.248.192.0/18 | AMAZON | ap-southeast-1 |
   | 15.221.36.0/22 | AMAZON | ap-southeast-1 |
-  | 13.34.17.129/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.163/32 | AMAZON | ap-southeast-1 |
   | 16.12.48.0/21 | AMAZON | ap-southeast-1 |
-  | 13.34.1.139/32 | AMAZON | ap-southeast-1 |
-  | 13.34.1.143/32 | AMAZON | ap-southeast-1 |
-  | 13.34.1.171/32 | AMAZON | ap-southeast-1 |
   | 15.230.251.4/31 | AMAZON | ap-southeast-1 |
-  | 13.34.17.166/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.3/32 | AMAZON | ap-southeast-1 |
   | 15.230.251.0/31 | AMAZON | ap-southeast-1 |
-  | 13.34.17.141/32 | AMAZON | ap-southeast-1 |
   | 54.169.0.0/16 | AMAZON | ap-southeast-1 |
-  | 13.34.19.45/32 | AMAZON | ap-southeast-1 |
   | 35.71.118.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.19.6/32 | AMAZON | ap-southeast-1 |
   | 52.144.224.128/26 | AMAZON | ap-southeast-1 |
   | 54.239.0.96/28 | AMAZON | ap-southeast-1 |
   | 15.230.3.0/24 | AMAZON | ap-southeast-1 |
   | 99.77.240.0/24 | AMAZON | ap-southeast-1 |
   | 103.246.148.0/23 | AMAZON | ap-southeast-1 |
-  | 13.34.1.134/32 | AMAZON | ap-southeast-1 |
   | 54.255.0.0/16 | AMAZON | ap-southeast-1 |
-  | 13.34.19.33/32 | AMAZON | ap-southeast-1 |
   | 99.83.102.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.17.133/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.174/32 | AMAZON | ap-southeast-1 |
   | 150.222.42.128/26 | AMAZON | ap-southeast-1 |
   | 52.95.255.32/28 | AMAZON | ap-southeast-1 |
-  | 13.34.14.34/32 | AMAZON | ap-southeast-1 |
   | 175.41.128.0/18 | AMAZON | ap-southeast-1 |
   | 52.144.230.204/31 | AMAZON | ap-southeast-1 |
   | 13.250.0.0/15 | AMAZON | ap-southeast-1 |
   | 64.252.102.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.243.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.14.7/32 | AMAZON | ap-southeast-1 |
-  | 13.34.14.4/32 | AMAZON | ap-southeast-1 |
   | 16.57.0.0/18 | AMAZON | ap-southeast-1 |
-  | 13.34.14.8/32 | AMAZON | ap-southeast-1 |
   | 52.93.127.195/32 | AMAZON | ap-southeast-1 |
   | 52.93.127.108/32 | AMAZON | ap-southeast-1 |
   | 99.77.143.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.251.6/32 | AMAZON | ap-southeast-1 |
-  | 13.34.14.6/32 | AMAZON | ap-southeast-1 |
   | 52.144.231.64/26 | AMAZON | ap-southeast-1 |
   | 99.82.173.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.19.35/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.165/32 | AMAZON | ap-southeast-1 |
   | 52.76.128.0/17 | AMAZON | ap-southeast-1 |
   | 52.219.32.0/21 | AMAZON | ap-southeast-1 |
-  | 13.34.1.166/32 | AMAZON | ap-southeast-1 |
   | 52.93.8.0/22 | AMAZON | ap-southeast-1 |
   | 15.230.4.19/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.15/32 | AMAZON | ap-southeast-1 |
   | 64.252.103.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.1.131/32 | AMAZON | ap-southeast-1 |
   | 15.221.8.0/21 | AMAZON | ap-southeast-1 |
-  | 13.34.1.133/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.10/32 | AMAZON | ap-southeast-1 |
   | 52.74.0.0/16 | AMAZON | ap-southeast-1 |
   | 15.230.4.156/31 | AMAZON | ap-southeast-1 |
-  | 13.34.1.136/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.138/32 | AMAZON | ap-southeast-1 |
   | 13.214.0.0/15 | AMAZON | ap-southeast-1 |
-  | 13.34.1.135/32 | AMAZON | ap-southeast-1 |
-  | 13.34.1.168/32 | AMAZON | ap-southeast-1 |
   | 54.179.0.0/16 | AMAZON | ap-southeast-1 |
-  | 13.34.19.8/32 | AMAZON | ap-southeast-1 |
   | 13.248.127.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.14.43/32 | AMAZON | ap-southeast-1 |
   | 15.220.96.0/20 | AMAZON | ap-southeast-1 |
   | 52.93.127.113/32 | AMAZON | ap-southeast-1 |
-  | 13.34.14.2/32 | AMAZON | ap-southeast-1 |
   | 136.18.140.0/23 | AMAZON | ap-southeast-1 |
   | 52.220.0.0/15 | AMAZON | ap-southeast-1 |
   | 52.144.230.206/31 | AMAZON | ap-southeast-1 |
   | 18.142.0.0/15 | AMAZON | ap-southeast-1 |
   | 46.137.192.0/19 | AMAZON | ap-southeast-1 |
   | 96.0.144.0/21 | AMAZON | ap-southeast-1-mnl-1 |
-  | 13.34.17.175/32 | AMAZON | ap-southeast-1 |
   | 15.230.164.0/24 | AMAZON | ap-southeast-1 |
   | 43.250.192.0/24 | AMAZON | ap-southeast-1 |
   | 99.151.104.0/21 | AMAZON | ap-southeast-1 |
-  | 13.34.14.37/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.170/32 | AMAZON | ap-southeast-1 |
   | 46.137.224.0/19 | AMAZON | ap-southeast-1 |
   | 52.219.180.0/22 | AMAZON | ap-southeast-1 |
   | 52.93.127.116/32 | AMAZON | ap-southeast-1 |
   | 52.93.127.107/32 | AMAZON | ap-southeast-1 |
-  | 13.34.14.42/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.162/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.47/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.9/32 | AMAZON | ap-southeast-1 |
-  | 13.34.1.170/32 | AMAZON | ap-southeast-1 |
   | 15.230.4.162/31 | AMAZON | ap-southeast-1 |
-  | 13.34.14.41/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.172/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.43/32 | AMAZON | ap-southeast-1 |
   | 46.51.216.0/21 | AMAZON | ap-southeast-1 |
-  | 13.34.4.47/32 | AMAZON | ap-southeast-1 |
   | 52.93.127.114/32 | AMAZON | ap-southeast-1 |
   | 52.94.248.32/28 | AMAZON | ap-southeast-1 |
   | 52.219.40.0/22 | AMAZON | ap-southeast-1 |
-  | 13.34.1.138/32 | AMAZON | ap-southeast-1 |
   | 52.93.127.106/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.4/32 | AMAZON | ap-southeast-1 |
   | 150.222.108.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.19.7/32 | AMAZON | ap-southeast-1 |
   | 52.93.83.0/24 | AMAZON | ap-southeast-1 |
   | 52.93.127.115/32 | AMAZON | ap-southeast-1 |
-  | 13.34.1.174/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.161/32 | AMAZON | ap-southeast-1 |
   | 54.254.0.0/16 | AMAZON | ap-southeast-1 |
-  | 13.34.1.165/32 | AMAZON | ap-southeast-1 |
   | 15.230.77.128/26 | AMAZON | ap-southeast-1 |
   | 69.107.6.168/29 | AMAZON | ap-southeast-1 |
-  | 13.34.19.38/32 | AMAZON | ap-southeast-1 |
-  | 13.34.1.167/32 | AMAZON | ap-southeast-1 |
   | 15.230.4.160/31 | AMAZON | ap-southeast-1 |
-  | 13.34.1.175/32 | AMAZON | ap-southeast-1 |
   | 52.219.164.0/22 | AMAZON | ap-southeast-1 |
   | 54.151.128.0/17 | AMAZON | ap-southeast-1 |
   | 99.87.0.0/22 | AMAZON | ap-southeast-1 |
-  | 13.34.1.130/32 | AMAZON | ap-southeast-1 |
   | 69.107.6.160/29 | AMAZON | ap-southeast-1 |
   | 52.93.82.0/24 | AMAZON | ap-southeast-1 |
   | 52.144.230.208/31 | AMAZON | ap-southeast-1 |
-  | 13.34.17.135/32 | AMAZON | ap-southeast-1 |
   | 15.230.4.148/31 | AMAZON | ap-southeast-1 |
   | 16.156.0.0/14 | AMAZON | ap-southeast-1 |
-  | 13.34.19.5/32 | AMAZON | ap-southeast-1 |
   | 15.230.251.2/31 | AMAZON | ap-southeast-1 |
   | 52.219.124.0/22 | AMAZON | ap-southeast-1 |
-  | 13.34.1.129/32 | AMAZON | ap-southeast-1 |
   | 15.230.251.7/32 | AMAZON | ap-southeast-1 |
   | 18.136.0.0/16 | AMAZON | ap-southeast-1 |
-  | 13.34.14.33/32 | AMAZON | ap-southeast-1 |
   | 13.212.0.0/15 | AMAZON | ap-southeast-1 |
-  | 13.34.4.15/32 | AMAZON | ap-southeast-1 |
   | 96.0.112.0/21 | AMAZON | ap-southeast-1-sggov-sin-1a |
   | 18.99.32.0/19 | AMAZON | ap-southeast-1 |
   | 52.93.63.0/24 | AMAZON | ap-southeast-1 |
   | 3.5.146.0/23 | AMAZON | ap-southeast-1 |
   | 52.95.35.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.1.163/32 | AMAZON | ap-southeast-1 |
-  | 13.34.14.1/32 | AMAZON | ap-southeast-1 |
   | 99.83.104.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.4.154/31 | AMAZON | ap-southeast-1 |
   | 64.252.104.0/24 | AMAZON | ap-southeast-1 |
   | 150.222.42.192/26 | AMAZON | ap-southeast-1 |
   | 15.230.4.130/32 | AMAZON | ap-southeast-1 |
   | 96.0.136.0/21 | AMAZON | ap-southeast-1 |
-  | 13.34.19.44/32 | AMAZON | ap-southeast-1 |
   | 52.93.127.111/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.173/32 | AMAZON | ap-southeast-1 |
   | 52.219.128.0/22 | AMAZON | ap-southeast-1 |
   | 69.107.7.0/29 | AMAZON | ap-southeast-1 |
-  | 13.34.14.14/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.12/32 | AMAZON | ap-southeast-1 |
   | 173.83.219.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.1.132/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.137/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.142/32 | AMAZON | ap-southeast-1 |
-  | 13.34.14.5/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.167/32 | AMAZON | ap-southeast-1 |
   | 18.140.0.0/15 | AMAZON | ap-southeast-1 |
-  | 13.34.17.139/32 | AMAZON | ap-southeast-1 |
   | 15.220.192.0/22 | AMAZON | ap-southeast-1-bkk-1 |
-  | 13.34.14.46/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.2/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.169/32 | AMAZON | ap-southeast-1 |
   | 15.220.240.0/21 | AMAZON | ap-southeast-1-bkk-1 |
-  | 13.34.17.171/32 | AMAZON | ap-southeast-1 |
   | 52.95.212.0/22 | AMAZON | ap-southeast-1 |
-  | 13.34.1.137/32 | AMAZON | ap-southeast-1 |
   | 15.230.6.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.17.131/32 | AMAZON | ap-southeast-1 |
   | 69.107.7.8/29 | AMAZON | ap-southeast-1 |
   | 15.230.4.158/31 | AMAZON | ap-southeast-1 |
-  | 13.34.14.40/32 | AMAZON | ap-southeast-1 |
-  | 13.34.4.46/32 | AMAZON | ap-southeast-1 |
-  | 13.34.1.169/32 | AMAZON | ap-southeast-1 |
   | 150.222.3.0/24 | AMAZON | ap-southeast-1 |
   | 13.248.125.0/24 | AMAZON | ap-southeast-1 |
   | 52.95.242.0/24 | AMAZON | ap-southeast-1 |
@@ -1978,77 +1730,46 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 96.0.132.0/22 | AMAZON | ap-southeast-1 |
   | 54.240.199.0/24 | AMAZON | ap-southeast-1 |
   | 99.77.161.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.1.164/32 | AMAZON | ap-southeast-1 |
-  | 13.34.14.11/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.34/32 | AMAZON | ap-southeast-1 |
   | 96.0.94.0/23 | AMAZON | ap-southeast-1-sggov-sin-1a |
-  | 13.34.14.35/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.132/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.39/32 | AMAZON | ap-southeast-1 |
   | 203.83.220.0/22 | AMAZON | ap-southeast-1 |
   | 15.230.77.192/26 | AMAZON | ap-southeast-1 |
   | 52.219.132.0/22 | AMAZON | ap-southeast-1 |
   | 52.93.127.109/32 | AMAZON | ap-southeast-1 |
   | 52.94.198.96/28 | AMAZON | ap-southeast-1 |
-  | 13.34.19.40/32 | AMAZON | ap-southeast-1 |
-  | 13.34.1.162/32 | AMAZON | ap-southeast-1 |
-  | 13.34.14.10/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.136/32 | AMAZON | ap-southeast-1 |
   | 52.94.11.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.4.150/31 | AMAZON | ap-southeast-1 |
   | 96.0.108.0/24 | AMAZON | ap-southeast-1-sggov-sin-1a |
   | 96.0.120.0/21 | AMAZON | ap-southeast-1-sggov-sin-1b |
-  | 13.34.14.39/32 | AMAZON | ap-southeast-1 |
   | 150.222.219.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.1.161/32 | AMAZON | ap-southeast-1 |
   | 52.93.127.110/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.14/32 | AMAZON | ap-southeast-1 |
   | 3.5.148.0/22 | AMAZON | ap-southeast-1 |
   | 15.230.163.0/24 | AMAZON | ap-southeast-1 |
   | 52.93.127.117/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.143/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.42/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.11/32 | AMAZON | ap-southeast-1 |
   | 15.230.53.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.19.36/32 | AMAZON | ap-southeast-1 |
   | 15.230.4.176/28 | AMAZON | ap-southeast-1 |
   | 15.230.120.0/31 | AMAZON | ap-southeast-1 |
   | 18.138.0.0/15 | AMAZON | ap-southeast-1 |
-  | 13.34.14.3/32 | AMAZON | ap-southeast-1 |
-  | 13.34.14.38/32 | AMAZON | ap-southeast-1 |
-  | 13.34.17.140/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.41/32 | AMAZON | ap-southeast-1 |
   | 15.230.78.0/26 | AMAZON | ap-southeast-1 |
   | 52.119.205.0/24 | AMAZON | ap-southeast-1 |
   | 136.18.22.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.17.134/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.46/32 | AMAZON | ap-southeast-1 |
   | 52.76.0.0/17 | AMAZON | ap-southeast-1 |
-  | 13.34.17.168/32 | AMAZON | ap-southeast-1 |
   | 15.220.44.0/22 | AMAZON | ap-southeast-1 |
-  | 13.34.14.36/32 | AMAZON | ap-southeast-1 |
   | 136.18.34.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.209.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.14.9/32 | AMAZON | ap-southeast-1 |
-  | 13.34.19.1/32 | AMAZON | ap-southeast-1 |
   | 15.230.4.152/31 | AMAZON | ap-southeast-1 |
   | 52.119.184.0/22 | AMAZON | ap-southeast-1 |
   | 96.0.130.0/24 | AMAZON | ap-southeast-1-sggov-sin-1b |
-  | 13.34.4.14/32 | AMAZON | ap-southeast-1 |
   | 52.144.230.210/31 | AMAZON | ap-southeast-1 |
   | 54.251.0.0/16 | AMAZON | ap-southeast-1 |
   | 13.248.107.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.4.128/32 | AMAZON | ap-southeast-1 |
   | 64.252.105.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.19.37/32 | AMAZON | ap-southeast-1 |
   | 15.230.4.131/32 | AMAZON | ap-southeast-1 |
   | 3.0.0.0/15 | AMAZON | ap-southeast-1 |
   | 43.250.193.0/24 | AMAZON | ap-southeast-1 |
   | 52.77.0.0/16 | AMAZON | ap-southeast-1 |
-  | 13.34.14.15/32 | AMAZON | ap-southeast-1 |
   | 96.0.128.0/23 | AMAZON | ap-southeast-1-sggov-sin-1b |
   | 151.148.38.0/24 | AMAZON | ap-southeast-1 |
-  | 13.34.17.164/32 | AMAZON | ap-southeast-1 |
   | 54.240.226.0/24 | AMAZON | ap-southeast-1 |
   | 13.228.0.0/15 | AMAZON | ap-southeast-1 |
   | 13.212.3.128/26 | AMAZON | ap-southeast-1 |
@@ -2214,274 +1935,124 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.1.109/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.143/32 | AMAZON | ap-southeast-2 |
   | 52.95.36.0/22 | AMAZON | ap-southeast-2 |
   | 150.222.47.64/26 | AMAZON | ap-southeast-2 |
-  | 13.34.19.139/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.238/32 | AMAZON | ap-southeast-2 |
-  | 13.34.19.171/32 | AMAZON | ap-southeast-2 |
   | 96.0.80.0/22 | AMAZON | ap-southeast-2-akl-1 |
-  | 13.34.7.132/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.172/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.75/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.110/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.203/32 | AMAZON | ap-southeast-2 |
   | 15.193.3.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.68.201/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.69/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.103/32 | AMAZON | ap-southeast-2 |
   | 13.236.0.0/14 | AMAZON | ap-southeast-2 |
   | 15.177.83.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.11.70/32 | AMAZON | ap-southeast-2 |
-  | 13.34.41.192/27 | AMAZON | ap-southeast-2 |
   | 15.251.0.9/32 | AMAZON | ap-southeast-2 |
   | 54.206.0.0/16 | AMAZON | ap-southeast-2 |
   | 150.222.44.192/26 | AMAZON | ap-southeast-2 |
   | 15.230.212.0/23 | AMAZON | ap-southeast-2 |
-  | 13.34.0.46/32 | AMAZON | ap-southeast-2 |
-  | 13.34.127.64/27 | AMAZON | ap-southeast-2 |
-  | 13.34.68.200/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.108/32 | AMAZON | ap-southeast-2 |
   | 54.153.128.0/17 | AMAZON | ap-southeast-2 |
   | 150.222.119.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.11.67/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.111/32 | AMAZON | ap-southeast-2 |
   | 99.82.184.0/22 | AMAZON | ap-southeast-2 |
   | 150.222.43.128/27 | AMAZON | ap-southeast-2 |
-  | 13.34.68.231/32 | AMAZON | ap-southeast-2 |
   | 52.95.255.16/28 | AMAZON | ap-southeast-2 |
-  | 13.34.1.100/32 | AMAZON | ap-southeast-2 |
   | 52.95.128.0/21 | AMAZON | ap-southeast-2 |
-  | 13.34.7.162/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.76/32 | AMAZON | ap-southeast-2 |
   | 15.230.78.192/26 | AMAZON | ap-southeast-2 |
   | 16.12.74.0/24 | AMAZON | ap-southeast-2 |
   | 150.222.112.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.68.226/32 | AMAZON | ap-southeast-2 |
   | 15.230.149.11/32 | AMAZON | ap-southeast-2 |
   | 52.94.152.182/32 | AMAZON | ap-southeast-2 |
   | 54.252.0.0/16 | AMAZON | ap-southeast-2 |
   | 52.93.33.224/32 | AMAZON | ap-southeast-2 |
   | 150.222.82.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.11.77/32 | AMAZON | ap-southeast-2 |
   | 151.148.39.0/24 | AMAZON | ap-southeast-2 |
   | 52.144.229.0/26 | AMAZON | ap-southeast-2 |
   | 3.104.0.0/14 | AMAZON | ap-southeast-2 |
   | 99.150.32.0/21 | AMAZON | ap-southeast-2 |
-  | 13.34.1.71/32 | AMAZON | ap-southeast-2 |
   | 64.252.108.0/24 | AMAZON | ap-southeast-2 |
   | 15.230.78.64/26 | AMAZON | ap-southeast-2 |
   | 54.239.0.112/28 | AMAZON | ap-southeast-2 |
   | 54.240.204.0/22 | AMAZON | ap-southeast-2 |
-  | 13.34.1.106/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.104/32 | AMAZON | ap-southeast-2 |
-  | 13.34.0.14/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.66/32 | AMAZON | ap-southeast-2 |
-  | 13.34.127.96/27 | AMAZON | ap-southeast-2 |
-  | 13.34.68.206/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.79/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.100/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.139/32 | AMAZON | ap-southeast-2 |
-  | 13.34.19.142/32 | AMAZON | ap-southeast-2 |
   | 35.96.128.0/20 | AMAZON | ap-southeast-2 |
   | 15.230.149.8/31 | AMAZON | ap-southeast-2 |
   | 96.0.0.0/21 | AMAZON | ap-southeast-2-per-1 |
-  | 13.34.68.237/32 | AMAZON | ap-southeast-2 |
   | 99.83.120.0/22 | AMAZON | ap-southeast-2 |
   | 3.24.0.0/14 | AMAZON | ap-southeast-2 |
-  | 13.34.1.68/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.171/32 | AMAZON | ap-southeast-2 |
   | 15.230.107.0/32 | AMAZON | ap-southeast-2 |
   | 52.94.152.177/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.194/32 | AMAZON | ap-southeast-2 |
   | 99.78.212.0/22 | AMAZON | ap-southeast-2 |
-  | 13.34.1.74/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.98/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.234/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.142/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.105/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.105/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.78/32 | AMAZON | ap-southeast-2 |
-  | 13.34.16.128/27 | AMAZON | ap-southeast-2 |
   | 15.230.210.0/23 | AMAZON | ap-southeast-2 |
   | 103.8.172.0/22 | AMAZON | ap-southeast-2 |
-  | 13.34.1.72/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.104/32 | AMAZON | ap-southeast-2 |
-  | 13.34.19.175/32 | AMAZON | ap-southeast-2 |
   | 54.240.203.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.19.172/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.225/32 | AMAZON | ap-southeast-2 |
   | 52.144.224.64/26 | AMAZON | ap-southeast-2 |
   | 3.5.164.0/22 | AMAZON | ap-southeast-2 |
-  | 13.34.11.103/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.73/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.78/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.163/32 | AMAZON | ap-southeast-2 |
-  | 13.34.103.224/27 | AMAZON | ap-southeast-2 |
   | 52.93.77.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.16.160/27 | AMAZON | ap-southeast-2 |
-  | 13.34.19.173/32 | AMAZON | ap-southeast-2 |
   | 15.230.149.2/31 | AMAZON | ap-southeast-2 |
   | 150.222.43.64/27 | AMAZON | ap-southeast-2 |
   | 52.93.126.138/32 | AMAZON | ap-southeast-2 |
   | 52.93.182.128/26 | AMAZON | ap-southeast-2 |
-  | 13.34.11.106/32 | AMAZON | ap-southeast-2 |
-  | 13.34.41.64/27 | AMAZON | ap-southeast-2 |
-  | 13.34.7.166/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.68/32 | AMAZON | ap-southeast-2 |
-  | 13.34.41.224/27 | AMAZON | ap-southeast-2 |
-  | 13.34.83.64/27 | AMAZON | ap-southeast-2 |
-  | 13.34.11.79/32 | AMAZON | ap-southeast-2 |
   | 52.93.126.137/32 | AMAZON | ap-southeast-2 |
   | 52.93.126.139/32 | AMAZON | ap-southeast-2 |
   | 15.230.115.0/24 | AMAZON | ap-southeast-2 |
   | 52.93.126.131/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.141/32 | AMAZON | ap-southeast-2 |
   | 43.249.44.0/24 | AMAZON | ap-southeast-2 |
   | 52.94.152.180/32 | AMAZON | ap-southeast-2 |
   | 150.222.47.0/26 | AMAZON | ap-southeast-2 |
-  | 13.34.68.230/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.71/32 | AMAZON | ap-southeast-2 |
   | 64.252.107.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.7.130/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.229/32 | AMAZON | ap-southeast-2 |
-  | 13.34.41.160/27 | AMAZON | ap-southeast-2 |
   | 52.94.198.112/28 | AMAZON | ap-southeast-2 |
   | 96.0.8.0/22 | AMAZON | ap-southeast-2-per-1 |
   | 99.83.80.0/22 | AMAZON | ap-southeast-2 |
-  | 13.34.1.102/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.193/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.99/32 | AMAZON | ap-southeast-2 |
   | 3.5.168.0/23 | AMAZON | ap-southeast-2 |
-  | 13.34.80.64/27 | AMAZON | ap-southeast-2 |
-  | 13.34.0.47/32 | AMAZON | ap-southeast-2 |
   | 52.64.0.0/17 | AMAZON | ap-southeast-2 |
   | 52.119.210.0/23 | AMAZON | ap-southeast-2 |
-  | 13.34.7.168/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.140/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.97/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.101/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.77/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.239/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.69/32 | AMAZON | ap-southeast-2 |
   | 15.230.78.128/26 | AMAZON | ap-southeast-2 |
-  | 13.34.68.199/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.202/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.205/32 | AMAZON | ap-southeast-2 |
   | 104.255.59.88/32 | AMAZON | ap-southeast-2 |
   | 15.230.149.10/32 | AMAZON | ap-southeast-2 |
-  | 13.34.0.13/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.73/32 | AMAZON | ap-southeast-2 |
   | 96.0.72.0/21 | AMAZON | ap-southeast-2-akl-1 |
   | 52.94.152.183/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.228/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.134/32 | AMAZON | ap-southeast-2 |
-  | 13.34.41.96/27 | AMAZON | ap-southeast-2 |
-  | 13.34.11.74/32 | AMAZON | ap-southeast-2 |
   | 16.176.0.0/14 | AMAZON | ap-southeast-2 |
-  | 13.34.1.97/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.99/32 | AMAZON | ap-southeast-2 |
   | 15.230.149.4/31 | AMAZON | ap-southeast-2 |
-  | 13.34.1.76/32 | AMAZON | ap-southeast-2 |
-  | 13.34.41.128/27 | AMAZON | ap-southeast-2 |
   | 13.54.0.0/15 | AMAZON | ap-southeast-2 |
   | 52.95.241.0/24 | AMAZON | ap-southeast-2 |
   | 99.77.144.0/24 | AMAZON | ap-southeast-2 |
   | 150.222.72.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.7.136/32 | AMAZON | ap-southeast-2 |
   | 52.94.13.0/24 | AMAZON | ap-southeast-2 |
   | 64.252.106.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.11.72/32 | AMAZON | ap-southeast-2 |
   | 15.251.0.8/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.131/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.161/32 | AMAZON | ap-southeast-2 |
-  | 13.34.0.15/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.70/32 | AMAZON | ap-southeast-2 |
   | 15.230.222.0/24 | AMAZON | ap-southeast-2 |
   | 15.221.20.0/22 | AMAZON | ap-southeast-2 |
   | 150.222.43.96/27 | AMAZON | ap-southeast-2 |
   | 192.157.34.0/24 | AMAZON | ap-southeast-2 |
   | 52.64.128.0/17 | AMAZON | ap-southeast-2 |
-  | 13.34.7.167/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.227/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.233/32 | AMAZON | ap-southeast-2 |
   | 54.66.0.0/16 | AMAZON | ap-southeast-2 |
-  | 13.34.1.66/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.175/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.235/32 | AMAZON | ap-southeast-2 |
   | 13.210.0.0/15 | AMAZON | ap-southeast-2 |
   | 99.77.239.0/24 | AMAZON | ap-southeast-2 |
   | 52.94.152.178/32 | AMAZON | ap-southeast-2 |
   | 99.78.170.0/23 | AMAZON | ap-southeast-2 |
   | 35.71.97.0/24 | AMAZON | ap-southeast-2 |
   | 136.18.23.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.11.108/32 | AMAZON | ap-southeast-2 |
   | 52.62.0.0/15 | AMAZON | ap-southeast-2 |
-  | 13.34.1.111/32 | AMAZON | ap-southeast-2 |
   | 18.98.192.0/19 | AMAZON | ap-southeast-2 |
   | 52.94.152.176/32 | AMAZON | ap-southeast-2 |
-  | 13.34.19.140/32 | AMAZON | ap-southeast-2 |
   | 52.93.126.130/32 | AMAZON | ap-southeast-2 |
   | 52.94.152.179/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.236/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.98/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.165/32 | AMAZON | ap-southeast-2 |
-  | 13.34.123.32/27 | AMAZON | ap-southeast-2 |
   | 52.144.228.64/26 | AMAZON | ap-southeast-2 |
   | 104.255.59.87/32 | AMAZON | ap-southeast-2 |
-  | 13.34.19.174/32 | AMAZON | ap-southeast-2 |
   | 15.230.149.0/31 | AMAZON | ap-southeast-2 |
-  | 13.34.19.141/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.207/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.232/32 | AMAZON | ap-southeast-2 |
-  | 13.34.83.96/27 | AMAZON | ap-southeast-2 |
-  | 13.34.11.109/32 | AMAZON | ap-southeast-2 |
-  | 13.34.80.96/27 | AMAZON | ap-southeast-2 |
   | 13.248.109.0/24 | AMAZON | ap-southeast-2 |
   | 52.93.33.225/32 | AMAZON | ap-southeast-2 |
   | 3.33.41.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.1.107/32 | AMAZON | ap-southeast-2 |
-  | 13.34.19.143/32 | AMAZON | ap-southeast-2 |
   | 54.253.0.0/16 | AMAZON | ap-southeast-2 |
-  | 13.34.1.75/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.110/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.129/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.195/32 | AMAZON | ap-southeast-2 |
   | 150.222.142.0/24 | AMAZON | ap-southeast-2 |
   | 52.94.248.64/28 | AMAZON | ap-southeast-2 |
   | 173.83.212.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.68.198/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.107/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.133/32 | AMAZON | ap-southeast-2 |
-  | 13.34.123.0/27 | AMAZON | ap-southeast-2 |
   | 52.94.152.181/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.67/32 | AMAZON | ap-southeast-2 |
   | 52.93.126.136/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.102/32 | AMAZON | ap-southeast-2 |
   | 52.93.78.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.0.12/32 | AMAZON | ap-southeast-2 |
   | 15.230.22.0/24 | AMAZON | ap-southeast-2 |
   | 52.65.0.0/16 | AMAZON | ap-southeast-2 |
   | 64.252.109.0/24 | AMAZON | ap-southeast-2 |
   | 15.221.128.0/22 | AMAZON | ap-southeast-2 |
-  | 13.34.1.101/32 | AMAZON | ap-southeast-2 |
-  | 13.34.11.65/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.135/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.197/32 | AMAZON | ap-southeast-2 |
   | 15.230.107.2/31 | AMAZON | ap-southeast-2 |
   | 15.230.23.0/24 | AMAZON | ap-southeast-2 |
-  | 13.34.7.164/32 | AMAZON | ap-southeast-2 |
   | 54.79.0.0/16 | AMAZON | ap-southeast-2 |
-  | 13.34.103.192/27 | AMAZON | ap-southeast-2 |
   | 52.93.32.183/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.174/32 | AMAZON | ap-southeast-2 |
   | 13.248.102.0/24 | AMAZON | ap-southeast-2 |
   | 54.240.192.0/22 | AMAZON | ap-southeast-2 |
-  | 13.34.68.196/32 | AMAZON | ap-southeast-2 |
-  | 13.34.7.173/32 | AMAZON | ap-southeast-2 |
-  | 13.34.68.204/32 | AMAZON | ap-southeast-2 |
-  | 13.34.1.65/32 | AMAZON | ap-southeast-2 |
   | 3.104.82.0/23 | AMAZON | ap-southeast-2 |
   | 3.24.227.192/26 | AMAZON | ap-southeast-2 |
   | 3.25.138.0/26 | AMAZON | ap-southeast-2 |
@@ -2604,92 +2175,46 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.32.205/32 | AMAZON | ap-southeast-3 |
   | 104.255.59.104/32 | AMAZON | ap-southeast-3 |
   | 56.128.0.0/16 | AMAZON | ap-southeast-3 |
-  | 13.34.32.196/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.199/32 | AMAZON | ap-southeast-3 |
   | 159.248.224.0/21 | AMAZON | ap-southeast-3 |
   | 104.255.59.103/32 | AMAZON | ap-southeast-3 |
   | 15.230.4.164/31 | AMAZON | ap-southeast-3 |
-  | 13.34.32.202/32 | AMAZON | ap-southeast-3 |
   | 52.95.178.0/23 | AMAZON | ap-southeast-3 |
   | 3.5.36.0/22 | AMAZON | ap-southeast-3 |
-  | 13.34.32.194/32 | AMAZON | ap-southeast-3 |
-  | 13.34.35.224/27 | AMAZON | ap-southeast-3 |
   | 15.230.178.0/24 | AMAZON | ap-southeast-3 |
   | 13.248.110.0/24 | AMAZON | ap-southeast-3 |
-  | 13.34.32.197/32 | AMAZON | ap-southeast-3 |
   | 108.136.0.0/15 | AMAZON | ap-southeast-3 |
   | 150.222.49.128/27 | AMAZON | ap-southeast-3 |
-  | 13.34.32.241/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.201/32 | AMAZON | ap-southeast-3 |
   | 35.71.96.0/24 | AMAZON | ap-southeast-3 |
-  | 13.34.32.225/32 | AMAZON | ap-southeast-3 |
-  | 13.34.22.96/27 | AMAZON | ap-southeast-3 |
-  | 13.34.32.240/32 | AMAZON | ap-southeast-3 |
   | 15.230.4.166/31 | AMAZON | ap-southeast-3 |
   | 104.255.59.138/32 | AMAZON | ap-southeast-3 |
-  | 13.34.35.192/27 | AMAZON | ap-southeast-3 |
   | 15.230.64.0/26 | AMAZON | ap-southeast-3 |
-  | 13.34.32.227/32 | AMAZON | ap-southeast-3 |
   | 18.98.96.0/19 | AMAZON | ap-southeast-3 |
   | 56.131.0.0/16 | AMAZON | ap-southeast-3 |
-  | 13.34.32.200/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.193/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.230/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.239/32 | AMAZON | ap-southeast-3 |
   | 99.78.232.0/21 | AMAZON | ap-southeast-3 |
   | 99.78.240.0/20 | AMAZON | ap-southeast-3 |
-  | 13.34.32.207/32 | AMAZON | ap-southeast-3 |
   | 104.255.59.101/32 | AMAZON | ap-southeast-3 |
   | 150.222.49.96/27 | AMAZON | ap-southeast-3 |
   | 150.222.49.160/27 | AMAZON | ap-southeast-3 |
   | 15.230.64.64/26 | AMAZON | ap-southeast-3 |
   | 52.95.177.0/24 | AMAZON | ap-southeast-3 |
-  | 13.34.32.209/32 | AMAZON | ap-southeast-3 |
   | 43.218.0.0/16 | AMAZON | ap-southeast-3 |
-  | 13.34.16.192/27 | AMAZON | ap-southeast-3 |
   | 13.248.71.0/24 | AMAZON | ap-southeast-3 |
   | 15.230.217.0/24 | AMAZON | ap-southeast-3 |
   | 52.94.249.192/28 | AMAZON | ap-southeast-3 |
   | 56.129.0.0/16 | AMAZON | ap-southeast-3 |
-  | 13.34.32.235/32 | AMAZON | ap-southeast-3 |
-  | 13.34.78.32/27 | AMAZON | ap-southeast-3 |
-  | 13.34.16.224/27 | AMAZON | ap-southeast-3 |
-  | 13.34.32.195/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.208/32 | AMAZON | ap-southeast-3 |
   | 52.95.235.0/24 | AMAZON | ap-southeast-3 |
   | 56.130.0.0/16 | AMAZON | ap-southeast-3 |
   | 104.255.59.105/32 | AMAZON | ap-southeast-3 |
-  | 13.34.17.0/27 | AMAZON | ap-southeast-3 |
   | 99.78.228.0/22 | AMAZON | ap-southeast-3 |
-  | 13.34.36.0/27 | AMAZON | ap-southeast-3 |
-  | 13.34.17.32/27 | AMAZON | ap-southeast-3 |
-  | 13.34.32.236/32 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
-  | 13.34.32.206/32 | AMAZON | ap-southeast-3 |
   | 16.79.0.0/16 | AMAZON | ap-southeast-3 |
-  | 13.34.32.198/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.238/32 | AMAZON | ap-southeast-3 |
-  | 13.34.22.128/27 | AMAZON | ap-southeast-3 |
-  | 13.34.36.32/27 | AMAZON | ap-southeast-3 |
-  | 13.34.32.231/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.234/32 | AMAZON | ap-southeast-3 |
   | 104.255.59.102/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.204/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.233/32 | AMAZON | ap-southeast-3 |
   | 104.255.59.139/32 | AMAZON | ap-southeast-3 |
   | 104.255.59.106/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.228/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.237/32 | AMAZON | ap-southeast-3 |
-  | 13.34.78.0/27 | AMAZON | ap-southeast-3 |
-  | 13.34.32.203/32 | AMAZON | ap-southeast-3 |
   | 16.78.0.0/16 | AMAZON | ap-southeast-3 |
-  | 13.34.32.226/32 | AMAZON | ap-southeast-3 |
-  | 13.34.32.229/32 | AMAZON | ap-southeast-3 |
   | 99.77.237.0/24 | AMAZON | ap-southeast-3 |
-  | 13.34.32.232/32 | AMAZON | ap-southeast-3 |
   | 15.230.64.128/26 | AMAZON | ap-southeast-3 |
   | 15.177.92.0/24 | AMAZON | ap-southeast-3 |
   | 108.136.151.0/24 | AMAZON | ap-southeast-3 |
@@ -2750,20 +2275,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.37.64/27 | AMAZON | ap-southeast-4 |
   | 13.248.67.0/24 | AMAZON | ap-southeast-4 |
   | 150.222.51.160/27 | AMAZON | ap-southeast-4 |
   | 3.5.40.0/22 | AMAZON | ap-southeast-4 |
   | 56.99.0.0/16 | AMAZON | ap-southeast-4 |
   | 70.232.80.0/21 | AMAZON | ap-southeast-4 |
   | 52.95.168.0/24 | AMAZON | ap-southeast-4 |
-  | 13.34.37.0/27 | AMAZON | ap-southeast-4 |
   | 56.97.0.0/16 | AMAZON | ap-southeast-4 |
   | 52.94.250.16/28 | AMAZON | ap-southeast-4 |
-  | 13.34.37.96/27 | AMAZON | ap-southeast-4 |
   | 52.95.166.0/23 | AMAZON | ap-southeast-4 |
-  | 13.34.37.160/27 | AMAZON | ap-southeast-4 |
-  | 13.34.18.192/27 | AMAZON | ap-southeast-4 |
   | 104.255.59.133/32 | AMAZON | ap-southeast-4 |
   | 104.255.59.134/32 | AMAZON | ap-southeast-4 |
   | 104.255.59.130/32 | AMAZON | ap-southeast-4 |
@@ -2771,22 +2291,17 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.239.1.224/28 | AMAZON | ap-southeast-4 |
   | 70.232.88.0/22 | AMAZON | ap-southeast-4 |
   | 35.71.112.0/24 | AMAZON | ap-southeast-4 |
-  | 13.34.37.128/27 | AMAZON | ap-southeast-4 |
   | 56.98.0.0/16 | AMAZON | ap-southeast-4 |
   | 99.151.72.0/21 | AMAZON | ap-southeast-4 |
   | 16.27.0.0/16 | AMAZON | ap-southeast-4 |
   | 70.232.64.0/20 | AMAZON | ap-southeast-4 |
   | 104.255.59.132/32 | AMAZON | ap-southeast-4 |
-  | 13.34.37.192/27 | AMAZON | ap-southeast-4 |
   | 150.222.51.192/27 | AMAZON | ap-southeast-4 |
-  | 13.34.37.32/27 | AMAZON | ap-southeast-4 |
   | 150.222.51.224/27 | AMAZON | ap-southeast-4 |
-  | 13.34.37.224/27 | AMAZON | ap-southeast-4 |
   | 15.230.118.0/24 | AMAZON | ap-southeast-4 |
   | 104.255.59.131/32 | AMAZON | ap-southeast-4 |
   | 18.99.192.0/20 | AMAZON | ap-southeast-4 |
   | 16.50.0.0/15 | AMAZON | ap-southeast-4 |
-  | 13.34.18.224/27 | AMAZON | ap-southeast-4 |
   | 15.177.96.0/24 | AMAZON | ap-southeast-4 |
   | 15.230.249.0/24 | AMAZON | ap-southeast-4 |
   | 56.96.0.0/16 | AMAZON | ap-southeast-4 |
@@ -2839,70 +2354,28 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.44.0/24 | AMAZON | ap-southeast-5 |
   | 99.151.160.0/21 | AMAZON | ap-southeast-5 |
   | 150.222.52.224/27 | AMAZON | ap-southeast-5 |
-  | 13.34.108.192/27 | AMAZON | ap-southeast-5 |
-  | 13.34.18.4/32 | AMAZON | ap-southeast-5 |
   | 104.255.59.201/32 | AMAZON | ap-southeast-5 |
   | 13.248.75.0/24 | AMAZON | ap-southeast-5 |
-  | 13.34.18.35/32 | AMAZON | ap-southeast-5 |
   | 150.222.53.0/27 | AMAZON | ap-southeast-5 |
-  | 13.34.18.3/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.16/32 | AMAZON | ap-southeast-5 |
   | 56.69.0.0/16 | AMAZON | ap-southeast-5 |
-  | 13.34.18.1/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.47/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.49/32 | AMAZON | ap-southeast-5 |
   | 16.12.42.0/23 | AMAZON | ap-southeast-5 |
   | 156.4.0.0/15 | AMAZON | ap-southeast-5 |
-  | 13.34.109.0/27 | AMAZON | ap-southeast-5 |
-  | 13.34.18.13/32 | AMAZON | ap-southeast-5 |
-  | 13.34.109.32/27 | AMAZON | ap-southeast-5 |
-  | 13.34.18.33/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.41/32 | AMAZON | ap-southeast-5 |
   | 15.190.4.0/22 | AMAZON | ap-southeast-5 |
   | 15.177.95.0/24 | AMAZON | ap-southeast-5 |
   | 56.68.0.0/16 | AMAZON | ap-southeast-5 |
-  | 13.34.108.224/27 | AMAZON | ap-southeast-5 |
   | 43.216.0.0/15 | AMAZON | ap-southeast-5 |
-  | 13.34.108.64/27 | AMAZON | ap-southeast-5 |
-  | 13.34.18.10/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.45/32 | AMAZON | ap-southeast-5 |
   | 3.5.180.0/22 | AMAZON | ap-southeast-5 |
   | 104.255.59.199/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.5/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.8/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.34/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.11/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.2/32 | AMAZON | ap-southeast-5 |
   | 52.94.250.80/28 | AMAZON | ap-southeast-5 |
   | 56.71.0.0/16 | AMAZON | ap-southeast-5 |
   | 104.255.59.197/32 | AMAZON | ap-southeast-5 |
   | 15.248.56.0/21 | AMAZON | ap-southeast-5 |
   | 104.255.59.198/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.48/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.6/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.14/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.7/32 | AMAZON | ap-southeast-5 |
   | 56.70.0.0/16 | AMAZON | ap-southeast-5 |
-  | 13.34.18.36/32 | AMAZON | ap-southeast-5 |
   | 76.223.170.32/28 | AMAZON | ap-southeast-5 |
   | 104.255.59.200/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.40/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.46/32 | AMAZON | ap-southeast-5 |
   | 104.255.59.196/32 | AMAZON | ap-southeast-5 |
-  | 13.34.108.96/27 | AMAZON | ap-southeast-5 |
-  | 13.34.18.42/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.43/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.12/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.17/32 | AMAZON | ap-southeast-5 |
   | 150.222.52.192/27 | AMAZON | ap-southeast-5 |
-  | 13.34.108.128/27 | AMAZON | ap-southeast-5 |
-  | 13.34.18.37/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.15/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.44/32 | AMAZON | ap-southeast-5 |
-  | 13.34.108.160/27 | AMAZON | ap-southeast-5 |
-  | 13.34.18.9/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.38/32 | AMAZON | ap-southeast-5 |
-  | 13.34.18.39/32 | AMAZON | ap-southeast-5 |
   | 43.216.52.0/23 | AMAZON | ap-southeast-5 |
   | 43.216.61.0/24 | AMAZON | ap-southeast-5 |
   | 43.216.63.0/24 | AMAZON | ap-southeast-5 |
@@ -2937,23 +2410,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.78.160/27 | AMAZON | ca-central-1 |
   | 15.230.110.0/24 | AMAZON | ca-central-1 |
-  | 13.34.7.224/27 | AMAZON | ca-central-1 |
-  | 13.34.107.64/27 | AMAZON | ca-central-1 |
-  | 13.34.107.32/27 | AMAZON | ca-central-1 |
   | 52.144.199.128/26 | AMAZON | ca-central-1 |
   | 52.93.45.128/25 | AMAZON | ca-central-1 |
   | 52.93.5.0/24 | AMAZON | ca-central-1 |
   | 52.93.193.200/32 | AMAZON | ca-central-1 |
-  | 13.34.85.32/27 | AMAZON | ca-central-1 |
-  | 13.34.106.224/27 | AMAZON | ca-central-1 |
   | 52.93.193.199/32 | AMAZON | ca-central-1 |
   | 15.222.0.0/15 | AMAZON | ca-central-1 |
-  | 13.34.84.224/27 | AMAZON | ca-central-1 |
-  | 13.34.85.128/27 | AMAZON | ca-central-1 |
   | 35.71.119.0/24 | AMAZON | ca-central-1 |
-  | 13.34.85.0/27 | AMAZON | ca-central-1 |
   | 52.93.127.196/32 | AMAZON | ca-central-1 |
   | 52.93.193.195/32 | AMAZON | ca-central-1 |
   | 15.230.79.64/26 | AMAZON | ca-central-1 |
@@ -2966,7 +2430,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.96.0.0/15 | AMAZON | ca-central-1 |
   | 3.5.252.0/22 | AMAZON | ca-central-1 |
   | 16.52.0.0/14 | AMAZON | ca-central-1 |
-  | 13.34.107.0/27 | AMAZON | ca-central-1 |
   | 15.230.91.0/24 | AMAZON | ca-central-1 |
   | 52.93.193.198/32 | AMAZON | ca-central-1 |
   | 15.251.0.47/32 | AMAZON | ca-central-1 |
@@ -2974,12 +2437,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.221.33.0/24 | AMAZON | ca-central-1 |
   | 150.222.43.224/27 | AMAZON | ca-central-1 |
   | 99.151.128.0/21 | AMAZON | ca-central-1 |
-  | 13.34.121.0/27 | AMAZON | ca-central-1 |
   | 99.82.174.0/24 | AMAZON | ca-central-1 |
   | 99.79.0.0/16 | AMAZON | ca-central-1 |
   | 150.222.109.0/24 | AMAZON | ca-central-1 |
   | 15.251.0.48/32 | AMAZON | ca-central-1 |
-  | 13.34.84.192/27 | AMAZON | ca-central-1 |
   | 52.93.75.0/24 | AMAZON | ca-central-1 |
   | 52.93.193.196/32 | AMAZON | ca-central-1 |
   | 52.93.127.197/32 | AMAZON | ca-central-1 |
@@ -2995,20 +2456,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.14.0/24 | AMAZON | ca-central-1 |
   | 15.230.79.128/26 | AMAZON | ca-central-1 |
   | 52.93.193.202/32 | AMAZON | ca-central-1 |
-  | 13.34.107.96/27 | AMAZON | ca-central-1 |
   | 52.60.0.0/16 | AMAZON | ca-central-1 |
   | 52.93.193.192/32 | AMAZON | ca-central-1 |
   | 3.98.0.0/15 | AMAZON | ca-central-1 |
-  | 13.34.7.192/27 | AMAZON | ca-central-1 |
-  | 13.34.78.128/27 | AMAZON | ca-central-1 |
   | 52.95.146.0/23 | AMAZON | ca-central-1 |
   | 15.177.84.0/24 | AMAZON | ca-central-1 |
   | 150.222.43.160/27 | AMAZON | ca-central-1 |
-  | 13.34.106.192/27 | AMAZON | ca-central-1 |
   | 52.93.193.194/32 | AMAZON | ca-central-1 |
   | 52.144.201.64/26 | AMAZON | ca-central-1 |
   | 15.156.0.0/15 | AMAZON | ca-central-1 |
-  | 13.34.121.32/27 | AMAZON | ca-central-1 |
   | 52.94.198.128/28 | AMAZON | ca-central-1 |
   | 16.12.4.0/23 | AMAZON | ca-central-1 |
   | 52.93.193.193/32 | AMAZON | ca-central-1 |
@@ -3020,7 +2476,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.239.1.0/28 | AMAZON | ca-central-1 |
   | 150.222.43.192/27 | AMAZON | ca-central-1 |
   | 161.193.128.0/18 | AMAZON | ca-central-1 |
-  | 13.34.85.160/27 | AMAZON | ca-central-1 |
   | 15.193.8.0/24 | AMAZON | ca-central-1 |
   | 99.77.150.0/24 | AMAZON | ca-central-1 |
   | 15.156.212.0/22 | AMAZON | ca-central-1 |
@@ -3428,20 +2883,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.9.100/32 | AMAZON | eu-central-1 |
   | 15.230.15.29/32 | AMAZON | eu-central-1 |
   | 15.230.15.76/31 | AMAZON | eu-central-1 |
   | 52.93.244.0/24 | AMAZON | eu-central-1 |
   | 52.219.170.0/23 | AMAZON | eu-central-1 |
-  | 13.34.8.228/32 | AMAZON | eu-central-1 |
-  | 13.34.9.68/32 | AMAZON | eu-central-1 |
   | 52.219.168.0/24 | AMAZON | eu-central-1 |
   | 52.93.126.135/32 | AMAZON | eu-central-1 |
   | 15.230.15.104/31 | AMAZON | eu-central-1 |
   | 15.230.15.162/31 | AMAZON | eu-central-1 |
   | 18.96.32.0/19 | AMAZON | eu-central-1 |
   | 15.230.15.48/31 | AMAZON | eu-central-1 |
-  | 13.34.9.75/32 | AMAZON | eu-central-1 |
   | 15.230.15.178/31 | AMAZON | eu-central-1 |
   | 15.230.15.188/31 | AMAZON | eu-central-1 |
   | 16.12.32.0/22 | AMAZON | eu-central-1 |
@@ -3450,7 +2901,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.94/31 | AMAZON | eu-central-1 |
   | 15.230.15.72/31 | AMAZON | eu-central-1 |
   | 3.5.136.0/22 | AMAZON | eu-central-1 |
-  | 13.34.8.200/32 | AMAZON | eu-central-1 |
   | 15.230.15.126/31 | AMAZON | eu-central-1 |
   | 15.230.241.0/24 | AMAZON | eu-central-1 |
   | 52.219.72.0/22 | AMAZON | eu-central-1 |
@@ -3458,24 +2908,19 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.192.0.0/15 | AMAZON | eu-central-1 |
   | 52.93.126.132/32 | AMAZON | eu-central-1 |
   | 64.252.89.0/24 | AMAZON | eu-central-1 |
-  | 13.34.8.234/32 | AMAZON | eu-central-1 |
   | 15.230.15.164/31 | AMAZON | eu-central-1 |
   | 15.230.15.176/31 | AMAZON | eu-central-1 |
   | 99.78.156.0/22 | AMAZON | eu-central-1 |
   | 63.176.0.0/14 | AMAZON | eu-central-1 |
-  | 13.34.9.66/32 | AMAZON | eu-central-1 |
   | 15.230.15.120/31 | AMAZON | eu-central-1 |
   | 150.222.86.0/24 | AMAZON | eu-central-1 |
-  | 13.34.8.193/32 | AMAZON | eu-central-1 |
   | 104.153.114.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.192/31 | AMAZON | eu-central-1 |
   | 99.77.136.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.58/31 | AMAZON | eu-central-1 |
   | 150.222.245.122/31 | AMAZON | eu-central-1 |
-  | 13.34.9.107/32 | AMAZON | eu-central-1 |
   | 15.230.15.102/31 | AMAZON | eu-central-1 |
   | 15.230.15.90/31 | AMAZON | eu-central-1 |
-  | 13.34.8.199/32 | AMAZON | eu-central-1 |
   | 15.230.15.52/31 | AMAZON | eu-central-1 |
   | 15.230.15.208/31 | AMAZON | eu-central-1 |
   | 150.222.27.0/24 | AMAZON | eu-central-1 |
@@ -3487,25 +2932,19 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.145.2.0/23 | AMAZON | eu-central-1-wl1-muc-wlz-1 |
   | 52.219.211.0/24 | AMAZON | eu-central-1 |
   | 52.93.127.238/32 | AMAZON | eu-central-1 |
-  | 13.34.8.229/32 | AMAZON | eu-central-1 |
   | 15.230.15.160/31 | AMAZON | eu-central-1 |
   | 63.180.0.0/14 | AMAZON | eu-central-1 |
-  | 13.34.9.110/32 | AMAZON | eu-central-1 |
   | 15.230.15.168/31 | AMAZON | eu-central-1 |
   | 15.230.15.200/31 | AMAZON | eu-central-1 |
   | 15.230.15.30/32 | AMAZON | eu-central-1 |
   | 150.222.5.0/24 | AMAZON | eu-central-1 |
-  | 13.34.8.198/32 | AMAZON | eu-central-1 |
   | 15.230.15.150/31 | AMAZON | eu-central-1 |
   | 52.58.0.0/15 | AMAZON | eu-central-1 |
   | 15.230.15.74/31 | AMAZON | eu-central-1 |
-  | 13.34.8.233/32 | AMAZON | eu-central-1 |
   | 15.220.48.0/21 | AMAZON | eu-central-1-waw-1 |
   | 15.230.15.8/32 | AMAZON | eu-central-1 |
   | 15.230.15.255/32 | AMAZON | eu-central-1 |
   | 18.184.0.0/15 | AMAZON | eu-central-1 |
-  | 13.34.8.227/32 | AMAZON | eu-central-1 |
-  | 13.34.9.67/32 | AMAZON | eu-central-1 |
   | 15.230.15.182/31 | AMAZON | eu-central-1 |
   | 15.230.111.0/24 | AMAZON | eu-central-1 |
   | 52.57.0.0/16 | AMAZON | eu-central-1 |
@@ -3513,7 +2952,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.97.0/24 | AMAZON | eu-central-1 |
   | 150.222.213.0/24 | AMAZON | eu-central-1 |
   | 54.93.0.0/16 | AMAZON | eu-central-1 |
-  | 13.34.8.235/32 | AMAZON | eu-central-1 |
   | 3.124.0.0/14 | AMAZON | eu-central-1 |
   | 15.230.15.112/31 | AMAZON | eu-central-1 |
   | 15.230.65.0/26 | AMAZON | eu-central-1 |
@@ -3526,8 +2964,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.10.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.142/31 | AMAZON | eu-central-1 |
   | 83.119.128.0/18 | AMAZON | eu-central-1 |
-  | 13.34.8.196/32 | AMAZON | eu-central-1 |
-  | 13.34.9.70/32 | AMAZON | eu-central-1 |
   | 15.220.152.0/21 | AMAZON | eu-central-1-ham-1 |
   | 54.239.54.0/23 | AMAZON | eu-central-1 |
   | 15.230.15.31/32 | AMAZON | eu-central-1 |
@@ -3556,36 +2992,26 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.122/31 | AMAZON | eu-central-1 |
   | 150.222.104.0/24 | AMAZON | eu-central-1 |
   | 151.148.17.0/24 | AMAZON | eu-central-1 |
-  | 13.34.9.72/32 | AMAZON | eu-central-1 |
   | 15.230.15.202/31 | AMAZON | eu-central-1 |
-  | 13.34.9.102/32 | AMAZON | eu-central-1 |
   | 15.230.15.5/32 | AMAZON | eu-central-1 |
   | 15.230.15.206/31 | AMAZON | eu-central-1 |
-  | 13.34.9.65/32 | AMAZON | eu-central-1 |
   | 15.230.15.214/31 | AMAZON | eu-central-1 |
   | 15.230.15.130/31 | AMAZON | eu-central-1 |
   | 15.145.0.0/23 | AMAZON | eu-central-1-wl1-dtm-wlz-1 |
   | 15.230.15.116/31 | AMAZON | eu-central-1 |
   | 99.77.158.0/24 | AMAZON | eu-central-1 |
-  | 13.34.8.197/32 | AMAZON | eu-central-1 |
   | 150.222.122.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.50/31 | AMAZON | eu-central-1 |
-  | 13.34.8.238/32 | AMAZON | eu-central-1 |
   | 150.222.139.124/30 | AMAZON | eu-central-1 |
-  | 13.34.8.226/32 | AMAZON | eu-central-1 |
   | 15.230.15.154/31 | AMAZON | eu-central-1 |
   | 52.93.127.237/32 | AMAZON | eu-central-1 |
   | 3.64.0.0/12 | AMAZON | eu-central-1 |
   | 15.230.15.108/31 | AMAZON | eu-central-1 |
   | 151.148.35.0/24 | AMAZON | eu-central-1 |
-  | 13.34.8.195/32 | AMAZON | eu-central-1 |
   | 150.222.36.0/25 | AMAZON | eu-central-1 |
   | 52.94.198.48/28 | AMAZON | eu-central-1 |
   | 15.230.85.0/24 | AMAZON | eu-central-1 |
-  | 13.34.8.206/32 | AMAZON | eu-central-1 |
-  | 13.34.9.98/32 | AMAZON | eu-central-1 |
   | 15.145.12.0/22 | AMAZON | eu-central-1-wl1-muc-wlz-1 |
-  | 13.34.8.202/32 | AMAZON | eu-central-1 |
   | 15.230.15.88/31 | AMAZON | eu-central-1 |
   | 15.230.15.156/31 | AMAZON | eu-central-1 |
   | 15.230.15.42/31 | AMAZON | eu-central-1 |
@@ -3593,7 +3019,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.174/31 | AMAZON | eu-central-1 |
   | 64.252.88.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.184/31 | AMAZON | eu-central-1 |
-  | 13.34.8.232/32 | AMAZON | eu-central-1 |
   | 15.230.15.46/31 | AMAZON | eu-central-1 |
   | 52.94.136.0/21 | AMAZON | eu-central-1 |
   | 54.239.4.0/22 | AMAZON | eu-central-1 |
@@ -3620,11 +3045,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.120.0.0/14 | AMAZON | eu-central-1 |
   | 18.198.0.0/15 | AMAZON | eu-central-1 |
   | 15.230.15.140/31 | AMAZON | eu-central-1 |
-  | 13.34.9.104/32 | AMAZON | eu-central-1 |
   | 15.230.15.11/32 | AMAZON | eu-central-1 |
   | 15.230.15.84/31 | AMAZON | eu-central-1 |
   | 15.230.15.110/31 | AMAZON | eu-central-1 |
-  | 13.34.9.79/32 | AMAZON | eu-central-1 |
   | 15.230.131.0/24 | AMAZON | eu-central-1 |
   | 52.94.248.112/28 | AMAZON | eu-central-1 |
   | 15.230.15.134/31 | AMAZON | eu-central-1 |
@@ -3635,23 +3058,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.221.3.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.60/31 | AMAZON | eu-central-1 |
   | 15.230.15.166/31 | AMAZON | eu-central-1 |
-  | 13.34.8.203/32 | AMAZON | eu-central-1 |
-  | 13.34.9.99/32 | AMAZON | eu-central-1 |
   | 15.230.15.114/31 | AMAZON | eu-central-1 |
   | 52.144.210.192/26 | AMAZON | eu-central-1 |
-  | 13.34.9.74/32 | AMAZON | eu-central-1 |
   | 52.94.17.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.204/31 | AMAZON | eu-central-1 |
-  | 13.34.9.73/32 | AMAZON | eu-central-1 |
   | 15.230.15.62/31 | AMAZON | eu-central-1 |
-  | 13.34.8.201/32 | AMAZON | eu-central-1 |
   | 13.248.123.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.38/31 | AMAZON | eu-central-1 |
-  | 13.34.8.194/32 | AMAZON | eu-central-1 |
   | 35.156.0.0/14 | AMAZON | eu-central-1 |
   | 15.230.15.10/32 | AMAZON | eu-central-1 |
   | 52.219.44.0/22 | AMAZON | eu-central-1 |
-  | 13.34.8.239/32 | AMAZON | eu-central-1 |
   | 52.219.169.0/24 | AMAZON | eu-central-1 |
   | 15.145.16.0/22 | AMAZON | eu-central-1-wl1-ber-wlz-1 |
   | 54.239.0.160/28 | AMAZON | eu-central-1 |
@@ -3660,13 +3076,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.7/32 | AMAZON | eu-central-1 |
   | 15.230.15.216/31 | AMAZON | eu-central-1 |
   | 15.230.52.0/24 | AMAZON | eu-central-1 |
-  | 13.34.9.101/32 | AMAZON | eu-central-1 |
   | 15.230.15.4/32 | AMAZON | eu-central-1 |
   | 52.219.140.0/24 | AMAZON | eu-central-1 |
   | 63.184.0.0/13 | AMAZON | eu-central-1 |
-  | 13.34.9.97/32 | AMAZON | eu-central-1 |
   | 18.153.0.0/16 | AMAZON | eu-central-1 |
-  | 13.34.8.231/32 | AMAZON | eu-central-1 |
   | 173.83.196.0/23 | AMAZON | eu-central-1 |
   | 99.83.99.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.254/32 | AMAZON | eu-central-1 |
@@ -3674,7 +3087,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.139.120/30 | AMAZON | eu-central-1 |
   | 15.230.15.54/31 | AMAZON | eu-central-1 |
   | 15.230.15.210/31 | AMAZON | eu-central-1 |
-  | 13.34.9.69/32 | AMAZON | eu-central-1 |
   | 150.222.230.0/24 | AMAZON | eu-central-1 |
   | 54.239.56.0/21 | AMAZON | eu-central-1 |
   | 64.252.86.0/24 | AMAZON | eu-central-1 |
@@ -3682,34 +3094,26 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.218/31 | AMAZON | eu-central-1 |
   | 15.230.15.14/32 | AMAZON | eu-central-1 |
   | 15.230.15.148/31 | AMAZON | eu-central-1 |
-  | 13.34.8.230/32 | AMAZON | eu-central-1 |
   | 15.230.15.0/32 | AMAZON | eu-central-1 |
   | 15.230.15.40/31 | AMAZON | eu-central-1 |
   | 52.95.248.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.56/31 | AMAZON | eu-central-1 |
-  | 13.34.8.207/32 | AMAZON | eu-central-1 |
   | 15.230.15.158/31 | AMAZON | eu-central-1 |
   | 52.94.146.0/24 | AMAZON | eu-central-1 |
   | 52.144.211.0/26 | AMAZON | eu-central-1 |
-  | 13.34.9.106/32 | AMAZON | eu-central-1 |
   | 18.89.0.0/18 | AMAZON | eu-central-1 |
   | 18.194.0.0/15 | AMAZON | eu-central-1 |
   | 99.82.163.0/24 | AMAZON | eu-central-1 |
   | 52.46.184.0/22 | AMAZON | eu-central-1 |
   | 52.93.111.0/24 | AMAZON | eu-central-1 |
-  | 13.34.9.71/32 | AMAZON | eu-central-1 |
-  | 13.34.9.111/32 | AMAZON | eu-central-1 |
   | 15.230.15.6/32 | AMAZON | eu-central-1 |
   | 15.230.15.132/31 | AMAZON | eu-central-1 |
   | 52.119.188.0/22 | AMAZON | eu-central-1 |
   | 15.230.15.82/31 | AMAZON | eu-central-1 |
-  | 13.34.8.225/32 | AMAZON | eu-central-1 |
   | 15.230.15.194/31 | AMAZON | eu-central-1 |
   | 52.219.208.0/23 | AMAZON | eu-central-1 |
   | 150.222.4.0/24 | AMAZON | eu-central-1 |
   | 150.222.129.0/24 | AMAZON | eu-central-1 |
-  | 13.34.9.76/32 | AMAZON | eu-central-1 |
-  | 13.34.9.105/32 | AMAZON | eu-central-1 |
   | 15.230.15.16/32 | AMAZON | eu-central-1 |
   | 15.230.15.36/31 | AMAZON | eu-central-1 |
   | 15.230.15.78/31 | AMAZON | eu-central-1 |
@@ -3721,13 +3125,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.126.134/32 | AMAZON | eu-central-1 |
   | 35.71.105.0/24 | AMAZON | eu-central-1 |
   | 52.28.0.0/16 | AMAZON | eu-central-1 |
-  | 13.34.9.103/32 | AMAZON | eu-central-1 |
   | 15.145.8.0/22 | AMAZON | eu-central-1-wl1-dtm-wlz-1 |
   | 15.230.15.92/31 | AMAZON | eu-central-1 |
   | 15.230.15.212/31 | AMAZON | eu-central-1 |
   | 150.222.35.0/25 | AMAZON | eu-central-1 |
   | 3.5.134.0/23 | AMAZON | eu-central-1 |
-  | 13.34.9.78/32 | AMAZON | eu-central-1 |
   | 15.230.15.124/31 | AMAZON | eu-central-1 |
   | 15.177.68.0/23 | AMAZON | eu-central-1 |
   | 15.230.15.3/32 | AMAZON | eu-central-1 |
@@ -3898,20 +3300,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.96.96/27 | AMAZON | eu-central-2 |
   | 56.242.0.0/16 | AMAZON | eu-central-2 |
-  | 13.34.39.32/27 | AMAZON | eu-central-2 |
-  | 13.34.39.64/27 | AMAZON | eu-central-2 |
-  | 13.34.39.192/27 | AMAZON | eu-central-2 |
   | 52.95.139.0/24 | AMAZON | eu-central-2 |
   | 13.248.68.0/24 | AMAZON | eu-central-2 |
-  | 13.34.40.96/27 | AMAZON | eu-central-2 |
   | 150.222.51.96/27 | AMAZON | eu-central-2 |
-  | 13.34.109.128/27 | AMAZON | eu-central-2 |
   | 150.222.51.64/27 | AMAZON | eu-central-2 |
-  | 13.34.62.64/27 | AMAZON | eu-central-2 |
   | 99.151.80.0/21 | AMAZON | eu-central-2 |
-  | 13.34.39.96/27 | AMAZON | eu-central-2 |
   | 16.62.0.0/15 | AMAZON | eu-central-2 |
   | 52.95.140.0/23 | AMAZON | eu-central-2 |
   | 51.96.0.0/16 | AMAZON | eu-central-2 |
@@ -3920,22 +3314,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.34.0.0/15 | AMAZON | eu-central-2 |
   | 56.241.0.0/16 | AMAZON | eu-central-2 |
   | 54.239.1.208/28 | AMAZON | eu-central-2 |
-  | 13.34.40.64/27 | AMAZON | eu-central-2 |
   | 70.232.96.0/20 | AMAZON | eu-central-2 |
-  | 13.34.39.128/27 | AMAZON | eu-central-2 |
   | 18.98.224.0/19 | AMAZON | eu-central-2 |
   | 56.243.0.0/16 | AMAZON | eu-central-2 |
-  | 13.34.109.160/27 | AMAZON | eu-central-2 |
-  | 13.34.62.96/27 | AMAZON | eu-central-2 |
   | 56.240.0.0/16 | AMAZON | eu-central-2 |
   | 15.177.98.0/24 | AMAZON | eu-central-2 |
-  | 13.34.96.64/27 | AMAZON | eu-central-2 |
-  | 13.34.39.0/27 | AMAZON | eu-central-2 |
   | 70.232.120.0/22 | AMAZON | eu-central-2 |
   | 35.71.121.0/24 | AMAZON | eu-central-2 |
   | 52.94.250.0/28 | AMAZON | eu-central-2 |
-  | 13.34.39.224/27 | AMAZON | eu-central-2 |
-  | 13.34.39.160/27 | AMAZON | eu-central-2 |
   | 15.230.244.0/24 | AMAZON | eu-central-2 |
   | 70.232.112.0/21 | AMAZON | eu-central-2 |
   | 3.5.52.0/22 | AMAZON | eu-central-2 |
@@ -3979,164 +3365,78 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.6.139/32 | AMAZON | eu-north-1 |
-  | 13.34.14.70/32 | AMAZON | eu-north-1 |
   | 52.46.220.0/22 | AMAZON | eu-north-1 |
-  | 13.34.24.12/32 | AMAZON | eu-north-1 |
-  | 13.34.24.36/32 | AMAZON | eu-north-1 |
   | 15.230.68.192/26 | AMAZON | eu-north-1 |
-  | 13.34.14.105/32 | AMAZON | eu-north-1 |
-  | 13.34.24.41/32 | AMAZON | eu-north-1 |
   | 96.0.32.0/22 | AMAZON | eu-north-1-cph-1 |
   | 52.144.215.192/31 | AMAZON | eu-north-1 |
   | 54.239.1.96/28 | AMAZON | eu-north-1 |
   | 13.248.100.0/24 | AMAZON | eu-north-1 |
   | 52.46.208.0/21 | AMAZON | eu-north-1 |
-  | 13.34.14.73/32 | AMAZON | eu-north-1 |
-  | 13.34.6.175/32 | AMAZON | eu-north-1 |
-  | 13.34.24.11/32 | AMAZON | eu-north-1 |
-  | 13.34.24.44/32 | AMAZON | eu-north-1 |
-  | 13.34.14.108/32 | AMAZON | eu-north-1 |
-  | 13.34.24.10/32 | AMAZON | eu-north-1 |
-  | 13.34.14.66/32 | AMAZON | eu-north-1 |
   | 15.220.168.0/21 | AMAZON | eu-north-1-hel-1 |
-  | 13.34.14.74/32 | AMAZON | eu-north-1 |
-  | 13.34.6.174/32 | AMAZON | eu-north-1 |
-  | 13.34.14.110/32 | AMAZON | eu-north-1 |
-  | 13.34.24.8/32 | AMAZON | eu-north-1 |
   | 16.12.10.0/23 | AMAZON | eu-north-1 |
-  | 13.34.14.106/32 | AMAZON | eu-north-1 |
   | 51.20.0.0/16 | AMAZON | eu-north-1 |
-  | 13.34.6.169/32 | AMAZON | eu-north-1 |
   | 52.144.216.2/31 | AMAZON | eu-north-1 |
-  | 13.34.24.2/32 | AMAZON | eu-north-1 |
   | 52.144.215.196/31 | AMAZON | eu-north-1 |
   | 52.95.169.0/24 | AMAZON | eu-north-1 |
   | 150.222.203.0/24 | AMAZON | eu-north-1 |
   | 15.230.96.0/24 | AMAZON | eu-north-1 |
   | 150.222.42.64/26 | AMAZON | eu-north-1 |
   | 99.77.137.0/24 | AMAZON | eu-north-1 |
-  | 13.34.14.100/32 | AMAZON | eu-north-1 |
-  | 13.34.14.103/32 | AMAZON | eu-north-1 |
-  | 13.34.6.161/32 | AMAZON | eu-north-1 |
   | 52.95.227.0/24 | AMAZON | eu-north-1 |
-  | 13.34.24.14/32 | AMAZON | eu-north-1 |
   | 13.50.0.0/16 | AMAZON | eu-north-1 |
-  | 13.34.24.7/32 | AMAZON | eu-north-1 |
   | 13.62.0.0/15 | AMAZON | eu-north-1 |
   | 51.21.0.0/16 | AMAZON | eu-north-1 |
-  | 13.34.6.162/32 | AMAZON | eu-north-1 |
-  | 13.34.24.6/32 | AMAZON | eu-north-1 |
   | 35.71.98.0/24 | AMAZON | eu-north-1 |
-  | 13.34.14.68/32 | AMAZON | eu-north-1 |
-  | 13.34.24.1/32 | AMAZON | eu-north-1 |
   | 52.144.215.194/31 | AMAZON | eu-north-1 |
-  | 13.34.6.143/32 | AMAZON | eu-north-1 |
   | 16.168.0.0/15 | AMAZON | eu-north-1 |
-  | 13.34.14.77/32 | AMAZON | eu-north-1 |
-  | 13.34.14.104/32 | AMAZON | eu-north-1 |
-  | 13.34.24.34/32 | AMAZON | eu-north-1 |
-  | 13.34.24.5/32 | AMAZON | eu-north-1 |
-  | 13.34.24.46/32 | AMAZON | eu-north-1 |
   | 13.248.122.0/24 | AMAZON | eu-north-1 |
   | 63.246.112.0/24 | AMAZON | eu-north-1 |
-  | 13.34.6.137/32 | AMAZON | eu-north-1 |
   | 150.222.41.192/26 | AMAZON | eu-north-1 |
-  | 13.34.14.72/32 | AMAZON | eu-north-1 |
   | 56.231.0.0/16 | AMAZON | eu-north-1 |
-  | 13.34.6.142/32 | AMAZON | eu-north-1 |
-  | 13.34.14.101/32 | AMAZON | eu-north-1 |
-  | 13.34.14.111/32 | AMAZON | eu-north-1 |
-  | 13.34.6.132/32 | AMAZON | eu-north-1 |
-  | 13.34.14.71/32 | AMAZON | eu-north-1 |
   | 13.53.0.0/16 | AMAZON | eu-north-1 |
-  | 13.34.6.164/32 | AMAZON | eu-north-1 |
   | 13.51.0.0/16 | AMAZON | eu-north-1 |
-  | 13.34.6.163/32 | AMAZON | eu-north-1 |
   | 52.144.215.202/31 | AMAZON | eu-north-1 |
   | 173.83.220.0/24 | AMAZON | eu-north-1 |
-  | 13.34.14.78/32 | AMAZON | eu-north-1 |
-  | 13.34.14.97/32 | AMAZON | eu-north-1 |
   | 13.48.0.0/15 | AMAZON | eu-north-1 |
   | 18.99.96.0/20 | AMAZON | eu-north-1 |
-  | 13.34.24.3/32 | AMAZON | eu-north-1 |
   | 15.221.53.0/24 | AMAZON | eu-north-1 |
   | 15.230.69.0/26 | AMAZON | eu-north-1 |
   | 16.170.0.0/15 | AMAZON | eu-north-1 |
   | 52.144.216.10/31 | AMAZON | eu-north-1 |
-  | 13.34.14.69/32 | AMAZON | eu-north-1 |
   | 52.144.208.0/31 | AMAZON | eu-north-1 |
   | 52.144.208.2/31 | AMAZON | eu-north-1 |
-  | 13.34.14.76/32 | AMAZON | eu-north-1 |
-  | 13.34.6.170/32 | AMAZON | eu-north-1 |
   | 3.5.216.0/22 | AMAZON | eu-north-1 |
   | 16.16.0.0/16 | AMAZON | eu-north-1 |
-  | 13.34.24.43/32 | AMAZON | eu-north-1 |
-  | 13.34.24.39/32 | AMAZON | eu-north-1 |
   | 52.144.215.200/31 | AMAZON | eu-north-1 |
-  | 13.34.24.13/32 | AMAZON | eu-north-1 |
-  | 13.34.14.99/32 | AMAZON | eu-north-1 |
   | 16.12.9.0/24 | AMAZON | eu-north-1 |
-  | 13.34.6.129/32 | AMAZON | eu-north-1 |
-  | 13.34.24.40/32 | AMAZON | eu-north-1 |
-  | 13.34.24.9/32 | AMAZON | eu-north-1 |
   | 15.177.72.0/24 | AMAZON | eu-north-1 |
-  | 13.34.24.42/32 | AMAZON | eu-north-1 |
   | 52.94.23.0/24 | AMAZON | eu-north-1 |
   | 150.222.117.0/24 | AMAZON | eu-north-1 |
-  | 13.34.24.33/32 | AMAZON | eu-north-1 |
-  | 13.34.24.38/32 | AMAZON | eu-north-1 |
   | 52.144.216.4/31 | AMAZON | eu-north-1 |
   | 15.220.148.0/22 | AMAZON | eu-north-1-hel-1 |
   | 15.230.97.0/24 | AMAZON | eu-north-1 |
-  | 13.34.6.168/32 | AMAZON | eu-north-1 |
   | 15.230.116.0/24 | AMAZON | eu-north-1 |
   | 15.248.32.0/22 | AMAZON | eu-north-1 |
-  | 13.34.6.138/32 | AMAZON | eu-north-1 |
-  | 13.34.24.4/32 | AMAZON | eu-north-1 |
   | 56.228.0.0/16 | AMAZON | eu-north-1 |
-  | 13.34.24.45/32 | AMAZON | eu-north-1 |
   | 56.230.0.0/16 | AMAZON | eu-north-1 |
-  | 13.34.6.167/32 | AMAZON | eu-north-1 |
   | 52.93.127.153/32 | AMAZON | eu-north-1 |
   | 52.144.215.198/31 | AMAZON | eu-north-1 |
-  | 13.34.24.37/32 | AMAZON | eu-north-1 |
-  | 13.34.24.35/32 | AMAZON | eu-north-1 |
-  | 13.34.6.130/32 | AMAZON | eu-north-1 |
   | 150.222.118.0/24 | AMAZON | eu-north-1 |
-  | 13.34.6.165/32 | AMAZON | eu-north-1 |
   | 15.230.136.0/24 | AMAZON | eu-north-1 |
   | 52.46.192.0/20 | AMAZON | eu-north-1 |
-  | 13.34.6.133/32 | AMAZON | eu-north-1 |
-  | 13.34.14.75/32 | AMAZON | eu-north-1 |
-  | 13.34.6.135/32 | AMAZON | eu-north-1 |
-  | 13.34.6.171/32 | AMAZON | eu-north-1 |
-  | 13.34.14.65/32 | AMAZON | eu-north-1 |
-  | 13.34.24.15/32 | AMAZON | eu-north-1 |
   | 52.95.170.0/23 | AMAZON | eu-north-1 |
-  | 13.34.14.107/32 | AMAZON | eu-north-1 |
   | 52.144.216.8/31 | AMAZON | eu-north-1 |
   | 204.87.185.0/24 | AMAZON | eu-north-1 |
-  | 13.34.6.136/32 | AMAZON | eu-north-1 |
-  | 13.34.14.98/32 | AMAZON | eu-north-1 |
-  | 13.34.14.102/32 | AMAZON | eu-north-1 |
-  | 13.34.14.79/32 | AMAZON | eu-north-1 |
   | 15.230.68.128/26 | AMAZON | eu-north-1 |
   | 52.94.249.128/28 | AMAZON | eu-north-1 |
   | 99.77.246.0/24 | AMAZON | eu-north-1 |
   | 56.229.0.0/16 | AMAZON | eu-north-1 |
-  | 13.34.14.109/32 | AMAZON | eu-north-1 |
   | 96.0.24.0/21 | AMAZON | eu-north-1-cph-1 |
-  | 13.34.6.131/32 | AMAZON | eu-north-1 |
   | 52.144.216.6/31 | AMAZON | eu-north-1 |
   | 52.144.216.0/31 | AMAZON | eu-north-1 |
   | 99.150.64.0/21 | AMAZON | eu-north-1 |
   | 52.93.127.152/32 | AMAZON | eu-north-1 |
-  | 13.34.6.166/32 | AMAZON | eu-north-1 |
-  | 13.34.24.47/32 | AMAZON | eu-north-1 |
   | 13.60.0.0/15 | AMAZON | eu-north-1 |
-  | 13.34.6.134/32 | AMAZON | eu-north-1 |
-  | 13.34.14.67/32 | AMAZON | eu-north-1 |
   | 150.222.42.0/26 | AMAZON | eu-north-1 |
   | 13.48.186.192/27 | AMAZON | eu-north-1 |
   | 13.49.126.128/26 | AMAZON | eu-north-1 |
@@ -4235,23 +3535,17 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.240.236.22/32 | AMAZON | eu-south-1 |
   | 15.230.76.0/26 | AMAZON | eu-south-1 |
   | 99.77.159.0/24 | AMAZON | eu-south-1 |
-  | 13.34.21.128/27 | AMAZON | eu-south-1 |
   | 52.93.133.177/32 | AMAZON | eu-south-1 |
   | 52.93.126.198/32 | AMAZON | eu-south-1 |
   | 54.240.236.38/32 | AMAZON | eu-south-1 |
   | 52.93.133.153/32 | AMAZON | eu-south-1 |
   | 54.240.236.74/32 | AMAZON | eu-south-1 |
   | 52.93.127.121/32 | AMAZON | eu-south-1 |
-  | 13.34.81.160/27 | AMAZON | eu-south-1 |
-  | 13.34.99.0/27 | AMAZON | eu-south-1 |
   | 51.118.0.0/15 | AMAZON | eu-south-1 |
   | 54.240.236.78/32 | AMAZON | eu-south-1 |
   | 54.240.236.18/32 | AMAZON | eu-south-1 |
   | 99.77.138.0/24 | AMAZON | eu-south-1 |
-  | 13.34.21.160/27 | AMAZON | eu-south-1 |
-  | 13.34.53.224/27 | AMAZON | eu-south-1 |
   | 54.240.236.45/32 | AMAZON | eu-south-1 |
-  | 13.34.79.0/27 | AMAZON | eu-south-1 |
   | 54.240.236.33/32 | AMAZON | eu-south-1 |
   | 54.240.236.49/32 | AMAZON | eu-south-1 |
   | 52.93.133.133/32 | AMAZON | eu-south-1 |
@@ -4264,11 +3558,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.133.129/32 | AMAZON | eu-south-1 |
   | 15.177.90.0/24 | AMAZON | eu-south-1 |
   | 15.230.112.0/24 | AMAZON | eu-south-1 |
-  | 13.34.81.128/27 | AMAZON | eu-south-1 |
   | 52.95.151.0/24 | AMAZON | eu-south-1 |
   | 54.240.236.34/32 | AMAZON | eu-south-1 |
   | 52.93.133.175/32 | AMAZON | eu-south-1 |
-  | 13.34.97.32/27 | AMAZON | eu-south-1 |
   | 52.93.133.155/32 | AMAZON | eu-south-1 |
   | 52.93.124.211/32 | AMAZON | eu-south-1 |
   | 54.240.236.5/32 | AMAZON | eu-south-1 |
@@ -4311,7 +3603,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.240.236.77/32 | AMAZON | eu-south-1 |
   | 54.240.236.93/32 | AMAZON | eu-south-1 |
   | 52.119.156.0/22 | AMAZON | eu-south-1 |
-  | 13.34.99.32/27 | AMAZON | eu-south-1 |
   | 54.240.236.65/32 | AMAZON | eu-south-1 |
   | 52.93.133.127/32 | AMAZON | eu-south-1 |
   | 35.152.0.0/16 | AMAZON | eu-south-1 |
@@ -4319,16 +3610,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.133.179/32 | AMAZON | eu-south-1 |
   | 54.240.236.66/32 | AMAZON | eu-south-1 |
   | 99.77.245.0/24 | AMAZON | eu-south-1 |
-  | 13.34.79.32/27 | AMAZON | eu-south-1 |
   | 52.93.124.210/32 | AMAZON | eu-south-1 |
   | 52.219.254.0/24 | AMAZON | eu-south-1 |
   | 54.240.236.21/32 | AMAZON | eu-south-1 |
   | 15.230.143.0/24 | AMAZON | eu-south-1 |
   | 54.240.236.25/32 | AMAZON | eu-south-1 |
-  | 13.34.54.0/27 | AMAZON | eu-south-1 |
   | 54.240.236.50/32 | AMAZON | eu-south-1 |
   | 54.240.236.58/32 | AMAZON | eu-south-1 |
-  | 13.34.97.0/27 | AMAZON | eu-south-1 |
   | 15.160.0.0/16 | AMAZON | eu-south-1 |
   | 54.240.236.90/32 | AMAZON | eu-south-1 |
   | 54.240.236.17/32 | AMAZON | eu-south-1 |
@@ -4337,16 +3625,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.48.64/27 | AMAZON | eu-south-1 |
   | 54.239.1.32/28 | AMAZON | eu-south-1 |
   | 52.94.249.48/28 | AMAZON | eu-south-1 |
-  | 13.34.53.64/27 | AMAZON | eu-south-1 |
   | 54.240.236.14/32 | AMAZON | eu-south-1 |
   | 54.240.236.30/32 | AMAZON | eu-south-1 |
   | 54.240.236.70/32 | AMAZON | eu-south-1 |
-  | 13.34.46.64/27 | AMAZON | eu-south-1 |
   | 54.240.236.86/32 | AMAZON | eu-south-1 |
   | 54.240.236.37/32 | AMAZON | eu-south-1 |
   | 54.240.236.42/32 | AMAZON | eu-south-1 |
-  | 13.34.46.96/27 | AMAZON | eu-south-1 |
-  | 13.34.53.96/27 | AMAZON | eu-south-1 |
   | 54.240.236.9/32 | AMAZON | eu-south-1 |
   | 54.240.236.81/32 | AMAZON | eu-south-1 |
   | 150.222.229.0/24 | AMAZON | eu-south-1 |
@@ -4422,13 +3706,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.96.192.0/19 | AMAZON | eu-south-2 |
   | 150.222.50.32/27 | AMAZON | eu-south-2 |
   | 52.95.136.0/23 | AMAZON | eu-south-2 |
-  | 13.34.38.64/27 | AMAZON | eu-south-2 |
-  | 13.34.38.160/27 | AMAZON | eu-south-2 |
   | 150.222.50.64/27 | AMAZON | eu-south-2 |
-  | 13.34.38.0/27 | AMAZON | eu-south-2 |
   | 35.71.120.0/24 | AMAZON | eu-south-2 |
-  | 13.34.38.128/27 | AMAZON | eu-south-2 |
-  | 13.34.38.96/27 | AMAZON | eu-south-2 |
   | 15.177.97.0/24 | AMAZON | eu-south-2 |
   | 52.95.138.0/24 | AMAZON | eu-south-2 |
   | 52.94.249.240/28 | AMAZON | eu-south-2 |
@@ -4438,7 +3717,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.151.64.0/21 | AMAZON | eu-south-2 |
   | 99.77.32.0/20 | AMAZON | eu-south-2 |
   | 51.93.0.0/16 | AMAZON | eu-south-2 |
-  | 13.34.38.32/27 | AMAZON | eu-south-2 |
   | 3.5.32.0/22 | AMAZON | eu-south-2 |
   | 54.239.1.192/28 | AMAZON | eu-south-2 |
   | 18.100.0.0/15 | AMAZON | eu-south-2 |
@@ -4526,27 +3804,19 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.87.32.0/22 | AMAZON | eu-west-1 |
   | 150.222.81.0/24 | AMAZON | eu-west-1 |
   | 15.230.113.0/24 | AMAZON | eu-west-1 |
-  | 13.34.10.45/32 | AMAZON | eu-west-1 |
-  | 13.34.21.46/32 | AMAZON | eu-west-1 |
   | 52.93.17.0/24 | AMAZON | eu-west-1 |
   | 52.93.45.0/25 | AMAZON | eu-west-1 |
   | 18.97.192.0/18 | AMAZON | eu-west-1 |
   | 52.94.24.0/23 | AMAZON | eu-west-1 |
-  | 13.34.3.43/32 | AMAZON | eu-west-1 |
   | 52.93.100.0/23 | AMAZON | eu-west-1 |
   | 52.93.127.27/32 | AMAZON | eu-west-1 |
-  | 13.34.4.134/32 | AMAZON | eu-west-1 |
-  | 13.34.38.195/32 | AMAZON | eu-west-1 |
   | 150.222.202.0/24 | AMAZON | eu-west-1 |
-  | 13.34.10.35/32 | AMAZON | eu-west-1 |
   | 52.93.127.118/32 | AMAZON | eu-west-1 |
   | 52.94.26.0/23 | AMAZON | eu-west-1 |
   | 54.247.0.0/16 | AMAZON | eu-west-1 |
   | 18.200.0.0/16 | AMAZON | eu-west-1 |
   | 150.222.96.0/24 | AMAZON | eu-west-1 |
-  | 13.34.21.34/32 | AMAZON | eu-west-1 |
   | 52.93.112.0/24 | AMAZON | eu-west-1 |
-  | 13.34.38.203/32 | AMAZON | eu-west-1 |
   | 13.248.119.0/24 | AMAZON | eu-west-1 |
   | 52.93.81.0/24 | AMAZON | eu-west-1 |
   | 54.74.0.0/15 | AMAZON | eu-west-1 |
@@ -4554,215 +3824,120 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.164.220/31 | AMAZON | eu-west-1 |
   | 52.93.16.0/24 | AMAZON | eu-west-1 |
   | 52.95.255.64/28 | AMAZON | eu-west-1 |
-  | 13.34.3.35/32 | AMAZON | eu-west-1 |
-  | 13.34.38.231/32 | AMAZON | eu-west-1 |
   | 52.93.96.0/24 | AMAZON | eu-west-1 |
-  | 13.34.3.8/32 | AMAZON | eu-west-1 |
   | 52.144.210.0/26 | AMAZON | eu-west-1 |
   | 54.239.114.128/26 | AMAZON | eu-west-1 |
   | 54.229.0.0/16 | AMAZON | eu-west-1 |
   | 46.51.192.0/20 | AMAZON | eu-west-1 |
-  | 13.34.38.225/32 | AMAZON | eu-west-1 |
   | 15.230.132.0/24 | AMAZON | eu-west-1 |
   | 63.32.0.0/14 | AMAZON | eu-west-1 |
-  | 13.34.9.232/32 | AMAZON | eu-west-1 |
   | 150.222.121.0/24 | AMAZON | eu-west-1 |
   | 172.96.98.0/24 | AMAZON | eu-west-1 |
-  | 13.34.3.6/32 | AMAZON | eu-west-1 |
-  | 13.34.3.42/32 | AMAZON | eu-west-1 |
-  | 13.34.4.174/32 | AMAZON | eu-west-1 |
-  | 13.34.9.238/32 | AMAZON | eu-west-1 |
-  | 13.34.3.4/32 | AMAZON | eu-west-1 |
   | 13.248.113.0/24 | AMAZON | eu-west-1 |
   | 150.222.11.0/24 | AMAZON | eu-west-1 |
   | 185.143.16.0/24 | AMAZON | eu-west-1 |
   | 63.246.113.0/24 | AMAZON | eu-west-1 |
-  | 13.34.9.195/32 | AMAZON | eu-west-1 |
-  | 13.34.10.13/32 | AMAZON | eu-west-1 |
   | 52.95.104.0/22 | AMAZON | eu-west-1 |
   | 150.222.85.0/24 | AMAZON | eu-west-1 |
-  | 13.34.21.39/32 | AMAZON | eu-west-1 |
   | 52.93.71.38/32 | AMAZON | eu-west-1 |
-  | 13.34.4.169/32 | AMAZON | eu-west-1 |
-  | 13.34.21.14/32 | AMAZON | eu-west-1 |
-  | 13.34.4.175/32 | AMAZON | eu-west-1 |
   | 52.30.0.0/15 | AMAZON | eu-west-1 |
   | 54.154.0.0/16 | AMAZON | eu-west-1 |
-  | 13.34.38.200/32 | AMAZON | eu-west-1 |
   | 52.95.244.0/24 | AMAZON | eu-west-1 |
-  | 13.34.38.230/32 | AMAZON | eu-west-1 |
   | 52.94.216.0/21 | AMAZON | eu-west-1 |
-  | 13.34.9.231/32 | AMAZON | eu-west-1 |
   | 52.93.127.159/32 | AMAZON | eu-west-1 |
   | 150.222.44.32/27 | AMAZON | eu-west-1 |
-  | 13.34.21.33/32 | AMAZON | eu-west-1 |
   | 52.93.21.0/24 | AMAZON | eu-west-1 |
   | 99.77.155.0/24 | AMAZON | eu-west-1 |
-  | 13.34.4.224/27 | AMAZON | eu-west-1 |
-  | 13.34.10.37/32 | AMAZON | eu-west-1 |
   | 52.93.71.46/32 | AMAZON | eu-west-1 |
   | 150.222.200.61/32 | AMAZON | eu-west-1 |
-  | 13.34.3.41/32 | AMAZON | eu-west-1 |
-  | 13.34.38.227/32 | AMAZON | eu-west-1 |
   | 56.48.0.0/16 | AMAZON | eu-west-1 |
-  | 13.34.4.166/32 | AMAZON | eu-west-1 |
   | 70.232.124.0/22 | AMAZON | eu-west-1 |
   | 150.222.44.0/27 | AMAZON | eu-west-1 |
   | 3.5.72.0/23 | AMAZON | eu-west-1 |
-  | 13.34.38.229/32 | AMAZON | eu-west-1 |
   | 52.93.39.0/24 | AMAZON | eu-west-1 |
   | 52.144.215.0/31 | AMAZON | eu-west-1 |
   | 87.238.80.0/21 | AMAZON | eu-west-1 |
-  | 13.34.21.38/32 | AMAZON | eu-west-1 |
   | 15.230.32.0/24 | AMAZON | eu-west-1 |
   | 178.236.0.0/20 | AMAZON | eu-west-1 |
-  | 13.34.21.37/32 | AMAZON | eu-west-1 |
-  | 13.34.9.197/32 | AMAZON | eu-west-1 |
   | 52.93.127.25/32 | AMAZON | eu-west-1 |
   | 52.218.0.0/17 | AMAZON | eu-west-1 |
-  | 13.34.38.196/32 | AMAZON | eu-west-1 |
   | 54.216.0.0/15 | AMAZON | eu-west-1 |
-  | 13.34.10.38/32 | AMAZON | eu-west-1 |
   | 52.48.0.0/14 | AMAZON | eu-west-1 |
-  | 13.34.21.2/32 | AMAZON | eu-west-1 |
-  | 13.34.4.139/32 | AMAZON | eu-west-1 |
   | 150.222.98.0/24 | AMAZON | eu-west-1 |
-  | 13.34.3.47/32 | AMAZON | eu-west-1 |
   | 52.93.127.24/32 | AMAZON | eu-west-1 |
   | 52.119.240.0/21 | AMAZON | eu-west-1 |
   | 162.213.232.0/24 | AMAZON | eu-west-1 |
-  | 13.34.10.46/32 | AMAZON | eu-west-1 |
   | 35.71.72.0/22 | AMAZON | eu-west-1 |
   | 56.55.0.0/16 | AMAZON | eu-west-1 |
-  | 13.34.10.3/32 | AMAZON | eu-west-1 |
-  | 13.34.10.4/32 | AMAZON | eu-west-1 |
-  | 13.34.4.130/32 | AMAZON | eu-west-1 |
-  | 13.34.4.133/32 | AMAZON | eu-west-1 |
-  | 13.34.3.15/32 | AMAZON | eu-west-1 |
-  | 13.34.21.11/32 | AMAZON | eu-west-1 |
   | 150.222.13.0/24 | AMAZON | eu-west-1 |
-  | 13.34.9.196/32 | AMAZON | eu-west-1 |
   | 52.144.208.192/26 | AMAZON | eu-west-1 |
-  | 13.34.38.207/32 | AMAZON | eu-west-1 |
   | 52.208.0.0/13 | AMAZON | eu-west-1 |
-  | 13.34.9.235/32 | AMAZON | eu-west-1 |
-  | 13.34.21.8/32 | AMAZON | eu-west-1 |
   | 15.177.89.0/24 | AMAZON | eu-west-1 |
   | 52.144.218.64/26 | AMAZON | eu-west-1 |
   | 79.125.0.0/17 | AMAZON | eu-west-1 |
-  | 13.34.21.35/32 | AMAZON | eu-west-1 |
   | 150.222.44.64/27 | AMAZON | eu-west-1 |
-  | 13.34.9.206/32 | AMAZON | eu-west-1 |
-  | 13.34.4.165/32 | AMAZON | eu-west-1 |
   | 69.107.6.216/29 | AMAZON | eu-west-1 |
   | 150.222.164.212/31 | AMAZON | eu-west-1 |
   | 54.239.0.48/28 | AMAZON | eu-west-1 |
   | 52.93.71.40/32 | AMAZON | eu-west-1 |
   | 54.170.0.0/15 | AMAZON | eu-west-1 |
-  | 13.34.21.10/32 | AMAZON | eu-west-1 |
-  | 13.34.38.239/32 | AMAZON | eu-west-1 |
   | 15.230.51.0/24 | AMAZON | eu-west-1 |
   | 52.144.233.192/26 | AMAZON | eu-west-1 |
   | 52.93.71.44/32 | AMAZON | eu-west-1 |
   | 150.222.164.222/32 | AMAZON | eu-west-1 |
-  | 13.34.3.2/32 | AMAZON | eu-west-1 |
-  | 13.34.3.39/32 | AMAZON | eu-west-1 |
-  | 13.34.21.41/32 | AMAZON | eu-west-1 |
   | 13.248.96.0/24 | AMAZON | eu-west-1 |
   | 15.230.188.128/25 | AMAZON | eu-west-1 |
   | 52.93.127.155/32 | AMAZON | eu-west-1 |
   | 150.222.80.0/24 | AMAZON | eu-west-1 |
-  | 13.34.9.236/32 | AMAZON | eu-west-1 |
   | 52.93.71.45/32 | AMAZON | eu-west-1 |
   | 52.94.5.0/24 | AMAZON | eu-west-1 |
   | 150.222.164.208/31 | AMAZON | eu-west-1 |
   | 150.222.26.0/24 | AMAZON | eu-west-1 |
-  | 13.34.3.36/32 | AMAZON | eu-west-1 |
-  | 13.34.4.136/32 | AMAZON | eu-west-1 |
   | 54.239.113.0/24 | AMAZON | eu-west-1 |
   | 64.252.117.0/24 | AMAZON | eu-west-1 |
-  | 13.34.4.131/32 | AMAZON | eu-west-1 |
-  | 13.34.9.225/32 | AMAZON | eu-west-1 |
   | 52.144.218.0/26 | AMAZON | eu-west-1 |
   | 99.80.0.0/15 | AMAZON | eu-west-1 |
-  | 13.34.9.239/32 | AMAZON | eu-west-1 |
   | 13.248.121.0/24 | AMAZON | eu-west-1 |
-  | 13.34.9.198/32 | AMAZON | eu-west-1 |
-  | 13.34.3.38/32 | AMAZON | eu-west-1 |
-  | 13.34.21.7/32 | AMAZON | eu-west-1 |
   | 150.222.164.211/32 | AMAZON | eu-west-1 |
   | 173.83.214.0/24 | AMAZON | eu-west-1 |
   | 52.93.242.0/24 | AMAZON | eu-west-1 |
   | 15.230.223.4/31 | AMAZON | eu-west-1 |
   | 15.230.31.0/24 | AMAZON | eu-west-1 |
-  | 13.34.10.14/32 | AMAZON | eu-west-1 |
   | 13.248.118.0/24 | AMAZON | eu-west-1 |
-  | 13.34.9.200/32 | AMAZON | eu-west-1 |
   | 15.230.189.0/25 | AMAZON | eu-west-1 |
   | 3.5.64.0/21 | AMAZON | eu-west-1 |
-  | 13.34.10.39/32 | AMAZON | eu-west-1 |
   | 54.220.0.0/16 | AMAZON | eu-west-1 |
-  | 13.34.4.171/32 | AMAZON | eu-west-1 |
-  | 13.34.9.226/32 | AMAZON | eu-west-1 |
   | 46.51.128.0/18 | AMAZON | eu-west-1 |
-  | 13.34.4.129/32 | AMAZON | eu-west-1 |
   | 52.93.71.42/32 | AMAZON | eu-west-1 |
   | 56.54.0.0/16 | AMAZON | eu-west-1 |
   | 52.93.127.207/32 | AMAZON | eu-west-1 |
   | 54.240.197.0/24 | AMAZON | eu-west-1 |
-  | 13.34.21.6/32 | AMAZON | eu-west-1 |
-  | 13.34.10.40/32 | AMAZON | eu-west-1 |
-  | 13.34.4.135/32 | AMAZON | eu-west-1 |
   | 99.151.88.0/21 | AMAZON | eu-west-1 |
-  | 13.34.3.40/32 | AMAZON | eu-west-1 |
-  | 13.34.38.235/32 | AMAZON | eu-west-1 |
   | 15.221.144.0/23 | AMAZON | eu-west-1 |
   | 56.53.0.0/16 | AMAZON | eu-west-1 |
-  | 13.34.21.47/32 | AMAZON | eu-west-1 |
   | 162.213.234.0/23 | AMAZON | eu-west-1 |
   | 18.201.0.0/16 | AMAZON | eu-west-1 |
-  | 13.34.9.193/32 | AMAZON | eu-west-1 |
-  | 13.34.21.1/32 | AMAZON | eu-west-1 |
   | 52.93.127.203/32 | AMAZON | eu-west-1 |
   | 54.228.0.0/16 | AMAZON | eu-west-1 |
-  | 13.34.38.236/32 | AMAZON | eu-west-1 |
   | 52.144.215.2/31 | AMAZON | eu-west-1 |
-  | 13.34.10.33/32 | AMAZON | eu-west-1 |
   | 52.93.71.41/32 | AMAZON | eu-west-1 |
   | 195.17.0.0/24 | AMAZON | eu-west-1 |
-  | 13.34.9.194/32 | AMAZON | eu-west-1 |
-  | 13.34.3.5/32 | AMAZON | eu-west-1 |
-  | 13.34.10.5/32 | AMAZON | eu-west-1 |
   | 52.93.36.0/24 | AMAZON | eu-west-1 |
   | 150.222.164.214/31 | AMAZON | eu-west-1 |
   | 54.239.114.0/25 | AMAZON | eu-west-1 |
-  | 13.34.10.43/32 | AMAZON | eu-west-1 |
   | 52.94.196.0/24 | AMAZON | eu-west-1 |
-  | 13.34.38.228/32 | AMAZON | eu-west-1 |
-  | 13.34.38.238/32 | AMAZON | eu-west-1 |
   | 52.93.71.37/32 | AMAZON | eu-west-1 |
   | 52.144.208.128/26 | AMAZON | eu-west-1 |
   | 150.222.204.0/24 | AMAZON | eu-west-1 |
-  | 13.34.3.34/32 | AMAZON | eu-west-1 |
   | 54.239.99.0/24 | AMAZON | eu-west-1 |
-  | 13.34.38.232/32 | AMAZON | eu-west-1 |
   | 52.93.127.232/32 | AMAZON | eu-west-1 |
   | 52.93.183.64/28 | AMAZON | eu-west-1 |
-  | 13.34.10.6/32 | AMAZON | eu-west-1 |
   | 52.93.42.0/24 | AMAZON | eu-west-1 |
-  | 13.34.9.204/32 | AMAZON | eu-west-1 |
-  | 13.34.21.36/32 | AMAZON | eu-west-1 |
-  | 13.34.38.204/32 | AMAZON | eu-west-1 |
-  | 13.34.38.206/32 | AMAZON | eu-west-1 |
   | 52.93.71.39/32 | AMAZON | eu-west-1 |
   | 52.95.61.0/24 | AMAZON | eu-west-1 |
-  | 13.34.4.138/32 | AMAZON | eu-west-1 |
-  | 13.34.21.5/32 | AMAZON | eu-west-1 |
   | 52.93.127.206/32 | AMAZON | eu-west-1 |
   | 52.93.18.0/24 | AMAZON | eu-west-1 |
   | 15.221.153.0/24 | AMAZON | eu-west-1 |
-  | 13.34.21.3/32 | AMAZON | eu-west-1 |
-  | 13.34.9.199/32 | AMAZON | eu-west-1 |
   | 150.222.239.0/24 | AMAZON | eu-west-1 |
   | 176.34.64.0/18 | AMAZON | eu-west-1 |
   | 15.230.19.0/24 | AMAZON | eu-west-1 |
@@ -4771,116 +3946,71 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 46.137.128.0/18 | AMAZON | eu-west-1 |
   | 52.93.2.0/24 | AMAZON | eu-west-1 |
   | 15.221.2.0/24 | AMAZON | eu-west-1 |
-  | 13.34.3.11/32 | AMAZON | eu-west-1 |
   | 54.78.0.0/16 | AMAZON | eu-west-1 |
   | 52.93.38.0/24 | AMAZON | eu-west-1 |
-  | 13.34.4.167/32 | AMAZON | eu-west-1 |
-  | 13.34.9.237/32 | AMAZON | eu-west-1 |
   | 56.52.0.0/16 | AMAZON | eu-west-1 |
-  | 13.34.9.203/32 | AMAZON | eu-west-1 |
   | 54.239.115.0/25 | AMAZON | eu-west-1 |
   | 15.230.182.0/24 | AMAZON | eu-west-1 |
-  | 13.34.4.168/32 | AMAZON | eu-west-1 |
-  | 13.34.10.44/32 | AMAZON | eu-west-1 |
-  | 13.34.3.1/32 | AMAZON | eu-west-1 |
-  | 13.34.9.207/32 | AMAZON | eu-west-1 |
   | 52.92.0.0/17 | AMAZON | eu-west-1 |
   | 52.93.127.202/32 | AMAZON | eu-west-1 |
   | 54.194.0.0/15 | AMAZON | eu-west-1 |
-  | 13.34.10.34/32 | AMAZON | eu-west-1 |
   | 15.177.75.0/24 | AMAZON | eu-west-1 |
   | 3.248.0.0/13 | AMAZON | eu-west-1 |
   | 99.77.133.0/24 | AMAZON | eu-west-1 |
   | 150.222.164.210/32 | AMAZON | eu-west-1 |
   | 69.107.6.224/29 | AMAZON | eu-west-1 |
-  | 13.34.4.170/32 | AMAZON | eu-west-1 |
-  | 13.34.21.15/32 | AMAZON | eu-west-1 |
   | 52.93.127.204/32 | AMAZON | eu-west-1 |
   | 54.155.0.0/16 | AMAZON | eu-west-1 |
-  | 13.34.3.10/32 | AMAZON | eu-west-1 |
   | 52.93.127.119/32 | AMAZON | eu-west-1 |
-  | 13.34.3.9/32 | AMAZON | eu-west-1 |
-  | 13.34.4.192/27 | AMAZON | eu-west-1 |
   | 52.95.60.0/24 | AMAZON | eu-west-1 |
-  | 13.34.21.9/32 | AMAZON | eu-west-1 |
   | 52.93.113.0/24 | AMAZON | eu-west-1 |
   | 56.50.0.0/16 | AMAZON | eu-west-1 |
   | 52.93.0.0/24 | AMAZON | eu-west-1 |
   | 99.82.162.0/24 | AMAZON | eu-west-1 |
-  | 13.34.10.7/32 | AMAZON | eu-west-1 |
   | 52.16.0.0/15 | AMAZON | eu-west-1 |
   | 52.144.212.192/26 | AMAZON | eu-west-1 |
-  | 13.34.38.194/32 | AMAZON | eu-west-1 |
-  | 13.34.9.229/32 | AMAZON | eu-west-1 |
-  | 13.34.38.199/32 | AMAZON | eu-west-1 |
   | 64.252.115.0/24 | AMAZON | eu-west-1 |
-  | 13.34.10.1/32 | AMAZON | eu-west-1 |
   | 15.230.223.0/31 | AMAZON | eu-west-1 |
   | 52.93.32.176/32 | AMAZON | eu-west-1 |
   | 52.93.126.76/32 | AMAZON | eu-west-1 |
-  | 13.34.3.33/32 | AMAZON | eu-west-1 |
   | 52.95.112.0/20 | AMAZON | eu-west-1 |
   | 18.202.0.0/15 | AMAZON | eu-west-1 |
   | 176.32.104.0/21 | AMAZON | eu-west-1 |
   | 15.230.166.0/24 | AMAZON | eu-west-1 |
   | 52.93.6.0/23 | AMAZON | eu-west-1 |
   | 185.48.120.0/22 | AMAZON | eu-west-1 |
-  | 13.34.38.205/32 | AMAZON | eu-west-1 |
-  | 13.34.10.12/32 | AMAZON | eu-west-1 |
   | 52.93.127.26/32 | AMAZON | eu-west-1 |
   | 150.222.200.60/32 | AMAZON | eu-west-1 |
-  | 13.34.4.137/32 | AMAZON | eu-west-1 |
-  | 13.34.4.142/32 | AMAZON | eu-west-1 |
-  | 13.34.4.161/32 | AMAZON | eu-west-1 |
   | 52.144.210.128/26 | AMAZON | eu-west-1 |
   | 54.239.32.0/21 | AMAZON | eu-west-1 |
-  | 13.34.4.162/32 | AMAZON | eu-west-1 |
   | 15.230.117.0/31 | AMAZON | eu-west-1 |
   | 52.93.127.154/32 | AMAZON | eu-west-1 |
   | 15.230.223.6/31 | AMAZON | eu-west-1 |
   | 54.76.0.0/15 | AMAZON | eu-west-1 |
-  | 13.34.9.228/32 | AMAZON | eu-west-1 |
-  | 13.34.3.37/32 | AMAZON | eu-west-1 |
-  | 13.34.21.43/32 | AMAZON | eu-west-1 |
   | 56.49.0.0/16 | AMAZON | eu-west-1 |
   | 64.252.116.0/24 | AMAZON | eu-west-1 |
   | 34.240.0.0/13 | AMAZON | eu-west-1 |
   | 52.94.248.16/28 | AMAZON | eu-west-1 |
-  | 13.34.38.198/32 | AMAZON | eu-west-1 |
   | 52.119.192.0/22 | AMAZON | eu-west-1 |
   | 52.93.93.0/24 | AMAZON | eu-west-1 |
   | 54.72.0.0/15 | AMAZON | eu-west-1 |
-  | 13.34.38.237/32 | AMAZON | eu-west-1 |
   | 150.222.107.0/24 | AMAZON | eu-west-1 |
-  | 13.34.4.132/32 | AMAZON | eu-west-1 |
   | 15.230.150.0/23 | AMAZON | eu-west-1 |
   | 52.93.49.0/24 | AMAZON | eu-west-1 |
   | 176.34.128.0/17 | AMAZON | eu-west-1 |
-  | 13.34.38.226/32 | AMAZON | eu-west-1 |
   | 40.180.0.0/15 | AMAZON | eu-west-1 |
   | 52.93.127.205/32 | AMAZON | eu-west-1 |
   | 52.129.130.0/24 | AMAZON | eu-west-1 |
   | 52.93.71.43/32 | AMAZON | eu-west-1 |
-  | 13.34.4.163/32 | AMAZON | eu-west-1 |
-  | 13.34.4.164/32 | AMAZON | eu-west-1 |
-  | 13.34.10.8/32 | AMAZON | eu-west-1 |
   | 52.93.41.0/24 | AMAZON | eu-west-1 |
   | 52.93.43.0/24 | AMAZON | eu-west-1 |
-  | 13.34.38.197/32 | AMAZON | eu-west-1 |
   | 52.93.183.80/28 | AMAZON | eu-west-1 |
-  | 13.34.10.47/32 | AMAZON | eu-west-1 |
   | 34.248.0.0/13 | AMAZON | eu-west-1 |
   | 67.220.224.0/20 | AMAZON | eu-west-1 |
   | 108.128.0.0/13 | AMAZON | eu-west-1 |
-  | 13.34.4.143/32 | AMAZON | eu-west-1 |
-  | 13.34.21.42/32 | AMAZON | eu-west-1 |
   | 56.51.0.0/16 | AMAZON | eu-west-1 |
-  | 13.34.38.193/32 | AMAZON | eu-west-1 |
   | 15.230.50.0/24 | AMAZON | eu-west-1 |
   | 64.252.114.0/24 | AMAZON | eu-west-1 |
-  | 13.34.21.4/32 | AMAZON | eu-west-1 |
-  | 13.34.3.3/32 | AMAZON | eu-west-1 |
-  | 13.34.9.205/32 | AMAZON | eu-west-1 |
   | 15.230.223.2/31 | AMAZON | eu-west-1 |
   | 52.93.48.0/24 | AMAZON | eu-west-1 |
   | 54.240.220.0/22 | AMAZON | eu-west-1 |
@@ -4892,27 +4022,17 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.172.0/24 | AMAZON | eu-west-1 |
   | 162.213.233.0/24 | AMAZON | eu-west-1 |
   | 54.246.0.0/16 | AMAZON | eu-west-1 |
-  | 13.34.21.40/32 | AMAZON | eu-west-1 |
   | 52.93.58.0/24 | AMAZON | eu-west-1 |
-  | 13.34.9.230/32 | AMAZON | eu-west-1 |
   | 15.230.61.0/24 | AMAZON | eu-west-1 |
-  | 13.34.3.14/32 | AMAZON | eu-west-1 |
-  | 13.34.3.46/32 | AMAZON | eu-west-1 |
-  | 13.34.10.11/32 | AMAZON | eu-west-1 |
   | 15.230.30.0/24 | AMAZON | eu-west-1 |
   | 15.230.84.0/24 | AMAZON | eu-west-1 |
   | 52.144.212.64/26 | AMAZON | eu-west-1 |
-  | 13.34.10.2/32 | AMAZON | eu-west-1 |
   | 52.46.240.0/22 | AMAZON | eu-west-1 |
   | 52.93.71.47/32 | AMAZON | eu-west-1 |
   | 99.77.250.0/24 | AMAZON | eu-west-1 |
   | 46.137.0.0/17 | AMAZON | eu-west-1 |
   | 52.93.127.158/32 | AMAZON | eu-west-1 |
-  | 13.34.10.36/32 | AMAZON | eu-west-1 |
   | 209.54.184.0/21 | AMAZON | eu-west-1 |
-  | 13.34.9.227/32 | AMAZON | eu-west-1 |
-  | 13.34.10.15/32 | AMAZON | eu-west-1 |
-  | 13.34.3.7/32 | AMAZON | eu-west-1 |
   | 3.248.244.0/26 | AMAZON | eu-west-1 |
   | 3.250.209.192/26 | AMAZON | eu-west-1 |
   | 3.250.210.0/23 | AMAZON | eu-west-1 |
@@ -5099,46 +4219,30 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
   | 52.93.153.170/32 | AMAZON | eu-west-2 |
-  | 13.34.52.96/27 | AMAZON | eu-west-2 |
-  | 13.34.110.128/27 | AMAZON | eu-west-2 |
   | 52.95.150.0/24 | AMAZON | eu-west-2 |
   | 52.93.153.148/32 | AMAZON | eu-west-2 |
   | 150.222.238.0/24 | AMAZON | eu-west-2 |
   | 15.230.158.0/23 | AMAZON | eu-west-2 |
   | 52.93.56.0/24 | AMAZON | eu-west-2 |
   | 15.248.28.0/22 | AMAZON | eu-west-2 |
-  | 13.34.27.32/27 | AMAZON | eu-west-2 |
-  | 13.34.96.32/27 | AMAZON | eu-west-2 |
   | 52.144.211.196/31 | AMAZON | eu-west-2 |
   | 15.230.9.12/31 | AMAZON | eu-west-2 |
   | 208.78.132.0/23 | AMAZON | eu-west-2 |
   | 15.230.9.47/32 | AMAZON | eu-west-2 |
   | 64.252.85.0/24 | AMAZON | eu-west-2 |
   | 216.39.136.0/21 | AMAZON | eu-west-2 |
-  | 13.34.52.64/27 | AMAZON | eu-west-2 |
-  | 13.34.25.38/32 | AMAZON | eu-west-2 |
-  | 13.34.25.9/32 | AMAZON | eu-west-2 |
   | 15.230.106.0/24 | AMAZON | eu-west-2 |
   | 150.222.37.192/26 | AMAZON | eu-west-2 |
-  | 13.34.79.128/27 | AMAZON | eu-west-2 |
   | 52.93.229.149/32 | AMAZON | eu-west-2 |
   | 15.230.189.128/25 | AMAZON | eu-west-2 |
   | 16.12.15.0/24 | AMAZON | eu-west-2 |
   | 35.176.0.0/15 | AMAZON | eu-west-2 |
-  | 13.34.25.46/32 | AMAZON | eu-west-2 |
   | 15.193.5.0/24 | AMAZON | eu-west-2 |
   | 51.24.0.0/16 | AMAZON | eu-west-2 |
-  | 13.34.85.224/27 | AMAZON | eu-west-2 |
-  | 13.34.81.224/27 | AMAZON | eu-west-2 |
-  | 13.34.25.12/32 | AMAZON | eu-west-2 |
   | 99.77.156.0/24 | AMAZON | eu-west-2 |
-  | 13.34.25.8/32 | AMAZON | eu-west-2 |
-  | 13.34.25.10/32 | AMAZON | eu-west-2 |
   | 52.56.0.0/16 | AMAZON | eu-west-2 |
   | 52.93.153.149/32 | AMAZON | eu-west-2 |
-  | 13.34.27.0/27 | AMAZON | eu-west-2 |
   | 16.12.16.0/23 | AMAZON | eu-west-2 |
-  | 13.34.25.5/32 | AMAZON | eu-west-2 |
   | 52.93.153.177/32 | AMAZON | eu-west-2 |
   | 15.230.9.10/31 | AMAZON | eu-west-2 |
   | 150.222.46.0/25 | AMAZON | eu-west-2 |
@@ -5146,7 +4250,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 208.78.135.0/24 | AMAZON | eu-west-2 |
   | 52.144.211.192/31 | AMAZON | eu-west-2 |
   | 52.94.198.144/28 | AMAZON | eu-west-2 |
-  | 13.34.66.128/27 | AMAZON | eu-west-2 |
   | 151.148.41.0/24 | AMAZON | eu-west-2 |
   | 15.230.173.0/24 | AMAZON | eu-west-2 |
   | 15.230.190.128/25 | AMAZON | eu-west-2 |
@@ -5155,57 +4258,38 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.120.0/24 | AMAZON | eu-west-2 |
   | 15.230.9.45/32 | AMAZON | eu-west-2 |
   | 52.93.153.179/32 | AMAZON | eu-west-2 |
-  | 13.34.25.4/32 | AMAZON | eu-west-2 |
   | 15.230.165.0/24 | AMAZON | eu-west-2 |
   | 99.77.134.0/24 | AMAZON | eu-west-2 |
-  | 13.34.66.160/27 | AMAZON | eu-west-2 |
-  | 13.34.79.160/27 | AMAZON | eu-west-2 |
   | 52.93.138.0/24 | AMAZON | eu-west-2 |
   | 150.222.134.0/24 | AMAZON | eu-west-2 |
-  | 13.34.110.160/27 | AMAZON | eu-west-2 |
-  | 13.34.126.0/27 | AMAZON | eu-west-2 |
   | 52.144.211.128/26 | AMAZON | eu-west-2 |
   | 99.82.169.0/24 | AMAZON | eu-west-2 |
-  | 13.34.96.0/27 | AMAZON | eu-west-2 |
-  | 13.34.77.32/27 | AMAZON | eu-west-2 |
-  | 13.34.25.7/32 | AMAZON | eu-west-2 |
-  | 13.34.91.224/27 | AMAZON | eu-west-2 |
   | 52.93.153.80/32 | AMAZON | eu-west-2 |
   | 52.95.148.0/23 | AMAZON | eu-west-2 |
   | 150.222.215.0/24 | AMAZON | eu-west-2 |
-  | 13.34.8.14/32 | AMAZON | eu-west-2 |
   | 18.98.160.0/19 | AMAZON | eu-west-2 |
   | 15.230.153.0/24 | AMAZON | eu-west-2 |
   | 52.144.209.192/26 | AMAZON | eu-west-2 |
   | 52.93.80.0/24 | AMAZON | eu-west-2 |
   | 52.144.133.32/27 | AMAZON | eu-west-2 |
   | 52.219.219.0/24 | AMAZON | eu-west-2 |
-  | 13.34.25.44/32 | AMAZON | eu-west-2 |
-  | 13.34.77.160/27 | AMAZON | eu-west-2 |
   | 52.144.211.64/26 | AMAZON | eu-west-2 |
   | 52.93.153.176/32 | AMAZON | eu-west-2 |
   | 35.96.80.0/20 | AMAZON | eu-west-2 |
   | 52.93.153.169/32 | AMAZON | eu-west-2 |
-  | 13.34.25.3/32 | AMAZON | eu-west-2 |
   | 150.222.65.0/24 | AMAZON | eu-west-2 |
-  | 13.34.8.46/32 | AMAZON | eu-west-2 |
   | 150.222.37.128/26 | AMAZON | eu-west-2 |
-  | 13.34.25.41/32 | AMAZON | eu-west-2 |
   | 52.93.229.148/32 | AMAZON | eu-west-2 |
   | 52.94.48.0/20 | AMAZON | eu-west-2 |
-  | 13.34.25.15/32 | AMAZON | eu-west-2 |
   | 52.93.153.171/32 | AMAZON | eu-west-2 |
   | 18.168.0.0/14 | AMAZON | eu-west-2 |
   | 150.222.37.64/26 | AMAZON | eu-west-2 |
   | 52.93.153.168/32 | AMAZON | eu-west-2 |
   | 18.175.0.0/16 | AMAZON | eu-west-2 |
   | 52.95.239.0/24 | AMAZON | eu-west-2 |
-  | 13.34.91.192/27 | AMAZON | eu-west-2 |
   | 52.94.112.0/22 | AMAZON | eu-west-2 |
   | 150.222.207.0/24 | AMAZON | eu-west-2 |
-  | 13.34.26.192/27 | AMAZON | eu-west-2 |
   | 52.144.213.64/26 | AMAZON | eu-west-2 |
-  | 13.34.18.128/27 | AMAZON | eu-west-2 |
   | 18.132.0.0/14 | AMAZON | eu-west-2 |
   | 15.230.9.248/32 | AMAZON | eu-west-2 |
   | 15.230.255.0/24 | AMAZON | eu-west-2 |
@@ -5213,13 +4297,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.144.211.198/31 | AMAZON | eu-west-2 |
   | 64.252.84.0/24 | AMAZON | eu-west-2 |
   | 150.222.46.128/25 | AMAZON | eu-west-2 |
-  | 13.34.25.42/32 | AMAZON | eu-west-2 |
-  | 13.34.25.40/32 | AMAZON | eu-west-2 |
   | 52.93.153.174/32 | AMAZON | eu-west-2 |
   | 64.252.83.0/24 | AMAZON | eu-west-2 |
-  | 13.34.85.192/27 | AMAZON | eu-west-2 |
-  | 13.34.25.1/32 | AMAZON | eu-west-2 |
-  | 13.34.25.35/32 | AMAZON | eu-west-2 |
   | 52.93.153.175/32 | AMAZON | eu-west-2 |
   | 99.77.249.0/24 | AMAZON | eu-west-2 |
   | 35.178.0.0/15 | AMAZON | eu-west-2 |
@@ -5229,67 +4308,40 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 64.252.82.0/24 | AMAZON | eu-west-2 |
   | 15.230.9.46/32 | AMAZON | eu-west-2 |
   | 35.71.111.0/24 | AMAZON | eu-west-2 |
-  | 13.34.25.11/32 | AMAZON | eu-west-2 |
   | 99.150.40.0/21 | AMAZON | eu-west-2 |
   | 15.230.55.0/24 | AMAZON | eu-west-2 |
   | 15.230.9.252/31 | AMAZON | eu-west-2 |
   | 52.95.191.0/24 | AMAZON | eu-west-2 |
-  | 13.34.81.192/27 | AMAZON | eu-west-2 |
   | 15.145.20.0/22 | AMAZON | eu-west-2-wl2-man-wlz-1 |
   | 52.94.248.192/28 | AMAZON | eu-west-2 |
-  | 13.34.126.32/27 | AMAZON | eu-west-2 |
   | 15.177.78.0/24 | AMAZON | eu-west-2 |
-  | 13.34.52.192/27 | AMAZON | eu-west-2 |
-  | 13.34.25.6/32 | AMAZON | eu-west-2 |
-  | 13.34.25.37/32 | AMAZON | eu-west-2 |
   | 173.83.206.0/23 | AMAZON | eu-west-2 |
   | 3.2.48.0/24 | AMAZON | eu-west-2 |
   | 54.239.0.240/28 | AMAZON | eu-west-2 |
-  | 13.34.25.33/32 | AMAZON | eu-west-2 |
   | 3.8.0.0/14 | AMAZON | eu-west-2 |
   | 150.222.67.0/24 | AMAZON | eu-west-2 |
   | 15.145.24.0/23 | AMAZON | eu-west-2-wl2-man-wlz-1 |
   | 15.221.48.0/24 | AMAZON | eu-west-2 |
   | 52.144.209.64/26 | AMAZON | eu-west-2 |
-  | 13.34.25.13/32 | AMAZON | eu-west-2 |
   | 18.130.0.0/16 | AMAZON | eu-west-2 |
   | 52.144.211.200/31 | AMAZON | eu-west-2 |
-  | 13.34.25.47/32 | AMAZON | eu-west-2 |
-  | 13.34.25.36/32 | AMAZON | eu-west-2 |
   | 52.93.153.172/32 | AMAZON | eu-west-2 |
   | 15.230.86.0/24 | AMAZON | eu-west-2 |
   | 52.94.160.0/20 | AMAZON | eu-west-2 |
-  | 13.34.52.224/27 | AMAZON | eu-west-2 |
   | 3.5.244.0/22 | AMAZON | eu-west-2 |
-  | 13.34.77.0/27 | AMAZON | eu-west-2 |
   | 52.93.153.173/32 | AMAZON | eu-west-2 |
-  | 13.34.25.39/32 | AMAZON | eu-west-2 |
   | 52.144.211.202/31 | AMAZON | eu-west-2 |
-  | 13.34.8.15/32 | AMAZON | eu-west-2 |
-  | 13.34.8.47/32 | AMAZON | eu-west-2 |
-  | 13.34.27.64/27 | AMAZON | eu-west-2 |
   | 15.230.9.44/32 | AMAZON | eu-west-2 |
-  | 13.34.18.160/27 | AMAZON | eu-west-2 |
-  | 13.34.52.128/27 | AMAZON | eu-west-2 |
   | 13.40.0.0/14 | AMAZON | eu-west-2 |
-  | 13.34.48.96/27 | AMAZON | eu-west-2 |
   | 15.230.9.14/31 | AMAZON | eu-west-2 |
   | 150.222.29.0/24 | AMAZON | eu-west-2 |
   | 13.248.101.0/24 | AMAZON | eu-west-2 |
   | 52.144.211.194/31 | AMAZON | eu-west-2 |
   | 15.230.43.0/24 | AMAZON | eu-west-2 |
-  | 13.34.25.2/32 | AMAZON | eu-west-2 |
-  | 13.34.48.64/27 | AMAZON | eu-west-2 |
-  | 13.34.52.160/27 | AMAZON | eu-west-2 |
-  | 13.34.25.14/32 | AMAZON | eu-west-2 |
-  | 13.34.25.43/32 | AMAZON | eu-west-2 |
   | 52.93.153.178/32 | AMAZON | eu-west-2 |
   | 54.239.100.0/23 | AMAZON | eu-west-2 |
-  | 13.34.77.128/27 | AMAZON | eu-west-2 |
   | 150.222.45.128/25 | AMAZON | eu-west-2 |
   | 216.39.152.0/21 | AMAZON | eu-west-2 |
-  | 13.34.25.45/32 | AMAZON | eu-west-2 |
-  | 13.34.25.34/32 | AMAZON | eu-west-2 |
   | 15.230.190.0/25 | AMAZON | eu-west-2 |
   | 13.40.1.192/26 | AMAZON | eu-west-2 |
   | 13.41.1.160/27 | AMAZON | eu-west-2 |
@@ -5421,11 +4473,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
   | 35.180.0.0/16 | AMAZON | eu-west-3 |
-  | 13.34.64.32/27 | AMAZON | eu-west-3 |
-  | 13.34.64.96/27 | AMAZON | eu-west-3 |
   | 52.93.198.0/25 | AMAZON | eu-west-3 |
   | 51.46.0.0/15 | AMAZON | eu-west-3 |
-  | 13.34.121.96/27 | AMAZON | eu-west-3 |
   | 150.222.242.214/31 | AMAZON | eu-west-3 |
   | 52.47.0.0/16 | AMAZON | eu-west-3 |
   | 13.36.0.0/14 | AMAZON | eu-west-3 |
@@ -5435,7 +4484,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.221.50.0/24 | AMAZON | eu-west-3 |
   | 51.44.0.0/16 | AMAZON | eu-west-3 |
   | 99.77.248.0/24 | AMAZON | eu-west-3 |
-  | 13.34.53.32/27 | AMAZON | eu-west-3 |
   | 69.107.7.88/29 | AMAZON | eu-west-3 |
   | 52.93.127.17/32 | AMAZON | eu-west-3 |
   | 150.222.39.192/26 | AMAZON | eu-west-3 |
@@ -5446,13 +4494,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.70.192/26 | AMAZON | eu-west-3 |
   | 52.93.124.213/32 | AMAZON | eu-west-3 |
   | 52.93.123.6/32 | AMAZON | eu-west-3 |
-  | 13.34.92.224/27 | AMAZON | eu-west-3 |
-  | 13.34.64.64/27 | AMAZON | eu-west-3 |
   | 52.95.156.0/24 | AMAZON | eu-west-3 |
-  | 13.34.36.160/27 | AMAZON | eu-west-3 |
   | 52.93.124.96/32 | AMAZON | eu-west-3 |
   | 52.93.124.212/32 | AMAZON | eu-west-3 |
-  | 13.34.53.0/27 | AMAZON | eu-west-3 |
   | 15.248.104.0/24 | AMAZON | eu-west-3 |
   | 52.93.126.250/32 | AMAZON | eu-west-3 |
   | 3.5.204.0/22 | AMAZON | eu-west-3 |
@@ -5463,18 +4507,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.161.0/24 | AMAZON | eu-west-3 |
   | 52.144.209.128/26 | AMAZON | eu-west-3 |
   | 150.222.40.0/26 | AMAZON | eu-west-3 |
-  | 13.34.101.224/27 | AMAZON | eu-west-3 |
   | 69.107.7.80/29 | AMAZON | eu-west-3 |
   | 15.236.0.0/15 | AMAZON | eu-west-3 |
   | 15.230.71.64/26 | AMAZON | eu-west-3 |
-  | 13.34.101.192/27 | AMAZON | eu-west-3 |
   | 52.46.88.0/22 | AMAZON | eu-west-3 |
   | 15.230.156.0/24 | AMAZON | eu-west-3 |
   | 51.0.96.0/21 | AMAZON | eu-west-3 |
-  | 13.34.92.192/27 | AMAZON | eu-west-3 |
   | 52.95.254.0/24 | AMAZON | eu-west-3 |
   | 99.150.72.0/21 | AMAZON | eu-west-3 |
-  | 13.34.121.64/27 | AMAZON | eu-west-3 |
   | 15.230.71.0/26 | AMAZON | eu-west-3 |
   | 18.98.64.0/19 | AMAZON | eu-west-3 |
   | 150.222.39.128/26 | AMAZON | eu-west-3 |
@@ -5484,7 +4524,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.82.0/24 | AMAZON | eu-west-3 |
   | 16.12.18.0/23 | AMAZON | eu-west-3 |
   | 99.77.157.0/24 | AMAZON | eu-west-3 |
-  | 13.34.64.0/27 | AMAZON | eu-west-3 |
   | 35.71.101.0/24 | AMAZON | eu-west-3 |
   | 15.230.101.0/24 | AMAZON | eu-west-3 |
   | 35.96.64.0/20 | AMAZON | eu-west-3 |
@@ -5492,10 +4531,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.46.80.0/21 | AMAZON | eu-west-3 |
   | 52.93.126.251/32 | AMAZON | eu-west-3 |
   | 15.177.74.0/24 | AMAZON | eu-west-3 |
-  | 13.34.36.64/27 | AMAZON | eu-west-3 |
-  | 13.34.36.128/27 | AMAZON | eu-west-3 |
   | 52.144.210.64/26 | AMAZON | eu-west-3 |
-  | 13.34.36.96/27 | AMAZON | eu-west-3 |
   | 99.77.135.0/24 | AMAZON | eu-west-3 |
   | 3.5.224.0/22 | AMAZON | eu-west-3 |
   | 13.37.1.64/26 | AMAZON | eu-west-3 |
@@ -5614,28 +4650,19 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.65.64/27 | AMAZON | il-central-1 |
   | 51.85.0.0/16 | AMAZON | il-central-1 |
   | 18.96.160.0/19 | AMAZON | il-central-1 |
   | 13.248.72.0/24 | AMAZON | il-central-1 |
   | 150.222.52.32/27 | AMAZON | il-central-1 |
   | 15.251.0.27/32 | AMAZON | il-central-1 |
-  | 13.34.65.0/27 | AMAZON | il-central-1 |
   | 15.177.99.0/24 | AMAZON | il-central-1 |
   | 150.222.52.0/27 | AMAZON | il-central-1 |
   | 15.251.0.28/32 | AMAZON | il-central-1 |
   | 52.93.32.184/32 | AMAZON | il-central-1 |
-  | 13.34.65.160/27 | AMAZON | il-central-1 |
-  | 13.34.64.192/27 | AMAZON | il-central-1 |
-  | 13.34.65.128/27 | AMAZON | il-central-1 |
   | 150.222.52.64/27 | AMAZON | il-central-1 |
-  | 13.34.65.192/27 | AMAZON | il-central-1 |
-  | 13.34.65.96/27 | AMAZON | il-central-1 |
   | 54.239.1.240/28 | AMAZON | il-central-1 |
   | 51.84.0.0/16 | AMAZON | il-central-1 |
   | 15.251.0.29/32 | AMAZON | il-central-1 |
-  | 13.34.64.224/27 | AMAZON | il-central-1 |
-  | 13.34.65.224/27 | AMAZON | il-central-1 |
   | 51.86.0.0/15 | AMAZON | il-central-1 |
   | 16.12.12.0/23 | AMAZON | il-central-1 |
   | 15.190.16.0/20 | AMAZON | il-central-1 |
@@ -5644,7 +4671,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.250.32/28 | AMAZON | il-central-1 |
   | 3.5.56.0/22 | AMAZON | il-central-1 |
   | 15.230.62.0/24 | AMAZON | il-central-1 |
-  | 13.34.65.32/27 | AMAZON | il-central-1 |
   | 15.251.0.26/32 | AMAZON | il-central-1 |
   | 15.248.48.0/21 | AMAZON | il-central-1 |
   | 51.16.0.0/15 | AMAZON | il-central-1 |
@@ -5694,9 +4720,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 40.172.0.0/16 | AMAZON | me-central-1 |
   | 52.95.187.0/24 | AMAZON | me-central-1 |
-  | 13.34.35.160/27 | AMAZON | me-central-1 |
   | 35.71.104.0/24 | AMAZON | me-central-1 |
-  | 13.34.35.0/27 | AMAZON | me-central-1 |
   | 40.173.0.0/16 | AMAZON | me-central-1 |
   | 15.230.219.0/24 | AMAZON | me-central-1 |
   | 99.77.0.0/20 | AMAZON | me-central-1 |
@@ -5704,30 +4728,22 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.177.0/31 | AMAZON | me-central-1 |
   | 51.112.0.0/16 | AMAZON | me-central-1 |
   | 18.96.96.0/19 | AMAZON | me-central-1 |
-  | 13.34.35.32/27 | AMAZON | me-central-1 |
-  | 13.34.35.64/27 | AMAZON | me-central-1 |
   | 40.174.0.0/15 | AMAZON | me-central-1 |
   | 150.222.50.0/27 | AMAZON | me-central-1 |
   | 99.150.120.0/21 | AMAZON | me-central-1 |
   | 150.222.49.192/27 | AMAZON | me-central-1 |
   | 150.222.49.224/27 | AMAZON | me-central-1 |
-  | 13.34.34.160/27 | AMAZON | me-central-1 |
-  | 13.34.35.96/27 | AMAZON | me-central-1 |
   | 51.0.88.0/21 | AMAZON | me-central-1 |
   | 99.77.24.0/22 | AMAZON | me-central-1 |
   | 52.94.249.224/28 | AMAZON | me-central-1 |
   | 52.95.188.0/23 | AMAZON | me-central-1 |
-  | 13.34.35.128/27 | AMAZON | me-central-1 |
   | 15.230.177.2/31 | AMAZON | me-central-1 |
-  | 13.34.59.0/27 | AMAZON | me-central-1 |
   | 54.239.1.176/28 | AMAZON | me-central-1 |
   | 13.248.66.0/24 | AMAZON | me-central-1 |
-  | 13.34.34.128/27 | AMAZON | me-central-1 |
   | 99.77.16.0/21 | AMAZON | me-central-1 |
   | 15.177.93.0/24 | AMAZON | me-central-1 |
   | 3.28.0.0/15 | AMAZON | me-central-1 |
   | 51.0.80.0/21 | AMAZON | me-central-1 |
-  | 13.34.59.32/27 | AMAZON | me-central-1 |
   | 15.230.177.4/32 | AMAZON | me-central-1 |
   | 3.28.211.128/25 | AMAZON | me-central-1 |
   | 3.28.229.0/24 | AMAZON | me-central-1 |
@@ -5900,72 +4916,46 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
-  | 13.34.15.233/32 | AMAZON | sa-east-1 |
   | 64.252.81.0/24 | AMAZON | sa-east-1 |
   | 150.222.228.0/24 | AMAZON | sa-east-1 |
   | 52.94.198.16/28 | AMAZON | sa-east-1 |
-  | 13.34.15.196/32 | AMAZON | sa-east-1 |
   | 52.93.122.203/32 | AMAZON | sa-east-1 |
-  | 13.34.74.64/27 | AMAZON | sa-east-1 |
-  | 13.34.88.0/27 | AMAZON | sa-east-1 |
   | 99.77.149.0/24 | AMAZON | sa-east-1 |
-  | 13.34.71.224/27 | AMAZON | sa-east-1 |
   | 15.230.0.12/31 | AMAZON | sa-east-1 |
   | 64.252.79.0/24 | AMAZON | sa-east-1 |
   | 52.93.126.235/32 | AMAZON | sa-east-1 |
   | 52.95.240.0/24 | AMAZON | sa-east-1 |
   | 52.93.146.0/24 | AMAZON | sa-east-1 |
-  | 13.34.15.198/32 | AMAZON | sa-east-1 |
-  | 13.34.15.234/32 | AMAZON | sa-east-1 |
   | 18.231.0.0/16 | AMAZON | sa-east-1 |
   | 15.228.0.0/15 | AMAZON | sa-east-1 |
   | 54.233.0.0/18 | AMAZON | sa-east-1 |
-  | 13.34.15.236/32 | AMAZON | sa-east-1 |
   | 15.221.6.0/24 | AMAZON | sa-east-1 |
-  | 13.34.15.199/32 | AMAZON | sa-east-1 |
   | 56.125.0.0/16 | AMAZON | sa-east-1 |
   | 18.96.64.0/19 | AMAZON | sa-east-1 |
   | 18.229.0.0/16 | AMAZON | sa-east-1 |
   | 15.230.0.6/31 | AMAZON | sa-east-1 |
   | 18.230.0.0/16 | AMAZON | sa-east-1 |
-  | 13.34.74.32/27 | AMAZON | sa-east-1 |
-  | 13.34.74.96/27 | AMAZON | sa-east-1 |
   | 15.230.73.128/26 | AMAZON | sa-east-1 |
   | 52.93.122.202/32 | AMAZON | sa-east-1 |
   | 15.230.197.0/24 | AMAZON | sa-east-1 |
-  | 13.34.81.64/27 | AMAZON | sa-east-1 |
   | 52.93.151.0/24 | AMAZON | sa-east-1 |
-  | 13.34.42.192/27 | AMAZON | sa-east-1 |
   | 56.124.128.0/17 | AMAZON | sa-east-1 |
   | 15.230.63.2/31 | AMAZON | sa-east-1 |
   | 150.222.69.0/24 | AMAZON | sa-east-1 |
   | 3.2.49.0/24 | AMAZON | sa-east-1 |
   | 150.222.50.224/27 | AMAZON | sa-east-1 |
-  | 13.34.15.194/32 | AMAZON | sa-east-1 |
-  | 13.34.15.229/32 | AMAZON | sa-east-1 |
   | 99.77.234.0/24 | AMAZON | sa-east-1 |
-  | 13.34.15.200/32 | AMAZON | sa-east-1 |
-  | 13.34.31.160/27 | AMAZON | sa-east-1 |
   | 56.124.0.0/17 | AMAZON | sa-east-1 |
   | 16.12.2.0/24 | AMAZON | sa-east-1 |
-  | 13.34.84.32/27 | AMAZON | sa-east-1 |
   | 150.222.1.0/24 | AMAZON | sa-east-1 |
   | 151.148.18.0/24 | AMAZON | sa-east-1 |
   | 99.151.112.0/21 | AMAZON | sa-east-1 |
   | 99.82.164.0/24 | AMAZON | sa-east-1 |
-  | 13.34.88.32/27 | AMAZON | sa-east-1 |
   | 64.252.78.0/24 | AMAZON | sa-east-1 |
   | 52.93.127.70/32 | AMAZON | sa-east-1 |
-  | 13.34.47.224/27 | AMAZON | sa-east-1 |
-  | 13.34.15.226/32 | AMAZON | sa-east-1 |
-  | 13.34.15.207/32 | AMAZON | sa-east-1 |
-  | 13.34.63.96/27 | AMAZON | sa-east-1 |
   | 150.222.9.0/24 | AMAZON | sa-east-1 |
   | 52.93.127.161/32 | AMAZON | sa-east-1 |
-  | 13.34.29.0/27 | AMAZON | sa-east-1 |
   | 15.251.0.20/32 | AMAZON | sa-east-1 |
-  | 13.34.81.96/27 | AMAZON | sa-east-1 |
-  | 13.34.15.195/32 | AMAZON | sa-east-1 |
   | 15.230.250.0/24 | AMAZON | sa-east-1 |
   | 173.83.213.0/24 | AMAZON | sa-east-1 |
   | 56.127.0.0/16 | AMAZON | sa-east-1 |
@@ -5976,58 +4966,40 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 177.72.240.0/21 | AMAZON | sa-east-1 |
   | 15.230.0.4/32 | AMAZON | sa-east-1 |
   | 150.222.44.160/27 | AMAZON | sa-east-1 |
-  | 13.34.15.228/32 | AMAZON | sa-east-1 |
   | 15.230.100.2/32 | AMAZON | sa-east-1 |
   | 54.94.0.0/16 | AMAZON | sa-east-1 |
   | 52.93.126.234/32 | AMAZON | sa-east-1 |
   | 52.95.164.0/23 | AMAZON | sa-east-1 |
-  | 13.34.14.224/27 | AMAZON | sa-east-1 |
-  | 13.34.74.0/27 | AMAZON | sa-east-1 |
-  | 13.34.14.192/27 | AMAZON | sa-east-1 |
   | 15.177.70.0/23 | AMAZON | sa-east-1 |
   | 150.222.12.0/24 | AMAZON | sa-east-1 |
   | 150.222.44.96/27 | AMAZON | sa-east-1 |
   | 15.251.0.25/32 | AMAZON | sa-east-1 |
   | 64.252.80.0/24 | AMAZON | sa-east-1 |
-  | 13.34.15.239/32 | AMAZON | sa-east-1 |
-  | 13.34.15.201/32 | AMAZON | sa-east-1 |
-  | 13.34.15.205/32 | AMAZON | sa-east-1 |
-  | 13.34.15.227/32 | AMAZON | sa-east-1 |
   | 15.230.63.10/31 | AMAZON | sa-east-1 |
   | 15.251.0.21/32 | AMAZON | sa-east-1 |
   | 15.230.63.6/32 | AMAZON | sa-east-1 |
   | 52.93.127.71/32 | AMAZON | sa-east-1 |
-  | 13.34.47.192/27 | AMAZON | sa-east-1 |
   | 15.230.63.0/31 | AMAZON | sa-east-1 |
-  | 13.34.63.64/27 | AMAZON | sa-east-1 |
-  | 13.34.15.203/32 | AMAZON | sa-east-1 |
   | 52.93.126.206/32 | AMAZON | sa-east-1 |
-  | 13.34.42.224/27 | AMAZON | sa-east-1 |
   | 69.107.7.112/29 | AMAZON | sa-east-1 |
   | 150.222.44.128/27 | AMAZON | sa-east-1 |
   | 54.20.0.0/15 | AMAZON | sa-east-1 |
   | 54.232.0.0/16 | AMAZON | sa-east-1 |
   | 15.230.0.14/32 | AMAZON | sa-east-1 |
   | 54.239.0.64/28 | AMAZON | sa-east-1 |
-  | 13.34.71.192/27 | AMAZON | sa-east-1 |
-  | 13.34.15.230/32 | AMAZON | sa-east-1 |
   | 54.240.244.0/22 | AMAZON | sa-east-1 |
   | 15.251.0.23/32 | AMAZON | sa-east-1 |
-  | 13.34.15.232/32 | AMAZON | sa-east-1 |
   | 15.221.132.0/22 | AMAZON | sa-east-1 |
   | 150.222.28.0/24 | AMAZON | sa-east-1 |
   | 52.93.127.160/32 | AMAZON | sa-east-1 |
   | 52.94.7.0/24 | AMAZON | sa-east-1 |
-  | 13.34.29.32/27 | AMAZON | sa-east-1 |
   | 136.18.19.0/24 | AMAZON | sa-east-1 |
-  | 13.34.15.231/32 | AMAZON | sa-east-1 |
   | 15.230.0.8/31 | AMAZON | sa-east-1 |
   | 52.93.44.0/24 | AMAZON | sa-east-1 |
   | 150.222.70.0/24 | AMAZON | sa-east-1 |
   | 52.93.67.0/24 | AMAZON | sa-east-1 |
   | 16.12.0.0/23 | AMAZON | sa-east-1 |
   | 18.228.0.0/16 | AMAZON | sa-east-1 |
-  | 13.34.15.206/32 | AMAZON | sa-east-1 |
   | 15.230.252.0/24 | AMAZON | sa-east-1 |
   | 15.251.0.22/32 | AMAZON | sa-east-1 |
   | 15.221.40.0/21 | AMAZON | sa-east-1 |
@@ -6041,36 +5013,24 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.63.8/31 | AMAZON | sa-east-1 |
   | 15.230.93.0/24 | AMAZON | sa-east-1 |
   | 15.230.73.0/26 | AMAZON | sa-east-1 |
-  | 13.34.15.193/32 | AMAZON | sa-east-1 |
-  | 13.34.15.238/32 | AMAZON | sa-east-1 |
   | 15.251.0.24/32 | AMAZON | sa-east-1 |
-  | 13.34.15.202/32 | AMAZON | sa-east-1 |
   | 15.230.63.4/31 | AMAZON | sa-east-1 |
   | 150.222.0.0/24 | AMAZON | sa-east-1 |
-  | 13.34.15.197/32 | AMAZON | sa-east-1 |
-  | 13.34.15.237/32 | AMAZON | sa-east-1 |
   | 52.67.0.0/16 | AMAZON | sa-east-1 |
   | 54.233.64.0/18 | AMAZON | sa-east-1 |
   | 52.46.172.0/22 | AMAZON | sa-east-1 |
   | 13.248.104.0/24 | AMAZON | sa-east-1 |
   | 52.94.148.0/22 | AMAZON | sa-east-1 |
   | 15.230.73.64/26 | AMAZON | sa-east-1 |
-  | 13.34.31.128/27 | AMAZON | sa-east-1 |
-  | 13.34.15.225/32 | AMAZON | sa-east-1 |
-  | 13.34.27.96/27 | AMAZON | sa-east-1 |
-  | 13.34.27.128/27 | AMAZON | sa-east-1 |
   | 52.95.255.0/28 | AMAZON | sa-east-1 |
   | 150.222.51.32/27 | AMAZON | sa-east-1 |
-  | 13.34.15.235/32 | AMAZON | sa-east-1 |
   | 35.71.106.0/24 | AMAZON | sa-east-1 |
   | 3.5.232.0/22 | AMAZON | sa-east-1 |
-  | 13.34.15.204/32 | AMAZON | sa-east-1 |
   | 54.207.0.0/16 | AMAZON | sa-east-1 |
   | 15.220.112.0/21 | AMAZON | sa-east-1 |
   | 15.230.94.0/24 | AMAZON | sa-east-1 |
   | 150.222.51.0/27 | AMAZON | sa-east-1 |
   | 69.107.7.120/29 | AMAZON | sa-east-1 |
-  | 13.34.84.0/27 | AMAZON | sa-east-1 |
   | 177.71.128.0/17 | AMAZON | sa-east-1 |
   | 15.228.1.128/26 | AMAZON | sa-east-1 |
   | 15.228.1.192/26 | AMAZON | sa-east-1 |
@@ -6193,12 +5153,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
   | 15.230.221.0/24 | AMAZON | us-east-1 |
-  | 13.34.8.129/32 | AMAZON | us-east-1 |
   | 52.94.152.9/32 | AMAZON | us-east-1 |
   | 15.181.232.0/21 | AMAZON | us-east-1-iah-1 |
   | 52.93.127.163/32 | AMAZON | us-east-1 |
   | 3.2.0.0/24 | AMAZON | us-east-1-iah-1 |
-  | 13.34.1.226/32 | AMAZON | us-east-1 |
   | 15.230.137.0/24 | AMAZON | us-east-1 |
   | 15.230.216.8/32 | AMAZON | us-east-1 |
   | 18.97.0.0/18 | AMAZON | us-east-1 |
@@ -6209,28 +5167,20 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.196.0/22 | AMAZON | us-east-1-mia-1 |
   | 52.93.127.169/32 | AMAZON | us-east-1 |
   | 52.94.244.0/22 | AMAZON | us-east-1 |
-  | 13.34.2.231/32 | AMAZON | us-east-1 |
   | 15.230.254.2/31 | AMAZON | us-east-1 |
   | 64.252.69.0/24 | AMAZON | us-east-1 |
-  | 13.34.0.65/32 | AMAZON | us-east-1 |
-  | 13.34.1.235/32 | AMAZON | us-east-1 |
-  | 13.34.8.131/32 | AMAZON | us-east-1 |
   | 52.95.41.0/24 | AMAZON | us-east-1 |
   | 3.4.0.0/24 | AMAZON | us-east-1 |
   | 52.94.152.44/32 | AMAZON | us-east-1 |
-  | 13.34.8.136/32 | AMAZON | us-east-1 |
   | 52.93.91.102/32 | AMAZON | us-east-1 |
-  | 13.34.0.110/32 | AMAZON | us-east-1 |
   | 13.248.124.0/24 | AMAZON | us-east-1 |
   | 15.220.222.0/23 | AMAZON | us-east-1-mci-1 |
   | 52.93.40.0/24 | AMAZON | us-east-1 |
   | 15.181.247.0/24 | AMAZON | us-east-1-atl-1 |
   | 18.232.0.0/14 | AMAZON | us-east-1 |
   | 155.146.80.0/20 | AMAZON | us-east-1-wl1-mia-wlz-1 |
-  | 13.34.9.174/32 | AMAZON | us-east-1 |
   | 15.220.120.0/21 | AMAZON | us-east-1-bue-1 |
   | 150.222.15.124/32 | AMAZON | us-east-1 |
-  | 13.34.1.229/32 | AMAZON | us-east-1 |
   | 15.230.216.2/31 | AMAZON | us-east-1 |
   | 150.222.2.0/24 | AMAZON | us-east-1 |
   | 155.146.224.0/20 | AMAZON | us-east-1-wl1-msp-wlz-1 |
@@ -6239,9 +5189,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.236.0.0/15 | AMAZON | us-east-1 |
   | 99.150.8.0/21 | AMAZON | us-east-1 |
   | 155.146.240.0/20 | AMAZON | us-east-1-wl1-iah-wlz-1 |
-  | 13.34.0.104/32 | AMAZON | us-east-1 |
   | 15.181.160.0/20 | AMAZON | us-east-1-nyc-1 |
-  | 13.34.0.103/32 | AMAZON | us-east-1 |
   | 15.181.80.0/20 | AMAZON | us-east-1-atl-1 |
   | 15.230.218.0/24 | AMAZON | us-east-1 |
   | 136.18.128.0/23 | AMAZON | us-east-1 |
@@ -6249,11 +5197,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.124/32 | AMAZON | us-east-1 |
   | 52.144.193.128/26 | AMAZON | us-east-1 |
   | 107.20.0.0/14 | AMAZON | us-east-1 |
-  | 13.34.1.234/32 | AMAZON | us-east-1 |
-  | 13.34.3.103/32 | AMAZON | us-east-1 |
   | 15.230.40.0/24 | AMAZON | us-east-1 |
   | 155.146.176.0/20 | AMAZON | us-east-1-wl1-chi-wlz-1 |
-  | 13.34.0.106/32 | AMAZON | us-east-1 |
   | 15.230.204.0/25 | AMAZON | us-east-1 |
   | 52.93.91.101/32 | AMAZON | us-east-1 |
   | 54.25.15.0/24 | AMAZON | us-east-1 |
@@ -6264,24 +5209,17 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.24.0/21 | AMAZON | us-east-1 |
   | 52.93.127.218/32 | AMAZON | us-east-1 |
   | 205.251.244.0/23 | AMAZON | us-east-1 |
-  | 13.34.1.228/32 | AMAZON | us-east-1 |
   | 52.93.236.0/24 | AMAZON | us-east-1 |
   | 54.239.98.0/24 | AMAZON | us-east-1 |
-  | 13.34.0.71/32 | AMAZON | us-east-1 |
-  | 13.34.2.226/32 | AMAZON | us-east-1 |
   | 54.144.0.0/14 | AMAZON | us-east-1 |
-  | 13.34.8.162/32 | AMAZON | us-east-1 |
   | 15.230.95.0/24 | AMAZON | us-east-1 |
   | 52.93.127.69/32 | AMAZON | us-east-1 |
-  | 13.34.9.175/32 | AMAZON | us-east-1 |
   | 15.230.192.0/24 | AMAZON | us-east-1 |
   | 15.230.108.0/24 | AMAZON | us-east-1 |
   | 75.101.128.0/17 | AMAZON | us-east-1 |
   | 96.0.16.0/21 | AMAZON | us-east-1-lim-1 |
   | 104.255.56.24/32 | AMAZON | us-east-1 |
-  | 13.34.3.69/32 | AMAZON | us-east-1 |
   | 155.146.192.0/20 | AMAZON | us-east-1-wl1-tpa-wlz-1 |
-  | 13.34.1.199/32 | AMAZON | us-east-1 |
   | 52.144.192.0/26 | AMAZON | us-east-1 |
   | 67.202.0.0/18 | AMAZON | us-east-1 |
   | 18.34.0.0/19 | AMAZON | us-east-1 |
@@ -6296,61 +5234,45 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.144.192.192/26 | AMAZON | us-east-1 |
   | 54.221.0.0/16 | AMAZON | us-east-1 |
   | 54.240.202.0/24 | AMAZON | us-east-1 |
-  | 13.34.2.239/32 | AMAZON | us-east-1 |
-  | 13.34.3.72/32 | AMAZON | us-east-1 |
   | 52.95.63.0/24 | AMAZON | us-east-1 |
   | 69.107.7.40/29 | AMAZON | us-east-1 |
-  | 13.34.2.197/32 | AMAZON | us-east-1 |
   | 15.181.112.0/22 | AMAZON | us-east-1-bos-1 |
   | 52.93.126.215/32 | AMAZON | us-east-1 |
   | 52.93.127.217/32 | AMAZON | us-east-1 |
   | 68.66.112.0/20 | AMAZON | us-east-1-bos-1 |
   | 54.239.112.0/24 | AMAZON | us-east-1 |
-  | 13.34.0.67/32 | AMAZON | us-east-1 |
-  | 13.34.3.65/32 | AMAZON | us-east-1 |
   | 52.93.147.0/24 | AMAZON | us-east-1 |
   | 150.222.216.0/24 | AMAZON | us-east-1 |
-  | 13.34.3.104/32 | AMAZON | us-east-1 |
   | 15.181.241.0/24 | AMAZON | us-east-1-dfw-1 |
   | 34.192.0.0/12 | AMAZON | us-east-1 |
   | 15.230.184.0/24 | AMAZON | us-east-1 |
   | 52.119.232.0/21 | AMAZON | us-east-1 |
   | 150.222.99.0/24 | AMAZON | us-east-1 |
   | 150.222.218.0/24 | AMAZON | us-east-1 |
-  | 13.34.0.107/32 | AMAZON | us-east-1 |
-  | 13.34.8.174/32 | AMAZON | us-east-1 |
   | 52.93.61.0/24 | AMAZON | us-east-1 |
   | 52.93.127.167/32 | AMAZON | us-east-1 |
   | 54.239.108.0/22 | AMAZON | us-east-1 |
   | 64.252.68.0/24 | AMAZON | us-east-1 |
   | 15.230.193.0/24 | AMAZON | us-east-1 |
   | 52.94.68.0/24 | AMAZON | us-east-1 |
-  | 13.34.3.101/32 | AMAZON | us-east-1 |
   | 15.230.216.12/31 | AMAZON | us-east-1 |
   | 99.77.191.0/24 | AMAZON | us-east-1 |
   | 150.222.211.0/24 | AMAZON | us-east-1 |
   | 44.192.0.0/11 | AMAZON | us-east-1 |
   | 15.251.0.10/32 | AMAZON | us-east-1 |
   | 3.4.9.0/24 | AMAZON | us-east-1 |
-  | 13.34.0.101/32 | AMAZON | us-east-1 |
-  | 13.34.3.79/32 | AMAZON | us-east-1 |
   | 54.239.8.0/21 | AMAZON | us-east-1 |
   | 207.171.176.0/20 | AMAZON | us-east-1 |
-  | 13.34.0.66/32 | AMAZON | us-east-1 |
-  | 13.34.2.194/32 | AMAZON | us-east-1 |
   | 15.230.216.11/32 | AMAZON | us-east-1 |
   | 151.148.20.0/24 | AMAZON | us-east-1 |
   | 162.250.238.0/23 | AMAZON | us-east-1 |
   | 150.222.100.0/24 | AMAZON | us-east-1 |
-  | 13.34.0.102/32 | AMAZON | us-east-1 |
   | 16.15.192.0/18 | AMAZON | us-east-1 |
   | 52.93.238.0/25 | AMAZON | us-east-1 |
   | 136.18.138.0/23 | AMAZON | us-east-1 |
   | 52.93.127.219/32 | AMAZON | us-east-1 |
-  | 13.34.0.69/32 | AMAZON | us-east-1 |
   | 52.93.127.18/32 | AMAZON | us-east-1 |
   | 150.222.103.0/24 | AMAZON | us-east-1 |
-  | 13.34.8.171/32 | AMAZON | us-east-1 |
   | 205.251.246.0/24 | AMAZON | us-east-1 |
   | 69.107.3.184/29 | AMAZON | us-east-1 |
   | 23.20.0.0/14 | AMAZON | us-east-1 |
@@ -6364,10 +5286,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.168.0/24 | AMAZON | us-east-1 |
   | 52.94.152.11/32 | AMAZON | us-east-1 |
   | 104.255.56.23/32 | AMAZON | us-east-1 |
-  | 13.34.8.134/32 | AMAZON | us-east-1 |
-  | 13.34.8.164/32 | AMAZON | us-east-1 |
   | 15.181.144.0/20 | AMAZON | us-east-1-phl-1 |
-  | 13.34.0.74/32 | AMAZON | us-east-1 |
   | 15.181.254.0/24 | AMAZON | us-east-1-mia-1 |
   | 52.93.126.123/32 | AMAZON | us-east-1 |
   | 52.94.124.0/22 | AMAZON | us-east-1 |
@@ -6382,18 +5301,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.181.176.0/20 | AMAZON | us-east-1-chi-1 |
   | 52.93.91.111/32 | AMAZON | us-east-1 |
   | 52.93.123.255/32 | AMAZON | us-east-1 |
-  | 13.34.1.238/32 | AMAZON | us-east-1 |
   | 15.181.48.0/20 | AMAZON | us-east-1-msp-1 |
   | 104.255.56.18/32 | AMAZON | us-east-1 |
   | 150.222.33.0/24 | AMAZON | us-east-1 |
   | 96.0.131.0/24 | AMAZON | us-east-1-scl-1 |
   | 205.251.247.0/24 | AMAZON | us-east-1 |
-  | 13.34.0.72/32 | AMAZON | us-east-1 |
-  | 13.34.2.207/32 | AMAZON | us-east-1 |
   | 15.193.6.0/24 | AMAZON | us-east-1 |
   | 52.93.127.182/32 | AMAZON | us-east-1 |
-  | 13.34.0.70/32 | AMAZON | us-east-1 |
-  | 13.34.3.67/32 | AMAZON | us-east-1 |
   | 15.230.208.0/24 | AMAZON | us-east-1 |
   | 52.90.0.0/15 | AMAZON | us-east-1 |
   | 52.93.91.114/32 | AMAZON | us-east-1 |
@@ -6406,26 +5320,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.54.0.0/15 | AMAZON | us-east-1 |
   | 52.93.3.0/24 | AMAZON | us-east-1 |
   | 52.93.238.128/25 | AMAZON | us-east-1 |
-  | 13.34.1.230/32 | AMAZON | us-east-1 |
-  | 13.34.2.227/32 | AMAZON | us-east-1 |
-  | 13.34.3.110/32 | AMAZON | us-east-1 |
   | 52.119.196.0/22 | AMAZON | us-east-1 |
   | 15.230.216.9/32 | AMAZON | us-east-1 |
   | 52.93.91.100/32 | AMAZON | us-east-1 |
   | 150.222.71.0/24 | AMAZON | us-east-1 |
-  | 13.34.0.75/32 | AMAZON | us-east-1 |
-  | 13.34.1.201/32 | AMAZON | us-east-1 |
   | 52.93.74.0/24 | AMAZON | us-east-1 |
   | 3.4.10.0/24 | AMAZON | us-east-1 |
-  | 13.34.2.196/32 | AMAZON | us-east-1 |
-  | 13.34.8.139/32 | AMAZON | us-east-1 |
-  | 13.34.9.143/32 | AMAZON | us-east-1 |
   | 99.77.129.0/24 | AMAZON | us-east-1 |
   | 18.96.0.0/24 | AMAZON | us-east-1 |
   | 67.220.240.0/20 | AMAZON | us-east-1 |
   | 139.56.24.0/23 | AMAZON | us-east-1-wl1-msp-wlz-1 |
-  | 13.34.2.237/32 | AMAZON | us-east-1 |
-  | 13.34.9.142/32 | AMAZON | us-east-1 |
   | 99.82.171.0/24 | AMAZON | us-east-1 |
   | 52.144.200.64/26 | AMAZON | us-east-1 |
   | 35.153.0.0/16 | AMAZON | us-east-1 |
@@ -6445,33 +5349,26 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 34.224.0.0/12 | AMAZON | us-east-1 |
   | 96.0.88.0/22 | AMAZON | us-east-1-chi-1 |
   | 136.18.50.0/23 | AMAZON | us-east-1 |
-  | 13.34.1.206/32 | AMAZON | us-east-1 |
   | 52.93.50.0/24 | AMAZON | us-east-1 |
   | 52.93.127.221/32 | AMAZON | us-east-1 |
-  | 13.34.2.235/32 | AMAZON | us-east-1 |
   | 15.230.254.0/31 | AMAZON | us-east-1 |
   | 52.144.195.0/26 | AMAZON | us-east-1 |
-  | 13.34.1.200/32 | AMAZON | us-east-1 |
-  | 13.34.0.79/32 | AMAZON | us-east-1 |
   | 139.56.28.0/23 | AMAZON | us-east-1-wl1-bna-wlz-1 |
   | 52.93.64.0/24 | AMAZON | us-east-1 |
   | 104.153.112.0/24 | AMAZON | us-east-1 |
   | 139.56.26.0/23 | AMAZON | us-east-1-wl1-iah-wlz-1 |
   | 96.0.100.0/23 | AMAZON | us-east-1-mia-1 |
   | 161.188.16.0/20 | AMAZON | us-east-1-wl1-dtw-wlz-1 |
-  | 13.34.1.195/32 | AMAZON | us-east-1 |
   | 63.246.119.0/24 | AMAZON | us-east-1 |
   | 155.146.208.0/20 | AMAZON | us-east-1-wl1-clt-wlz-1 |
   | 50.19.0.0/16 | AMAZON | us-east-1 |
   | 150.222.73.0/24 | AMAZON | us-east-1 |
-  | 13.34.8.167/32 | AMAZON | us-east-1 |
   | 136.18.130.0/23 | AMAZON | us-east-1 |
   | 15.221.4.0/23 | AMAZON | us-east-1 |
   | 15.230.48.0/24 | AMAZON | us-east-1 |
   | 52.93.119.144/30 | AMAZON | us-east-1 |
   | 52.93.127.172/32 | AMAZON | us-east-1 |
   | 3.2.3.0/24 | AMAZON | us-east-1-bos-1 |
-  | 13.34.0.78/32 | AMAZON | us-east-1 |
   | 15.230.38.0/24 | AMAZON | us-east-1 |
   | 52.93.127.68/32 | AMAZON | us-east-1 |
   | 52.94.201.64/26 | AMAZON | us-east-1 |
@@ -6484,11 +5381,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.208.0.0/13 | AMAZON | us-east-1 |
   | 52.95.245.0/24 | AMAZON | us-east-1 |
   | 99.77.187.0/24 | AMAZON | us-east-1 |
-  | 13.34.2.195/32 | AMAZON | us-east-1 |
   | 15.230.14.0/24 | AMAZON | us-east-1 |
   | 136.18.132.0/23 | AMAZON | us-east-1 |
   | 52.93.123.98/32 | AMAZON | us-east-1 |
-  | 13.34.2.200/32 | AMAZON | us-east-1 |
   | 52.93.91.108/32 | AMAZON | us-east-1 |
   | 52.93.127.122/32 | AMAZON | us-east-1 |
   | 98.88.0.0/13 | AMAZON | us-east-1 |
@@ -6499,10 +5394,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 104.255.56.20/32 | AMAZON | us-east-1 |
   | 184.72.128.0/17 | AMAZON | us-east-1 |
   | 205.251.248.0/24 | AMAZON | us-east-1 |
-  | 13.34.2.238/32 | AMAZON | us-east-1 |
-  | 13.34.8.132/32 | AMAZON | us-east-1 |
   | 69.107.7.72/29 | AMAZON | us-east-1 |
-  | 13.34.3.66/32 | AMAZON | us-east-1 |
   | 54.80.0.0/13 | AMAZON | us-east-1 |
   | 104.153.118.0/24 | AMAZON | us-east-1 |
   | 15.230.142.0/24 | AMAZON | us-east-1 |
@@ -6517,20 +5409,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 98.80.0.0/13 | AMAZON | us-east-1 |
   | 99.83.101.0/24 | AMAZON | us-east-1 |
   | 150.222.224.0/24 | AMAZON | us-east-1 |
-  | 13.34.8.130/32 | AMAZON | us-east-1 |
   | 52.94.192.0/22 | AMAZON | us-east-1 |
   | 15.230.148.0/24 | AMAZON | us-east-1 |
   | 52.95.52.0/22 | AMAZON | us-east-1 |
-  | 13.34.3.97/32 | AMAZON | us-east-1 |
   | 18.88.0.0/18 | AMAZON | us-east-1 |
   | 52.93.254.0/24 | AMAZON | us-east-1 |
   | 99.82.175.0/24 | AMAZON | us-east-1 |
   | 52.119.214.0/23 | AMAZON | us-east-1 |
   | 208.86.88.0/23 | AMAZON | us-east-1 |
-  | 13.34.1.231/32 | AMAZON | us-east-1 |
   | 54.208.0.0/15 | AMAZON | us-east-1 |
   | 18.96.2.0/24 | AMAZON | us-east-1 |
-  | 13.34.3.70/32 | AMAZON | us-east-1 |
   | 15.221.24.0/21 | AMAZON | us-east-1 |
   | 150.222.237.0/24 | AMAZON | us-east-1 |
   | 161.178.128.0/18 | AMAZON | us-east-1 |
@@ -6540,13 +5428,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.224.0/20 | AMAZON | us-east-1 |
   | 69.107.7.104/29 | AMAZON | us-east-1 |
   | 99.77.128.0/24 | AMAZON | us-east-1 |
-  | 13.34.2.198/32 | AMAZON | us-east-1 |
   | 150.222.226.0/24 | AMAZON | us-east-1 |
   | 161.188.0.0/20 | AMAZON | us-east-1-wl1-bna-wlz-1 |
-  | 13.34.0.97/32 | AMAZON | us-east-1 |
   | 54.152.0.0/16 | AMAZON | us-east-1 |
   | 54.240.208.0/22 | AMAZON | us-east-1 |
-  | 13.34.8.175/32 | AMAZON | us-east-1 |
   | 52.70.0.0/15 | AMAZON | us-east-1 |
   | 52.94.248.0/28 | AMAZON | us-east-1 |
   | 52.119.212.0/23 | AMAZON | us-east-1 |
@@ -6558,8 +5443,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.254.0/24 | AMAZON | us-east-1 |
   | 13.248.103.0/24 | AMAZON | us-east-1 |
   | 70.232.92.0/22 | AMAZON | us-east-1 |
-  | 13.34.2.206/32 | AMAZON | us-east-1 |
-  | 13.34.8.169/32 | AMAZON | us-east-1 |
   | 35.71.68.0/22 | AMAZON | us-east-1 |
   | 15.177.64.0/23 | AMAZON | us-east-1 |
   | 46.51.208.0/22 | AMAZON | us-east-1 |
@@ -6572,13 +5455,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.162/32 | AMAZON | us-east-1 |
   | 15.221.160.0/22 | AMAZON | us-east-1 |
   | 15.230.109.0/24 | AMAZON | us-east-1 |
-  | 13.34.3.107/32 | AMAZON | us-east-1 |
-  | 13.34.8.142/32 | AMAZON | us-east-1 |
   | 54.172.0.0/15 | AMAZON | us-east-1 |
-  | 13.34.1.227/32 | AMAZON | us-east-1 |
   | 52.93.127.200/32 | AMAZON | us-east-1 |
-  | 13.34.2.199/32 | AMAZON | us-east-1 |
-  | 13.34.2.205/32 | AMAZON | us-east-1 |
   | 18.204.0.0/14 | AMAZON | us-east-1 |
   | 52.93.91.110/32 | AMAZON | us-east-1 |
   | 54.88.0.0/14 | AMAZON | us-east-1 |
@@ -6589,9 +5467,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.62.0/24 | AMAZON | us-east-1 |
   | 52.93.127.183/32 | AMAZON | us-east-1 |
   | 3.2.2.0/24 | AMAZON | us-east-1-mia-1 |
-  | 13.34.4.64/27 | AMAZON | us-east-1 |
   | 64.252.66.0/24 | AMAZON | us-east-1 |
-  | 13.34.0.99/32 | AMAZON | us-east-1 |
   | 15.230.157.0/24 | AMAZON | us-east-1 |
   | 150.222.110.0/24 | AMAZON | us-east-1 |
   | 3.3.5.0/24 | AMAZON | us-east-1 |
@@ -6600,12 +5476,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 155.146.64.0/20 | AMAZON | us-east-1-wl1-nyc-wlz-1 |
   | 176.32.96.0/21 | AMAZON | us-east-1 |
   | 184.72.64.0/18 | AMAZON | us-east-1 |
-  | 13.34.0.100/32 | AMAZON | us-east-1 |
   | 13.248.108.0/24 | AMAZON | us-east-1 |
   | 52.95.108.0/23 | AMAZON | us-east-1 |
   | 52.144.193.0/26 | AMAZON | us-east-1 |
   | 205.251.225.0/24 | AMAZON | us-east-1 |
-  | 13.34.3.75/32 | AMAZON | us-east-1 |
   | 15.181.192.0/19 | AMAZON | us-east-1-dfw-1 |
   | 52.93.123.136/32 | AMAZON | us-east-1 |
   | 52.95.48.0/22 | AMAZON | us-east-1 |
@@ -6617,13 +5491,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 216.182.232.0/22 | AMAZON | us-east-1 |
   | 150.222.137.0/24 | AMAZON | us-east-1 |
   | 3.33.44.0/22 | AMAZON | us-east-1 |
-  | 13.34.0.105/32 | AMAZON | us-east-1 |
-  | 13.34.3.102/32 | AMAZON | us-east-1 |
   | 52.94.152.12/32 | AMAZON | us-east-1 |
-  | 13.34.0.68/32 | AMAZON | us-east-1 |
-  | 13.34.1.203/32 | AMAZON | us-east-1 |
-  | 13.34.2.236/32 | AMAZON | us-east-1 |
-  | 13.34.3.99/32 | AMAZON | us-east-1 |
   | 15.230.83.0/24 | AMAZON | us-east-1 |
   | 150.222.223.0/24 | AMAZON | us-east-1 |
   | 15.230.145.0/24 | AMAZON | us-east-1 |
@@ -6636,12 +5504,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 199.127.232.0/22 | AMAZON | us-east-1 |
   | 204.236.192.0/18 | AMAZON | us-east-1 |
   | 35.168.0.0/13 | AMAZON | us-east-1 |
-  | 13.34.3.111/32 | AMAZON | us-east-1 |
   | 15.181.40.0/21 | AMAZON | us-east-1-nyc-1 |
   | 18.34.232.0/21 | AMAZON | us-east-1 |
   | 69.107.3.176/29 | AMAZON | us-east-1 |
   | 72.44.32.0/19 | AMAZON | us-east-1 |
-  | 13.34.2.203/32 | AMAZON | us-east-1 |
   | 15.181.96.0/20 | AMAZON | us-east-1-mci-1 |
   | 104.255.56.26/32 | AMAZON | us-east-1 |
   | 3.2.52.0/24 | AMAZON | us-east-1 |
@@ -6649,15 +5515,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 69.107.7.96/29 | AMAZON | us-east-1 |
   | 52.93.1.0/24 | AMAZON | us-east-1 |
   | 3.4.11.0/24 | AMAZON | us-east-1 |
-  | 13.34.1.202/32 | AMAZON | us-east-1 |
-  | 13.34.8.165/32 | AMAZON | us-east-1 |
   | 150.222.15.126/32 | AMAZON | us-east-1 |
   | 150.222.236.0/24 | AMAZON | us-east-1 |
   | 3.4.2.0/24 | AMAZON | us-east-1 |
-  | 13.34.4.96/27 | AMAZON | us-east-1 |
   | 52.46.170.0/23 | AMAZON | us-east-1 |
   | 176.32.125.128/25 | AMAZON | us-east-1 |
-  | 13.34.0.98/32 | AMAZON | us-east-1 |
   | 15.230.216.6/31 | AMAZON | us-east-1 |
   | 54.92.128.0/17 | AMAZON | us-east-1 |
   | 54.239.0.0/28 | AMAZON | us-east-1 |
@@ -6668,7 +5530,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.248.0/24 | AMAZON | us-east-1 |
   | 52.93.91.98/32 | AMAZON | us-east-1 |
   | 136.18.254.0/23 | AMAZON | us-east-1 |
-  | 13.34.8.163/32 | AMAZON | us-east-1 |
   | 54.204.0.0/15 | AMAZON | us-east-1 |
   | 54.196.0.0/15 | AMAZON | us-east-1 |
   | 15.230.169.0/31 | AMAZON | us-east-1 |
@@ -6679,16 +5540,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 207.171.160.0/20 | AMAZON | us-east-1 |
   | 54.26.166.0/24 | AMAZON | us-east-1 |
   | 155.146.32.0/20 | AMAZON | us-east-1-wl1-was-wlz-1 |
-  | 13.34.2.229/32 | AMAZON | us-east-1 |
   | 15.220.220.0/23 | AMAZON | us-east-1-mia-1 |
-  | 13.34.8.135/32 | AMAZON | us-east-1 |
   | 52.72.0.0/15 | AMAZON | us-east-1 |
-  | 13.34.2.193/32 | AMAZON | us-east-1 |
-  | 13.34.8.137/32 | AMAZON | us-east-1 |
-  | 13.34.8.161/32 | AMAZON | us-east-1 |
   | 16.15.176.0/20 | AMAZON | us-east-1 |
   | 52.93.126.212/32 | AMAZON | us-east-1 |
-  | 13.34.2.225/32 | AMAZON | us-east-1 |
   | 54.160.0.0/13 | AMAZON | us-east-1 |
   | 15.230.66.0/25 | AMAZON | us-east-1 |
   | 52.93.127.164/32 | AMAZON | us-east-1 |
@@ -6708,7 +5563,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 155.146.48.0/20 | AMAZON | us-east-1-wl1-atl-wlz-1 |
   | 15.230.105.0/24 | AMAZON | us-east-1 |
   | 104.255.56.15/32 | AMAZON | us-east-1 |
-  | 13.34.8.170/32 | AMAZON | us-east-1 |
   | 15.181.249.0/24 | AMAZON | us-east-1-msp-1 |
   | 69.107.7.64/29 | AMAZON | us-east-1 |
   | 139.56.22.0/23 | AMAZON | us-east-1-wl1-clt-wlz-1 |
@@ -6723,9 +5577,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.91.103/32 | AMAZON | us-east-1 |
   | 176.32.124.128/25 | AMAZON | us-east-1 |
   | 184.73.0.0/16 | AMAZON | us-east-1 |
-  | 13.34.1.197/32 | AMAZON | us-east-1 |
   | 54.174.0.0/15 | AMAZON | us-east-1 |
-  | 13.34.3.98/32 | AMAZON | us-east-1 |
   | 52.93.4.0/24 | AMAZON | us-east-1 |
   | 52.93.59.0/24 | AMAZON | us-east-1 |
   | 54.224.0.0/15 | AMAZON | us-east-1 |
@@ -6744,51 +5596,34 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.165/32 | AMAZON | us-east-1 |
   | 54.239.103.128/26 | AMAZON | us-east-1 |
   | 96.0.104.0/22 | AMAZON | us-east-1-phl-1 |
-  | 13.34.0.73/32 | AMAZON | us-east-1 |
   | 150.222.15.127/32 | AMAZON | us-east-1 |
   | 52.93.51.0/24 | AMAZON | us-east-1 |
   | 136.18.33.0/24 | AMAZON | us-east-1 |
   | 16.182.0.0/16 | AMAZON | us-east-1 |
   | 150.222.32.0/24 | AMAZON | us-east-1 |
   | 150.222.222.0/24 | AMAZON | us-east-1 |
-  | 13.34.1.196/32 | AMAZON | us-east-1 |
   | 52.93.127.181/32 | AMAZON | us-east-1 |
-  | 13.34.1.193/32 | AMAZON | us-east-1 |
-  | 13.34.1.233/32 | AMAZON | us-east-1 |
   | 15.230.216.0/31 | AMAZON | us-east-1 |
   | 52.93.126.214/32 | AMAZON | us-east-1 |
   | 52.93.127.173/32 | AMAZON | us-east-1 |
   | 64.252.67.0/24 | AMAZON | us-east-1 |
-  | 13.34.1.194/32 | AMAZON | us-east-1 |
   | 54.198.0.0/16 | AMAZON | us-east-1 |
   | 52.46.128.0/19 | AMAZON | us-east-1 |
   | 52.93.127.166/32 | AMAZON | us-east-1 |
-  | 13.34.3.73/32 | AMAZON | us-east-1 |
   | 52.93.91.109/32 | AMAZON | us-east-1 |
   | 52.93.127.123/32 | AMAZON | us-east-1 |
   | 15.181.244.0/24 | AMAZON | us-east-1-phl-1 |
   | 52.144.193.64/26 | AMAZON | us-east-1 |
   | 54.239.16.0/20 | AMAZON | us-east-1 |
-  | 13.34.1.239/32 | AMAZON | us-east-1 |
-  | 13.34.8.138/32 | AMAZON | us-east-1 |
   | 15.181.120.0/21 | AMAZON | us-east-1-atl-1 |
   | 15.251.0.11/32 | AMAZON | us-east-1 |
   | 104.255.56.25/32 | AMAZON | us-east-1 |
-  | 13.34.2.204/32 | AMAZON | us-east-1 |
-  | 13.34.2.228/32 | AMAZON | us-east-1 |
   | 136.18.32.0/24 | AMAZON | us-east-1 |
-  | 13.34.3.105/32 | AMAZON | us-east-1 |
-  | 13.34.8.143/32 | AMAZON | us-east-1 |
   | 15.230.56.0/24 | AMAZON | us-east-1 |
   | 15.230.169.3/32 | AMAZON | us-east-1 |
   | 52.144.194.0/26 | AMAZON | us-east-1 |
-  | 13.34.8.168/32 | AMAZON | us-east-1 |
   | 3.5.0.0/19 | AMAZON | us-east-1 |
-  | 13.34.1.225/32 | AMAZON | us-east-1 |
-  | 13.34.3.68/32 | AMAZON | us-east-1 |
-  | 13.34.3.78/32 | AMAZON | us-east-1 |
   | 52.46.164.0/23 | AMAZON | us-east-1 |
-  | 13.34.1.198/32 | AMAZON | us-east-1 |
   | 52.93.91.106/32 | AMAZON | us-east-1 |
   | 54.240.228.0/23 | AMAZON | us-east-1 |
   | 104.255.56.12/32 | AMAZON | us-east-1 |
@@ -6802,54 +5637,43 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.76.0/24 | AMAZON | us-east-1 |
   | 13.248.116.0/24 | AMAZON | us-east-1 |
   | 15.181.240.0/24 | AMAZON | us-east-1-dfw-1 |
-  | 13.34.3.106/32 | AMAZON | us-east-1 |
   | 52.93.76.0/24 | AMAZON | us-east-1 |
   | 52.93.91.99/32 | AMAZON | us-east-1 |
   | 192.43.175.0/24 | AMAZON | us-east-1 |
-  | 13.34.1.232/32 | AMAZON | us-east-1 |
   | 52.93.70.40/29 | AMAZON | us-east-1 |
   | 15.230.205.0/24 | AMAZON | us-east-1 |
   | 52.93.127.184/32 | AMAZON | us-east-1 |
   | 100.24.0.0/13 | AMAZON | us-east-1 |
   | 139.56.30.0/23 | AMAZON | us-east-1-wl1-dtw-wlz-1 |
-  | 13.34.1.207/32 | AMAZON | us-east-1 |
-  | 13.34.8.133/32 | AMAZON | us-east-1 |
   | 52.93.127.220/32 | AMAZON | us-east-1 |
   | 150.222.34.0/24 | AMAZON | us-east-1 |
   | 3.3.32.0/23 | AMAZON | us-east-1 |
-  | 13.34.3.74/32 | AMAZON | us-east-1 |
   | 52.93.91.97/32 | AMAZON | us-east-1 |
   | 52.93.91.107/32 | AMAZON | us-east-1 |
   | 96.0.152.0/21 | AMAZON | us-east-1-scl-1 |
   | 15.230.169.2/32 | AMAZON | us-east-1 |
   | 52.93.127.168/32 | AMAZON | us-east-1 |
   | 54.239.104.0/23 | AMAZON | us-east-1 |
-  | 13.34.2.230/32 | AMAZON | us-east-1 |
   | 15.181.32.0/21 | AMAZON | us-east-1-chi-1 |
   | 15.181.243.0/24 | AMAZON | us-east-1-phl-1 |
   | 15.230.147.0/24 | AMAZON | us-east-1 |
   | 150.222.206.0/24 | AMAZON | us-east-1 |
   | 209.54.176.0/21 | AMAZON | us-east-1 |
-  | 13.34.8.166/32 | AMAZON | us-east-1 |
   | 15.230.57.0/24 | AMAZON | us-east-1 |
   | 52.94.240.0/22 | AMAZON | us-east-1 |
   | 96.0.92.0/23 | AMAZON | us-east-1-chi-1 |
   | 150.222.15.125/32 | AMAZON | us-east-1 |
   | 150.222.138.0/24 | AMAZON | us-east-1 |
-  | 13.34.2.232/32 | AMAZON | us-east-1 |
   | 52.94.0.0/22 | AMAZON | us-east-1 |
   | 205.251.240.0/22 | AMAZON | us-east-1 |
   | 3.33.34.0/24 | AMAZON | us-east-1 |
   | 69.107.7.32/29 | AMAZON | us-east-1 |
   | 52.144.192.64/26 | AMAZON | us-east-1 |
-  | 13.34.3.71/32 | AMAZON | us-east-1 |
   | 52.93.60.0/24 | AMAZON | us-east-1 |
   | 104.153.116.0/24 | AMAZON | us-east-1 |
   | 52.93.91.104/32 | AMAZON | us-east-1 |
   | 52.93.123.99/32 | AMAZON | us-east-1 |
   | 3.3.2.0/24 | AMAZON | us-east-1 |
-  | 13.34.3.100/32 | AMAZON | us-east-1 |
-  | 13.34.0.111/32 | AMAZON | us-east-1 |
   | 96.0.48.0/21 | AMAZON | us-east-1-scl-1 |
   | 100.27.238.0/23 | AMAZON | us-east-1 |
   | 100.28.206.0/24 | AMAZON | us-east-1 |
@@ -7970,15 +6794,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.178.234/32 | AMAZON | us-west-1 |
   | 150.222.234.54/31 | AMAZON | us-west-1 |
   | 52.93.22.48/28 | AMAZON | us-west-1 |
-  | 13.34.18.65/32 | AMAZON | us-west-1 |
   | 52.93.178.219/32 | AMAZON | us-west-1 |
   | 150.222.199.0/25 | AMAZON | us-west-1 |
   | 150.222.252.248/31 | AMAZON | us-west-1 |
-  | 13.34.2.111/32 | AMAZON | us-west-1 |
-  | 13.34.18.69/32 | AMAZON | us-west-1 |
   | 150.222.234.50/31 | AMAZON | us-west-1 |
-  | 13.34.18.102/32 | AMAZON | us-west-1 |
-  | 13.34.32.128/27 | AMAZON | us-west-1 |
   | 52.93.22.64/29 | AMAZON | us-west-1 |
   | 192.31.212.0/24 | AMAZON | us-west-1 |
   | 52.93.178.152/32 | AMAZON | us-west-1 |
@@ -7987,21 +6806,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.178.205/32 | AMAZON | us-west-1 |
   | 150.222.234.52/31 | AMAZON | us-west-1 |
   | 150.222.234.68/31 | AMAZON | us-west-1 |
-  | 13.34.2.74/32 | AMAZON | us-west-1 |
   | 15.230.67.64/26 | AMAZON | us-west-1 |
   | 52.93.178.136/32 | AMAZON | us-west-1 |
   | 52.219.192.0/23 | AMAZON | us-west-1 |
   | 99.77.132.0/24 | AMAZON | us-west-1 |
   | 52.93.178.138/32 | AMAZON | us-west-1 |
   | 64.252.118.0/24 | AMAZON | us-west-1 |
-  | 13.34.86.160/27 | AMAZON | us-west-1 |
-  | 13.34.2.102/32 | AMAZON | us-west-1 |
   | 64.252.122.0/24 | AMAZON | us-west-1 |
-  | 13.34.12.2/32 | AMAZON | us-west-1 |
-  | 13.34.72.160/27 | AMAZON | us-west-1 |
   | 150.222.234.18/31 | AMAZON | us-west-1 |
   | 150.222.234.98/31 | AMAZON | us-west-1 |
-  | 13.34.2.70/32 | AMAZON | us-west-1 |
   | 99.83.97.0/24 | AMAZON | us-west-1 |
   | 52.93.141.128/25 | AMAZON | us-west-1 |
   | 52.93.178.134/32 | AMAZON | us-west-1 |
@@ -8012,92 +6825,64 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.178.161/32 | AMAZON | us-west-1 |
   | 15.230.202.0/30 | AMAZON | us-west-1 |
   | 52.94.12.0/24 | AMAZON | us-west-1 |
-  | 13.34.2.101/32 | AMAZON | us-west-1 |
   | 15.230.36.0/23 | AMAZON | us-west-1 |
   | 150.222.234.34/31 | AMAZON | us-west-1 |
-  | 13.34.12.37/32 | AMAZON | us-west-1 |
   | 52.94.152.67/32 | AMAZON | us-west-1 |
   | 52.219.255.0/24 | AMAZON | us-west-1 |
-  | 13.34.55.64/27 | AMAZON | us-west-1 |
   | 52.94.249.80/28 | AMAZON | us-west-1 |
   | 54.240.198.0/24 | AMAZON | us-west-1 |
   | 151.148.16.8/31 | AMAZON | us-west-1 |
   | 52.93.178.231/32 | AMAZON | us-west-1 |
-  | 13.34.18.101/32 | AMAZON | us-west-1 |
   | 52.93.178.187/32 | AMAZON | us-west-1 |
   | 52.119.176.0/21 | AMAZON | us-west-1 |
-  | 13.34.22.8/32 | AMAZON | us-west-1 |
   | 54.239.0.16/28 | AMAZON | us-west-1 |
-  | 13.34.2.69/32 | AMAZON | us-west-1 |
-  | 13.34.12.47/32 | AMAZON | us-west-1 |
   | 15.251.0.7/32 | AMAZON | us-west-1 |
   | 150.222.234.142/31 | AMAZON | us-west-1 |
   | 204.236.128.0/18 | AMAZON | us-west-1 |
-  | 13.34.12.15/32 | AMAZON | us-west-1 |
   | 52.93.201.80/28 | AMAZON | us-west-1 |
   | 99.77.251.0/24 | AMAZON | us-west-1 |
   | 150.222.234.56/31 | AMAZON | us-west-1 |
   | 3.3.24.0/22 | AMAZON | us-west-1 |
-  | 13.34.2.106/32 | AMAZON | us-west-1 |
-  | 13.34.32.0/27 | AMAZON | us-west-1 |
   | 52.93.55.156/31 | AMAZON | us-west-1 |
-  | 13.34.12.9/32 | AMAZON | us-west-1 |
   | 52.93.178.166/32 | AMAZON | us-west-1 |
   | 35.71.117.0/24 | AMAZON | us-west-1 |
-  | 13.34.2.66/32 | AMAZON | us-west-1 |
   | 52.144.205.0/26 | AMAZON | us-west-1 |
-  | 13.34.12.6/32 | AMAZON | us-west-1 |
-  | 13.34.32.32/27 | AMAZON | us-west-1 |
   | 99.82.172.0/24 | AMAZON | us-west-1 |
   | 99.151.120.0/21 | AMAZON | us-west-1 |
-  | 13.34.51.192/27 | AMAZON | us-west-1 |
   | 150.222.252.250/31 | AMAZON | us-west-1 |
-  | 13.34.2.110/32 | AMAZON | us-west-1 |
   | 15.230.67.0/26 | AMAZON | us-west-1 |
   | 52.93.178.206/32 | AMAZON | us-west-1 |
   | 52.93.178.230/32 | AMAZON | us-west-1 |
   | 150.222.234.112/31 | AMAZON | us-west-1 |
   | 150.222.234.128/31 | AMAZON | us-west-1 |
-  | 13.34.2.67/32 | AMAZON | us-west-1 |
   | 15.230.67.128/26 | AMAZON | us-west-1 |
   | 52.93.178.220/32 | AMAZON | us-west-1 |
   | 150.222.234.78/31 | AMAZON | us-west-1 |
   | 64.252.121.0/24 | AMAZON | us-west-1 |
   | 150.222.234.104/31 | AMAZON | us-west-1 |
-  | 13.34.21.235/32 | AMAZON | us-west-1 |
   | 52.93.178.215/32 | AMAZON | us-west-1 |
-  | 13.34.22.14/32 | AMAZON | us-west-1 |
   | 52.93.178.182/32 | AMAZON | us-west-1 |
   | 54.219.0.0/16 | AMAZON | us-west-1 |
   | 52.93.122.255/32 | AMAZON | us-west-1 |
   | 18.96.128.0/19 | AMAZON | us-west-1 |
-  | 13.34.21.225/32 | AMAZON | us-west-1 |
   | 52.93.178.147/32 | AMAZON | us-west-1 |
-  | 13.34.21.96/27 | AMAZON | us-west-1 |
   | 52.93.178.179/32 | AMAZON | us-west-1 |
   | 52.93.55.162/31 | AMAZON | us-west-1 |
   | 52.93.178.170/32 | AMAZON | us-west-1 |
   | 52.93.178.223/32 | AMAZON | us-west-1 |
   | 54.240.212.0/22 | AMAZON | us-west-1 |
-  | 13.34.2.103/32 | AMAZON | us-west-1 |
-  | 13.34.12.13/32 | AMAZON | us-west-1 |
-  | 13.34.72.64/27 | AMAZON | us-west-1 |
   | 69.107.6.120/29 | AMAZON | us-west-1 |
   | 150.222.234.1/32 | AMAZON | us-west-1 |
-  | 13.34.2.71/32 | AMAZON | us-west-1 |
   | 52.93.178.130/32 | AMAZON | us-west-1 |
   | 150.222.234.5/32 | AMAZON | us-west-1 |
   | 52.93.178.157/32 | AMAZON | us-west-1 |
   | 52.93.178.168/32 | AMAZON | us-west-1 |
   | 150.222.234.6/31 | AMAZON | us-west-1 |
-  | 13.34.18.73/32 | AMAZON | us-west-1 |
   | 13.56.0.0/16 | AMAZON | us-west-1 |
   | 52.93.125.43/32 | AMAZON | us-west-1 |
   | 52.93.178.185/32 | AMAZON | us-west-1 |
-  | 13.34.18.71/32 | AMAZON | us-west-1 |
   | 15.230.89.0/24 | AMAZON | us-west-1 |
   | 54.67.0.0/16 | AMAZON | us-west-1 |
-  | 13.34.12.3/32 | AMAZON | us-west-1 |
   | 150.222.101.0/24 | AMAZON | us-west-1 |
   | 151.148.16.2/32 | AMAZON | us-west-1 |
   | 52.93.178.209/32 | AMAZON | us-west-1 |
@@ -8113,114 +6898,74 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.252.246/31 | AMAZON | us-west-1 |
   | 52.144.194.192/26 | AMAZON | us-west-1 |
   | 54.183.0.0/16 | AMAZON | us-west-1 |
-  | 13.34.58.64/27 | AMAZON | us-west-1 |
-  | 13.34.12.36/32 | AMAZON | us-west-1 |
-  | 13.34.21.231/32 | AMAZON | us-west-1 |
   | 150.222.234.132/31 | AMAZON | us-west-1 |
   | 15.221.49.0/24 | AMAZON | us-west-1 |
   | 18.144.0.0/15 | AMAZON | us-west-1 |
   | 52.93.178.213/32 | AMAZON | us-west-1 |
   | 52.94.144.0/23 | AMAZON | us-west-1 |
   | 151.148.16.3/32 | AMAZON | us-west-1 |
-  | 13.34.12.10/32 | AMAZON | us-west-1 |
-  | 13.34.12.34/32 | AMAZON | us-west-1 |
-  | 13.34.18.98/32 | AMAZON | us-west-1 |
   | 15.251.0.0/32 | AMAZON | us-west-1 |
   | 150.222.234.14/31 | AMAZON | us-west-1 |
   | 150.222.234.126/31 | AMAZON | us-west-1 |
   | 52.93.55.158/31 | AMAZON | us-west-1 |
   | 150.222.106.0/24 | AMAZON | us-west-1 |
-  | 13.34.12.45/32 | AMAZON | us-west-1 |
   | 15.251.0.5/32 | AMAZON | us-west-1 |
-  | 13.34.2.65/32 | AMAZON | us-west-1 |
   | 52.93.178.194/32 | AMAZON | us-west-1 |
   | 52.93.178.210/32 | AMAZON | us-west-1 |
   | 150.222.36.128/26 | AMAZON | us-west-1 |
   | 52.93.178.184/32 | AMAZON | us-west-1 |
   | 150.222.234.108/31 | AMAZON | us-west-1 |
-  | 13.34.21.229/32 | AMAZON | us-west-1 |
   | 52.93.178.159/32 | AMAZON | us-west-1 |
   | 52.93.178.189/32 | AMAZON | us-west-1 |
   | 15.230.185.0/24 | AMAZON | us-west-1 |
   | 150.222.234.100/31 | AMAZON | us-west-1 |
-  | 13.34.12.11/32 | AMAZON | us-west-1 |
-  | 13.34.18.103/32 | AMAZON | us-west-1 |
   | 15.251.0.2/32 | AMAZON | us-west-1 |
   | 52.93.178.181/32 | AMAZON | us-west-1 |
   | 64.252.123.0/24 | AMAZON | us-west-1 |
-  | 13.34.51.224/27 | AMAZON | us-west-1 |
-  | 13.34.21.234/32 | AMAZON | us-west-1 |
-  | 13.34.22.6/32 | AMAZON | us-west-1 |
   | 176.32.112.0/21 | AMAZON | us-west-1 |
-  | 13.34.18.75/32 | AMAZON | us-west-1 |
-  | 13.34.86.128/27 | AMAZON | us-west-1 |
-  | 13.34.21.64/27 | AMAZON | us-west-1 |
   | 52.93.178.192/32 | AMAZON | us-west-1 |
-  | 13.34.18.78/32 | AMAZON | us-west-1 |
   | 52.93.55.148/31 | AMAZON | us-west-1 |
   | 52.93.178.195/32 | AMAZON | us-west-1 |
   | 52.93.178.222/32 | AMAZON | us-west-1 |
   | 150.222.234.74/31 | AMAZON | us-west-1 |
   | 52.95.42.0/24 | AMAZON | us-west-1 |
   | 3.2.54.0/24 | AMAZON | us-west-1 |
-  | 13.34.12.39/32 | AMAZON | us-west-1 |
-  | 13.34.21.227/32 | AMAZON | us-west-1 |
-  | 13.34.32.64/27 | AMAZON | us-west-1 |
   | 52.93.178.133/32 | AMAZON | us-west-1 |
   | 52.93.178.224/32 | AMAZON | us-west-1 |
   | 150.222.234.140/31 | AMAZON | us-west-1 |
-  | 13.34.55.32/27 | AMAZON | us-west-1 |
   | 15.251.0.3/32 | AMAZON | us-west-1 |
-  | 13.34.18.72/32 | AMAZON | us-west-1 |
   | 52.93.178.200/32 | AMAZON | us-west-1 |
-  | 13.34.32.96/27 | AMAZON | us-west-1 |
   | 52.93.178.211/32 | AMAZON | us-west-1 |
   | 150.222.234.4/32 | AMAZON | us-west-1 |
   | 150.222.234.80/31 | AMAZON | us-west-1 |
   | 52.93.178.169/32 | AMAZON | us-west-1 |
   | 150.222.234.36/31 | AMAZON | us-west-1 |
   | 150.222.234.42/31 | AMAZON | us-west-1 |
-  | 13.34.32.160/27 | AMAZON | us-west-1 |
   | 54.240.242.0/24 | AMAZON | us-west-1 |
-  | 13.34.12.40/32 | AMAZON | us-west-1 |
   | 150.222.234.86/31 | AMAZON | us-west-1 |
   | 150.222.252.244/31 | AMAZON | us-west-1 |
   | 54.151.0.0/17 | AMAZON | us-west-1 |
-  | 13.34.22.2/32 | AMAZON | us-west-1 |
   | 52.93.178.165/32 | AMAZON | us-west-1 |
-  | 13.34.21.232/32 | AMAZON | us-west-1 |
   | 52.93.178.142/32 | AMAZON | us-west-1 |
-  | 13.34.2.73/32 | AMAZON | us-west-1 |
-  | 13.34.12.35/32 | AMAZON | us-west-1 |
-  | 13.34.18.105/32 | AMAZON | us-west-1 |
   | 52.93.178.156/32 | AMAZON | us-west-1 |
   | 52.93.178.180/32 | AMAZON | us-west-1 |
   | 150.222.234.62/31 | AMAZON | us-west-1 |
-  | 13.34.51.128/27 | AMAZON | us-west-1 |
-  | 13.34.12.14/32 | AMAZON | us-west-1 |
   | 54.239.103.0/25 | AMAZON | us-west-1 |
   | 52.219.24.0/21 | AMAZON | us-west-1 |
   | 52.93.178.197/32 | AMAZON | us-west-1 |
   | 150.222.234.24/31 | AMAZON | us-west-1 |
   | 52.93.178.226/32 | AMAZON | us-west-1 |
-  | 13.34.18.97/32 | AMAZON | us-west-1 |
   | 15.221.16.0/22 | AMAZON | us-west-1 |
-  | 13.34.12.46/32 | AMAZON | us-west-1 |
   | 52.93.178.204/32 | AMAZON | us-west-1 |
   | 150.222.234.96/31 | AMAZON | us-west-1 |
   | 151.148.16.4/32 | AMAZON | us-west-1 |
   | 52.93.178.191/32 | AMAZON | us-west-1 |
   | 150.222.234.76/31 | AMAZON | us-west-1 |
   | 15.230.114.0/24 | AMAZON | us-west-1 |
-  | 13.34.94.0/27 | AMAZON | us-west-1 |
   | 52.95.246.0/24 | AMAZON | us-west-1 |
   | 150.222.234.64/31 | AMAZON | us-west-1 |
-  | 13.34.21.228/32 | AMAZON | us-west-1 |
-  | 13.34.21.233/32 | AMAZON | us-west-1 |
-  | 13.34.84.128/27 | AMAZON | us-west-1 |
   | 52.93.70.128/25 | AMAZON | us-west-1 |
   | 52.93.178.141/32 | AMAZON | us-west-1 |
-  | 13.34.18.67/32 | AMAZON | us-west-1 |
   | 16.15.0.0/21 | AMAZON | us-west-1 |
   | 52.93.178.227/32 | AMAZON | us-west-1 |
   | 150.222.234.138/31 | AMAZON | us-west-1 |
@@ -8250,15 +6995,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.126.145/32 | AMAZON | us-west-1 |
   | 52.94.152.68/32 | AMAZON | us-west-1 |
   | 150.222.234.136/31 | AMAZON | us-west-1 |
-  | 13.34.18.107/32 | AMAZON | us-west-1 |
   | 52.93.178.188/32 | AMAZON | us-west-1 |
   | 52.93.178.201/32 | AMAZON | us-west-1 |
   | 150.222.234.10/31 | AMAZON | us-west-1 |
-  | 13.34.2.98/32 | AMAZON | us-west-1 |
   | 13.57.0.0/16 | AMAZON | us-west-1 |
   | 15.251.0.13/32 | AMAZON | us-west-1 |
-  | 13.34.2.105/32 | AMAZON | us-west-1 |
-  | 13.34.12.38/32 | AMAZON | us-west-1 |
   | 150.222.37.0/26 | AMAZON | us-west-1 |
   | 50.18.0.0/16 | AMAZON | us-west-1 |
   | 52.93.178.167/32 | AMAZON | us-west-1 |
@@ -8269,19 +7010,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.178.196/32 | AMAZON | us-west-1 |
   | 64.252.119.0/24 | AMAZON | us-west-1 |
   | 150.222.234.114/31 | AMAZON | us-west-1 |
-  | 13.34.18.104/32 | AMAZON | us-west-1 |
   | 13.52.0.0/16 | AMAZON | us-west-1 |
   | 52.93.178.128/32 | AMAZON | us-west-1 |
   | 150.222.234.118/31 | AMAZON | us-west-1 |
-  | 13.34.18.79/32 | AMAZON | us-west-1 |
   | 52.93.122.131/32 | AMAZON | us-west-1 |
   | 52.219.194.0/24 | AMAZON | us-west-1 |
   | 150.222.234.12/31 | AMAZON | us-west-1 |
-  | 13.34.126.64/27 | AMAZON | us-west-1 |
   | 52.93.178.162/32 | AMAZON | us-west-1 |
   | 204.246.160.0/22 | AMAZON | us-west-1 |
   | 15.230.16.0/24 | AMAZON | us-west-1 |
-  | 13.34.51.160/27 | AMAZON | us-west-1 |
   | 15.230.42.0/24 | AMAZON | us-west-1 |
   | 52.94.152.66/32 | AMAZON | us-west-1 |
   | 15.251.0.15/32 | AMAZON | us-west-1 |
@@ -8295,7 +7032,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.9.0.0/16 | AMAZON | us-west-1 |
   | 52.94.152.69/32 | AMAZON | us-west-1 |
   | 52.93.178.146/32 | AMAZON | us-west-1 |
-  | 13.34.2.79/32 | AMAZON | us-west-1 |
   | 13.248.99.0/24 | AMAZON | us-west-1 |
   | 52.93.178.178/32 | AMAZON | us-west-1 |
   | 150.222.30.0/23 | AMAZON | us-west-1 |
@@ -8304,35 +7040,23 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.234.30/31 | AMAZON | us-west-1 |
   | 168.185.4.0/24 | AMAZON | us-west-1 |
   | 52.93.178.176/32 | AMAZON | us-west-1 |
-  | 13.34.22.7/32 | AMAZON | us-west-1 |
-  | 13.34.2.99/32 | AMAZON | us-west-1 |
-  | 13.34.2.100/32 | AMAZON | us-west-1 |
   | 150.222.234.3/32 | AMAZON | us-west-1 |
-  | 13.34.22.11/32 | AMAZON | us-west-1 |
   | 52.93.178.129/32 | AMAZON | us-west-1 |
   | 52.93.178.145/32 | AMAZON | us-west-1 |
   | 52.219.220.0/23 | AMAZON | us-west-1 |
   | 52.93.178.199/32 | AMAZON | us-west-1 |
-  | 13.34.22.4/32 | AMAZON | us-west-1 |
   | 52.93.55.154/31 | AMAZON | us-west-1 |
   | 54.239.102.0/25 | AMAZON | us-west-1 |
   | 150.222.234.116/31 | AMAZON | us-west-1 |
   | 52.93.178.151/32 | AMAZON | us-west-1 |
   | 150.222.234.40/31 | AMAZON | us-west-1 |
-  | 13.34.2.75/32 | AMAZON | us-west-1 |
-  | 13.34.18.68/32 | AMAZON | us-west-1 |
-  | 13.34.84.160/27 | AMAZON | us-west-1 |
   | 52.93.92.0/24 | AMAZON | us-west-1 |
   | 150.222.234.58/31 | AMAZON | us-west-1 |
-  | 13.34.2.68/32 | AMAZON | us-west-1 |
-  | 13.34.22.1/32 | AMAZON | us-west-1 |
-  | 13.34.72.128/27 | AMAZON | us-west-1 |
   | 52.93.55.164/31 | AMAZON | us-west-1 |
   | 52.93.178.140/32 | AMAZON | us-west-1 |
   | 52.93.178.174/32 | AMAZON | us-west-1 |
   | 54.241.0.0/16 | AMAZON | us-west-1 |
   | 184.169.128.0/17 | AMAZON | us-west-1 |
-  | 13.34.41.0/27 | AMAZON | us-west-1 |
   | 150.222.234.124/31 | AMAZON | us-west-1 |
   | 52.93.178.232/32 | AMAZON | us-west-1 |
   | 52.94.198.0/28 | AMAZON | us-west-1 |
@@ -8344,32 +7068,19 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.178.177/32 | AMAZON | us-west-1 |
   | 54.240.243.0/24 | AMAZON | us-west-1 |
   | 15.251.0.6/32 | AMAZON | us-west-1 |
-  | 13.34.12.5/32 | AMAZON | us-west-1 |
-  | 13.34.58.96/27 | AMAZON | us-west-1 |
   | 150.222.234.38/31 | AMAZON | us-west-1 |
   | 40.164.0.0/16 | AMAZON | us-west-1 |
-  | 13.34.12.41/32 | AMAZON | us-west-1 |
   | 15.230.58.0/24 | AMAZON | us-west-1 |
   | 99.77.154.0/24 | AMAZON | us-west-1 |
-  | 13.34.12.42/32 | AMAZON | us-west-1 |
-  | 13.34.22.5/32 | AMAZON | us-west-1 |
   | 15.177.81.0/24 | AMAZON | us-west-1 |
   | 52.93.32.180/32 | AMAZON | us-west-1 |
   | 54.153.0.0/17 | AMAZON | us-west-1 |
-  | 13.34.21.226/32 | AMAZON | us-west-1 |
-  | 13.34.125.128/27 | AMAZON | us-west-1 |
-  | 13.34.18.100/32 | AMAZON | us-west-1 |
-  | 13.34.18.110/32 | AMAZON | us-west-1 |
   | 52.93.149.0/24 | AMAZON | us-west-1 |
   | 52.93.178.150/32 | AMAZON | us-west-1 |
   | 52.93.178.164/32 | AMAZON | us-west-1 |
   | 52.93.178.198/32 | AMAZON | us-west-1 |
   | 52.93.178.203/32 | AMAZON | us-west-1 |
-  | 13.34.18.66/32 | AMAZON | us-west-1 |
   | 150.222.234.103/32 | AMAZON | us-west-1 |
-  | 13.34.2.72/32 | AMAZON | us-west-1 |
-  | 13.34.2.97/32 | AMAZON | us-west-1 |
-  | 13.34.12.12/32 | AMAZON | us-west-1 |
   | 52.93.178.139/32 | AMAZON | us-west-1 |
   | 52.93.178.229/32 | AMAZON | us-west-1 |
   | 150.222.231.0/24 | AMAZON | us-west-1 |
@@ -8377,18 +7088,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 216.182.236.0/23 | AMAZON | us-west-1 |
   | 40.165.0.0/16 | AMAZON | us-west-1 |
   | 52.93.178.173/32 | AMAZON | us-west-1 |
-  | 13.34.18.74/32 | AMAZON | us-west-1 |
-  | 13.34.94.32/27 | AMAZON | us-west-1 |
   | 150.222.111.0/24 | AMAZON | us-west-1 |
   | 150.222.234.46/31 | AMAZON | us-west-1 |
-  | 13.34.12.1/32 | AMAZON | us-west-1 |
   | 15.230.5.0/24 | AMAZON | us-west-1 |
   | 52.219.112.0/21 | AMAZON | us-west-1 |
-  | 13.34.93.192/27 | AMAZON | us-west-1 |
   | 3.101.0.0/16 | AMAZON | us-west-1 |
-  | 13.34.12.43/32 | AMAZON | us-west-1 |
-  | 13.34.2.107/32 | AMAZON | us-west-1 |
-  | 13.34.125.160/27 | AMAZON | us-west-1 |
   | 15.230.28.0/24 | AMAZON | us-west-1 |
   | 150.222.234.44/31 | AMAZON | us-west-1 |
   | 150.222.234.82/31 | AMAZON | us-west-1 |
@@ -8397,7 +7101,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.126.144/32 | AMAZON | us-west-1 |
   | 52.93.178.155/32 | AMAZON | us-west-1 |
   | 150.222.234.70/31 | AMAZON | us-west-1 |
-  | 13.34.22.10/32 | AMAZON | us-west-1 |
   | 15.230.186.0/24 | AMAZON | us-west-1 |
   | 52.93.178.202/32 | AMAZON | us-west-1 |
   | 151.148.16.6/32 | AMAZON | us-west-1 |
@@ -8405,43 +7108,29 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.36.192/26 | AMAZON | us-west-1 |
   | 15.251.0.1/32 | AMAZON | us-west-1 |
   | 52.93.178.228/32 | AMAZON | us-west-1 |
-  | 13.34.22.15/32 | AMAZON | us-west-1 |
   | 52.93.178.216/32 | AMAZON | us-west-1 |
   | 150.222.234.60/31 | AMAZON | us-west-1 |
-  | 13.34.22.3/32 | AMAZON | us-west-1 |
-  | 13.34.93.224/27 | AMAZON | us-west-1 |
   | 52.93.178.212/32 | AMAZON | us-west-1 |
-  | 13.34.12.8/32 | AMAZON | us-west-1 |
   | 52.52.0.0/15 | AMAZON | us-west-1 |
-  | 13.34.2.78/32 | AMAZON | us-west-1 |
   | 52.93.237.0/24 | AMAZON | us-west-1 |
-  | 13.34.2.104/32 | AMAZON | us-west-1 |
   | 150.222.221.0/24 | AMAZON | us-west-1 |
   | 150.222.234.8/31 | AMAZON | us-west-1 |
   | 150.222.234.134/31 | AMAZON | us-west-1 |
-  | 13.34.12.44/32 | AMAZON | us-west-1 |
-  | 13.34.41.32/27 | AMAZON | us-west-1 |
   | 52.94.72.0/22 | AMAZON | us-west-1 |
   | 150.222.234.106/31 | AMAZON | us-west-1 |
-  | 13.34.126.96/27 | AMAZON | us-west-1 |
   | 52.93.178.233/32 | AMAZON | us-west-1 |
   | 52.93.125.42/32 | AMAZON | us-west-1 |
-  | 13.34.12.33/32 | AMAZON | us-west-1 |
   | 52.93.178.171/32 | AMAZON | us-west-1 |
   | 205.251.228.0/22 | AMAZON | us-west-1 |
   | 52.93.94.0/24 | AMAZON | us-west-1 |
   | 208.78.134.0/24 | AMAZON | us-west-1 |
   | 52.93.178.149/32 | AMAZON | us-west-1 |
   | 15.251.0.4/32 | AMAZON | us-west-1 |
-  | 13.34.72.96/27 | AMAZON | us-west-1 |
   | 54.176.0.0/15 | AMAZON | us-west-1 |
-  | 13.34.12.7/32 | AMAZON | us-west-1 |
-  | 13.34.18.111/32 | AMAZON | us-west-1 |
   | 52.93.178.208/32 | AMAZON | us-west-1 |
   | 52.93.178.172/32 | AMAZON | us-west-1 |
   | 52.93.178.225/32 | AMAZON | us-west-1 |
   | 136.8.0.0/15 | AMAZON | us-west-1 |
-  | 13.34.18.70/32 | AMAZON | us-west-1 |
   | 15.230.88.0/24 | AMAZON | us-west-1 |
   | 52.93.178.190/32 | AMAZON | us-west-1 |
   | 150.222.234.2/32 | AMAZON | us-west-1 |
@@ -8454,20 +7143,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.178.193/32 | AMAZON | us-west-1 |
   | 52.93.178.160/32 | AMAZON | us-west-1 |
   | 52.93.178.207/32 | AMAZON | us-west-1 |
-  | 13.34.21.230/32 | AMAZON | us-west-1 |
   | 150.222.97.0/24 | AMAZON | us-west-1 |
   | 150.222.234.0/32 | AMAZON | us-west-1 |
-  | 13.34.12.4/32 | AMAZON | us-west-1 |
-  | 13.34.22.9/32 | AMAZON | us-west-1 |
   | 52.93.34.64/26 | AMAZON | us-west-1 |
   | 52.93.178.148/32 | AMAZON | us-west-1 |
   | 52.94.248.128/28 | AMAZON | us-west-1 |
-  | 13.34.18.106/32 | AMAZON | us-west-1 |
   | 52.93.178.186/32 | AMAZON | us-west-1 |
   | 52.93.178.221/32 | AMAZON | us-west-1 |
   | 52.93.178.153/32 | AMAZON | us-west-1 |
   | 150.222.234.102/32 | AMAZON | us-west-1 |
-  | 13.34.18.99/32 | AMAZON | us-west-1 |
   | 13.52.118.0/23 | AMAZON | us-west-1 |
   | 13.52.146.192/26 | AMAZON | us-west-1 |
   | 18.144.158.64/26 | AMAZON | us-west-1 |
@@ -8608,19 +7292,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.76.0/22 | AMAZON | us-west-2 |
   | 15.230.102.0/24 | AMAZON | us-west-2 |
   | 139.56.16.0/23 | AMAZON | us-west-2-wl1-phx-wlz-1 |
-  | 13.34.10.108/32 | AMAZON | us-west-2 |
   | 15.220.252.0/22 | AMAZON | us-west-2-las-1 |
   | 52.119.252.0/22 | AMAZON | us-west-2 |
   | 54.148.0.0/15 | AMAZON | us-west-2 |
   | 99.77.130.0/24 | AMAZON | us-west-2 |
   | 99.150.56.0/21 | AMAZON | us-west-2 |
   | 54.239.48.0/22 | AMAZON | us-west-2 |
-  | 13.34.10.109/32 | AMAZON | us-west-2 |
   | 15.220.207.0/24 | AMAZON | us-west-2-sea-1 |
   | 52.144.197.192/26 | AMAZON | us-west-2 |
   | 15.193.7.0/24 | AMAZON | us-west-2 |
   | 15.221.7.0/24 | AMAZON | us-west-2 |
-  | 13.34.10.102/32 | AMAZON | us-west-2 |
   | 18.236.0.0/15 | AMAZON | us-west-2 |
   | 54.200.0.0/15 | AMAZON | us-west-2 |
   | 150.222.182.15/32 | AMAZON | us-west-2 |
@@ -8639,11 +7320,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.96.1.0/24 | AMAZON | us-west-2 |
   | 15.221.148.0/23 | AMAZON | us-west-2 |
   | 52.93.246.218/31 | AMAZON | us-west-2 |
-  | 13.34.10.78/32 | AMAZON | us-west-2 |
   | 54.245.0.0/16 | AMAZON | us-west-2 |
   | 150.222.176.0/22 | AMAZON | us-west-2 |
   | 99.77.152.0/24 | AMAZON | us-west-2 |
-  | 13.34.10.101/32 | AMAZON | us-west-2 |
   | 54.240.248.0/21 | AMAZON | us-west-2 |
   | 155.146.128.0/20 | AMAZON | us-west-2-wl1-sea-wlz-1 |
   | 35.160.0.0/13 | AMAZON | us-west-2 |
@@ -8655,9 +7334,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.212.0.0/15 | AMAZON | us-west-2 |
   | 184.32.0.0/12 | AMAZON | us-west-2 |
   | 15.220.202.0/23 | AMAZON | us-west-2-pdx-1 |
-  | 13.34.10.79/32 | AMAZON | us-west-2 |
   | 52.93.246.221/32 | AMAZON | us-west-2 |
-  | 13.34.10.103/32 | AMAZON | us-west-2 |
   | 52.95.230.0/24 | AMAZON | us-west-2-lax-1 |
   | 99.77.253.0/24 | AMAZON | us-west-2 |
   | 3.4.6.0/24 | AMAZON | us-west-2 |
@@ -8670,17 +7347,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.75.0.0/16 | AMAZON | us-west-2 |
   | 54.218.0.0/16 | AMAZON | us-west-2 |
   | 3.5.76.0/22 | AMAZON | us-west-2 |
-  | 13.34.10.69/32 | AMAZON | us-west-2 |
   | 15.181.0.0/20 | AMAZON | us-west-2-sea-1 |
-  | 13.34.10.98/32 | AMAZON | us-west-2 |
   | 52.93.120.179/32 | AMAZON | us-west-2 |
   | 52.94.120.0/22 | AMAZON | us-west-2 |
   | 155.146.160.0/20 | AMAZON | us-west-2-wl1-phx-wlz-1 |
   | 52.94.10.0/24 | AMAZON | us-west-2 |
   | 54.244.0.0/16 | AMAZON | us-west-2 |
-  | 13.34.10.70/32 | AMAZON | us-west-2 |
   | 44.224.0.0/11 | AMAZON | us-west-2 |
-  | 13.34.10.99/32 | AMAZON | us-west-2 |
   | 64.252.73.0/24 | AMAZON | us-west-2 |
   | 52.95.255.112/28 | AMAZON | us-west-2 |
   | 150.222.39.0/26 | AMAZON | us-west-2 |
@@ -8693,26 +7366,21 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.246.222/32 | AMAZON | us-west-2 |
   | 54.214.0.0/16 | AMAZON | us-west-2 |
   | 52.93.246.220/32 | AMAZON | us-west-2 |
-  | 13.34.10.107/32 | AMAZON | us-west-2 |
   | 34.208.0.0/12 | AMAZON | us-west-2 |
   | 35.71.64.0/22 | AMAZON | us-west-2 |
   | 52.93.122.218/32 | AMAZON | us-west-2 |
   | 15.248.80.0/20 | AMAZON | us-west-2 |
   | 18.34.244.0/22 | AMAZON | us-west-2 |
   | 52.46.216.0/22 | AMAZON | us-west-2 |
-  | 13.34.10.104/32 | AMAZON | us-west-2 |
   | 52.36.0.0/14 | AMAZON | us-west-2 |
   | 15.220.226.0/24 | AMAZON | us-west-2 |
   | 205.251.226.0/24 | AMAZON | us-west-2 |
-  | 13.34.10.75/32 | AMAZON | us-west-2 |
-  | 13.34.10.76/32 | AMAZON | us-west-2 |
   | 15.230.240.0/24 | AMAZON | us-west-2 |
   | 54.202.0.0/15 | AMAZON | us-west-2 |
   | 15.181.128.0/20 | AMAZON | us-west-2-phx-1 |
   | 108.166.224.0/21 | AMAZON | us-west-2 |
   | 15.220.204.0/24 | AMAZON | us-west-2-den-1 |
   | 150.222.182.14/32 | AMAZON | us-west-2 |
-  | 13.34.10.71/32 | AMAZON | us-west-2 |
   | 15.221.164.0/22 | AMAZON | us-west-2 |
   | 96.0.110.0/23 | AMAZON | us-west-2-hnl-1 |
   | 15.181.245.0/24 | AMAZON | us-west-2-den-1 |
@@ -8723,9 +7391,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.181.64.0/20 | AMAZON | us-west-2 |
   | 15.230.67.192/26 | AMAZON | us-west-2 |
   | 3.33.40.0/24 | AMAZON | us-west-2 |
-  | 13.34.10.97/32 | AMAZON | us-west-2 |
   | 15.230.68.0/26 | AMAZON | us-west-2 |
-  | 13.34.10.77/32 | AMAZON | us-west-2 |
   | 52.94.116.0/22 | AMAZON | us-west-2 |
   | 15.181.248.0/24 | AMAZON | us-west-2 |
   | 52.144.194.64/26 | AMAZON | us-west-2 |
@@ -8741,7 +7407,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.34.48.0/20 | AMAZON | us-west-2 |
   | 15.181.16.0/20 | AMAZON | us-west-2-den-1 |
   | 150.222.102.0/24 | AMAZON | us-west-2 |
-  | 13.34.10.72/32 | AMAZON | us-west-2 |
   | 162.222.148.0/22 | AMAZON | us-west-2-lax-1 |
   | 52.24.0.0/14 | AMAZON | us-west-2 |
   | 52.119.160.0/20 | AMAZON | us-west-2 |
@@ -8750,15 +7415,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.240.0/23 | AMAZON | us-west-2 |
   | 18.246.0.0/16 | AMAZON | us-west-2 |
   | 3.5.80.0/21 | AMAZON | us-west-2 |
-  | 13.34.10.66/32 | AMAZON | us-west-2 |
   | 52.218.128.0/17 | AMAZON | us-west-2 |
-  | 13.34.10.100/32 | AMAZON | us-west-2 |
   | 15.220.205.0/24 | AMAZON | us-west-2-den-1 |
   | 15.230.68.64/26 | AMAZON | us-west-2 |
   | 52.88.0.0/15 | AMAZON | us-west-2 |
   | 99.77.232.0/24 | AMAZON | us-west-2 |
   | 99.78.196.0/22 | AMAZON | us-west-2 |
-  | 13.34.10.67/32 | AMAZON | us-west-2 |
   | 52.93.246.223/32 | AMAZON | us-west-2 |
   | 15.220.206.0/24 | AMAZON | us-west-2-sea-1 |
   | 15.177.80.0/24 | AMAZON | us-west-2 |
@@ -8766,18 +7428,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.144.194.128/26 | AMAZON | us-west-2 |
   | 96.0.160.0/20 | AMAZON | us-west-2-hnl-1 |
   | 99.151.186.0/23 | AMAZON | us-west-2 |
-  | 13.34.10.110/32 | AMAZON | us-west-2 |
   | 15.254.0.0/16 | AMAZON | us-west-2-lax-1 |
   | 52.40.0.0/14 | AMAZON | us-west-2 |
   | 64.252.70.0/24 | AMAZON | us-west-2 |
   | 18.88.128.0/18 | AMAZON | us-west-2 |
   | 52.32.0.0/14 | AMAZON | us-west-2 |
   | 3.33.42.0/24 | AMAZON | us-west-2 |
-  | 13.34.10.65/32 | AMAZON | us-west-2 |
   | 15.221.1.0/24 | AMAZON | us-west-2 |
   | 52.94.197.0/24 | AMAZON | us-west-2 |
   | 54.184.0.0/13 | AMAZON | us-west-2 |
-  | 13.34.10.111/32 | AMAZON | us-west-2 |
   | 52.144.197.128/26 | AMAZON | us-west-2 |
   | 173.83.204.0/23 | AMAZON | us-west-2 |
   | 15.181.251.0/24 | AMAZON | us-west-2-den-1 |
@@ -8799,7 +7458,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.46.249.0/24 | AMAZON | us-west-2 |
   | 15.181.116.0/22 | AMAZON | us-west-2-phx-1 |
   | 150.222.182.17/32 | AMAZON | us-west-2 |
-  | 13.34.10.68/32 | AMAZON | us-west-2 |
   | 15.220.224.0/23 | AMAZON | us-west-2-pdx-1 |
   | 150.222.39.64/26 | AMAZON | us-west-2 |
   | 15.181.250.0/24 | AMAZON | us-west-2-den-1 |
