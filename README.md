@@ -3152,6 +3152,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.78.204.0/22 | AMAZON | eu-central-1 |
   | 35.159.158.0/23 | AMAZON | eu-central-1 |
   | 35.159.206.0/23 | AMAZON | eu-central-1 |
+  | 35.159.209.0/24 | AMAZON | eu-central-1 |
   | 99.77.247.0/24 | CHIME_VOICECONNECTOR | eu-central-1 |
   | 52.219.170.0/23 | S3 | eu-central-1 |
   | 52.219.168.0/24 | S3 | eu-central-1 |
@@ -5515,7 +5516,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.216.10/32 | AMAZON | us-east-1 |
   | 69.107.7.96/29 | AMAZON | us-east-1 |
   | 52.93.1.0/24 | AMAZON | us-east-1 |
-  | 3.4.11.0/24 | AMAZON | us-east-1 |
   | 150.222.15.126/32 | AMAZON | us-east-1 |
   | 150.222.236.0/24 | AMAZON | us-east-1 |
   | 3.4.2.0/24 | AMAZON | us-east-1 |
@@ -5720,6 +5720,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.223.121.0/24 | AMAZON | us-east-1 |
   | 44.223.122.0/24 | AMAZON | us-east-1 |
   | 98.80.195.0/25 | AMAZON | us-east-1 |
+  | 98.80.238.0/23 | AMAZON | us-east-1 |
   | 99.77.254.0/24 | CHIME_VOICECONNECTOR | us-east-1 |
   | 107.23.255.0/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
   | 54.243.31.192/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
@@ -5883,7 +5884,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.34.232.0/21 | EC2 | us-east-1 |
   | 72.44.32.0/19 | EC2 | us-east-1 |
   | 15.181.96.0/20 | EC2 | us-east-1-mci-1 |
-  | 3.4.11.0/24 | EC2 | us-east-1 |
   | 3.4.2.0/24 | EC2 | us-east-1 |
   | 54.92.128.0/17 | EC2 | us-east-1 |
   | 99.77.151.0/24 | EC2 | us-east-1 |
