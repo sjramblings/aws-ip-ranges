@@ -6628,6 +6628,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.252.58.0/23 | AMAZON | us-gov-east-1 |
   | 18.254.23.64/26 | AMAZON | us-gov-east-1 |
   | 18.254.61.128/26 | AMAZON | us-gov-east-1 |
+  | 182.30.13.192/26 | AMAZON | us-gov-east-1 |
   | 108.175.52.0/22 | S3 | us-gov-east-1 |
   | 108.175.60.0/22 | S3 | us-gov-east-1 |
   | 18.252.145.192/28 | S3 | us-gov-east-1 |
