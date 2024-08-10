@@ -2372,6 +2372,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 104.255.59.197/32 | AMAZON | ap-southeast-5 |
   | 15.248.56.0/21 | AMAZON | ap-southeast-5 |
   | 104.255.59.198/32 | AMAZON | ap-southeast-5 |
+  | 35.71.124.0/24 | AMAZON | ap-southeast-5 |
   | 56.70.0.0/16 | AMAZON | ap-southeast-5 |
   | 76.223.170.32/28 | AMAZON | ap-southeast-5 |
   | 104.255.59.200/32 | AMAZON | ap-southeast-5 |
@@ -2393,9 +2394,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.216.0.0/15 | EC2 | ap-southeast-5 |
   | 3.5.180.0/22 | EC2 | ap-southeast-5 |
   | 52.94.250.80/28 | EC2 | ap-southeast-5 |
+  | 35.71.124.0/24 | EC2 | ap-southeast-5 |
   | 15.177.95.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-5 |
   | 43.216.39.0/24 | API_GATEWAY | ap-southeast-5 |
   | 13.248.75.0/24 | DYNAMODB | ap-southeast-5 |
+  | 35.71.124.0/24 | DYNAMODB | ap-southeast-5 |
 </details>
 
 <details>
@@ -2585,6 +2588,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.99.128.0/20 | AMAZON | ca-west-1 |
   | 56.113.0.0/16 | AMAZON | ca-west-1 |
   | 40.176.0.0/15 | AMAZON | ca-west-1 |
+  | 35.71.123.0/24 | AMAZON | ca-west-1 |
   | 56.112.0.0/16 | AMAZON | ca-west-1 |
   | 15.190.8.0/22 | AMAZON | ca-west-1 |
   | 150.222.52.96/27 | AMAZON | ca-west-1 |
@@ -2619,6 +2623,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.100.0/24 | EC2 | ca-west-1 |
   | 18.99.128.0/20 | EC2 | ca-west-1 |
   | 40.176.0.0/15 | EC2 | ca-west-1 |
+  | 35.71.123.0/24 | EC2 | ca-west-1 |
   | 56.112.0.0/16 | EC2 | ca-west-1 |
   | 35.96.32.0/20 | EC2 | ca-west-1 |
   | 3.5.172.0/22 | EC2 | ca-west-1 |
@@ -2627,6 +2632,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.100.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ca-west-1 |
   | 40.176.65.0/24 | API_GATEWAY | ca-west-1 |
   | 40.176.213.168/29 | EC2_INSTANCE_CONNECT | ca-west-1 |
+  | 35.71.123.0/24 | DYNAMODB | ca-west-1 |
   | 13.248.73.0/24 | DYNAMODB | ca-west-1 |
 </details>
 
@@ -4662,6 +4668,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.251.0.28/32 | AMAZON | il-central-1 |
   | 52.93.32.184/32 | AMAZON | il-central-1 |
   | 150.222.52.64/27 | AMAZON | il-central-1 |
+  | 35.71.122.0/24 | AMAZON | il-central-1 |
   | 54.239.1.240/28 | AMAZON | il-central-1 |
   | 51.84.0.0/16 | AMAZON | il-central-1 |
   | 15.251.0.29/32 | AMAZON | il-central-1 |
@@ -4695,6 +4702,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.85.0.0/16 | EC2 | il-central-1 |
   | 18.96.160.0/19 | EC2 | il-central-1 |
   | 15.177.99.0/24 | EC2 | il-central-1 |
+  | 35.71.122.0/24 | EC2 | il-central-1 |
   | 51.84.0.0/16 | EC2 | il-central-1 |
   | 99.77.163.0/24 | EC2 | il-central-1 |
   | 52.94.250.32/28 | EC2 | il-central-1 |
@@ -4713,6 +4721,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.16.183.224/29 | EC2_INSTANCE_CONNECT | il-central-1 |
   | 51.17.72.0/22 | WORKSPACES_GATEWAYS | il-central-1 |
   | 13.248.72.0/24 | DYNAMODB | il-central-1 |
+  | 35.71.122.0/24 | DYNAMODB | il-central-1 |
 </details>
 
 <details>
