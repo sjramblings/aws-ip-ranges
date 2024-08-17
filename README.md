@@ -1699,9 +1699,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.82.0/24 | AMAZON | ap-southeast-1 |
   | 52.144.230.208/31 | AMAZON | ap-southeast-1 |
   | 15.230.4.148/31 | AMAZON | ap-southeast-1 |
-  | 16.156.0.0/14 | AMAZON | ap-southeast-1 |
   | 15.230.251.2/31 | AMAZON | ap-southeast-1 |
   | 52.219.124.0/22 | AMAZON | ap-southeast-1 |
+  | 16.156.0.0/15 | AMAZON | ap-southeast-1 |
   | 15.230.251.7/32 | AMAZON | ap-southeast-1 |
   | 18.136.0.0/16 | AMAZON | ap-southeast-1 |
   | 13.212.0.0/15 | AMAZON | ap-southeast-1 |
@@ -1838,6 +1838,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.248.32/28 | EC2 | ap-southeast-1 |
   | 54.254.0.0/16 | EC2 | ap-southeast-1 |
   | 54.151.128.0/17 | EC2 | ap-southeast-1 |
+  | 16.156.0.0/15 | EC2 | ap-southeast-1 |
   | 18.136.0.0/16 | EC2 | ap-southeast-1 |
   | 13.212.0.0/15 | EC2 | ap-southeast-1 |
   | 96.0.112.0/21 | EC2 | ap-southeast-1-sggov-sin-1a |
