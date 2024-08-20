@@ -9302,6 +9302,18 @@
         "network_border_group": "ap-south-2"
       },
       {
+        "ip_prefix": "18.61.132.240/29",
+        "region": "ap-south-2",
+        "service": "MEDIA_PACKAGE_V2",
+        "network_border_group": "ap-south-2"
+      },
+      {
+        "ip_prefix": "18.61.132.248/29",
+        "region": "ap-south-2",
+        "service": "MEDIA_PACKAGE_V2",
+        "network_border_group": "ap-south-2"
+      },
+      {
         "ip_prefix": "13.248.64.0/24",
         "region": "ap-south-2",
         "service": "DYNAMODB",
@@ -11562,6 +11574,12 @@
         "network_border_group": "ap-southeast-2"
       },
       {
+        "ip_prefix": "16.176.0.0/16",
+        "region": "ap-southeast-2",
+        "service": "AMAZON",
+        "network_border_group": "ap-southeast-2"
+      },
+      {
         "ip_prefix": "52.93.126.137/32",
         "region": "ap-southeast-2",
         "service": "AMAZON",
@@ -11671,12 +11689,6 @@
       },
       {
         "ip_prefix": "52.94.152.183/32",
-        "region": "ap-southeast-2",
-        "service": "AMAZON",
-        "network_border_group": "ap-southeast-2"
-      },
-      {
-        "ip_prefix": "16.176.0.0/14",
         "region": "ap-southeast-2",
         "service": "AMAZON",
         "network_border_group": "ap-southeast-2"
@@ -12169,6 +12181,12 @@
       },
       {
         "ip_prefix": "3.5.164.0/22",
+        "region": "ap-southeast-2",
+        "service": "EC2",
+        "network_border_group": "ap-southeast-2"
+      },
+      {
+        "ip_prefix": "16.176.0.0/16",
         "region": "ap-southeast-2",
         "service": "EC2",
         "network_border_group": "ap-southeast-2"
@@ -27752,6 +27770,18 @@
         "ip_prefix": "3.29.147.40/29",
         "region": "me-central-1",
         "service": "EC2_INSTANCE_CONNECT",
+        "network_border_group": "me-central-1"
+      },
+      {
+        "ip_prefix": "40.172.11.104/29",
+        "region": "me-central-1",
+        "service": "MEDIA_PACKAGE_V2",
+        "network_border_group": "me-central-1"
+      },
+      {
+        "ip_prefix": "40.172.11.96/29",
+        "region": "me-central-1",
+        "service": "MEDIA_PACKAGE_V2",
         "network_border_group": "me-central-1"
       },
       {

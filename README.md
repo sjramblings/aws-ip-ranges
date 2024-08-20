@@ -1602,6 +1602,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.60.68.0/26 | ROUTE53_RESOLVER | ap-south-2 |
   | 18.60.68.64/26 | ROUTE53_RESOLVER | ap-south-2 |
   | 18.60.252.248/29 | EC2_INSTANCE_CONNECT | ap-south-2 |
+  | 18.61.132.240/29 | MEDIA_PACKAGE_V2 | ap-south-2 |
+  | 18.61.132.248/29 | MEDIA_PACKAGE_V2 | ap-south-2 |
   | 13.248.64.0/24 | DYNAMODB | ap-south-2 |
   | 35.71.108.0/24 | DYNAMODB | ap-south-2 |
 </details>
@@ -1991,6 +1993,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.43.64/27 | AMAZON | ap-southeast-2 |
   | 52.93.126.138/32 | AMAZON | ap-southeast-2 |
   | 52.93.182.128/26 | AMAZON | ap-southeast-2 |
+  | 16.176.0.0/16 | AMAZON | ap-southeast-2 |
   | 52.93.126.137/32 | AMAZON | ap-southeast-2 |
   | 52.93.126.139/32 | AMAZON | ap-southeast-2 |
   | 15.230.115.0/24 | AMAZON | ap-southeast-2 |
@@ -2010,7 +2013,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.149.10/32 | AMAZON | ap-southeast-2 |
   | 96.0.72.0/21 | AMAZON | ap-southeast-2-akl-1 |
   | 52.94.152.183/32 | AMAZON | ap-southeast-2 |
-  | 16.176.0.0/14 | AMAZON | ap-southeast-2 |
   | 15.230.149.4/31 | AMAZON | ap-southeast-2 |
   | 13.54.0.0/15 | AMAZON | ap-southeast-2 |
   | 52.95.241.0/24 | AMAZON | ap-southeast-2 |
@@ -2093,6 +2095,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 96.0.0.0/21 | EC2 | ap-southeast-2-per-1 |
   | 3.24.0.0/14 | EC2 | ap-southeast-2 |
   | 3.5.164.0/22 | EC2 | ap-southeast-2 |
+  | 16.176.0.0/16 | EC2 | ap-southeast-2 |
   | 64.252.107.0/24 | EC2 | ap-southeast-2 |
   | 96.0.8.0/22 | EC2 | ap-southeast-2-per-1 |
   | 3.5.168.0/23 | EC2 | ap-southeast-2 |
@@ -4807,6 +4810,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.28.63.192/26 | ROUTE53_RESOLVER | me-central-1 |
   | 3.28.65.0/26 | ROUTE53_RESOLVER | me-central-1 |
   | 3.29.147.40/29 | EC2_INSTANCE_CONNECT | me-central-1 |
+  | 40.172.11.104/29 | MEDIA_PACKAGE_V2 | me-central-1 |
+  | 40.172.11.96/29 | MEDIA_PACKAGE_V2 | me-central-1 |
   | 35.71.104.0/24 | DYNAMODB | me-central-1 |
   | 13.248.66.0/24 | DYNAMODB | me-central-1 |
 </details>
