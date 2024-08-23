@@ -5654,6 +5654,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.181.120.0/21 | AMAZON | us-east-1-atl-1 |
   | 15.251.0.11/32 | AMAZON | us-east-1 |
   | 104.255.56.25/32 | AMAZON | us-east-1 |
+  | 15.248.138.0/24 | AMAZON | us-east-1 |
   | 136.18.32.0/24 | AMAZON | us-east-1 |
   | 15.230.56.0/24 | AMAZON | us-east-1 |
   | 15.230.169.3/32 | AMAZON | us-east-1 |
