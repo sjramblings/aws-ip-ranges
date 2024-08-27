@@ -2421,6 +2421,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
   | 182.24.0.0/14 | AMAZON | ap-southeast-6 |
+  | 3.102.0.0/15 | AMAZON | ap-southeast-6 |
+  | 3.102.0.0/15 | EC2 | ap-southeast-6 |
 </details>
 
 <details>
