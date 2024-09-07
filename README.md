@@ -5789,6 +5789,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 98.80.238.0/23 | AMAZON | us-east-1 |
   | 98.82.109.16/28 | AMAZON | us-east-1 |
   | 98.82.142.0/24 | AMAZON | us-east-1 |
+  | 98.82.154.0/23 | AMAZON | us-east-1 |
+  | 98.82.156.0/23 | AMAZON | us-east-1 |
   | 99.77.254.0/24 | CHIME_VOICECONNECTOR | us-east-1 |
   | 107.23.255.0/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
   | 54.243.31.192/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
