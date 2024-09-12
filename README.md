@@ -173,6 +173,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 120.253.241.160/27 | AMAZON | GLOBAL |
   | 15.197.20.0/22 | AMAZON | GLOBAL |
   | 52.46.166.0/23 | AMAZON | GLOBAL |
+  | 3.173.128.0/18 | AMAZON | GLOBAL |
   | 15.197.30.0/23 | AMAZON | GLOBAL |
   | 15.193.0.0/19 | AMAZON | GLOBAL |
   | 64.252.64.0/18 | AMAZON | GLOBAL |
@@ -315,6 +316,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 65.9.0.0/17 | CLOUDFRONT | GLOBAL |
   | 108.138.0.0/15 | CLOUDFRONT | GLOBAL |
   | 120.253.241.160/27 | CLOUDFRONT | GLOBAL |
+  | 3.173.128.0/18 | CLOUDFRONT | GLOBAL |
   | 64.252.64.0/18 | CLOUDFRONT | GLOBAL |
   | 15.197.34.0/23 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.36.0/22 | GLOBALACCELERATOR | GLOBAL |
@@ -2440,7 +2442,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 15.248.144.0/21 | AMAZON | ap-southeast-6 |
   | 182.24.0.0/14 | AMAZON | ap-southeast-6 |
+  | 15.190.240.0/22 | AMAZON | ap-southeast-6 |
   | 3.102.0.0/15 | AMAZON | ap-southeast-6 |
   | 3.102.0.0/15 | EC2 | ap-southeast-6 |
 </details>
@@ -4281,6 +4285,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.9.47/32 | AMAZON | eu-west-2 |
   | 64.252.85.0/24 | AMAZON | eu-west-2 |
   | 216.39.136.0/21 | AMAZON | eu-west-2 |
+  | 83.119.64.0/18 | AMAZON | eu-west-2 |
   | 15.230.106.0/24 | AMAZON | eu-west-2 |
   | 150.222.37.192/26 | AMAZON | eu-west-2 |
   | 52.93.229.149/32 | AMAZON | eu-west-2 |
@@ -4419,6 +4424,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 208.78.132.0/23 | EC2 | eu-west-2 |
   | 64.252.85.0/24 | EC2 | eu-west-2 |
   | 216.39.136.0/21 | EC2 | eu-west-2 |
+  | 83.119.64.0/18 | EC2 | eu-west-2 |
   | 35.176.0.0/15 | EC2 | eu-west-2 |
   | 15.193.5.0/24 | EC2 | eu-west-2 |
   | 51.24.0.0/16 | EC2 | eu-west-2 |
