@@ -2442,10 +2442,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 23.254.8.0/22 | AMAZON | ap-southeast-6 |
+  | 15.190.128.0/20 | AMAZON | ap-southeast-6 |
   | 15.248.144.0/21 | AMAZON | ap-southeast-6 |
+  | 23.254.12.0/24 | AMAZON | ap-southeast-6 |
   | 182.24.0.0/14 | AMAZON | ap-southeast-6 |
   | 15.190.240.0/22 | AMAZON | ap-southeast-6 |
   | 3.102.0.0/15 | AMAZON | ap-southeast-6 |
+  | 23.254.8.0/22 | EC2 | ap-southeast-6 |
+  | 23.254.12.0/24 | EC2 | ap-southeast-6 |
   | 3.102.0.0/15 | EC2 | ap-southeast-6 |
 </details>
 
@@ -3527,6 +3532,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.16.0.0/16 | EC2 | eu-north-1 |
   | 15.177.72.0/24 | EC2 | eu-north-1 |
   | 15.220.148.0/22 | EC2 | eu-north-1-hel-1 |
+  | 56.228.0.0/16 | EC2 | eu-north-1 |
   | 204.87.185.0/24 | EC2 | eu-north-1 |
   | 52.94.249.128/28 | EC2 | eu-north-1 |
   | 99.77.246.0/24 | EC2 | eu-north-1 |
