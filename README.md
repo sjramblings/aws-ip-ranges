@@ -4674,6 +4674,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.180.112.80/29 | EC2_INSTANCE_CONNECT | eu-west-3 |
   | 15.188.210.206/31 | KINESIS_VIDEO_STREAMS | eu-west-3 |
   | 15.237.162.40/30 | KINESIS_VIDEO_STREAMS | eu-west-3 |
+  | 51.44.72.0/22 | WORKSPACES_GATEWAYS | eu-west-3 |
   | 13.36.84.44/30 | AMAZON_APPFLOW | eu-west-3 |
   | 15.188.210.196/30 | AMAZON_APPFLOW | eu-west-3 |
   | 15.188.210.200/30 | AMAZON_APPFLOW | eu-west-3 |
@@ -6730,6 +6731,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.16.146.0/29 | EC2_INSTANCE_CONNECT | us-east-2 |
   | 3.146.42.74/31 | KINESIS_VIDEO_STREAMS | us-east-2 |
   | 3.146.42.80/30 | KINESIS_VIDEO_STREAMS | us-east-2 |
+  | 3.146.84.0/22 | WORKSPACES_GATEWAYS | us-east-2 |
   | 18.117.239.68/30 | AMAZON_APPFLOW | us-east-2 |
   | 3.12.23.88/30 | AMAZON_APPFLOW | us-east-2 |
   | 3.12.23.92/30 | AMAZON_APPFLOW | us-east-2 |
