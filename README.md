@@ -5928,6 +5928,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.245.0/24 | EC2 | us-east-1 |
   | 99.77.187.0/24 | EC2 | us-east-1 |
   | 136.18.132.0/23 | EC2 | us-east-1 |
+  | 98.88.0.0/13 | EC2 | us-east-1 |
   | 184.72.128.0/17 | EC2 | us-east-1 |
   | 54.80.0.0/13 | EC2 | us-east-1 |
   | 52.20.0.0/14 | EC2 | us-east-1 |
