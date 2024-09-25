@@ -591,6 +591,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "93.77.128.0/19",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "54.239.128.0/18",
         "region": "GLOBAL",
         "service": "AMAZON",
@@ -1990,6 +1996,12 @@
       },
       {
         "ip_prefix": "75.2.0.0/17",
+        "region": "GLOBAL",
+        "service": "GLOBALACCELERATOR",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "93.77.128.0/19",
         "region": "GLOBAL",
         "service": "GLOBALACCELERATOR",
         "network_border_group": "GLOBAL"
