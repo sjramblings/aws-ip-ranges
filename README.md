@@ -483,6 +483,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.71.103.0/24 | EC2 | af-south-1 |
   | 13.244.0.0/15 | EC2 | af-south-1 |
   | 13.246.0.0/16 | EC2 | af-south-1 |
+  | 16.28.0.0/16 | EC2 | af-south-1 |
   | 52.94.249.176/28 | EC2 | af-south-1 |
   | 99.150.104.0/21 | EC2 | af-south-1 |
   | 52.95.229.0/24 | EC2 | af-south-1 |
