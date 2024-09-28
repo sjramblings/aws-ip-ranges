@@ -2857,6 +2857,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 69.234.192.0/18 | AMAZON | cn-northwest-1 |
   | 52.93.127.98/32 | AMAZON | cn-northwest-1 |
   | 52.82.164.0/22 | AMAZON | cn-northwest-1 |
+  | 43.193.64.0/24 | AMAZON | cn-northwest-1 |
   | 52.93.127.103/32 | AMAZON | cn-northwest-1 |
   | 52.82.192.0/18 | AMAZON | cn-northwest-1 |
   | 52.82.188.0/22 | AMAZON | cn-northwest-1 |
@@ -2896,6 +2897,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.82.0.0/17 | EC2 | cn-northwest-1 |
   | 69.234.192.0/18 | EC2 | cn-northwest-1 |
   | 52.82.164.0/22 | EC2 | cn-northwest-1 |
+  | 43.193.64.0/24 | EC2 | cn-northwest-1 |
   | 52.83.25.128/27 | CLOUD9 | cn-northwest-1 |
   | 52.83.25.160/27 | CLOUD9 | cn-northwest-1 |
   | 52.82.1.0/29 | CODEBUILD | cn-northwest-1 |
@@ -2931,6 +2933,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.83.58.0/24 | WORKSPACES_GATEWAYS | cn-northwest-1 |
   | 69.235.162.0/24 | WORKSPACES_GATEWAYS | cn-northwest-1 |
   | 52.82.187.0/24 | DYNAMODB | cn-northwest-1 |
+  | 43.193.64.0/24 | DYNAMODB | cn-northwest-1 |
 </details>
 
 <details>
@@ -5328,6 +5331,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.216.0/24 | AMAZON | us-east-1 |
   | 15.181.241.0/24 | AMAZON | us-east-1-dfw-1 |
   | 34.192.0.0/12 | AMAZON | us-east-1 |
+  | 13.216.0.0/13 | AMAZON | us-east-1 |
   | 15.230.184.0/24 | AMAZON | us-east-1 |
   | 52.119.232.0/21 | AMAZON | us-east-1 |
   | 150.222.99.0/24 | AMAZON | us-east-1 |
@@ -5873,6 +5877,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 68.66.112.0/20 | EC2 | us-east-1-bos-1 |
   | 15.181.241.0/24 | EC2 | us-east-1-dfw-1 |
   | 34.192.0.0/12 | EC2 | us-east-1 |
+  | 13.216.0.0/13 | EC2 | us-east-1 |
   | 64.252.68.0/24 | EC2 | us-east-1 |
   | 99.77.191.0/24 | EC2 | us-east-1 |
   | 44.192.0.0/11 | EC2 | us-east-1 |
