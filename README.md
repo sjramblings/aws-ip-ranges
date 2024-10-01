@@ -642,6 +642,42 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 </details>
 
 <details>
+  <summary>ap-east-2</summary>
+
+  | IP Prefix      | Service | Network Border Group |
+  |----------------|---------|----------------------|
+  | 15.190.244.0/22 | AMAZON | ap-east-2 |
+  | 16.12.80.0/24 | AMAZON | ap-east-2 |
+  | 15.248.128.0/21 | AMAZON | ap-east-2 |
+  | 104.255.59.216/32 | AMAZON | ap-east-2 |
+  | 104.255.59.212/32 | AMAZON | ap-east-2 |
+  | 3.5.196.0/22 | AMAZON | ap-east-2 |
+  | 104.255.59.214/32 | AMAZON | ap-east-2 |
+  | 76.223.170.80/28 | AMAZON | ap-east-2 |
+  | 15.190.112.0/20 | AMAZON | ap-east-2 |
+  | 15.177.104.0/24 | AMAZON | ap-east-2 |
+  | 13.248.78.0/24 | AMAZON | ap-east-2 |
+  | 104.255.59.217/32 | AMAZON | ap-east-2 |
+  | 43.212.0.0/15 | AMAZON | ap-east-2 |
+  | 16.12.78.0/23 | AMAZON | ap-east-2 |
+  | 104.255.59.213/32 | AMAZON | ap-east-2 |
+  | 43.214.0.0/15 | AMAZON | ap-east-2 |
+  | 23.254.0.0/21 | AMAZON | ap-east-2 |
+  | 52.94.250.128/28 | AMAZON | ap-east-2 |
+  | 104.255.59.215/32 | AMAZON | ap-east-2 |
+  | 16.12.80.0/24 | S3 | ap-east-2 |
+  | 3.5.196.0/22 | S3 | ap-east-2 |
+  | 16.12.78.0/23 | S3 | ap-east-2 |
+  | 3.5.196.0/22 | EC2 | ap-east-2 |
+  | 15.177.104.0/24 | EC2 | ap-east-2 |
+  | 43.212.0.0/15 | EC2 | ap-east-2 |
+  | 23.254.0.0/21 | EC2 | ap-east-2 |
+  | 52.94.250.128/28 | EC2 | ap-east-2 |
+  | 15.177.104.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-east-2 |
+  | 13.248.78.0/24 | DYNAMODB | ap-east-2 |
+</details>
+
+<details>
   <summary>ap-northeast-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
@@ -2455,6 +2491,48 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.102.0.0/15 | AMAZON | ap-southeast-6 |
   | 23.254.8.0/21 | EC2 | ap-southeast-6 |
   | 3.102.0.0/15 | EC2 | ap-southeast-6 |
+</details>
+
+<details>
+  <summary>ap-southeast-7</summary>
+
+  | IP Prefix      | Service | Network Border Group |
+  |----------------|---------|----------------------|
+  | 3.5.60.0/22 | AMAZON | ap-southeast-7 |
+  | 104.255.59.208/32 | AMAZON | ap-southeast-7 |
+  | 13.248.77.0/24 | AMAZON | ap-southeast-7 |
+  | 43.210.0.0/15 | AMAZON | ap-southeast-7 |
+  | 104.255.59.209/32 | AMAZON | ap-southeast-7 |
+  | 104.255.59.207/32 | AMAZON | ap-southeast-7 |
+  | 150.222.53.96/27 | AMAZON | ap-southeast-7 |
+  | 16.12.76.0/23 | AMAZON | ap-southeast-7 |
+  | 35.71.126.0/24 | AMAZON | ap-southeast-7 |
+  | 15.177.103.0/24 | AMAZON | ap-southeast-7 |
+  | 15.190.252.0/22 | AMAZON | ap-southeast-7 |
+  | 150.222.53.32/27 | AMAZON | ap-southeast-7 |
+  | 76.223.170.64/28 | AMAZON | ap-southeast-7 |
+  | 136.18.144.0/21 | AMAZON | ap-southeast-7 |
+  | 150.222.53.64/27 | AMAZON | ap-southeast-7 |
+  | 52.94.250.112/28 | AMAZON | ap-southeast-7 |
+  | 104.255.59.206/32 | AMAZON | ap-southeast-7 |
+  | 104.255.59.211/32 | AMAZON | ap-southeast-7 |
+  | 15.248.112.0/21 | AMAZON | ap-southeast-7 |
+  | 15.190.80.0/20 | AMAZON | ap-southeast-7 |
+  | 43.208.0.0/15 | AMAZON | ap-southeast-7 |
+  | 16.12.75.0/24 | AMAZON | ap-southeast-7 |
+  | 104.255.59.210/32 | AMAZON | ap-southeast-7 |
+  | 3.5.60.0/22 | S3 | ap-southeast-7 |
+  | 16.12.76.0/23 | S3 | ap-southeast-7 |
+  | 16.12.75.0/24 | S3 | ap-southeast-7 |
+  | 3.5.60.0/22 | EC2 | ap-southeast-7 |
+  | 35.71.126.0/24 | EC2 | ap-southeast-7 |
+  | 15.177.103.0/24 | EC2 | ap-southeast-7 |
+  | 136.18.144.0/21 | EC2 | ap-southeast-7 |
+  | 52.94.250.112/28 | EC2 | ap-southeast-7 |
+  | 43.208.0.0/15 | EC2 | ap-southeast-7 |
+  | 15.177.103.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-7 |
+  | 13.248.77.0/24 | DYNAMODB | ap-southeast-7 |
+  | 35.71.126.0/24 | DYNAMODB | ap-southeast-7 |
 </details>
 
 <details>
@@ -4993,6 +5071,47 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.24.46.56/29 | EC2_INSTANCE_CONNECT | me-south-1 |
   | 35.71.99.0/24 | DYNAMODB | me-south-1 |
   | 52.119.249.0/24 | DYNAMODB | me-south-1 |
+</details>
+
+<details>
+  <summary>mx-central-1</summary>
+
+  | IP Prefix      | Service | Network Border Group |
+  |----------------|---------|----------------------|
+  | 150.222.53.160/27 | AMAZON | mx-central-1 |
+  | 136.18.152.0/21 | AMAZON | mx-central-1 |
+  | 150.222.53.192/27 | AMAZON | mx-central-1 |
+  | 52.94.250.96/28 | AMAZON | mx-central-1 |
+  | 104.255.57.103/32 | AMAZON | mx-central-1 |
+  | 15.177.102.0/24 | AMAZON | mx-central-1 |
+  | 15.248.120.0/21 | AMAZON | mx-central-1 |
+  | 15.190.96.0/20 | AMAZON | mx-central-1 |
+  | 104.255.57.100/32 | AMAZON | mx-central-1 |
+  | 16.12.71.0/24 | AMAZON | mx-central-1 |
+  | 104.255.57.98/32 | AMAZON | mx-central-1 |
+  | 104.255.57.102/32 | AMAZON | mx-central-1 |
+  | 150.222.53.128/27 | AMAZON | mx-central-1 |
+  | 16.12.72.0/23 | AMAZON | mx-central-1 |
+  | 104.255.57.101/32 | AMAZON | mx-central-1 |
+  | 35.71.125.0/24 | AMAZON | mx-central-1 |
+  | 3.5.192.0/22 | AMAZON | mx-central-1 |
+  | 78.14.0.0/15 | AMAZON | mx-central-1 |
+  | 15.190.248.0/22 | AMAZON | mx-central-1 |
+  | 78.12.0.0/15 | AMAZON | mx-central-1 |
+  | 13.248.76.0/24 | AMAZON | mx-central-1 |
+  | 76.223.170.48/28 | AMAZON | mx-central-1 |
+  | 16.12.71.0/24 | S3 | mx-central-1 |
+  | 16.12.72.0/23 | S3 | mx-central-1 |
+  | 3.5.192.0/22 | S3 | mx-central-1 |
+  | 136.18.152.0/21 | EC2 | mx-central-1 |
+  | 52.94.250.96/28 | EC2 | mx-central-1 |
+  | 15.177.102.0/24 | EC2 | mx-central-1 |
+  | 35.71.125.0/24 | EC2 | mx-central-1 |
+  | 3.5.192.0/22 | EC2 | mx-central-1 |
+  | 78.12.0.0/15 | EC2 | mx-central-1 |
+  | 15.177.102.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | mx-central-1 |
+  | 35.71.125.0/24 | DYNAMODB | mx-central-1 |
+  | 13.248.76.0/24 | DYNAMODB | mx-central-1 |
 </details>
 
 <details>
