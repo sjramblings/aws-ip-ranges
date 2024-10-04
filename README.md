@@ -2509,14 +2509,17 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 15.190.128.0/20 | AMAZON | ap-southeast-6 |
   | 15.248.144.0/21 | AMAZON | ap-southeast-6 |
+  | 16.15.8.0/22 | AMAZON | ap-southeast-6 |
   | 16.12.81.0/24 | AMAZON | ap-southeast-6 |
   | 16.12.82.0/23 | AMAZON | ap-southeast-6 |
   | 23.254.8.0/21 | AMAZON | ap-southeast-6 |
   | 182.24.0.0/14 | AMAZON | ap-southeast-6 |
   | 15.190.240.0/22 | AMAZON | ap-southeast-6 |
   | 3.102.0.0/15 | AMAZON | ap-southeast-6 |
+  | 16.15.8.0/22 | S3 | ap-southeast-6 |
   | 16.12.81.0/24 | S3 | ap-southeast-6 |
   | 16.12.82.0/23 | S3 | ap-southeast-6 |
+  | 16.15.8.0/22 | EC2 | ap-southeast-6 |
   | 23.254.8.0/21 | EC2 | ap-southeast-6 |
   | 3.102.0.0/15 | EC2 | ap-southeast-6 |
 </details>
@@ -3106,6 +3109,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.5.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.150/31 | AMAZON | eu-central-1 |
   | 52.58.0.0/15 | AMAZON | eu-central-1 |
+  | 3.4.12.34/32 | AMAZON | eu-central-1 |
   | 15.230.15.74/31 | AMAZON | eu-central-1 |
   | 15.220.48.0/21 | AMAZON | eu-central-1-waw-1 |
   | 15.230.15.8/32 | AMAZON | eu-central-1 |
@@ -3171,6 +3175,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.139.124/30 | AMAZON | eu-central-1 |
   | 15.230.15.154/31 | AMAZON | eu-central-1 |
   | 52.93.127.237/32 | AMAZON | eu-central-1 |
+  | 3.4.12.33/32 | AMAZON | eu-central-1 |
   | 3.64.0.0/12 | AMAZON | eu-central-1 |
   | 15.230.15.108/31 | AMAZON | eu-central-1 |
   | 151.148.35.0/24 | AMAZON | eu-central-1 |
@@ -3289,6 +3294,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.83.103.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.34/31 | AMAZON | eu-central-1 |
   | 15.230.15.144/31 | AMAZON | eu-central-1 |
+  | 3.4.15.80/29 | AMAZON | eu-central-1 |
   | 52.93.126.134/32 | AMAZON | eu-central-1 |
   | 35.71.105.0/24 | AMAZON | eu-central-1 |
   | 52.28.0.0/16 | AMAZON | eu-central-1 |
@@ -5172,6 +5178,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.233.0.0/18 | AMAZON | sa-east-1 |
   | 15.221.6.0/24 | AMAZON | sa-east-1 |
   | 56.125.0.0/16 | AMAZON | sa-east-1 |
+  | 3.4.12.32/32 | AMAZON | sa-east-1 |
   | 18.96.64.0/19 | AMAZON | sa-east-1 |
   | 18.229.0.0/16 | AMAZON | sa-east-1 |
   | 15.230.0.6/31 | AMAZON | sa-east-1 |
@@ -5198,6 +5205,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.161/32 | AMAZON | sa-east-1 |
   | 15.251.0.20/32 | AMAZON | sa-east-1 |
   | 15.230.250.0/24 | AMAZON | sa-east-1 |
+  | 3.4.12.31/32 | AMAZON | sa-east-1 |
   | 173.83.213.0/24 | AMAZON | sa-east-1 |
   | 56.127.0.0/16 | AMAZON | sa-east-1 |
   | 13.248.114.0/24 | AMAZON | sa-east-1 |
@@ -5243,6 +5251,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.228.0.0/16 | AMAZON | sa-east-1 |
   | 15.230.252.0/24 | AMAZON | sa-east-1 |
   | 15.251.0.22/32 | AMAZON | sa-east-1 |
+  | 3.4.15.88/29 | AMAZON | sa-east-1 |
   | 15.221.40.0/21 | AMAZON | sa-east-1 |
   | 52.93.126.207/32 | AMAZON | sa-east-1 |
   | 52.95.163.0/24 | AMAZON | sa-east-1 |
