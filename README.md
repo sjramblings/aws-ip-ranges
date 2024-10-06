@@ -2511,6 +2511,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.248.144.0/21 | AMAZON | ap-southeast-6 |
   | 16.15.8.0/22 | AMAZON | ap-southeast-6 |
   | 16.12.81.0/24 | AMAZON | ap-southeast-6 |
+  | 52.94.250.144/28 | AMAZON | ap-southeast-6 |
   | 16.12.82.0/23 | AMAZON | ap-southeast-6 |
   | 23.254.8.0/21 | AMAZON | ap-southeast-6 |
   | 182.24.0.0/14 | AMAZON | ap-southeast-6 |
@@ -2520,6 +2521,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.81.0/24 | S3 | ap-southeast-6 |
   | 16.12.82.0/23 | S3 | ap-southeast-6 |
   | 16.15.8.0/22 | EC2 | ap-southeast-6 |
+  | 52.94.250.144/28 | EC2 | ap-southeast-6 |
   | 23.254.8.0/21 | EC2 | ap-southeast-6 |
   | 3.102.0.0/15 | EC2 | ap-southeast-6 |
 </details>
