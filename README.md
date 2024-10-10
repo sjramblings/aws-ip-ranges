@@ -4917,6 +4917,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 15.230.177.0/24 | AMAZON | me-central-1 |
   | 40.172.0.0/16 | AMAZON | me-central-1 |
   | 52.95.187.0/24 | AMAZON | me-central-1 |
   | 35.71.104.0/24 | AMAZON | me-central-1 |
@@ -4924,7 +4925,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.219.0/24 | AMAZON | me-central-1 |
   | 99.77.0.0/20 | AMAZON | me-central-1 |
   | 3.5.48.0/22 | AMAZON | me-central-1 |
-  | 15.230.177.0/31 | AMAZON | me-central-1 |
   | 51.112.0.0/16 | AMAZON | me-central-1 |
   | 18.96.96.0/19 | AMAZON | me-central-1 |
   | 40.174.0.0/15 | AMAZON | me-central-1 |
@@ -4937,14 +4937,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.224/28 | AMAZON | me-central-1 |
   | 52.95.188.0/23 | AMAZON | me-central-1 |
   | 64.252.97.0/24 | AMAZON | me-central-1 |
-  | 15.230.177.2/31 | AMAZON | me-central-1 |
   | 54.239.1.176/28 | AMAZON | me-central-1 |
   | 13.248.66.0/24 | AMAZON | me-central-1 |
   | 99.77.16.0/21 | AMAZON | me-central-1 |
   | 15.177.93.0/24 | AMAZON | me-central-1 |
   | 3.28.0.0/15 | AMAZON | me-central-1 |
   | 51.0.80.0/21 | AMAZON | me-central-1 |
-  | 15.230.177.4/32 | AMAZON | me-central-1 |
   | 3.28.211.128/25 | AMAZON | me-central-1 |
   | 3.28.229.0/24 | AMAZON | me-central-1 |
   | 3.28.255.128/25 | AMAZON | me-central-1 |
