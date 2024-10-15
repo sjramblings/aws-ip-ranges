@@ -5600,6 +5600,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 139.56.24.0/23 | AMAZON | us-east-1-wl1-msp-wlz-1 |
   | 5.60.88.0/22 | AMAZON | us-east-1 |
   | 99.82.171.0/24 | AMAZON | us-east-1 |
+  | 15.221.176.0/20 | AMAZON | us-east-1 |
   | 52.144.200.64/26 | AMAZON | us-east-1 |
   | 35.153.0.0/16 | AMAZON | us-east-1 |
   | 54.231.0.0/16 | AMAZON | us-east-1 |
