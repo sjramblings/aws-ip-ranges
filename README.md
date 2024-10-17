@@ -2465,7 +2465,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 156.4.0.0/15 | AMAZON | ap-southeast-5 |
   | 15.190.4.0/22 | AMAZON | ap-southeast-5 |
   | 15.177.95.0/24 | AMAZON | ap-southeast-5 |
-  | 56.68.0.0/16 | AMAZON | ap-southeast-5 |
   | 43.216.0.0/15 | AMAZON | ap-southeast-5 |
   | 3.5.180.0/22 | AMAZON | ap-southeast-5 |
   | 104.255.59.199/32 | AMAZON | ap-southeast-5 |
@@ -2478,6 +2477,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 56.70.0.0/16 | AMAZON | ap-southeast-5 |
   | 76.223.170.32/28 | AMAZON | ap-southeast-5 |
   | 104.255.59.200/32 | AMAZON | ap-southeast-5 |
+  | 56.68.0.0/17 | AMAZON | ap-southeast-5 |
   | 104.255.59.196/32 | AMAZON | ap-southeast-5 |
   | 150.222.52.192/27 | AMAZON | ap-southeast-5 |
   | 43.216.52.0/23 | AMAZON | ap-southeast-5 |
@@ -2497,6 +2497,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.180.0/22 | EC2 | ap-southeast-5 |
   | 52.94.250.80/28 | EC2 | ap-southeast-5 |
   | 35.71.124.0/24 | EC2 | ap-southeast-5 |
+  | 56.68.0.0/17 | EC2 | ap-southeast-5 |
   | 15.177.95.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-5 |
   | 43.216.39.0/24 | API_GATEWAY | ap-southeast-5 |
   | 13.248.75.0/24 | DYNAMODB | ap-southeast-5 |
@@ -5012,6 +5013,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.119.249.0/24 | AMAZON | me-south-1 |
   | 56.186.0.0/16 | AMAZON | me-south-1 |
   | 157.241.0.0/16 | AMAZON | me-south-1 |
+  | 52.129.209.0/24 | AMAZON | me-south-1 |
   | 99.82.128.0/20 | AMAZON | me-south-1 |
   | 150.222.45.64/27 | AMAZON | me-south-1 |
   | 99.77.147.0/24 | AMAZON | me-south-1 |
@@ -5034,6 +5036,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.121.6/31 | AMAZON | me-south-1 |
   | 16.25.0.0/16 | AMAZON | me-south-1 |
   | 15.230.122.3/32 | AMAZON | me-south-1 |
+  | 52.129.208.0/24 | AMAZON | me-south-1 |
   | 3.5.220.0/22 | AMAZON | me-south-1 |
   | 13.248.106.0/24 | AMAZON | me-south-1 |
   | 15.248.20.0/22 | AMAZON | me-south-1 |
@@ -5080,12 +5083,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.185.0.0/16 | EC2 | me-south-1 |
   | 35.71.99.0/24 | EC2 | me-south-1 |
   | 157.241.0.0/16 | EC2 | me-south-1 |
+  | 52.129.209.0/24 | EC2 | me-south-1 |
   | 99.77.147.0/24 | EC2 | me-south-1 |
   | 99.77.236.0/24 | EC2 | me-south-1 |
   | 18.99.224.0/20 | EC2 | me-south-1 |
   | 15.184.0.0/16 | EC2 | me-south-1 |
   | 15.220.146.0/23 | EC2 | me-south-1-mct-1 |
   | 52.95.228.0/24 | EC2 | me-south-1 |
+  | 52.129.208.0/24 | EC2 | me-south-1 |
   | 3.5.220.0/22 | EC2 | me-south-1 |
   | 16.24.0.0/16 | EC2 | me-south-1 |
   | 157.175.0.0/16 | EC2 | me-south-1 |

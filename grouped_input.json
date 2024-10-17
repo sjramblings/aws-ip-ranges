@@ -14258,12 +14258,6 @@
         "network_border_group": "ap-southeast-5"
       },
       {
-        "ip_prefix": "56.68.0.0/16",
-        "region": "ap-southeast-5",
-        "service": "AMAZON",
-        "network_border_group": "ap-southeast-5"
-      },
-      {
         "ip_prefix": "43.216.0.0/15",
         "region": "ap-southeast-5",
         "service": "AMAZON",
@@ -14331,6 +14325,12 @@
       },
       {
         "ip_prefix": "104.255.59.200/32",
+        "region": "ap-southeast-5",
+        "service": "AMAZON",
+        "network_border_group": "ap-southeast-5"
+      },
+      {
+        "ip_prefix": "56.68.0.0/17",
         "region": "ap-southeast-5",
         "service": "AMAZON",
         "network_border_group": "ap-southeast-5"
@@ -14445,6 +14445,12 @@
       },
       {
         "ip_prefix": "35.71.124.0/24",
+        "region": "ap-southeast-5",
+        "service": "EC2",
+        "network_border_group": "ap-southeast-5"
+      },
+      {
+        "ip_prefix": "56.68.0.0/17",
         "region": "ap-southeast-5",
         "service": "EC2",
         "network_border_group": "ap-southeast-5"
@@ -28874,6 +28880,12 @@
         "network_border_group": "me-south-1"
       },
       {
+        "ip_prefix": "52.129.209.0/24",
+        "region": "me-south-1",
+        "service": "AMAZON",
+        "network_border_group": "me-south-1"
+      },
+      {
         "ip_prefix": "99.82.128.0/20",
         "region": "me-south-1",
         "service": "AMAZON",
@@ -29001,6 +29013,12 @@
       },
       {
         "ip_prefix": "15.230.122.3/32",
+        "region": "me-south-1",
+        "service": "AMAZON",
+        "network_border_group": "me-south-1"
+      },
+      {
+        "ip_prefix": "52.129.208.0/24",
         "region": "me-south-1",
         "service": "AMAZON",
         "network_border_group": "me-south-1"
@@ -29282,6 +29300,12 @@
         "network_border_group": "me-south-1"
       },
       {
+        "ip_prefix": "52.129.209.0/24",
+        "region": "me-south-1",
+        "service": "EC2",
+        "network_border_group": "me-south-1"
+      },
+      {
         "ip_prefix": "99.77.147.0/24",
         "region": "me-south-1",
         "service": "EC2",
@@ -29313,6 +29337,12 @@
       },
       {
         "ip_prefix": "52.95.228.0/24",
+        "region": "me-south-1",
+        "service": "EC2",
+        "network_border_group": "me-south-1"
+      },
+      {
+        "ip_prefix": "52.129.208.0/24",
         "region": "me-south-1",
         "service": "EC2",
         "network_border_group": "me-south-1"
