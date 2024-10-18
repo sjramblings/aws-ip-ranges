@@ -5006,6 +5006,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 15.185.0.0/16 | AMAZON | me-south-1 |
   | 35.71.99.0/24 | AMAZON | me-south-1 |
+  | 52.129.210.0/24 | AMAZON | me-south-1 |
   | 15.230.122.1/32 | AMAZON | me-south-1 |
   | 15.230.121.2/32 | AMAZON | me-south-1 |
   | 69.107.7.136/29 | AMAZON | me-south-1 |
@@ -5013,6 +5014,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.119.249.0/24 | AMAZON | me-south-1 |
   | 56.186.0.0/16 | AMAZON | me-south-1 |
   | 157.241.0.0/16 | AMAZON | me-south-1 |
+  | 52.129.211.0/24 | AMAZON | me-south-1 |
   | 52.129.209.0/24 | AMAZON | me-south-1 |
   | 99.82.128.0/20 | AMAZON | me-south-1 |
   | 150.222.45.64/27 | AMAZON | me-south-1 |
@@ -5082,7 +5084,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.184.153.0/28 | S3 | me-south-1 |
   | 15.185.0.0/16 | EC2 | me-south-1 |
   | 35.71.99.0/24 | EC2 | me-south-1 |
+  | 52.129.210.0/24 | EC2 | me-south-1 |
   | 157.241.0.0/16 | EC2 | me-south-1 |
+  | 52.129.211.0/24 | EC2 | me-south-1 |
   | 52.129.209.0/24 | EC2 | me-south-1 |
   | 99.77.147.0/24 | EC2 | me-south-1 |
   | 99.77.236.0/24 | EC2 | me-south-1 |
@@ -5498,6 +5502,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.188.0/22 | AMAZON | us-east-1 |
   | 15.230.18.0/24 | AMAZON | us-east-1 |
   | 52.93.127.201/32 | AMAZON | us-east-1 |
+  | 64.252.125.0/24 | AMAZON | us-east-1 |
   | 150.222.79.0/24 | AMAZON | us-east-1 |
   | 3.224.0.0/12 | AMAZON | us-east-1 |
   | 52.144.192.192/26 | AMAZON | us-east-1 |
@@ -6071,6 +6076,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 161.188.120.0/22 | EC2 | us-east-1 |
   | 162.250.237.0/24 | EC2 | us-east-1 |
   | 64.187.128.0/20 | EC2 | us-east-1-mia-1 |
+  | 64.252.125.0/24 | EC2 | us-east-1 |
   | 3.224.0.0/12 | EC2 | us-east-1 |
   | 54.221.0.0/16 | EC2 | us-east-1 |
   | 15.181.112.0/22 | EC2 | us-east-1-bos-1 |
