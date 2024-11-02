@@ -45222,6 +45222,12 @@
         "network_border_group": "us-west-2"
       },
       {
+        "ip_prefix": "35.96.6.0/24",
+        "region": "us-west-2",
+        "service": "AMAZON",
+        "network_border_group": "us-west-2"
+      },
+      {
         "ip_prefix": "5.60.172.0/22",
         "region": "us-west-2",
         "service": "AMAZON",
@@ -46459,6 +46465,12 @@
       },
       {
         "ip_prefix": "54.244.0.0/16",
+        "region": "us-west-2",
+        "service": "EC2",
+        "network_border_group": "us-west-2"
+      },
+      {
+        "ip_prefix": "35.96.6.0/24",
         "region": "us-west-2",
         "service": "EC2",
         "network_border_group": "us-west-2"
