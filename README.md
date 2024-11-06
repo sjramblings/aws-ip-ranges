@@ -102,6 +102,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.2.1.0/24 | AMAZON | GLOBAL |
   | 52.46.0.0/18 | AMAZON | GLOBAL |
   | 3.3.6.0/23 | AMAZON | GLOBAL |
+  | 3.174.0.0/15 | AMAZON | GLOBAL |
   | 13.248.128.0/17 | AMAZON | GLOBAL |
   | 52.82.128.0/19 | AMAZON | GLOBAL |
   | 75.2.0.0/17 | AMAZON | GLOBAL |
@@ -276,6 +277,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 205.251.250.0/23 | CLOUDFRONT | GLOBAL |
   | 180.163.57.0/25 | CLOUDFRONT | GLOBAL |
   | 52.46.0.0/18 | CLOUDFRONT | GLOBAL |
+  | 3.174.0.0/15 | CLOUDFRONT | GLOBAL |
   | 52.82.128.0/19 | CLOUDFRONT | GLOBAL |
   | 54.230.0.0/17 | CLOUDFRONT | GLOBAL |
   | 54.230.128.0/18 | CLOUDFRONT | GLOBAL |
