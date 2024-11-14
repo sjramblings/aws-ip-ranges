@@ -5176,7 +5176,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 104.255.57.101/32 | AMAZON | mx-central-1 |
   | 35.71.125.0/24 | AMAZON | mx-central-1 |
   | 3.5.192.0/22 | AMAZON | mx-central-1 |
-  | 150.222.45.96/27 | AMAZON | mx-central-1 |
   | 78.14.0.0/15 | AMAZON | mx-central-1 |
   | 15.190.248.0/22 | AMAZON | mx-central-1 |
   | 78.12.0.0/15 | AMAZON | mx-central-1 |
@@ -7809,6 +7808,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.255.112/28 | AMAZON | us-west-2 |
   | 150.222.39.0/26 | AMAZON | us-west-2 |
   | 35.96.16.0/20 | AMAZON | us-west-2 |
+  | 35.96.8.0/24 | AMAZON | us-west-2 |
   | 100.20.0.0/14 | AMAZON | us-west-2 |
   | 150.222.74.0/24 | AMAZON | us-west-2 |
   | 15.220.0.0/20 | AMAZON | us-west-2-pdx-1 |
@@ -8024,6 +8024,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.130.0/24 | EC2 | us-west-2 |
   | 52.95.255.112/28 | EC2 | us-west-2 |
   | 35.96.16.0/20 | EC2 | us-west-2 |
+  | 35.96.8.0/24 | EC2 | us-west-2 |
   | 100.20.0.0/14 | EC2 | us-west-2 |
   | 15.220.0.0/20 | EC2 | us-west-2-pdx-1 |
   | 15.220.16.0/20 | EC2 | us-west-2-las-1 |
