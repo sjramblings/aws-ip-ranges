@@ -2576,6 +2576,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.208.0.0/15 | AMAZON | ap-southeast-7 |
   | 16.12.75.0/24 | AMAZON | ap-southeast-7 |
   | 104.255.59.210/32 | AMAZON | ap-southeast-7 |
+  | 43.208.56.0/23 | AMAZON | ap-southeast-7 |
+  | 43.208.76.0/23 | AMAZON | ap-southeast-7 |
   | 3.5.60.0/22 | S3 | ap-southeast-7 |
   | 16.12.76.0/23 | S3 | ap-southeast-7 |
   | 16.12.75.0/24 | S3 | ap-southeast-7 |
