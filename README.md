@@ -2576,7 +2576,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.208.0.0/15 | AMAZON | ap-southeast-7 |
   | 16.12.75.0/24 | AMAZON | ap-southeast-7 |
   | 104.255.59.210/32 | AMAZON | ap-southeast-7 |
+  | 43.208.52.0/24 | AMAZON | ap-southeast-7 |
+  | 43.208.54.0/24 | AMAZON | ap-southeast-7 |
   | 43.208.56.0/23 | AMAZON | ap-southeast-7 |
+  | 43.208.58.0/24 | AMAZON | ap-southeast-7 |
   | 43.208.76.0/23 | AMAZON | ap-southeast-7 |
   | 3.5.60.0/22 | S3 | ap-southeast-7 |
   | 16.12.76.0/23 | S3 | ap-southeast-7 |
@@ -3205,6 +3208,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.139.124/30 | AMAZON | eu-central-1 |
   | 15.230.15.154/31 | AMAZON | eu-central-1 |
   | 52.93.127.237/32 | AMAZON | eu-central-1 |
+  | 15.248.137.0/24 | AMAZON | eu-central-1 |
   | 35.50.194.0/24 | AMAZON | eu-central-1 |
   | 3.4.12.33/32 | AMAZON | eu-central-1 |
   | 3.64.0.0/12 | AMAZON | eu-central-1 |
@@ -5222,6 +5226,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 78.12.0.0/15 | AMAZON | mx-central-1 |
   | 13.248.76.0/24 | AMAZON | mx-central-1 |
   | 76.223.170.48/28 | AMAZON | mx-central-1 |
+  | 78.12.58.0/24 | AMAZON | mx-central-1 |
+  | 78.12.59.0/24 | AMAZON | mx-central-1 |
+  | 78.12.61.0/24 | AMAZON | mx-central-1 |
   | 16.12.71.0/24 | S3 | mx-central-1 |
   | 16.12.72.0/23 | S3 | mx-central-1 |
   | 3.5.192.0/22 | S3 | mx-central-1 |
@@ -7218,6 +7225,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.152.193/32 | AMAZON | us-gov-west-1 |
   | 75.79.0.0/16 | AMAZON | us-gov-west-1 |
   | 52.46.176.0/22 | AMAZON | us-gov-west-1 |
+  | 18.96.8.0/21 | AMAZON | us-gov-west-1 |
   | 15.200.150.0/23 | AMAZON | us-gov-west-1 |
   | 15.200.176.192/26 | AMAZON | us-gov-west-1 |
   | 3.30.98.128/26 | AMAZON | us-gov-west-1 |
@@ -7244,6 +7252,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.71.116.0/24 | EC2 | us-gov-west-1 |
   | 52.222.0.0/17 | EC2 | us-gov-west-1 |
   | 15.200.0.0/16 | EC2 | us-gov-west-1 |
+  | 18.96.8.0/21 | EC2 | us-gov-west-1 |
   | 15.200.28.88/29 | CODEBUILD | us-gov-west-1 |
   | 52.61.40.104/29 | CODEBUILD | us-gov-west-1 |
   | 15.200.141.0/25 | API_GATEWAY | us-gov-west-1 |
