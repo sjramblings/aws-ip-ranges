@@ -2577,7 +2577,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.75.0/24 | AMAZON | ap-southeast-7 |
   | 104.255.59.210/32 | AMAZON | ap-southeast-7 |
   | 43.208.52.0/24 | AMAZON | ap-southeast-7 |
+  | 43.208.53.0/24 | AMAZON | ap-southeast-7 |
   | 43.208.54.0/24 | AMAZON | ap-southeast-7 |
+  | 43.208.55.0/24 | AMAZON | ap-southeast-7 |
   | 43.208.56.0/23 | AMAZON | ap-southeast-7 |
   | 43.208.58.0/24 | AMAZON | ap-southeast-7 |
   | 43.208.76.0/23 | AMAZON | ap-southeast-7 |
@@ -5229,6 +5231,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 78.12.58.0/24 | AMAZON | mx-central-1 |
   | 78.12.59.0/24 | AMAZON | mx-central-1 |
   | 78.12.61.0/24 | AMAZON | mx-central-1 |
+  | 78.12.62.0/24 | AMAZON | mx-central-1 |
+  | 78.12.63.0/24 | AMAZON | mx-central-1 |
   | 16.12.71.0/24 | S3 | mx-central-1 |
   | 16.12.72.0/23 | S3 | mx-central-1 |
   | 3.5.192.0/22 | S3 | mx-central-1 |
@@ -5670,6 +5674,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 104.255.56.18/32 | AMAZON | us-east-1 |
   | 150.222.33.0/24 | AMAZON | us-east-1 |
   | 96.0.131.0/24 | AMAZON | us-east-1-scl-1 |
+  | 192.157.36.0/24 | AMAZON | us-east-1 |
   | 205.251.247.0/24 | AMAZON | us-east-1 |
   | 3.4.15.112/29 | AMAZON | us-east-1 |
   | 15.193.6.0/24 | AMAZON | us-east-1 |
@@ -6197,6 +6202,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.181.176.0/20 | EC2 | us-east-1-chi-1 |
   | 15.181.48.0/20 | EC2 | us-east-1-msp-1 |
   | 96.0.131.0/24 | EC2 | us-east-1-scl-1 |
+  | 192.157.36.0/24 | EC2 | us-east-1 |
   | 15.193.6.0/24 | EC2 | us-east-1 |
   | 52.90.0.0/15 | EC2 | us-east-1 |
   | 139.56.20.0/23 | EC2 | us-east-1-wl1-tpa-wlz-1 |
@@ -7228,9 +7234,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.96.8.0/21 | AMAZON | us-gov-west-1 |
   | 15.200.150.0/23 | AMAZON | us-gov-west-1 |
   | 15.200.176.192/26 | AMAZON | us-gov-west-1 |
+  | 15.205.2.192/26 | AMAZON | us-gov-west-1 |
   | 3.30.98.128/26 | AMAZON | us-gov-west-1 |
   | 3.30.98.64/26 | AMAZON | us-gov-west-1 |
   | 3.32.190.0/25 | AMAZON | us-gov-west-1 |
+  | 56.136.0.192/26 | AMAZON | us-gov-west-1 |
+  | 56.136.121.0/25 | AMAZON | us-gov-west-1 |
   | 108.175.56.0/22 | S3 | us-gov-west-1 |
   | 136.18.0.0/23 | S3 | us-gov-west-1 |
   | 108.175.48.0/22 | S3 | us-gov-west-1 |
