@@ -1750,7 +1750,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.214.0.0/15 | AMAZON | ap-southeast-1 |
   | 54.179.0.0/16 | AMAZON | ap-southeast-1 |
   | 13.248.127.0/24 | AMAZON | ap-southeast-1 |
-  | 15.220.96.0/20 | AMAZON | ap-southeast-1 |
   | 52.93.127.113/32 | AMAZON | ap-southeast-1 |
   | 136.18.140.0/23 | AMAZON | ap-southeast-1 |
   | 52.220.0.0/15 | AMAZON | ap-southeast-1 |
@@ -1849,7 +1848,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.119.205.0/24 | AMAZON | ap-southeast-1 |
   | 136.18.22.0/24 | AMAZON | ap-southeast-1 |
   | 52.76.0.0/17 | AMAZON | ap-southeast-1 |
-  | 15.220.44.0/22 | AMAZON | ap-southeast-1 |
   | 136.18.34.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.209.0/24 | AMAZON | ap-southeast-1 |
   | 3.4.12.26/32 | AMAZON | ap-southeast-1 |
@@ -1920,7 +1918,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.74.0.0/16 | EC2 | ap-southeast-1 |
   | 13.214.0.0/15 | EC2 | ap-southeast-1 |
   | 54.179.0.0/16 | EC2 | ap-southeast-1 |
-  | 15.220.96.0/20 | EC2 | ap-southeast-1 |
   | 136.18.140.0/23 | EC2 | ap-southeast-1 |
   | 52.220.0.0/15 | EC2 | ap-southeast-1 |
   | 18.142.0.0/15 | EC2 | ap-southeast-1 |
@@ -1958,7 +1955,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.138.0.0/15 | EC2 | ap-southeast-1 |
   | 52.119.205.0/24 | EC2 | ap-southeast-1 |
   | 52.76.0.0/17 | EC2 | ap-southeast-1 |
-  | 15.220.44.0/22 | EC2 | ap-southeast-1 |
   | 96.0.130.0/24 | EC2 | ap-southeast-1-sggov-sin-1b |
   | 54.251.0.0/16 | EC2 | ap-southeast-1 |
   | 64.252.105.0/24 | EC2 | ap-southeast-1 |
@@ -5233,6 +5229,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 78.12.61.0/24 | AMAZON | mx-central-1 |
   | 78.12.62.0/24 | AMAZON | mx-central-1 |
   | 78.12.63.0/24 | AMAZON | mx-central-1 |
+  | 78.12.64.0/23 | AMAZON | mx-central-1 |
   | 16.12.71.0/24 | S3 | mx-central-1 |
   | 16.12.72.0/23 | S3 | mx-central-1 |
   | 3.5.192.0/22 | S3 | mx-central-1 |
