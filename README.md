@@ -2360,6 +2360,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.218.0.0/16 | EC2 | ap-southeast-3 |
   | 52.94.249.192/28 | EC2 | ap-southeast-3 |
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
+  | 16.79.0.0/16 | EC2 | ap-southeast-3 |
   | 16.78.0.0/16 | EC2 | ap-southeast-3 |
   | 99.77.237.0/24 | EC2 | ap-southeast-3 |
   | 15.177.92.0/24 | EC2 | ap-southeast-3 |
