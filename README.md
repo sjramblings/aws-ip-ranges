@@ -3204,6 +3204,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.158.0/24 | AMAZON | eu-central-1 |
   | 150.222.122.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.50/31 | AMAZON | eu-central-1 |
+  | 150.247.32.0/24 | AMAZON | eu-central-1 |
   | 150.222.139.124/30 | AMAZON | eu-central-1 |
   | 15.230.15.154/31 | AMAZON | eu-central-1 |
   | 52.93.127.237/32 | AMAZON | eu-central-1 |
@@ -5526,6 +5527,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.152.44/32 | AMAZON | us-east-1 |
   | 3.4.12.39/32 | AMAZON | us-east-1 |
   | 52.93.91.102/32 | AMAZON | us-east-1 |
+  | 150.247.33.0/24 | AMAZON | us-east-1 |
   | 13.248.124.0/24 | AMAZON | us-east-1 |
   | 15.220.222.0/23 | AMAZON | us-east-1-mci-1 |
   | 52.93.40.0/24 | AMAZON | us-east-1 |
