@@ -2622,8 +2622,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.79.0/26 | AMAZON | ca-central-1 |
   | 3.96.0.0/15 | AMAZON | ca-central-1 |
   | 3.5.252.0/22 | AMAZON | ca-central-1 |
-  | 16.52.0.0/14 | AMAZON | ca-central-1 |
   | 15.230.91.0/24 | AMAZON | ca-central-1 |
+  | 16.52.0.0/16 | AMAZON | ca-central-1 |
   | 52.93.193.198/32 | AMAZON | ca-central-1 |
   | 15.251.0.47/32 | AMAZON | ca-central-1 |
   | 173.83.217.0/24 | AMAZON | ca-central-1 |
@@ -2646,6 +2646,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.90.0/24 | AMAZON | ca-central-1 |
   | 52.93.193.197/32 | AMAZON | ca-central-1 |
   | 136.18.134.0/23 | AMAZON | ca-central-1 |
+  | 16.53.0.0/16 | AMAZON | ca-central-1 |
   | 52.94.14.0/24 | AMAZON | ca-central-1 |
   | 15.230.79.128/26 | AMAZON | ca-central-1 |
   | 52.93.193.202/32 | AMAZON | ca-central-1 |
@@ -2666,6 +2667,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.193.201/32 | AMAZON | ca-central-1 |
   | 13.248.126.0/24 | AMAZON | ca-central-1 |
   | 52.93.193.203/32 | AMAZON | ca-central-1 |
+  | 16.54.0.0/15 | AMAZON | ca-central-1 |
   | 54.239.1.0/28 | AMAZON | ca-central-1 |
   | 150.222.43.192/27 | AMAZON | ca-central-1 |
   | 161.193.128.0/18 | AMAZON | ca-central-1 |
@@ -2696,6 +2698,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.233.0/24 | EC2 | ca-central-1 |
   | 3.96.0.0/15 | EC2 | ca-central-1 |
   | 3.5.252.0/22 | EC2 | ca-central-1 |
+  | 16.52.0.0/16 | EC2 | ca-central-1 |
   | 173.83.217.0/24 | EC2 | ca-central-1 |
   | 99.151.128.0/21 | EC2 | ca-central-1 |
   | 99.79.0.0/16 | EC2 | ca-central-1 |
@@ -3396,6 +3399,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.136.0/24 | EC2 | eu-central-1 |
   | 5.60.32.0/22 | EC2 | eu-central-1 |
   | 15.145.2.0/23 | EC2 | eu-central-1-wl1-muc-wlz-1 |
+  | 63.180.0.0/14 | EC2 | eu-central-1 |
   | 52.58.0.0/15 | EC2 | eu-central-1 |
   | 15.220.48.0/21 | EC2 | eu-central-1-waw-1 |
   | 18.184.0.0/15 | EC2 | eu-central-1 |
@@ -3525,6 +3529,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 51.34.0.0/16 | AMAZON | eu-central-2 |
   | 56.242.0.0/16 | AMAZON | eu-central-2 |
   | 52.95.139.0/24 | AMAZON | eu-central-2 |
   | 13.248.68.0/24 | AMAZON | eu-central-2 |
@@ -3536,7 +3541,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.96.0.0/16 | AMAZON | eu-central-2 |
   | 15.230.170.0/23 | AMAZON | eu-central-2 |
   | 150.222.51.128/27 | AMAZON | eu-central-2 |
-  | 51.34.0.0/15 | AMAZON | eu-central-2 |
   | 56.241.0.0/16 | AMAZON | eu-central-2 |
   | 54.239.1.208/28 | AMAZON | eu-central-2 |
   | 70.232.96.0/20 | AMAZON | eu-central-2 |
@@ -3546,6 +3550,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.98.0/24 | AMAZON | eu-central-2 |
   | 70.232.120.0/22 | AMAZON | eu-central-2 |
   | 35.71.121.0/24 | AMAZON | eu-central-2 |
+  | 51.35.0.0/16 | AMAZON | eu-central-2 |
   | 52.94.250.0/28 | AMAZON | eu-central-2 |
   | 15.230.244.0/24 | AMAZON | eu-central-2 |
   | 70.232.112.0/21 | AMAZON | eu-central-2 |
@@ -3564,6 +3569,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.52.0/22 | S3 | eu-central-2 |
   | 16.62.56.224/28 | S3 | eu-central-2 |
   | 16.62.56.240/28 | S3 | eu-central-2 |
+  | 51.34.0.0/16 | EC2 | eu-central-2 |
   | 99.151.80.0/21 | EC2 | eu-central-2 |
   | 16.62.0.0/15 | EC2 | eu-central-2 |
   | 51.96.0.0/16 | EC2 | eu-central-2 |
