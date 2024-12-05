@@ -14958,6 +14958,12 @@
         "network_border_group": "ap-southeast-7"
       },
       {
+        "ip_prefix": "43.208.28.0/24",
+        "region": "ap-southeast-7",
+        "service": "API_GATEWAY",
+        "network_border_group": "ap-southeast-7"
+      },
+      {
         "ip_prefix": "13.248.77.0/24",
         "region": "ap-southeast-7",
         "service": "DYNAMODB",
@@ -22007,6 +22013,12 @@
       },
       {
         "ip_prefix": "35.96.112.0/20",
+        "region": "eu-south-1",
+        "service": "AMAZON",
+        "network_border_group": "eu-south-1"
+      },
+      {
+        "ip_prefix": "54.25.0.0/21",
         "region": "eu-south-1",
         "service": "AMAZON",
         "network_border_group": "eu-south-1"
@@ -46290,6 +46302,12 @@
         "network_border_group": "us-west-2"
       },
       {
+        "ip_prefix": "35.96.10.0/24",
+        "region": "us-west-2",
+        "service": "AMAZON",
+        "network_border_group": "us-west-2"
+      },
+      {
         "ip_prefix": "99.77.232.0/24",
         "region": "us-west-2",
         "service": "AMAZON",
@@ -47455,6 +47473,12 @@
       },
       {
         "ip_prefix": "52.88.0.0/15",
+        "region": "us-west-2",
+        "service": "EC2",
+        "network_border_group": "us-west-2"
+      },
+      {
+        "ip_prefix": "35.96.10.0/24",
         "region": "us-west-2",
         "service": "EC2",
         "network_border_group": "us-west-2"

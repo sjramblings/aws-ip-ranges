@@ -2594,6 +2594,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.250.112/28 | EC2 | ap-southeast-7 |
   | 43.208.0.0/15 | EC2 | ap-southeast-7 |
   | 15.177.103.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-7 |
+  | 43.208.28.0/24 | API_GATEWAY | ap-southeast-7 |
   | 13.248.77.0/24 | DYNAMODB | ap-southeast-7 |
   | 35.71.126.0/24 | DYNAMODB | ap-southeast-7 |
 </details>
@@ -3819,6 +3820,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.152.0/23 | AMAZON | eu-south-1 |
   | 16.12.21.0/24 | AMAZON | eu-south-1 |
   | 35.96.112.0/20 | AMAZON | eu-south-1 |
+  | 54.25.0.0/21 | AMAZON | eu-south-1 |
   | 173.83.208.0/24 | AMAZON | eu-south-1 |
   | 54.240.236.57/32 | AMAZON | eu-south-1 |
   | 52.93.133.131/32 | AMAZON | eu-south-1 |
@@ -7964,6 +7966,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.205.0/24 | AMAZON | us-west-2-den-1 |
   | 15.230.68.64/26 | AMAZON | us-west-2 |
   | 52.88.0.0/15 | AMAZON | us-west-2 |
+  | 35.96.10.0/24 | AMAZON | us-west-2 |
   | 99.77.232.0/24 | AMAZON | us-west-2 |
   | 99.78.196.0/22 | AMAZON | us-west-2 |
   | 5.60.196.0/22 | AMAZON | us-west-2 |
@@ -8159,6 +8162,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.96.2.0/24 | EC2 | us-west-2 |
   | 15.220.205.0/24 | EC2 | us-west-2-den-1 |
   | 52.88.0.0/15 | EC2 | us-west-2 |
+  | 35.96.10.0/24 | EC2 | us-west-2 |
   | 99.77.232.0/24 | EC2 | us-west-2 |
   | 5.60.196.0/22 | EC2 | us-west-2 |
   | 52.129.224.0/22 | EC2 | us-west-2 |
