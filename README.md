@@ -479,6 +479,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.202.0/23 | S3 | af-south-1 |
   | 13.245.93.176/28 | S3 | af-south-1 |
   | 13.245.93.192/28 | S3 | af-south-1 |
+  | 13.246.108.0/22 | WORKSPACES_GATEWAYS | af-south-1 |
+  | 13.246.120.0/22 | WORKSPACES_GATEWAYS | af-south-1 |
   | 18.99.144.0/20 | EC2 | af-south-1 |
   | 13.247.0.0/16 | EC2 | af-south-1 |
   | 96.0.40.0/21 | EC2 | af-south-1-los-1 |
@@ -521,8 +523,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.244.121.196/30 | EC2_INSTANCE_CONNECT | af-south-1 |
   | 13.247.76.100/30 | KINESIS_VIDEO_STREAMS | af-south-1 |
   | 13.247.76.96/31 | KINESIS_VIDEO_STREAMS | af-south-1 |
-  | 13.246.108.0/22 | WORKSPACES_GATEWAYS | af-south-1 |
-  | 13.246.120.0/22 | WORKSPACES_GATEWAYS | af-south-1 |
   | 13.245.127.232/30 | AMAZON_APPFLOW | af-south-1 |
   | 13.245.166.128/30 | AMAZON_APPFLOW | af-south-1 |
   | 13.245.166.132/30 | AMAZON_APPFLOW | af-south-1 |
@@ -895,6 +895,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.196.0/22 | S3 | ap-northeast-1 |
   | 35.72.164.240/28 | S3 | ap-northeast-1 |
   | 35.73.115.0/28 | S3 | ap-northeast-1 |
+  | 18.180.178.0/24 | WORKSPACES_GATEWAYS | ap-northeast-1 |
+  | 18.180.180.0/23 | WORKSPACES_GATEWAYS | ap-northeast-1 |
+  | 3.114.164.0/22 | WORKSPACES_GATEWAYS | ap-northeast-1 |
+  | 54.250.251.0/24 | WORKSPACES_GATEWAYS | ap-northeast-1 |
   | 43.206.0.0/15 | EC2 | ap-northeast-1 |
   | 54.248.0.0/15 | EC2 | ap-northeast-1 |
   | 99.77.244.0/24 | EC2 | ap-northeast-1 |
@@ -1012,10 +1016,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.72.36.148/30 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
   | 57.181.142.224/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
   | 57.181.142.228/30 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
-  | 18.180.178.0/24 | WORKSPACES_GATEWAYS | ap-northeast-1 |
-  | 18.180.180.0/23 | WORKSPACES_GATEWAYS | ap-northeast-1 |
-  | 3.114.164.0/22 | WORKSPACES_GATEWAYS | ap-northeast-1 |
-  | 54.250.251.0/24 | WORKSPACES_GATEWAYS | ap-northeast-1 |
   | 18.176.203.120/30 | AMAZON_APPFLOW | ap-northeast-1 |
   | 3.113.218.76/30 | AMAZON_APPFLOW | ap-northeast-1 |
   | 35.74.77.240/30 | AMAZON_APPFLOW | ap-northeast-1 |
@@ -1133,6 +1133,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.144.0/22 | S3 | ap-northeast-2 |
   | 3.36.167.64/28 | S3 | ap-northeast-2 |
   | 3.36.167.80/28 | S3 | ap-northeast-2 |
+  | 13.124.247.0/24 | WORKSPACES_GATEWAYS | ap-northeast-2 |
+  | 3.34.37.0/24 | WORKSPACES_GATEWAYS | ap-northeast-2 |
+  | 3.34.38.0/23 | WORKSPACES_GATEWAYS | ap-northeast-2 |
+  | 3.35.160.0/22 | WORKSPACES_GATEWAYS | ap-northeast-2 |
   | 3.5.140.0/22 | EC2 | ap-northeast-2 |
   | 151.148.40.0/24 | EC2 | ap-northeast-2 |
   | 15.177.76.0/24 | EC2 | ap-northeast-2 |
@@ -1214,10 +1218,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.209.1.56/29 | EC2_INSTANCE_CONNECT | ap-northeast-2 |
   | 43.202.213.132/31 | KINESIS_VIDEO_STREAMS | ap-northeast-2 |
   | 43.202.213.136/30 | KINESIS_VIDEO_STREAMS | ap-northeast-2 |
-  | 13.124.247.0/24 | WORKSPACES_GATEWAYS | ap-northeast-2 |
-  | 3.34.37.0/24 | WORKSPACES_GATEWAYS | ap-northeast-2 |
-  | 3.34.38.0/23 | WORKSPACES_GATEWAYS | ap-northeast-2 |
-  | 3.35.160.0/22 | WORKSPACES_GATEWAYS | ap-northeast-2 |
   | 3.34.89.192/30 | AMAZON_APPFLOW | ap-northeast-2 |
   | 3.34.89.196/30 | AMAZON_APPFLOW | ap-northeast-2 |
   | 3.36.245.232/30 | AMAZON_APPFLOW | ap-northeast-2 |
@@ -1512,6 +1512,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 65.1.103.208/28 | S3 | ap-south-1 |
   | 65.1.103.224/28 | S3 | ap-south-1 |
   | 35.50.233.0/24 | IVS_REALTIME | ap-south-1 |
+  | 13.126.243.0/24 | WORKSPACES_GATEWAYS | ap-south-1 |
+  | 65.1.156.0/22 | WORKSPACES_GATEWAYS | ap-south-1 |
   | 3.108.0.0/14 | EC2 | ap-south-1 |
   | 15.220.216.0/22 | EC2 | ap-south-1-del-2 |
   | 13.204.0.0/14 | EC2 | ap-south-1 |
@@ -1603,8 +1605,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.233.177.0/29 | EC2_INSTANCE_CONNECT | ap-south-1 |
   | 13.200.142.116/31 | KINESIS_VIDEO_STREAMS | ap-south-1 |
   | 13.201.195.64/30 | KINESIS_VIDEO_STREAMS | ap-south-1 |
-  | 13.126.243.0/24 | WORKSPACES_GATEWAYS | ap-south-1 |
-  | 65.1.156.0/22 | WORKSPACES_GATEWAYS | ap-south-1 |
   | 3.108.13.124/30 | AMAZON_APPFLOW | ap-south-1 |
   | 3.6.70.76/30 | AMAZON_APPFLOW | ap-south-1 |
   | 3.7.25.48/30 | AMAZON_APPFLOW | ap-south-1 |
@@ -1907,6 +1907,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.148.0/22 | S3 | ap-southeast-1 |
   | 13.213.20.144/28 | S3 | ap-southeast-1 |
   | 13.213.20.160/28 | S3 | ap-southeast-1 |
+  | 13.212.132.0/22 | WORKSPACES_GATEWAYS | ap-southeast-1 |
+  | 18.141.152.0/24 | WORKSPACES_GATEWAYS | ap-southeast-1 |
+  | 18.141.154.0/23 | WORKSPACES_GATEWAYS | ap-southeast-1 |
+  | 52.76.127.0/24 | WORKSPACES_GATEWAYS | ap-southeast-1 |
   | 18.34.248.0/22 | EC2 | ap-southeast-1 |
   | 15.193.2.0/24 | EC2 | ap-southeast-1 |
   | 15.177.82.0/24 | EC2 | ap-southeast-1 |
@@ -2026,10 +2030,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.0.5.32/29 | EC2_INSTANCE_CONNECT | ap-southeast-1 |
   | 47.128.82.102/31 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
   | 47.129.23.132/30 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
-  | 13.212.132.0/22 | WORKSPACES_GATEWAYS | ap-southeast-1 |
-  | 18.141.152.0/24 | WORKSPACES_GATEWAYS | ap-southeast-1 |
-  | 18.141.154.0/23 | WORKSPACES_GATEWAYS | ap-southeast-1 |
-  | 52.76.127.0/24 | WORKSPACES_GATEWAYS | ap-southeast-1 |
   | 18.141.238.68/30 | AMAZON_APPFLOW | ap-southeast-1 |
   | 18.141.66.248/30 | AMAZON_APPFLOW | ap-southeast-1 |
   | 18.141.66.252/30 | AMAZON_APPFLOW | ap-southeast-1 |
@@ -2192,6 +2192,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.168.0/23 | S3 | ap-southeast-2 |
   | 3.26.88.0/28 | S3 | ap-southeast-2 |
   | 3.26.88.16/28 | S3 | ap-southeast-2 |
+  | 3.25.248.0/22 | WORKSPACES_GATEWAYS | ap-southeast-2 |
+  | 3.25.43.0/24 | WORKSPACES_GATEWAYS | ap-southeast-2 |
+  | 3.25.44.0/23 | WORKSPACES_GATEWAYS | ap-southeast-2 |
+  | 54.153.254.0/24 | WORKSPACES_GATEWAYS | ap-southeast-2 |
   | 96.0.80.0/22 | EC2 | ap-southeast-2-akl-1 |
   | 15.193.3.0/24 | EC2 | ap-southeast-2 |
   | 13.236.0.0/14 | EC2 | ap-southeast-2 |
@@ -2280,10 +2284,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.239.158.0/29 | EC2_INSTANCE_CONNECT | ap-southeast-2 |
   | 3.107.30.180/31 | KINESIS_VIDEO_STREAMS | ap-southeast-2 |
   | 3.107.30.184/30 | KINESIS_VIDEO_STREAMS | ap-southeast-2 |
-  | 3.25.248.0/22 | WORKSPACES_GATEWAYS | ap-southeast-2 |
-  | 3.25.43.0/24 | WORKSPACES_GATEWAYS | ap-southeast-2 |
-  | 3.25.44.0/23 | WORKSPACES_GATEWAYS | ap-southeast-2 |
-  | 54.153.254.0/24 | WORKSPACES_GATEWAYS | ap-southeast-2 |
   | 3.25.47.28/30 | AMAZON_APPFLOW | ap-southeast-2 |
   | 3.25.47.32/30 | AMAZON_APPFLOW | ap-southeast-2 |
   | 3.26.109.216/30 | AMAZON_APPFLOW | ap-southeast-2 |
@@ -2703,6 +2703,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.145.0/24 | S3 | ca-central-1 |
   | 3.98.24.0/28 | S3 | ca-central-1 |
   | 3.98.24.16/28 | S3 | ca-central-1 |
+  | 15.223.100.0/24 | WORKSPACES_GATEWAYS | ca-central-1 |
+  | 15.223.102.0/23 | WORKSPACES_GATEWAYS | ca-central-1 |
+  | 3.97.20.0/22 | WORKSPACES_GATEWAYS | ca-central-1 |
+  | 35.183.255.0/24 | WORKSPACES_GATEWAYS | ca-central-1 |
   | 15.222.0.0/15 | EC2 | ca-central-1 |
   | 35.71.119.0/24 | EC2 | ca-central-1 |
   | 35.182.0.0/15 | EC2 | ca-central-1 |
@@ -2768,10 +2772,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.183.92.176/29 | EC2_INSTANCE_CONNECT | ca-central-1 |
   | 15.157.167.134/31 | KINESIS_VIDEO_STREAMS | ca-central-1 |
   | 15.157.167.136/30 | KINESIS_VIDEO_STREAMS | ca-central-1 |
-  | 15.223.100.0/24 | WORKSPACES_GATEWAYS | ca-central-1 |
-  | 15.223.102.0/23 | WORKSPACES_GATEWAYS | ca-central-1 |
-  | 3.97.20.0/22 | WORKSPACES_GATEWAYS | ca-central-1 |
-  | 35.183.255.0/24 | WORKSPACES_GATEWAYS | ca-central-1 |
   | 3.96.2.68/30 | AMAZON_APPFLOW | ca-central-1 |
   | 3.96.2.72/30 | AMAZON_APPFLOW | ca-central-1 |
   | 3.98.171.196/30 | AMAZON_APPFLOW | ca-central-1 |
@@ -3035,6 +3035,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 68.79.2.224/28 | S3 | cn-northwest-1 |
   | 69.234.250.64/28 | S3 | cn-northwest-1 |
   | 69.234.250.80/28 | S3 | cn-northwest-1 |
+  | 43.192.144.0/22 | WORKSPACES_GATEWAYS | cn-northwest-1 |
+  | 52.83.58.0/24 | WORKSPACES_GATEWAYS | cn-northwest-1 |
+  | 69.235.162.0/24 | WORKSPACES_GATEWAYS | cn-northwest-1 |
   | 52.82.169.0/28 | EC2 | cn-northwest-1 |
   | 43.193.0.0/18 | EC2 | cn-northwest-1 |
   | 52.83.0.0/16 | EC2 | cn-northwest-1 |
@@ -3084,9 +3087,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 68.79.2.244/30 | EBS | cn-northwest-1 |
   | 68.79.2.248/29 | EBS | cn-northwest-1 |
   | 43.192.155.8/29 | EC2_INSTANCE_CONNECT | cn-northwest-1 |
-  | 43.192.144.0/22 | WORKSPACES_GATEWAYS | cn-northwest-1 |
-  | 52.83.58.0/24 | WORKSPACES_GATEWAYS | cn-northwest-1 |
-  | 69.235.162.0/24 | WORKSPACES_GATEWAYS | cn-northwest-1 |
   | 52.82.187.0/24 | DYNAMODB | cn-northwest-1 |
   | 43.193.64.0/24 | DYNAMODB | cn-northwest-1 |
 </details>
@@ -3401,6 +3401,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.192.0/24 | IVS_REALTIME | eu-central-1 |
   | 35.50.194.0/24 | IVS_REALTIME | eu-central-1 |
   | 35.50.193.0/24 | IVS_REALTIME | eu-central-1 |
+  | 18.156.52.0/24 | WORKSPACES_GATEWAYS | eu-central-1 |
+  | 18.156.54.0/23 | WORKSPACES_GATEWAYS | eu-central-1 |
+  | 18.192.216.0/22 | WORKSPACES_GATEWAYS | eu-central-1 |
+  | 52.59.127.0/24 | WORKSPACES_GATEWAYS | eu-central-1 |
   | 35.50.192.0/24 | EC2 | eu-central-1 |
   | 18.96.32.0/19 | EC2 | eu-central-1 |
   | 3.5.136.0/22 | EC2 | eu-central-1 |
@@ -3524,10 +3528,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.120.181.40/29 | EC2_INSTANCE_CONNECT | eu-central-1 |
   | 18.153.184.142/31 | KINESIS_VIDEO_STREAMS | eu-central-1 |
   | 18.153.184.148/30 | KINESIS_VIDEO_STREAMS | eu-central-1 |
-  | 18.156.52.0/24 | WORKSPACES_GATEWAYS | eu-central-1 |
-  | 18.156.54.0/23 | WORKSPACES_GATEWAYS | eu-central-1 |
-  | 18.192.216.0/22 | WORKSPACES_GATEWAYS | eu-central-1 |
-  | 52.59.127.0/24 | WORKSPACES_GATEWAYS | eu-central-1 |
   | 3.127.48.244/30 | AMAZON_APPFLOW | eu-central-1 |
   | 3.127.48.248/30 | AMAZON_APPFLOW | eu-central-1 |
   | 3.68.251.176/30 | AMAZON_APPFLOW | eu-central-1 |
@@ -4341,6 +4341,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.195.0/24 | IVS_REALTIME | eu-west-1 |
   | 35.50.196.0/24 | IVS_REALTIME | eu-west-1 |
   | 52.129.130.0/24 | IVS_REALTIME | eu-west-1 |
+  | 3.248.176.0/22 | WORKSPACES_GATEWAYS | eu-west-1 |
+  | 3.249.28.0/23 | WORKSPACES_GATEWAYS | eu-west-1 |
+  | 52.19.124.0/23 | WORKSPACES_GATEWAYS | eu-west-1 |
   | 18.97.192.0/18 | EC2 | eu-west-1 |
   | 54.247.0.0/16 | EC2 | eu-west-1 |
   | 18.200.0.0/16 | EC2 | eu-west-1 |
@@ -4475,9 +4478,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.202.216.48/29 | EC2_INSTANCE_CONNECT | eu-west-1 |
   | 54.247.243.134/31 | KINESIS_VIDEO_STREAMS | eu-west-1 |
   | 54.247.243.136/30 | KINESIS_VIDEO_STREAMS | eu-west-1 |
-  | 3.248.176.0/22 | WORKSPACES_GATEWAYS | eu-west-1 |
-  | 3.249.28.0/23 | WORKSPACES_GATEWAYS | eu-west-1 |
-  | 52.19.124.0/23 | WORKSPACES_GATEWAYS | eu-west-1 |
   | 3.248.186.92/30 | AMAZON_APPFLOW | eu-west-1 |
   | 3.248.244.240/30 | AMAZON_APPFLOW | eu-west-1 |
   | 3.251.152.44/30 | AMAZON_APPFLOW | eu-west-1 |
@@ -4653,6 +4653,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.244.0/22 | S3 | eu-west-2 |
   | 18.168.37.160/28 | S3 | eu-west-2 |
   | 18.168.37.176/28 | S3 | eu-west-2 |
+  | 18.132.21.0/24 | WORKSPACES_GATEWAYS | eu-west-2 |
+  | 18.132.22.0/23 | WORKSPACES_GATEWAYS | eu-west-2 |
+  | 18.134.68.0/22 | WORKSPACES_GATEWAYS | eu-west-2 |
+  | 35.176.32.0/24 | WORKSPACES_GATEWAYS | eu-west-2 |
   | 208.78.132.0/23 | EC2 | eu-west-2 |
   | 64.252.85.0/24 | EC2 | eu-west-2 |
   | 216.39.136.0/21 | EC2 | eu-west-2 |
@@ -4743,10 +4747,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.8.37.24/29 | EC2_INSTANCE_CONNECT | eu-west-2 |
   | 18.171.35.214/31 | KINESIS_VIDEO_STREAMS | eu-west-2 |
   | 18.171.63.36/30 | KINESIS_VIDEO_STREAMS | eu-west-2 |
-  | 18.132.21.0/24 | WORKSPACES_GATEWAYS | eu-west-2 |
-  | 18.132.22.0/23 | WORKSPACES_GATEWAYS | eu-west-2 |
-  | 18.134.68.0/22 | WORKSPACES_GATEWAYS | eu-west-2 |
-  | 35.176.32.0/24 | WORKSPACES_GATEWAYS | eu-west-2 |
   | 18.130.91.144/30 | AMAZON_APPFLOW | eu-west-2 |
   | 18.130.91.148/30 | AMAZON_APPFLOW | eu-west-2 |
   | 18.169.230.136/30 | AMAZON_APPFLOW | eu-west-2 |
@@ -4843,6 +4843,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.36.84.48/28 | S3 | eu-west-3 |
   | 13.36.84.64/28 | S3 | eu-west-3 |
   | 52.129.131.0/24 | IVS_REALTIME | eu-west-3 |
+  | 51.44.72.0/22 | WORKSPACES_GATEWAYS | eu-west-3 |
   | 35.180.0.0/16 | EC2 | eu-west-3 |
   | 52.47.0.0/16 | EC2 | eu-west-3 |
   | 13.36.0.0/14 | EC2 | eu-west-3 |
@@ -4902,7 +4903,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.180.112.80/29 | EC2_INSTANCE_CONNECT | eu-west-3 |
   | 15.188.210.206/31 | KINESIS_VIDEO_STREAMS | eu-west-3 |
   | 15.237.162.40/30 | KINESIS_VIDEO_STREAMS | eu-west-3 |
-  | 51.44.72.0/22 | WORKSPACES_GATEWAYS | eu-west-3 |
   | 13.36.84.44/30 | AMAZON_APPFLOW | eu-west-3 |
   | 15.188.210.196/30 | AMAZON_APPFLOW | eu-west-3 |
   | 15.188.210.200/30 | AMAZON_APPFLOW | eu-west-3 |
@@ -4982,6 +4982,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.56.0/22 | S3 | il-central-1 |
   | 51.17.129.160/28 | S3 | il-central-1 |
   | 51.17.129.176/28 | S3 | il-central-1 |
+  | 51.17.72.0/22 | WORKSPACES_GATEWAYS | il-central-1 |
   | 51.85.0.0/16 | EC2 | il-central-1 |
   | 18.96.160.0/19 | EC2 | il-central-1 |
   | 15.177.99.0/24 | EC2 | il-central-1 |
@@ -5002,7 +5003,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.16.97.0/26 | ROUTE53_RESOLVER | il-central-1 |
   | 51.16.97.64/26 | ROUTE53_RESOLVER | il-central-1 |
   | 51.16.183.224/29 | EC2_INSTANCE_CONNECT | il-central-1 |
-  | 51.17.72.0/22 | WORKSPACES_GATEWAYS | il-central-1 |
   | 13.248.72.0/24 | DYNAMODB | il-central-1 |
   | 35.71.122.0/24 | DYNAMODB | il-central-1 |
 </details>
@@ -5435,6 +5435,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.176.0/24 | IVS_REALTIME | sa-east-1 |
   | 35.50.177.0/24 | IVS_REALTIME | sa-east-1 |
   | 35.50.178.0/24 | IVS_REALTIME | sa-east-1 |
+  | 15.228.64.0/22 | WORKSPACES_GATEWAYS | sa-east-1 |
+  | 18.230.103.0/24 | WORKSPACES_GATEWAYS | sa-east-1 |
+  | 18.230.104.0/23 | WORKSPACES_GATEWAYS | sa-east-1 |
+  | 54.233.204.0/24 | WORKSPACES_GATEWAYS | sa-east-1 |
   | 64.252.81.0/24 | EC2 | sa-east-1 |
   | 99.77.149.0/24 | EC2 | sa-east-1 |
   | 64.252.79.0/24 | EC2 | sa-east-1 |
@@ -5522,10 +5526,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.228.70.32/29 | EC2_INSTANCE_CONNECT | sa-east-1 |
   | 15.229.206.224/31 | KINESIS_VIDEO_STREAMS | sa-east-1 |
   | 15.229.206.228/30 | KINESIS_VIDEO_STREAMS | sa-east-1 |
-  | 15.228.64.0/22 | WORKSPACES_GATEWAYS | sa-east-1 |
-  | 18.230.103.0/24 | WORKSPACES_GATEWAYS | sa-east-1 |
-  | 18.230.104.0/23 | WORKSPACES_GATEWAYS | sa-east-1 |
-  | 54.233.204.0/24 | WORKSPACES_GATEWAYS | sa-east-1 |
   | 15.228.126.72/30 | AMAZON_APPFLOW | sa-east-1 |
   | 18.229.100.112/30 | AMAZON_APPFLOW | sa-east-1 |
   | 18.229.100.116/30 | AMAZON_APPFLOW | sa-east-1 |
@@ -6169,6 +6169,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.0.0/19 | S3 | us-east-1 |
   | 44.192.134.240/28 | S3 | us-east-1 |
   | 44.192.140.64/28 | S3 | us-east-1 |
+  | 3.217.228.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 3.227.4.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 3.235.112.0/21 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 44.209.84.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 44.214.144.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 44.214.148.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 44.214.152.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 44.214.156.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 52.23.61.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
+  | 52.23.62.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 15.181.232.0/21 | EC2 | us-east-1-iah-1 |
   | 3.2.0.0/24 | EC2 | us-east-1-iah-1 |
   | 18.97.0.0/18 | EC2 | us-east-1 |
@@ -6612,16 +6622,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.220.189.88/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
   | 44.220.189.92/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
   | 44.220.189.96/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
-  | 3.217.228.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 3.227.4.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 3.235.112.0/21 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 44.209.84.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 44.214.144.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 44.214.148.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 44.214.152.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 44.214.156.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 52.23.61.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
-  | 52.23.62.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 3.235.189.100/30 | AMAZON_APPFLOW | us-east-1 |
   | 3.235.189.96/30 | AMAZON_APPFLOW | us-east-1 |
   | 44.194.111.224/30 | AMAZON_APPFLOW | us-east-1 |
@@ -7027,6 +7027,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.143.0/24 | IVS_REALTIME | us-east-2 |
   | 35.50.144.0/24 | IVS_REALTIME | us-east-2 |
   | 35.50.142.0/24 | IVS_REALTIME | us-east-2 |
+  | 3.146.84.0/22 | WORKSPACES_GATEWAYS | us-east-2 |
   | 18.191.0.0/16 | EC2 | us-east-2 |
   | 35.50.143.0/24 | EC2 | us-east-2 |
   | 3.132.0.0/14 | EC2 | us-east-2 |
@@ -7130,7 +7131,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.16.146.0/29 | EC2_INSTANCE_CONNECT | us-east-2 |
   | 3.146.42.74/31 | KINESIS_VIDEO_STREAMS | us-east-2 |
   | 3.146.42.80/30 | KINESIS_VIDEO_STREAMS | us-east-2 |
-  | 3.146.84.0/22 | WORKSPACES_GATEWAYS | us-east-2 |
   | 18.117.239.68/30 | AMAZON_APPFLOW | us-east-2 |
   | 3.12.23.88/30 | AMAZON_APPFLOW | us-east-2 |
   | 3.12.23.92/30 | AMAZON_APPFLOW | us-east-2 |
@@ -7179,6 +7179,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 108.175.60.0/22 | S3 | us-gov-east-1 |
   | 18.252.145.192/28 | S3 | us-gov-east-1 |
   | 18.252.145.208/28 | S3 | us-gov-east-1 |
+  | 18.254.140.0/22 | WORKSPACES_GATEWAYS | us-gov-east-1 |
+  | 18.254.148.0/22 | WORKSPACES_GATEWAYS | us-gov-east-1 |
   | 35.71.115.0/24 | EC2 | us-gov-east-1 |
   | 99.77.183.0/24 | EC2 | us-gov-east-1 |
   | 182.30.0.0/16 | EC2 | us-gov-east-1 |
@@ -7221,8 +7223,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.252.145.160/29 | EBS | us-gov-east-1 |
   | 18.252.4.0/30 | EC2_INSTANCE_CONNECT | us-gov-east-1 |
   | 18.252.165.140/30 | KINESIS_VIDEO_STREAMS | us-gov-east-1 |
-  | 18.254.140.0/22 | WORKSPACES_GATEWAYS | us-gov-east-1 |
-  | 18.254.148.0/22 | WORKSPACES_GATEWAYS | us-gov-east-1 |
   | 35.71.115.0/24 | DYNAMODB | us-gov-east-1 |
   | 52.94.22.0/24 | DYNAMODB | us-gov-east-1 |
 </details>
@@ -7288,6 +7288,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 108.175.48.0/22 | S3 | us-gov-west-1 |
   | 15.200.176.128/28 | S3 | us-gov-west-1 |
   | 15.200.28.240/28 | S3 | us-gov-west-1 |
+  | 3.30.129.0/24 | WORKSPACES_GATEWAYS | us-gov-west-1 |
+  | 3.30.130.0/23 | WORKSPACES_GATEWAYS | us-gov-west-1 |
+  | 3.32.139.0/24 | WORKSPACES_GATEWAYS | us-gov-west-1 |
+  | 52.61.193.0/24 | WORKSPACES_GATEWAYS | us-gov-west-1 |
   | 15.205.0.0/16 | EC2 | us-gov-west-1 |
   | 108.175.56.0/22 | EC2 | us-gov-west-1 |
   | 136.18.0.0/23 | EC2 | us-gov-west-1 |
@@ -7333,10 +7337,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.32.190.248/29 | EBS | us-gov-west-1 |
   | 15.200.28.80/30 | EC2_INSTANCE_CONNECT | us-gov-west-1 |
   | 3.30.40.84/30 | KINESIS_VIDEO_STREAMS | us-gov-west-1 |
-  | 3.30.129.0/24 | WORKSPACES_GATEWAYS | us-gov-west-1 |
-  | 3.30.130.0/23 | WORKSPACES_GATEWAYS | us-gov-west-1 |
-  | 3.32.139.0/24 | WORKSPACES_GATEWAYS | us-gov-west-1 |
-  | 52.61.193.0/24 | WORKSPACES_GATEWAYS | us-gov-west-1 |
   | 52.94.9.0/24 | DYNAMODB | us-gov-west-1 |
   | 35.71.116.0/24 | DYNAMODB | us-gov-west-1 |
 </details>
@@ -8103,6 +8103,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.130.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.128.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.131.0/24 | IVS_REALTIME | us-west-2 |
+  | 34.223.96.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
+  | 35.80.88.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
+  | 35.80.92.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
+  | 44.234.54.0/23 | WORKSPACES_GATEWAYS | us-west-2 |
+  | 54.244.46.0/23 | WORKSPACES_GATEWAYS | us-west-2 |
   | 5.60.200.0/22 | EC2 | us-west-2 |
   | 139.56.16.0/23 | EC2 | us-west-2-wl1-phx-wlz-1 |
   | 15.220.252.0/22 | EC2 | us-west-2-las-1 |
@@ -8355,11 +8360,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.242.161.4/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 44.242.161.6/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 44.242.161.8/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
-  | 34.223.96.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
-  | 35.80.88.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
-  | 35.80.92.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
-  | 44.234.54.0/23 | WORKSPACES_GATEWAYS | us-west-2 |
-  | 54.244.46.0/23 | WORKSPACES_GATEWAYS | us-west-2 |
   | 35.84.36.0/30 | AMAZON_APPFLOW | us-west-2 |
   | 44.234.73.116/30 | AMAZON_APPFLOW | us-west-2 |
   | 44.234.73.120/30 | AMAZON_APPFLOW | us-west-2 |
