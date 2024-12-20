@@ -1559,6 +1559,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 64.252.99.0/24 | EC2 | ap-south-1 |
   | 15.220.128.0/21 | EC2 | ap-south-1-del-1 |
   | 142.4.177.0/24 | EC2 | ap-south-1 |
+  | 13.203.133.0/26 | CLOUDFRONT | ap-south-1 |
   | 13.233.177.192/26 | CLOUDFRONT | ap-south-1 |
   | 15.207.13.128/25 | CLOUDFRONT | ap-south-1 |
   | 15.207.213.128/25 | CLOUDFRONT | ap-south-1 |
