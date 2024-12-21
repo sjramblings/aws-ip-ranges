@@ -5235,6 +5235,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 </details>
 
 <details>
+  <summary>me-west-1</summary>
+
+  | IP Prefix      | Service | Network Border Group |
+  |----------------|---------|----------------------|
+  | 51.206.0.0/15 | AMAZON | me-west-1 |
+  | 51.204.0.0/15 | AMAZON | me-west-1 |
+</details>
+
+<details>
   <summary>mx-central-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
