@@ -8119,6 +8119,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.102.0/24 | AMAZON | us-west-2 |
   | 5.60.200.0/22 | AMAZON | us-west-2 |
   | 139.56.16.0/23 | AMAZON | us-west-2-wl1-phx-wlz-1 |
+  | 35.96.240.0/24 | AMAZON | us-west-2 |
   | 15.220.252.0/22 | AMAZON | us-west-2-las-1 |
   | 52.119.252.0/22 | AMAZON | us-west-2 |
   | 54.148.0.0/15 | AMAZON | us-west-2 |
@@ -8266,6 +8267,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.205.0/24 | AMAZON | us-west-2-den-1 |
   | 15.230.68.64/26 | AMAZON | us-west-2 |
   | 52.88.0.0/15 | AMAZON | us-west-2 |
+  | 35.96.10.0/24 | AMAZON | us-west-2 |
   | 99.77.232.0/24 | AMAZON | us-west-2 |
   | 99.78.196.0/22 | AMAZON | us-west-2 |
   | 5.60.196.0/22 | AMAZON | us-west-2 |
@@ -8273,6 +8275,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.246.223/32 | AMAZON | us-west-2 |
   | 15.220.206.0/24 | AMAZON | us-west-2-sea-1 |
   | 15.177.80.0/24 | AMAZON | us-west-2 |
+  | 35.96.241.0/24 | AMAZON | us-west-2 |
   | 155.146.16.0/20 | AMAZON | us-west-2-wl1-sfo-wlz-1 |
   | 52.144.194.128/26 | AMAZON | us-west-2 |
   | 96.0.160.0/20 | AMAZON | us-west-2-hnl-1 |
@@ -8377,6 +8380,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.244.46.0/23 | WORKSPACES_GATEWAYS | us-west-2 |
   | 5.60.200.0/22 | EC2 | us-west-2 |
   | 139.56.16.0/23 | EC2 | us-west-2-wl1-phx-wlz-1 |
+  | 35.96.240.0/24 | EC2 | us-west-2 |
   | 15.220.252.0/22 | EC2 | us-west-2-las-1 |
   | 54.148.0.0/15 | EC2 | us-west-2 |
   | 99.77.130.0/24 | EC2 | us-west-2 |
@@ -8471,11 +8475,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.96.2.0/24 | EC2 | us-west-2 |
   | 15.220.205.0/24 | EC2 | us-west-2-den-1 |
   | 52.88.0.0/15 | EC2 | us-west-2 |
+  | 35.96.10.0/24 | EC2 | us-west-2 |
   | 99.77.232.0/24 | EC2 | us-west-2 |
   | 5.60.196.0/22 | EC2 | us-west-2 |
   | 52.129.224.0/22 | EC2 | us-west-2 |
   | 15.220.206.0/24 | EC2 | us-west-2-sea-1 |
   | 15.177.80.0/24 | EC2 | us-west-2 |
+  | 35.96.241.0/24 | EC2 | us-west-2 |
   | 155.146.16.0/20 | EC2 | us-west-2-wl1-sfo-wlz-1 |
   | 96.0.160.0/20 | EC2 | us-west-2-hnl-1 |
   | 99.151.186.0/23 | EC2 | us-west-2 |
