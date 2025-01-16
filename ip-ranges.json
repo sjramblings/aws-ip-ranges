@@ -1,6 +1,6 @@
 {
-  "syncToken": "1736903589",
-  "createDate": "2025-01-15-01-13-09",
+  "syncToken": "1737021189",
+  "createDate": "2025-01-16-09-53-09",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -13779,6 +13779,12 @@
       "network_border_group": "ap-northeast-1"
     },
     {
+      "ip_prefix": "35.96.242.0/24",
+      "region": "eu-central-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-central-1"
+    },
+    {
       "ip_prefix": "43.218.0.0/16",
       "region": "ap-southeast-3",
       "service": "AMAZON",
@@ -21379,6 +21385,12 @@
       "region": "ap-northeast-2",
       "service": "AMAZON",
       "network_border_group": "ap-northeast-2"
+    },
+    {
+      "ip_prefix": "35.96.243.0/24",
+      "region": "eu-central-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-central-1"
     },
     {
       "ip_prefix": "43.249.46.0/24",
@@ -32613,6 +32625,12 @@
       "network_border_group": "us-east-2"
     },
     {
+      "ip_prefix": "43.210.0.0/15",
+      "region": "ap-southeast-7",
+      "service": "EC2",
+      "network_border_group": "ap-southeast-7"
+    },
+    {
       "ip_prefix": "63.32.0.0/14",
       "region": "eu-west-1",
       "service": "EC2",
@@ -36045,6 +36063,12 @@
       "network_border_group": "ap-northeast-1"
     },
     {
+      "ip_prefix": "35.96.242.0/24",
+      "region": "eu-central-1",
+      "service": "EC2",
+      "network_border_group": "eu-central-1"
+    },
+    {
       "ip_prefix": "43.218.0.0/16",
       "region": "ap-southeast-3",
       "service": "EC2",
@@ -38253,6 +38277,12 @@
       "network_border_group": "ap-northeast-1"
     },
     {
+      "ip_prefix": "35.96.243.0/24",
+      "region": "eu-central-1",
+      "service": "EC2",
+      "network_border_group": "eu-central-1"
+    },
+    {
       "ip_prefix": "52.94.249.160/28",
       "region": "me-south-1",
       "service": "EC2",
@@ -38803,6 +38833,12 @@
       "region": "ap-northeast-1",
       "service": "EC2",
       "network_border_group": "ap-northeast-1"
+    },
+    {
+      "ip_prefix": "78.14.0.0/15",
+      "region": "mx-central-1",
+      "service": "EC2",
+      "network_border_group": "mx-central-1"
     },
     {
       "ip_prefix": "13.40.0.0/14",

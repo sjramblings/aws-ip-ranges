@@ -2607,6 +2607,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.208.66.128/28 | S3 | ap-southeast-7 |
   | 43.208.66.144/28 | S3 | ap-southeast-7 |
   | 3.5.60.0/22 | EC2 | ap-southeast-7 |
+  | 43.210.0.0/15 | EC2 | ap-southeast-7 |
   | 35.71.126.0/24 | EC2 | ap-southeast-7 |
   | 15.177.103.0/24 | EC2 | ap-southeast-7 |
   | 136.18.144.0/21 | EC2 | ap-southeast-7 |
@@ -3267,6 +3268,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.198.48/28 | AMAZON | eu-central-1 |
   | 150.222.144.103/32 | AMAZON | eu-central-1 |
   | 15.230.85.0/24 | AMAZON | eu-central-1 |
+  | 35.96.242.0/24 | AMAZON | eu-central-1 |
   | 15.145.12.0/22 | AMAZON | eu-central-1-wl1-muc-wlz-1 |
   | 150.222.144.101/32 | AMAZON | eu-central-1 |
   | 15.230.15.88/31 | AMAZON | eu-central-1 |
@@ -3364,6 +3366,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.54/31 | AMAZON | eu-central-1 |
   | 15.230.15.210/31 | AMAZON | eu-central-1 |
   | 150.222.144.36/32 | AMAZON | eu-central-1 |
+  | 35.96.243.0/24 | AMAZON | eu-central-1 |
   | 150.222.230.0/24 | AMAZON | eu-central-1 |
   | 54.239.56.0/21 | AMAZON | eu-central-1 |
   | 64.252.86.0/24 | AMAZON | eu-central-1 |
@@ -3495,6 +3498,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.194.0/24 | EC2 | eu-central-1 |
   | 3.64.0.0/12 | EC2 | eu-central-1 |
   | 151.148.35.0/24 | EC2 | eu-central-1 |
+  | 35.96.242.0/24 | EC2 | eu-central-1 |
   | 15.145.12.0/22 | EC2 | eu-central-1-wl1-muc-wlz-1 |
   | 99.77.247.0/24 | EC2 | eu-central-1 |
   | 64.252.88.0/24 | EC2 | eu-central-1 |
@@ -3513,6 +3517,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.145.4.0/23 | EC2 | eu-central-1-wl1-ber-wlz-1 |
   | 18.153.0.0/16 | EC2 | eu-central-1 |
   | 173.83.196.0/23 | EC2 | eu-central-1 |
+  | 35.96.243.0/24 | EC2 | eu-central-1 |
   | 64.252.86.0/24 | EC2 | eu-central-1 |
   | 18.196.0.0/15 | EC2 | eu-central-1 |
   | 52.95.248.0/24 | EC2 | eu-central-1 |
@@ -5435,6 +5440,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.102.0/24 | EC2 | mx-central-1 |
   | 35.71.125.0/24 | EC2 | mx-central-1 |
   | 3.5.192.0/22 | EC2 | mx-central-1 |
+  | 78.14.0.0/15 | EC2 | mx-central-1 |
   | 78.12.0.0/15 | EC2 | mx-central-1 |
   | 15.177.102.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | mx-central-1 |
   | 78.12.16.0/24 | API_GATEWAY | mx-central-1 |
