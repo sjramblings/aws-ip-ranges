@@ -20,7 +20,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 111.13.171.128/26 | AMAZON | GLOBAL |
   | 18.160.0.0/15 | AMAZON | GLOBAL |
   | 205.251.252.0/23 | AMAZON | GLOBAL |
-  | 193.57.169.0/24 | AMAZON | GLOBAL |
   | 99.82.8.0/21 | AMAZON | GLOBAL |
   | 54.192.0.0/16 | AMAZON | GLOBAL |
   | 15.197.32.0/23 | AMAZON | GLOBAL |
@@ -133,7 +132,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 58.254.138.128/26 | AMAZON | GLOBAL |
   | 120.253.245.192/27 | AMAZON | GLOBAL |
   | 54.239.192.0/19 | AMAZON | GLOBAL |
-  | 159.248.132.0/24 | AMAZON | GLOBAL |
   | 18.68.0.0/16 | AMAZON | GLOBAL |
   | 18.64.0.0/14 | AMAZON | GLOBAL |
   | 120.52.12.64/26 | AMAZON | GLOBAL |
@@ -180,7 +178,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.46.166.0/23 | AMAZON | GLOBAL |
   | 3.173.128.0/18 | AMAZON | GLOBAL |
   | 15.197.30.0/23 | AMAZON | GLOBAL |
-  | 192.26.25.0/24 | AMAZON | GLOBAL |
   | 15.193.0.0/19 | AMAZON | GLOBAL |
   | 64.252.64.0/18 | AMAZON | GLOBAL |
   | 99.77.128.0/18 | AMAZON | GLOBAL |
@@ -225,9 +222,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 205.251.192.0/21 | ROUTE53 | GLOBAL |
   | 3.4.32.0/20 | ROUTE53 | GLOBAL |
   | 63.246.114.0/23 | ROUTE53 | GLOBAL |
-  | 193.57.169.0/24 | DATADEPOT | GLOBAL |
-  | 159.248.132.0/24 | DATADEPOT | GLOBAL |
-  | 192.26.25.0/24 | DATADEPOT | GLOBAL |
   | 120.52.22.96/27 | CLOUDFRONT | GLOBAL |
   | 205.251.249.0/24 | CLOUDFRONT | GLOBAL |
   | 180.163.57.128/26 | CLOUDFRONT | GLOBAL |
@@ -1824,6 +1818,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.140.0.0/15 | AMAZON | ap-southeast-1 |
   | 15.220.192.0/22 | AMAZON | ap-southeast-1-bkk-1 |
   | 5.60.240.0/22 | AMAZON | ap-southeast-1 |
+  | 45.57.128.0/18 | AMAZON | ap-southeast-1 |
   | 15.220.240.0/21 | AMAZON | ap-southeast-1-bkk-1 |
   | 52.95.212.0/22 | AMAZON | ap-southeast-1 |
   | 15.230.6.0/24 | AMAZON | ap-southeast-1 |
@@ -1961,6 +1956,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.140.0.0/15 | EC2 | ap-southeast-1 |
   | 15.220.192.0/22 | EC2 | ap-southeast-1-bkk-1 |
   | 5.60.240.0/22 | EC2 | ap-southeast-1 |
+  | 45.57.128.0/18 | EC2 | ap-southeast-1 |
   | 15.220.240.0/21 | EC2 | ap-southeast-1-bkk-1 |
   | 5.60.232.0/22 | EC2 | ap-southeast-1 |
   | 52.95.242.0/24 | EC2 | ap-southeast-1 |
