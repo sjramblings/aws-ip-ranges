@@ -1297,6 +1297,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.168.40.0/25 | AMAZON | ap-northeast-3 |
   | 15.168.40.128/25 | AMAZON | ap-northeast-3 |
   | 15.168.96.0/22 | AMAZON | ap-northeast-3 |
+  | 56.155.19.0/24 | AMAZON | ap-northeast-3 |
   | 99.77.243.0/24 | CHIME_VOICECONNECTOR | ap-northeast-3 |
   | 52.95.182.0/23 | S3 | ap-northeast-3 |
   | 52.95.157.0/24 | S3 | ap-northeast-3 |
@@ -2515,6 +2516,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.52.192/27 | AMAZON | ap-southeast-5 |
   | 43.216.52.0/23 | AMAZON | ap-southeast-5 |
   | 43.216.61.0/24 | AMAZON | ap-southeast-5 |
+  | 43.216.62.0/24 | AMAZON | ap-southeast-5 |
   | 43.216.63.0/24 | AMAZON | ap-southeast-5 |
   | 43.216.64.0/24 | AMAZON | ap-southeast-5 |
   | 43.216.65.0/24 | AMAZON | ap-southeast-5 |
