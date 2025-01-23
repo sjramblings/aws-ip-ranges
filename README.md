@@ -703,6 +703,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.71.114.0/24 | AMAZON | ap-northeast-1 |
   | 52.219.68.0/22 | AMAZON | ap-northeast-1 |
   | 54.250.0.0/16 | AMAZON | ap-northeast-1 |
+  | 15.230.123.0/24 | AMAZON | ap-northeast-1 |
   | 52.93.95.0/24 | AMAZON | ap-northeast-1 |
   | 52.219.162.0/23 | AMAZON | ap-northeast-1 |
   | 13.196.0.0/14 | AMAZON | ap-northeast-1 |
