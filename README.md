@@ -3339,6 +3339,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.218.0/24 | AMAZON | eu-central-1 |
   | 150.222.152.69/32 | AMAZON | eu-central-1 |
   | 15.230.80.0/24 | AMAZON | eu-central-1 |
+  | 136.18.3.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.106/31 | AMAZON | eu-central-1 |
   | 15.230.15.186/31 | AMAZON | eu-central-1 |
   | 150.222.152.67/32 | AMAZON | eu-central-1 |
@@ -8241,6 +8242,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.128.0/24 | AMAZON | us-west-2 |
   | 205.251.226.0/24 | AMAZON | us-west-2 |
   | 15.230.240.0/24 | AMAZON | us-west-2 |
+  | 35.50.135.0/24 | AMAZON | us-west-2 |
   | 54.202.0.0/15 | AMAZON | us-west-2 |
   | 15.181.128.0/20 | AMAZON | us-west-2-phx-1 |
   | 108.166.224.0/21 | AMAZON | us-west-2 |
@@ -8392,6 +8394,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.134.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.130.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.128.0/24 | IVS_REALTIME | us-west-2 |
+  | 35.50.135.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.131.0/24 | IVS_REALTIME | us-west-2 |
   | 34.223.96.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
   | 35.80.88.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
@@ -8468,6 +8471,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.36.0.0/14 | EC2 | us-west-2 |
   | 15.220.226.0/24 | EC2 | us-west-2-las-1b |
   | 35.50.128.0/24 | EC2 | us-west-2 |
+  | 35.50.135.0/24 | EC2 | us-west-2 |
   | 54.202.0.0/15 | EC2 | us-west-2 |
   | 15.181.128.0/20 | EC2 | us-west-2-phx-1 |
   | 15.220.204.0/24 | EC2 | us-west-2-den-1 |
@@ -8551,6 +8555,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 34.218.119.32/27 | CLOUD9 | us-west-2 |
   | 35.82.136.192/29 | CODEBUILD | us-west-2 |
   | 35.83.248.40/29 | CODEBUILD | us-west-2 |
+  | 44.242.161.24/29 | CODEBUILD | us-west-2 |
   | 52.43.76.88/29 | CODEBUILD | us-west-2 |
   | 18.246.176.0/24 | API_GATEWAY | us-west-2 |
   | 18.246.178.0/23 | API_GATEWAY | us-west-2 |
