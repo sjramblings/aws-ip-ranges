@@ -5203,6 +5203,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.150.120.0/21 | AMAZON | me-central-1 |
   | 150.222.49.192/27 | AMAZON | me-central-1 |
   | 150.222.49.224/27 | AMAZON | me-central-1 |
+  | 24.110.9.0/24 | AMAZON | me-central-1 |
   | 51.0.88.0/21 | AMAZON | me-central-1 |
   | 99.77.24.0/22 | AMAZON | me-central-1 |
   | 52.94.249.224/28 | AMAZON | me-central-1 |
@@ -5239,6 +5240,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.112.0.0/16 | EC2 | me-central-1 |
   | 18.96.96.0/19 | EC2 | me-central-1 |
   | 99.150.120.0/21 | EC2 | me-central-1 |
+  | 24.110.9.0/24 | EC2 | me-central-1 |
   | 51.0.88.0/21 | EC2 | me-central-1 |
   | 52.94.249.224/28 | EC2 | me-central-1 |
   | 64.252.97.0/24 | EC2 | me-central-1 |
