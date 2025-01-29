@@ -2537,6 +2537,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.216.87.0/28 | S3 | ap-southeast-5 |
   | 43.216.87.16/28 | S3 | ap-southeast-5 |
   | 99.151.160.0/21 | EC2 | ap-southeast-5 |
+  | 56.69.0.0/16 | EC2 | ap-southeast-5 |
   | 18.97.64.0/20 | EC2 | ap-southeast-5 |
   | 15.177.95.0/24 | EC2 | ap-southeast-5 |
   | 43.216.0.0/15 | EC2 | ap-southeast-5 |
