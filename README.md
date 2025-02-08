@@ -1349,6 +1349,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.96/28 | EC2 | ap-northeast-3 |
   | 35.50.230.0/24 | EC2 | ap-northeast-3 |
   | 99.150.96.0/21 | EC2 | ap-northeast-3 |
+  | 56.155.128.0/17 | EC2 | ap-northeast-3 |
   | 99.83.100.0/24 | GLOBALACCELERATOR | ap-northeast-3 |
   | 15.177.77.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-northeast-3 |
   | 15.152.24.0/27 | CLOUD9 | ap-northeast-3 |
