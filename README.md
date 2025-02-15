@@ -7496,6 +7496,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 182.30.157.0/26 | AMAZON | us-gov-east-1 |
   | 182.30.85.0/26 | AMAZON | us-gov-east-1 |
   | 182.30.85.128/25 | AMAZON | us-gov-east-1 |
+  | 18.253.167.0/25 | ROUTE53_HEALTHCHECKS | us-gov-east-1 |
+  | 18.253.167.128/25 | ROUTE53_HEALTHCHECKS | us-gov-east-1 |
+  | 18.253.168.0/25 | ROUTE53_HEALTHCHECKS | us-gov-east-1 |
   | 108.175.52.0/22 | S3 | us-gov-east-1 |
   | 108.175.60.0/22 | S3 | us-gov-east-1 |
   | 18.252.145.192/28 | S3 | us-gov-east-1 |
@@ -7604,6 +7607,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.32.190.0/25 | AMAZON | us-gov-west-1 |
   | 56.136.0.192/26 | AMAZON | us-gov-west-1 |
   | 56.136.121.0/25 | AMAZON | us-gov-west-1 |
+  | 160.1.55.0/25 | ROUTE53_HEALTHCHECKS | us-gov-west-1 |
+  | 160.1.55.128/25 | ROUTE53_HEALTHCHECKS | us-gov-west-1 |
+  | 160.1.56.0/25 | ROUTE53_HEALTHCHECKS | us-gov-west-1 |
   | 108.175.56.0/22 | S3 | us-gov-west-1 |
   | 136.18.0.0/23 | S3 | us-gov-west-1 |
   | 108.175.48.0/22 | S3 | us-gov-west-1 |
