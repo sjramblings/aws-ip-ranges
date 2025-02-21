@@ -2725,6 +2725,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 136.18.134.0/23 | AMAZON | ca-central-1 |
   | 16.53.0.0/16 | AMAZON | ca-central-1 |
   | 52.94.14.0/24 | AMAZON | ca-central-1 |
+  | 35.96.247.0/24 | AMAZON | ca-central-1 |
   | 15.230.79.128/26 | AMAZON | ca-central-1 |
   | 52.93.193.202/32 | AMAZON | ca-central-1 |
   | 52.60.0.0/16 | AMAZON | ca-central-1 |
@@ -2787,6 +2788,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.248.208/28 | EC2 | ca-central-1 |
   | 64.252.124.0/24 | EC2 | ca-central-1 |
   | 136.18.134.0/23 | EC2 | ca-central-1 |
+  | 35.96.247.0/24 | EC2 | ca-central-1 |
   | 52.60.0.0/16 | EC2 | ca-central-1 |
   | 3.98.0.0/15 | EC2 | ca-central-1 |
   | 15.177.84.0/24 | EC2 | ca-central-1 |
@@ -2869,7 +2871,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.52.160/27 | AMAZON | ca-west-1 |
   | 3.5.172.0/22 | AMAZON | ca-west-1 |
   | 56.115.0.0/16 | AMAZON | ca-west-1 |
-  | 35.96.247.0/24 | AMAZON | ca-west-1 |
   | 76.223.170.0/28 | AMAZON | ca-west-1 |
   | 52.94.250.48/28 | AMAZON | ca-west-1 |
   | 16.12.56.0/23 | AMAZON | ca-west-1 |
@@ -2897,7 +2898,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 56.112.0.0/16 | EC2 | ca-west-1 |
   | 35.96.32.0/20 | EC2 | ca-west-1 |
   | 3.5.172.0/22 | EC2 | ca-west-1 |
-  | 35.96.247.0/24 | EC2 | ca-west-1 |
   | 52.94.250.48/28 | EC2 | ca-west-1 |
   | 99.151.168.0/21 | EC2 | ca-west-1 |
   | 15.177.100.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ca-west-1 |
