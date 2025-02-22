@@ -29741,6 +29741,12 @@
         "network_border_group": "eusc-de-east-1"
       },
       {
+        "ip_prefix": "51.0.30.0/24",
+        "region": "eusc-de-east-1",
+        "service": "AMAZON",
+        "network_border_group": "eusc-de-east-1"
+      },
+      {
         "ip_prefix": "51.0.0.0/20",
         "region": "eusc-de-east-1",
         "service": "AMAZON",
@@ -34828,6 +34834,12 @@
         "network_border_group": "us-east-1"
       },
       {
+        "ip_prefix": "13.130.0.0/16",
+        "region": "us-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "52.93.50.0/24",
         "region": "us-east-1",
         "service": "AMAZON",
@@ -35993,6 +36005,12 @@
       },
       {
         "ip_prefix": "3.2.52.0/24",
+        "region": "us-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-east-1"
+      },
+      {
+        "ip_prefix": "13.128.0.0/16",
         "region": "us-east-1",
         "service": "AMAZON",
         "network_border_group": "us-east-1"
@@ -38212,6 +38230,12 @@
         "network_border_group": "us-east-1"
       },
       {
+        "ip_prefix": "13.130.0.0/16",
+        "region": "us-east-1",
+        "service": "EC2",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "54.25.14.0/24",
         "region": "us-east-1",
         "service": "EC2",
@@ -38678,6 +38702,12 @@
         "region": "us-east-1",
         "service": "EC2",
         "network_border_group": "us-east-1-mci-1"
+      },
+      {
+        "ip_prefix": "13.128.0.0/16",
+        "region": "us-east-1",
+        "service": "EC2",
+        "network_border_group": "us-east-1"
       },
       {
         "ip_prefix": "3.4.2.0/24",
@@ -48305,6 +48335,12 @@
         "network_border_group": "us-west-2"
       },
       {
+        "ip_prefix": "5.174.0.0/16",
+        "region": "us-west-2",
+        "service": "AMAZON",
+        "network_border_group": "us-west-2"
+      },
+      {
         "ip_prefix": "15.220.204.0/24",
         "region": "us-west-2",
         "service": "AMAZON",
@@ -49683,6 +49719,12 @@
         "region": "us-west-2",
         "service": "EC2",
         "network_border_group": "us-west-2-phx-1"
+      },
+      {
+        "ip_prefix": "5.174.0.0/16",
+        "region": "us-west-2",
+        "service": "EC2",
+        "network_border_group": "us-west-2"
       },
       {
         "ip_prefix": "15.220.204.0/24",
