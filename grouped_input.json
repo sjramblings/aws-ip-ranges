@@ -19609,6 +19609,12 @@
         "network_border_group": "eu-central-1"
       },
       {
+        "ip_prefix": "13.160.0.0/16",
+        "region": "eu-central-1",
+        "service": "AMAZON",
+        "network_border_group": "eu-central-1"
+      },
+      {
         "ip_prefix": "13.248.123.0/24",
         "region": "eu-central-1",
         "service": "AMAZON",
@@ -20678,6 +20684,12 @@
       },
       {
         "ip_prefix": "35.96.5.0/24",
+        "region": "eu-central-1",
+        "service": "EC2",
+        "network_border_group": "eu-central-1"
+      },
+      {
+        "ip_prefix": "13.160.0.0/16",
         "region": "eu-central-1",
         "service": "EC2",
         "network_border_group": "eu-central-1"
@@ -34576,6 +34588,12 @@
         "network_border_group": "us-east-1-scl-1"
       },
       {
+        "ip_prefix": "192.157.36.0/24",
+        "region": "us-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "205.251.247.0/24",
         "region": "us-east-1",
         "service": "AMAZON",
@@ -38174,6 +38192,12 @@
         "region": "us-east-1",
         "service": "EC2",
         "network_border_group": "us-east-1-scl-1"
+      },
+      {
+        "ip_prefix": "192.157.36.0/24",
+        "region": "us-east-1",
+        "service": "EC2",
+        "network_border_group": "us-east-1"
       },
       {
         "ip_prefix": "15.193.6.0/24",
@@ -43622,6 +43646,12 @@
         "network_border_group": "us-gov-east-1"
       },
       {
+        "ip_prefix": "16.64.36.0/23",
+        "region": "us-gov-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-gov-east-1"
+      },
+      {
         "ip_prefix": "18.252.126.0/25",
         "region": "us-gov-east-1",
         "service": "AMAZON",
@@ -44300,6 +44330,12 @@
       },
       {
         "ip_prefix": "56.136.121.0/25",
+        "region": "us-gov-west-1",
+        "service": "AMAZON",
+        "network_border_group": "us-gov-west-1"
+      },
+      {
+        "ip_prefix": "56.136.224.0/23",
         "region": "us-gov-west-1",
         "service": "AMAZON",
         "network_border_group": "us-gov-west-1"

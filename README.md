@@ -3400,6 +3400,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.62/31 | AMAZON | eu-central-1 |
   | 150.222.152.65/32 | AMAZON | eu-central-1 |
   | 150.222.152.102/32 | AMAZON | eu-central-1 |
+  | 13.160.0.0/16 | AMAZON | eu-central-1 |
   | 13.248.123.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.38/31 | AMAZON | eu-central-1 |
   | 35.156.0.0/14 | AMAZON | eu-central-1 |
@@ -3579,6 +3580,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.198.0.0/15 | EC2 | eu-central-1 |
   | 52.94.248.112/28 | EC2 | eu-central-1 |
   | 35.96.5.0/24 | EC2 | eu-central-1 |
+  | 13.160.0.0/16 | EC2 | eu-central-1 |
   | 35.156.0.0/14 | EC2 | eu-central-1 |
   | 5.60.24.0/22 | EC2 | eu-central-1 |
   | 15.145.16.0/22 | EC2 | eu-central-1-wl1-ber-wlz-1 |
@@ -5987,6 +5989,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.33.0/24 | AMAZON | us-east-1 |
   | 52.93.84.164/32 | AMAZON | us-east-1 |
   | 96.0.131.0/24 | AMAZON | us-east-1-scl-1 |
+  | 192.157.36.0/24 | AMAZON | us-east-1 |
   | 205.251.247.0/24 | AMAZON | us-east-1 |
   | 3.4.15.112/29 | AMAZON | us-east-1 |
   | 15.193.6.0/24 | AMAZON | us-east-1 |
@@ -6587,6 +6590,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.181.176.0/20 | EC2 | us-east-1-chi-1 |
   | 15.181.48.0/20 | EC2 | us-east-1-msp-1 |
   | 96.0.131.0/24 | EC2 | us-east-1-scl-1 |
+  | 192.157.36.0/24 | EC2 | us-east-1 |
   | 15.193.6.0/24 | EC2 | us-east-1 |
   | 52.90.0.0/15 | EC2 | us-east-1 |
   | 139.56.20.0/23 | EC2 | us-east-1-wl1-tpa-wlz-1 |
@@ -7507,6 +7511,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.99.112.0/20 | AMAZON | us-gov-east-1 |
   | 18.254.0.0/16 | AMAZON | us-gov-east-1 |
   | 3.4.24.0/21 | AMAZON | us-gov-east-1 |
+  | 16.64.36.0/23 | AMAZON | us-gov-east-1 |
   | 18.252.126.0/25 | AMAZON | us-gov-east-1 |
   | 18.252.165.0/26 | AMAZON | us-gov-east-1 |
   | 18.252.58.0/23 | AMAZON | us-gov-east-1 |
@@ -7627,6 +7632,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.32.190.0/25 | AMAZON | us-gov-west-1 |
   | 56.136.0.192/26 | AMAZON | us-gov-west-1 |
   | 56.136.121.0/25 | AMAZON | us-gov-west-1 |
+  | 56.136.224.0/23 | AMAZON | us-gov-west-1 |
   | 160.1.55.0/25 | ROUTE53_HEALTHCHECKS | us-gov-west-1 |
   | 160.1.55.128/25 | ROUTE53_HEALTHCHECKS | us-gov-west-1 |
   | 160.1.56.0/25 | ROUTE53_HEALTHCHECKS | us-gov-west-1 |
