@@ -1258,6 +1258,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 104.255.59.114/32 | AMAZON | ap-northeast-3 |
   | 52.95.182.0/23 | AMAZON | ap-northeast-3 |
+  | 15.193.11.0/24 | AMAZON | ap-northeast-3 |
   | 13.208.0.0/16 | AMAZON | ap-northeast-3 |
   | 35.50.229.0/24 | AMAZON | ap-northeast-3 |
   | 150.222.49.0/27 | AMAZON | ap-northeast-3 |
@@ -1334,6 +1335,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.229.0/24 | IVS_REALTIME | ap-northeast-3 |
   | 35.50.228.0/24 | IVS_REALTIME | ap-northeast-3 |
   | 35.50.230.0/24 | IVS_REALTIME | ap-northeast-3 |
+  | 15.193.11.0/24 | EC2 | ap-northeast-3 |
   | 13.208.0.0/16 | EC2 | ap-northeast-3 |
   | 35.50.229.0/24 | EC2 | ap-northeast-3 |
   | 15.168.0.0/16 | EC2 | ap-northeast-3 |
@@ -1354,6 +1356,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.150.96.0/21 | EC2 | ap-northeast-3 |
   | 56.155.128.0/17 | EC2 | ap-northeast-3 |
   | 99.83.100.0/24 | GLOBALACCELERATOR | ap-northeast-3 |
+  | 15.193.11.0/24 | AMAZON_CONNECT | ap-northeast-3 |
   | 15.177.77.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-northeast-3 |
   | 15.152.24.0/27 | CLOUD9 | ap-northeast-3 |
   | 15.152.24.32/27 | CLOUD9 | ap-northeast-3 |
