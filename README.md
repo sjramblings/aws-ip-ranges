@@ -416,6 +416,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 15.103.0.0/16 | AMAZON | af-south-1 |
   | 99.78.152.0/22 | AMAZON | af-south-1 |
   | 16.30.0.0/16 | AMAZON | af-south-1 |
   | 150.222.48.192/27 | AMAZON | af-south-1 |
@@ -481,6 +482,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.245.93.192/28 | S3 | af-south-1 |
   | 13.246.108.0/22 | WORKSPACES_GATEWAYS | af-south-1 |
   | 13.246.120.0/22 | WORKSPACES_GATEWAYS | af-south-1 |
+  | 15.103.0.0/16 | EC2 | af-south-1 |
   | 18.99.144.0/20 | EC2 | af-south-1 |
   | 13.247.0.0/16 | EC2 | af-south-1 |
   | 96.0.40.0/21 | EC2 | af-south-1-los-1 |
@@ -859,6 +861,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 175.41.192.0/18 | AMAZON | ap-northeast-1 |
   | 104.255.59.81/32 | AMAZON | ap-northeast-1 |
   | 52.93.127.149/32 | AMAZON | ap-northeast-1 |
+  | 15.128.0.0/16 | AMAZON | ap-northeast-1 |
   | 15.230.161.0/24 | AMAZON | ap-northeast-1 |
   | 64.252.112.0/24 | AMAZON | ap-northeast-1 |
   | 52.219.196.0/22 | AMAZON | ap-northeast-1 |
@@ -964,6 +967,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.150.0.0/16 | EC2 | ap-northeast-1 |
   | 54.178.0.0/16 | EC2 | ap-northeast-1 |
   | 175.41.192.0/18 | EC2 | ap-northeast-1 |
+  | 15.128.0.0/16 | EC2 | ap-northeast-1 |
   | 64.252.112.0/24 | EC2 | ap-northeast-1 |
   | 99.77.160.0/24 | EC2 | ap-northeast-1 |
   | 18.183.0.0/16 | EC2 | ap-northeast-1 |
@@ -4649,6 +4653,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.153.170/32 | AMAZON | eu-west-2 |
   | 52.95.150.0/24 | AMAZON | eu-west-2 |
   | 52.93.228.193/32 | AMAZON | eu-west-2 |
+  | 35.96.248.0/24 | AMAZON | eu-west-2 |
   | 52.93.153.148/32 | AMAZON | eu-west-2 |
   | 150.222.238.0/24 | AMAZON | eu-west-2 |
   | 15.230.158.0/23 | AMAZON | eu-west-2 |
@@ -4888,6 +4893,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.132.22.0/23 | WORKSPACES_GATEWAYS | eu-west-2 |
   | 18.134.68.0/22 | WORKSPACES_GATEWAYS | eu-west-2 |
   | 35.176.32.0/24 | WORKSPACES_GATEWAYS | eu-west-2 |
+  | 35.96.248.0/24 | EC2 | eu-west-2 |
   | 208.78.132.0/23 | EC2 | eu-west-2 |
   | 64.252.85.0/24 | EC2 | eu-west-2 |
   | 216.39.136.0/21 | EC2 | eu-west-2 |
@@ -5152,6 +5158,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
   | 51.0.16.0/21 | AMAZON | eusc-de-east-1 |
+  | 150.222.54.0/27 | AMAZON | eusc-de-east-1 |
   | 51.0.128.0/21 | AMAZON | eusc-de-east-1 |
   | 51.0.30.0/24 | AMAZON | eusc-de-east-1 |
   | 51.0.0.0/20 | AMAZON | eusc-de-east-1 |
@@ -5160,7 +5167,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.29.128/28 | AMAZON | eusc-de-east-1 |
   | 51.226.0.0/15 | AMAZON | eusc-de-east-1 |
   | 51.0.29.0/28 | AMAZON | eusc-de-east-1 |
+  | 150.222.54.32/27 | AMAZON | eusc-de-east-1 |
   | 51.0.24.0/22 | AMAZON | eusc-de-east-1 |
+  | 150.222.54.64/27 | AMAZON | eusc-de-east-1 |
   | 51.0.28.0/24 | AMAZON | eusc-de-east-1 |
   | 65.176.0.0/14 | AMAZON | eusc-de-east-1 |
   | 83.118.240.0/21 | S3 | eusc-de-east-1 |
