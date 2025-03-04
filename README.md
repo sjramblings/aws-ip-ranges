@@ -6456,6 +6456,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 100.27.238.0/23 | AMAZON | us-east-1 |
   | 100.28.206.0/24 | AMAZON | us-east-1 |
   | 100.28.208.0/23 | AMAZON | us-east-1 |
+  | 13.217.8.0/23 | AMAZON | us-east-1 |
   | 3.227.250.128/25 | AMAZON | us-east-1 |
   | 3.234.248.192/26 | AMAZON | us-east-1 |
   | 3.235.202.128/26 | AMAZON | us-east-1 |
@@ -8473,6 +8474,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.234.123.64/26 | AMAZON | us-west-2 |
   | 44.234.22.128/26 | AMAZON | us-west-2 |
   | 44.242.184.128/25 | AMAZON | us-west-2 |
+  | 44.247.17.0/24 | AMAZON | us-west-2 |
   | 99.77.253.0/24 | CHIME_VOICECONNECTOR | us-west-2 |
   | 99.77.232.0/24 | CHIME_VOICECONNECTOR | us-west-2 |
   | 54.244.52.192/26 | ROUTE53_HEALTHCHECKS | us-west-2 |
