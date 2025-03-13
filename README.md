@@ -5555,6 +5555,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 51.206.0.0/15 | AMAZON | me-west-1 |
   | 51.204.0.0/15 | AMAZON | me-west-1 |
+  | 16.12.86.0/24 | AMAZON | me-west-1 |
+  | 16.12.84.0/23 | AMAZON | me-west-1 |
+  | 16.15.16.0/22 | AMAZON | me-west-1 |
+  | 16.12.86.0/24 | S3 | me-west-1 |
+  | 16.12.84.0/23 | S3 | me-west-1 |
+  | 16.15.16.0/22 | S3 | me-west-1 |
+  | 16.15.16.0/22 | EC2 | me-west-1 |
 </details>
 
 <details>
@@ -6532,6 +6539,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 100.28.208.0/23 | AMAZON | us-east-1 |
   | 13.217.78.0/23 | AMAZON | us-east-1 |
   | 13.217.8.0/23 | AMAZON | us-east-1 |
+  | 13.217.80.0/24 | AMAZON | us-east-1 |
   | 3.227.250.128/25 | AMAZON | us-east-1 |
   | 3.234.248.192/26 | AMAZON | us-east-1 |
   | 3.235.202.128/26 | AMAZON | us-east-1 |
