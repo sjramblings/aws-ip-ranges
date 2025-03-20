@@ -683,6 +683,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.250.128/28 | AMAZON | ap-east-2 |
   | 104.255.59.215/32 | AMAZON | ap-east-2 |
   | 43.212.62.0/23 | AMAZON | ap-east-2 |
+  | 43.212.66.0/24 | AMAZON | ap-east-2 |
+  | 43.212.68.0/24 | AMAZON | ap-east-2 |
   | 16.12.80.0/24 | S3 | ap-east-2 |
   | 3.5.196.0/22 | S3 | ap-east-2 |
   | 16.12.78.0/23 | S3 | ap-east-2 |
@@ -1465,7 +1467,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.36.0/22 | AMAZON | ap-south-1 |
   | 52.95.249.0/24 | AMAZON | ap-south-1 |
   | 65.0.0.0/14 | AMAZON | ap-south-1 |
-  | 71.141.8.0/21 | AMAZON | ap-south-1 |
   | 5.60.228.0/22 | AMAZON | ap-south-1 |
   | 15.230.70.64/26 | AMAZON | ap-south-1 |
   | 88.108.0.0/14 | AMAZON | ap-south-1 |
@@ -1593,7 +1594,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.228.0/22 | EC2 | ap-south-1-ccu-2 |
   | 52.95.249.0/24 | EC2 | ap-south-1 |
   | 65.0.0.0/14 | EC2 | ap-south-1 |
-  | 71.141.8.0/21 | EC2 | ap-south-1 |
   | 5.60.228.0/22 | EC2 | ap-south-1 |
   | 64.252.101.0/24 | EC2 | ap-south-1 |
   | 15.220.227.0/24 | EC2 | ap-south-1-del-2 |
