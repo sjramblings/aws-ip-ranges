@@ -1426,6 +1426,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 3.108.0.0/14 | AMAZON | ap-south-1 |
   | 13.248.117.0/24 | AMAZON | ap-south-1 |
+  | 31.220.235.0/24 | AMAZON | ap-south-1 |
   | 52.93.127.133/32 | AMAZON | ap-south-1 |
   | 150.222.84.0/24 | AMAZON | ap-south-1 |
   | 15.220.216.0/22 | AMAZON | ap-south-1-del-2 |
@@ -4995,6 +4996,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.244.0/22 | EC2 | eu-west-2 |
   | 13.40.0.0/14 | EC2 | eu-west-2 |
   | 216.39.152.0/21 | EC2 | eu-west-2 |
+  | 13.134.24.0/23 | CLOUDFRONT | eu-west-2 |
   | 18.175.65.0/24 | CLOUDFRONT | eu-west-2 |
   | 18.175.66.0/24 | CLOUDFRONT | eu-west-2 |
   | 18.175.67.0/24 | CLOUDFRONT | eu-west-2 |
@@ -5819,6 +5821,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.230.229.0/24 | CLOUDFRONT | sa-east-1 |
   | 18.230.230.0/25 | CLOUDFRONT | sa-east-1 |
   | 54.233.255.128/26 | CLOUDFRONT | sa-east-1 |
+  | 56.125.46.0/24 | CLOUDFRONT | sa-east-1 |
+  | 56.125.47.0/32 | CLOUDFRONT | sa-east-1 |
   | 3.2.49.0/24 | GLOBALACCELERATOR | sa-east-1 |
   | 99.82.164.0/24 | GLOBALACCELERATOR | sa-east-1 |
   | 13.248.114.0/24 | GLOBALACCELERATOR | sa-east-1 |
