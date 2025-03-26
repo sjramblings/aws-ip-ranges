@@ -5200,6 +5200,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.0.0/20 | AMAZON | eusc-de-east-1 |
   | 83.118.240.0/21 | AMAZON | eusc-de-east-1 |
   | 51.224.0.0/15 | AMAZON | eusc-de-east-1 |
+  | 51.0.252.0/24 | AMAZON | eusc-de-east-1 |
   | 51.0.29.128/28 | AMAZON | eusc-de-east-1 |
   | 51.226.0.0/15 | AMAZON | eusc-de-east-1 |
   | 51.0.29.0/28 | AMAZON | eusc-de-east-1 |
@@ -5208,9 +5209,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.54.64/27 | AMAZON | eusc-de-east-1 |
   | 51.0.28.0/24 | AMAZON | eusc-de-east-1 |
   | 65.176.0.0/14 | AMAZON | eusc-de-east-1 |
+  | 51.0.252.0/24 | ROUTE53_HEALTHCHECKS | eusc-de-east-1 |
   | 83.118.240.0/21 | S3 | eusc-de-east-1 |
   | 51.0.128.0/21 | EC2 | eusc-de-east-1 |
   | 51.224.0.0/15 | EC2 | eusc-de-east-1 |
+  | 51.0.252.0/24 | EC2 | eusc-de-east-1 |
   | 51.0.29.128/28 | EC2 | eusc-de-east-1 |
   | 83.118.240.0/22 | EC2 | eusc-de-east-1 |
   | 51.0.28.0/24 | DYNAMODB | eusc-de-east-1 |
@@ -5523,14 +5526,18 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 51.168.0.0/15 | AMAZON | me-west-1 |
   | 51.206.0.0/15 | AMAZON | me-west-1 |
   | 51.204.0.0/15 | AMAZON | me-west-1 |
+  | 15.190.236.0/22 | AMAZON | me-west-1 |
   | 16.12.86.0/24 | AMAZON | me-west-1 |
+  | 15.190.144.0/20 | AMAZON | me-west-1 |
   | 16.12.84.0/23 | AMAZON | me-west-1 |
   | 16.15.16.0/22 | AMAZON | me-west-1 |
   | 16.12.86.0/24 | S3 | me-west-1 |
   | 16.12.84.0/23 | S3 | me-west-1 |
   | 16.15.16.0/22 | S3 | me-west-1 |
+  | 51.168.0.0/15 | EC2 | me-west-1 |
   | 16.15.16.0/22 | EC2 | me-west-1 |
 </details>
 
