@@ -681,8 +681,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.250.128/28 | AMAZON | ap-east-2 |
   | 104.255.59.215/32 | AMAZON | ap-east-2 |
   | 43.212.62.0/23 | AMAZON | ap-east-2 |
+  | 43.212.65.0/24 | AMAZON | ap-east-2 |
   | 43.212.66.0/24 | AMAZON | ap-east-2 |
+  | 43.212.67.0/24 | AMAZON | ap-east-2 |
   | 43.212.68.0/24 | AMAZON | ap-east-2 |
+  | 43.212.69.0/24 | AMAZON | ap-east-2 |
   | 43.212.70.0/24 | AMAZON | ap-east-2 |
   | 16.12.80.0/24 | S3 | ap-east-2 |
   | 3.5.196.0/22 | S3 | ap-east-2 |
