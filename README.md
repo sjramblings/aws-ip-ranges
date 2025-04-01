@@ -1803,7 +1803,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.250.0.0/15 | AMAZON | ap-southeast-1 |
   | 64.252.102.0/24 | AMAZON | ap-southeast-1 |
   | 15.230.243.0/24 | AMAZON | ap-southeast-1 |
-  | 16.57.0.0/18 | AMAZON | ap-southeast-1 |
+  | 16.57.0.0/18 | AMAZON | ap-southeast-1-sggov-sin-2 |
   | 52.93.127.195/32 | AMAZON | ap-southeast-1 |
   | 52.93.127.108/32 | AMAZON | ap-southeast-1 |
   | 99.77.143.0/24 | AMAZON | ap-southeast-1 |
@@ -1994,7 +1994,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.236.0/24 | EC2 | ap-southeast-1 |
   | 13.250.0.0/15 | EC2 | ap-southeast-1 |
   | 64.252.102.0/24 | EC2 | ap-southeast-1 |
-  | 16.57.0.0/18 | EC2 | ap-southeast-1 |
+  | 16.57.0.0/18 | EC2 | ap-southeast-1-sggov-sin-2 |
   | 99.77.143.0/24 | EC2 | ap-southeast-1 |
   | 52.76.128.0/17 | EC2 | ap-southeast-1 |
   | 13.144.0.0/16 | EC2 | ap-southeast-1 |
@@ -4151,6 +4151,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.50.96/27 | AMAZON | eu-south-2 |
   | 99.77.28.0/22 | AMAZON | eu-south-2 |
   | 99.77.48.0/21 | AMAZON | eu-south-2 |
+  | 51.48.0.0/15 | AMAZON | eu-south-2 |
   | 18.100.160.0/24 | AMAZON | eu-south-2 |
   | 18.100.184.0/25 | AMAZON | eu-south-2 |
   | 18.100.184.128/25 | AMAZON | eu-south-2 |
@@ -4216,6 +4217,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.100.0.0/15 | EC2 | eu-south-2 |
   | 99.77.55.255/32 | EC2 | eu-south-2 |
   | 99.77.55.13/32 | EC2 | eu-south-2 |
+  | 51.48.0.0/15 | EC2 | eu-south-2 |
   | 15.177.97.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-south-2 |
   | 18.100.209.192/28 | CODEBUILD | eu-south-2 |
   | 18.100.66.0/23 | API_GATEWAY | eu-south-2 |
@@ -8530,6 +8532,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.234.22.128/26 | AMAZON | us-west-2 |
   | 44.242.184.128/25 | AMAZON | us-west-2 |
   | 44.247.17.0/24 | AMAZON | us-west-2 |
+  | 44.248.100.0/23 | AMAZON | us-west-2 |
   | 99.77.253.0/24 | CHIME_VOICECONNECTOR | us-west-2 |
   | 99.77.232.0/24 | CHIME_VOICECONNECTOR | us-west-2 |
   | 54.244.52.192/26 | ROUTE53_HEALTHCHECKS | us-west-2 |
