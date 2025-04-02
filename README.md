@@ -5541,6 +5541,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.204.0.0/15 | AMAZON | me-west-1 |
   | 15.190.236.0/22 | AMAZON | me-west-1 |
   | 16.12.86.0/24 | AMAZON | me-west-1 |
+  | 15.177.106.0/24 | AMAZON | me-west-1 |
   | 15.190.144.0/20 | AMAZON | me-west-1 |
   | 16.12.84.0/23 | AMAZON | me-west-1 |
   | 16.15.16.0/22 | AMAZON | me-west-1 |
@@ -5548,7 +5549,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.84.0/23 | S3 | me-west-1 |
   | 16.15.16.0/22 | S3 | me-west-1 |
   | 51.168.0.0/15 | EC2 | me-west-1 |
+  | 15.177.106.0/24 | EC2 | me-west-1 |
   | 16.15.16.0/22 | EC2 | me-west-1 |
+  | 15.177.106.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | me-west-1 |
 </details>
 
 <details>
