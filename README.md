@@ -29,6 +29,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 120.253.240.192/26 | AMAZON | GLOBAL |
   | 116.129.226.128/26 | AMAZON | GLOBAL |
   | 130.176.0.0/17 | AMAZON | GLOBAL |
+  | 3.173.192.0/18 | AMAZON | GLOBAL |
   | 15.197.16.0/23 | AMAZON | GLOBAL |
   | 52.95.216.0/22 | AMAZON | GLOBAL |
   | 108.156.0.0/14 | AMAZON | GLOBAL |
@@ -235,6 +236,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 120.253.240.192/26 | CLOUDFRONT | GLOBAL |
   | 116.129.226.128/26 | CLOUDFRONT | GLOBAL |
   | 130.176.0.0/17 | CLOUDFRONT | GLOBAL |
+  | 3.173.192.0/18 | CLOUDFRONT | GLOBAL |
   | 108.156.0.0/14 | CLOUDFRONT | GLOBAL |
   | 99.86.0.0/16 | CLOUDFRONT | GLOBAL |
   | 13.32.0.0/15 | CLOUDFRONT | GLOBAL |
@@ -5537,21 +5539,27 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
   | 51.168.0.0/15 | AMAZON | me-west-1 |
+  | 76.223.170.112/28 | AMAZON | me-west-1 |
   | 51.206.0.0/15 | AMAZON | me-west-1 |
   | 51.204.0.0/15 | AMAZON | me-west-1 |
   | 15.190.236.0/22 | AMAZON | me-west-1 |
+  | 52.94.250.160/28 | AMAZON | me-west-1 |
+  | 15.248.152.0/21 | AMAZON | me-west-1 |
   | 16.12.86.0/24 | AMAZON | me-west-1 |
   | 15.177.106.0/24 | AMAZON | me-west-1 |
   | 15.190.144.0/20 | AMAZON | me-west-1 |
+  | 13.248.80.0/24 | AMAZON | me-west-1 |
   | 16.12.84.0/23 | AMAZON | me-west-1 |
   | 16.15.16.0/22 | AMAZON | me-west-1 |
   | 16.12.86.0/24 | S3 | me-west-1 |
   | 16.12.84.0/23 | S3 | me-west-1 |
   | 16.15.16.0/22 | S3 | me-west-1 |
   | 51.168.0.0/15 | EC2 | me-west-1 |
+  | 52.94.250.160/28 | EC2 | me-west-1 |
   | 15.177.106.0/24 | EC2 | me-west-1 |
   | 16.15.16.0/22 | EC2 | me-west-1 |
   | 15.177.106.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | me-west-1 |
+  | 13.248.80.0/24 | DYNAMODB | me-west-1 |
 </details>
 
 <details>
@@ -7416,6 +7424,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.146.36.192/26 | AMAZON | us-east-2 |
   | 3.146.43.0/25 | AMAZON | us-east-2 |
   | 3.146.8.0/22 | AMAZON | us-east-2 |
+  | 3.148.161.192/26 | AMAZON | us-east-2 |
   | 3.15.36.64/26 | AMAZON | us-east-2 |
   | 3.17.136.0/23 | AMAZON | us-east-2 |
   | 99.77.252.0/24 | CHIME_VOICECONNECTOR | us-east-2 |
