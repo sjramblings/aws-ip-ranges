@@ -93,6 +93,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "205.251.200.0/23",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "15.197.0.0/23",
         "region": "GLOBAL",
         "service": "AMAZON",
@@ -298,12 +304,6 @@
       },
       {
         "ip_prefix": "58.254.138.0/25",
-        "region": "GLOBAL",
-        "service": "AMAZON",
-        "network_border_group": "GLOBAL"
-      },
-      {
-        "ip_prefix": "205.251.201.0/24",
         "region": "GLOBAL",
         "service": "AMAZON",
         "network_border_group": "GLOBAL"
@@ -819,12 +819,6 @@
         "network_border_group": "GLOBAL"
       },
       {
-        "ip_prefix": "205.251.200.0/24",
-        "region": "GLOBAL",
-        "service": "AMAZON",
-        "network_border_group": "GLOBAL"
-      },
-      {
         "ip_prefix": "204.246.164.0/22",
         "region": "GLOBAL",
         "service": "AMAZON",
@@ -1263,6 +1257,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "205.251.200.0/23",
+        "region": "GLOBAL",
+        "service": "ROUTE53",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "52.95.110.0/24",
         "region": "GLOBAL",
         "service": "ROUTE53",
@@ -1468,12 +1468,6 @@
       },
       {
         "ip_prefix": "58.254.138.0/25",
-        "region": "GLOBAL",
-        "service": "CLOUDFRONT",
-        "network_border_group": "GLOBAL"
-      },
-      {
-        "ip_prefix": "205.251.201.0/24",
         "region": "GLOBAL",
         "service": "CLOUDFRONT",
         "network_border_group": "GLOBAL"
@@ -1786,12 +1780,6 @@
       },
       {
         "ip_prefix": "52.124.128.0/17",
-        "region": "GLOBAL",
-        "service": "CLOUDFRONT",
-        "network_border_group": "GLOBAL"
-      },
-      {
-        "ip_prefix": "205.251.200.0/24",
         "region": "GLOBAL",
         "service": "CLOUDFRONT",
         "network_border_group": "GLOBAL"
@@ -4041,6 +4029,12 @@
         "ip_prefix": "15.177.104.0/24",
         "region": "ap-east-2",
         "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
+        "network_border_group": "ap-east-2"
+      },
+      {
+        "ip_prefix": "43.212.16.0/24",
+        "region": "ap-east-2",
+        "service": "API_GATEWAY",
         "network_border_group": "ap-east-2"
       },
       {
