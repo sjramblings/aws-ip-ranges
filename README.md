@@ -2613,6 +2613,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 56.68.0.0/17 | EC2 | ap-southeast-5 |
   | 15.177.95.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-5 |
   | 43.216.39.0/24 | API_GATEWAY | ap-southeast-5 |
+  | 43.216.87.48/29 | EC2_INSTANCE_CONNECT | ap-southeast-5 |
   | 13.248.75.0/24 | DYNAMODB | ap-southeast-5 |
   | 35.71.124.0/24 | DYNAMODB | ap-southeast-5 |
 </details>
