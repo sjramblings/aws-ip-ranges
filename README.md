@@ -8454,7 +8454,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.181.16.0/20 | AMAZON | us-west-2-den-1 |
   | 16.144.0.0/16 | AMAZON | us-west-2 |
   | 150.222.102.0/24 | AMAZON | us-west-2 |
-  | 35.96.244.0/24 | AMAZON | us-west-2 |
   | 162.222.148.0/22 | AMAZON | us-west-2-lax-1 |
   | 52.24.0.0/14 | AMAZON | us-west-2 |
   | 52.119.160.0/20 | AMAZON | us-west-2 |
@@ -8670,7 +8669,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 155.146.144.0/20 | EC2 | us-west-2-wl1-den-wlz-1 |
   | 18.34.48.0/20 | EC2 | us-west-2 |
   | 15.181.16.0/20 | EC2 | us-west-2-den-1 |
-  | 35.96.244.0/24 | EC2 | us-west-2 |
   | 162.222.148.0/22 | EC2 | us-west-2-lax-1 |
   | 52.24.0.0/14 | EC2 | us-west-2 |
   | 64.252.65.0/24 | EC2 | us-west-2 |
