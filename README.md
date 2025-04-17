@@ -5407,6 +5407,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.112.0.0/16 | EC2 | me-central-1 |
   | 18.96.96.0/19 | EC2 | me-central-1 |
   | 99.150.120.0/21 | EC2 | me-central-1 |
+  | 158.252.0.0/15 | EC2 | me-central-1 |
   | 51.0.88.0/21 | EC2 | me-central-1 |
   | 52.94.249.224/28 | EC2 | me-central-1 |
   | 64.252.97.0/24 | EC2 | me-central-1 |
