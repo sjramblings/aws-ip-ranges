@@ -617,6 +617,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.71.107.0/24 | EC2 | ap-east-1 |
   | 43.198.0.0/15 | EC2 | ap-east-1 |
   | 18.162.0.0/16 | EC2 | ap-east-1 |
+  | 95.40.0.0/15 | EC2 | ap-east-1 |
   | 15.177.85.0/24 | EC2 | ap-east-1 |
   | 16.162.0.0/15 | EC2 | ap-east-1 |
   | 3.5.236.0/22 | EC2 | ap-east-1 |
@@ -967,6 +968,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 64.252.110.0/24 | EC2 | ap-northeast-1 |
   | 52.95.243.0/24 | EC2 | ap-northeast-1 |
   | 15.220.56.0/21 | EC2 | ap-northeast-1-tpe-1 |
+  | 13.158.0.0/15 | EC2 | ap-northeast-1 |
   | 18.182.0.0/16 | EC2 | ap-northeast-1 |
   | 18.178.0.0/16 | EC2 | ap-northeast-1 |
   | 57.180.0.0/14 | EC2 | ap-northeast-1 |
