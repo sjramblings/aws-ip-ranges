@@ -87,6 +87,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 120.52.39.128/27 | AMAZON | GLOBAL |
   | 118.193.97.64/26 | AMAZON | GLOBAL |
   | 99.83.64.0/21 | AMAZON | GLOBAL |
+  | 1.178.72.0/21 | AMAZON | GLOBAL |
   | 166.117.0.0/16 | AMAZON | GLOBAL |
   | 3.164.64.0/18 | AMAZON | GLOBAL |
   | 3.2.8.0/21 | AMAZON | GLOBAL |
