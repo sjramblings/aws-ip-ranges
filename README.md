@@ -682,6 +682,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.212.0.0/15 | AMAZON | ap-east-2 |
   | 150.222.54.128/27 | AMAZON | ap-east-2 |
   | 150.222.54.96/27 | AMAZON | ap-east-2 |
+  | 18.97.112.0/20 | AMAZON | ap-east-2 |
   | 16.12.78.0/23 | AMAZON | ap-east-2 |
   | 104.255.59.213/32 | AMAZON | ap-east-2 |
   | 43.214.0.0/15 | AMAZON | ap-east-2 |
@@ -704,6 +705,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.104.0/24 | EC2 | ap-east-2 |
   | 35.71.127.0/24 | EC2 | ap-east-2 |
   | 43.212.0.0/15 | EC2 | ap-east-2 |
+  | 18.97.112.0/20 | EC2 | ap-east-2 |
   | 23.254.0.0/21 | EC2 | ap-east-2 |
   | 52.94.250.128/28 | EC2 | ap-east-2 |
   | 15.177.104.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-east-2 |
@@ -2719,6 +2721,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.208.55.0/24 | AMAZON | ap-southeast-7 |
   | 43.208.56.0/23 | AMAZON | ap-southeast-7 |
   | 43.208.58.0/24 | AMAZON | ap-southeast-7 |
+  | 43.208.60.0/24 | AMAZON | ap-southeast-7 |
   | 43.208.76.0/23 | AMAZON | ap-southeast-7 |
   | 3.5.60.0/22 | S3 | ap-southeast-7 |
   | 16.12.76.0/23 | S3 | ap-southeast-7 |
@@ -2753,6 +2756,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.193.200/32 | AMAZON | ca-central-1 |
   | 52.93.193.199/32 | AMAZON | ca-central-1 |
   | 15.222.0.0/15 | AMAZON | ca-central-1 |
+  | 35.96.252.0/24 | AMAZON | ca-central-1 |
   | 35.71.119.0/24 | AMAZON | ca-central-1 |
   | 52.93.127.196/32 | AMAZON | ca-central-1 |
   | 52.93.193.195/32 | AMAZON | ca-central-1 |
@@ -2844,6 +2848,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.97.20.0/22 | WORKSPACES_GATEWAYS | ca-central-1 |
   | 35.183.255.0/24 | WORKSPACES_GATEWAYS | ca-central-1 |
   | 15.222.0.0/15 | EC2 | ca-central-1 |
+  | 35.96.252.0/24 | EC2 | ca-central-1 |
   | 35.71.119.0/24 | EC2 | ca-central-1 |
   | 35.182.0.0/15 | EC2 | ca-central-1 |
   | 99.77.233.0/24 | EC2 | ca-central-1 |
@@ -5653,6 +5658,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 76.223.170.48/28 | AMAZON | mx-central-1 |
   | 78.12.58.0/24 | AMAZON | mx-central-1 |
   | 78.12.59.0/24 | AMAZON | mx-central-1 |
+  | 78.12.60.0/24 | AMAZON | mx-central-1 |
   | 78.12.61.0/24 | AMAZON | mx-central-1 |
   | 78.12.62.0/24 | AMAZON | mx-central-1 |
   | 78.12.63.0/24 | AMAZON | mx-central-1 |
