@@ -4472,6 +4472,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.188.0.0/16 | AMAZON | eu-west-1 |
   | 52.93.113.0/24 | AMAZON | eu-west-1 |
   | 56.50.0.0/16 | AMAZON | eu-west-1 |
+  | 3.2.59.0/24 | AMAZON | eu-west-1 |
   | 3.4.12.54/32 | AMAZON | eu-west-1 |
   | 52.93.0.0/24 | AMAZON | eu-west-1 |
   | 99.82.162.0/24 | AMAZON | eu-west-1 |
@@ -4664,6 +4665,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.96.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 13.248.121.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 13.248.118.0/24 | GLOBALACCELERATOR | eu-west-1 |
+  | 3.2.59.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 99.82.162.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 3.2.57.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 15.177.89.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-west-1 |

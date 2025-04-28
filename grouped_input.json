@@ -25856,6 +25856,12 @@
         "network_border_group": "eu-west-1"
       },
       {
+        "ip_prefix": "3.2.59.0/24",
+        "region": "eu-west-1",
+        "service": "AMAZON",
+        "network_border_group": "eu-west-1"
+      },
+      {
         "ip_prefix": "3.4.12.54/32",
         "region": "eu-west-1",
         "service": "AMAZON",
@@ -27003,6 +27009,12 @@
       },
       {
         "ip_prefix": "13.248.118.0/24",
+        "region": "eu-west-1",
+        "service": "GLOBALACCELERATOR",
+        "network_border_group": "eu-west-1"
+      },
+      {
+        "ip_prefix": "3.2.59.0/24",
         "region": "eu-west-1",
         "service": "GLOBALACCELERATOR",
         "network_border_group": "eu-west-1"
