@@ -701,6 +701,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.80.0/24 | S3 | ap-east-2 |
   | 3.5.196.0/22 | S3 | ap-east-2 |
   | 16.12.78.0/23 | S3 | ap-east-2 |
+  | 43.212.135.0/28 | S3 | ap-east-2 |
+  | 43.212.135.16/28 | S3 | ap-east-2 |
   | 3.5.196.0/22 | EC2 | ap-east-2 |
   | 15.177.104.0/24 | EC2 | ap-east-2 |
   | 35.71.127.0/24 | EC2 | ap-east-2 |
@@ -6608,6 +6610,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.217.78.0/23 | AMAZON | us-east-1 |
   | 13.217.8.0/23 | AMAZON | us-east-1 |
   | 13.217.80.0/24 | AMAZON | us-east-1 |
+  | 13.220.35.0/26 | AMAZON | us-east-1 |
   | 3.227.250.128/25 | AMAZON | us-east-1 |
   | 3.234.248.192/26 | AMAZON | us-east-1 |
   | 3.235.202.128/26 | AMAZON | us-east-1 |
