@@ -3140,6 +3140,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.93/32 | AMAZON | cn-northwest-1 |
   | 69.231.128.0/18 | AMAZON | cn-northwest-1 |
   | 69.230.192.0/18 | AMAZON | cn-northwest-1 |
+  | 159.248.0.0/20 | AMAZON | cn-northwest-1 |
   | 52.93.127.99/32 | AMAZON | cn-northwest-1 |
   | 43.194.0.0/16 | AMAZON | cn-northwest-1 |
   | 52.82.168.0/24 | AMAZON | cn-northwest-1 |
@@ -5275,7 +5276,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 51.0.16.0/21 | AMAZON | eusc-de-east-1 |
   | 150.222.54.0/27 | AMAZON | eusc-de-east-1 |
+  | 51.164.0.0/15 | AMAZON | eusc-de-east-1 |
   | 51.0.128.0/21 | AMAZON | eusc-de-east-1 |
+  | 51.166.0.0/15 | AMAZON | eusc-de-east-1 |
   | 51.0.0.0/20 | AMAZON | eusc-de-east-1 |
   | 83.118.240.0/21 | AMAZON | eusc-de-east-1 |
   | 51.224.0.0/15 | AMAZON | eusc-de-east-1 |
