@@ -5045,6 +5045,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.96.250.0/24 | EC2 | eu-west-2 |
   | 216.39.152.0/21 | EC2 | eu-west-2 |
   | 13.134.24.0/23 | CLOUDFRONT | eu-west-2 |
+  | 13.134.94.0/23 | CLOUDFRONT | eu-west-2 |
   | 18.175.65.0/24 | CLOUDFRONT | eu-west-2 |
   | 18.175.66.0/24 | CLOUDFRONT | eu-west-2 |
   | 18.175.67.0/24 | CLOUDFRONT | eu-west-2 |
