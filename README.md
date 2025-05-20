@@ -7421,6 +7421,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 108.166.244.31/32 | AMAZON | us-east-2 |
   | 15.230.39.128/31 | AMAZON | us-east-2 |
   | 52.93.239.0/24 | AMAZON | us-east-2 |
+  | 168.185.6.0/24 | AMAZON | us-east-2 |
   | 15.230.39.176/31 | AMAZON | us-east-2 |
   | 15.230.39.198/31 | AMAZON | us-east-2 |
   | 16.12.60.0/22 | AMAZON | us-east-2 |
@@ -7586,6 +7587,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.16.0.0/14 | EC2 | us-east-2 |
   | 35.50.144.0/24 | EC2 | us-east-2 |
   | 3.14.0.0/15 | EC2 | us-east-2 |
+  | 168.185.6.0/24 | EC2 | us-east-2 |
   | 35.50.142.0/24 | EC2 | us-east-2 |
   | 198.99.2.0/24 | EC2 | us-east-2 |
   | 192.189.197.0/24 | EC2 | us-east-2 |
@@ -8524,7 +8526,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.144.194.64/26 | AMAZON | us-west-2 |
   | 16.149.0.0/16 | AMAZON | us-west-2 |
   | 52.95.40.0/24 | AMAZON | us-west-2 |
-  | 35.55.63.0/24 | AMAZON | us-west-2 |
   | 15.193.136.0/22 | AMAZON | us-west-2 |
   | 15.253.0.0/16 | AMAZON | us-west-2-lax-1 |
   | 15.181.252.0/24 | AMAZON | us-west-2-sea-1 |
@@ -8615,7 +8616,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.248.96/28 | AMAZON | us-west-2 |
   | 99.77.186.0/24 | AMAZON | us-west-2 |
   | 176.32.125.0/25 | AMAZON | us-west-2 |
-  | 35.55.127.0/24 | AMAZON | us-west-2 |
   | 150.222.38.192/26 | AMAZON | us-west-2 |
   | 18.246.100.0/22 | AMAZON | us-west-2 |
   | 18.246.112.0/22 | AMAZON | us-west-2 |
@@ -8665,9 +8665,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.130.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.128.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.135.0/24 | IVS_REALTIME | us-west-2 |
-  | 35.55.63.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.131.0/24 | IVS_REALTIME | us-west-2 |
-  | 35.55.127.0/24 | IVS_REALTIME | us-west-2 |
   | 34.223.96.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
   | 35.80.88.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
   | 35.80.92.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
@@ -8750,7 +8748,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.181.64.0/20 | EC2 | us-west-2-las-1b |
   | 52.94.116.0/22 | EC2 | us-west-2 |
   | 15.181.248.0/24 | EC2 | us-west-2-las-1b |
-  | 35.55.63.0/24 | EC2 | us-west-2 |
   | 15.193.136.0/22 | EC2 | us-west-2 |
   | 15.253.0.0/16 | EC2 | us-west-2-lax-1 |
   | 15.181.252.0/24 | EC2 | us-west-2-sea-1 |
@@ -8804,7 +8801,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.40.0/22 | EC2 | us-west-2-den-1 |
   | 52.94.248.96/28 | EC2 | us-west-2 |
   | 99.77.186.0/24 | EC2 | us-west-2 |
-  | 35.55.127.0/24 | EC2 | us-west-2 |
   | 34.216.51.0/25 | CLOUDFRONT | us-west-2 |
   | 34.223.12.224/27 | CLOUDFRONT | us-west-2 |
   | 34.223.80.192/26 | CLOUDFRONT | us-west-2 |
