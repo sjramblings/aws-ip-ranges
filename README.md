@@ -1070,6 +1070,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.176.203.120/30 | AMAZON_APPFLOW | ap-northeast-1 |
   | 3.113.218.76/30 | AMAZON_APPFLOW | ap-northeast-1 |
   | 35.74.77.240/30 | AMAZON_APPFLOW | ap-northeast-1 |
+  | 18.99.75.128/25 | AURORA_DSQL | ap-northeast-1 |
   | 43.207.179.168/29 | MEDIA_PACKAGE_V2 | ap-northeast-1 |
   | 43.207.179.176/29 | MEDIA_PACKAGE_V2 | ap-northeast-1 |
   | 13.248.70.0/24 | DYNAMODB | ap-northeast-1 |
@@ -1438,6 +1439,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.152.133.252/31 | EBS | ap-northeast-3 |
   | 15.168.105.168/30 | EBS | ap-northeast-3 |
   | 15.168.105.160/29 | EC2_INSTANCE_CONNECT | ap-northeast-3 |
+  | 18.96.17.0/25 | AURORA_DSQL | ap-northeast-3 |
   | 15.168.105.144/29 | MEDIA_PACKAGE_V2 | ap-northeast-3 |
   | 15.168.105.152/29 | MEDIA_PACKAGE_V2 | ap-northeast-3 |
   | 35.71.110.0/24 | DYNAMODB | ap-northeast-3 |
@@ -4742,6 +4744,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.248.186.92/30 | AMAZON_APPFLOW | eu-west-1 |
   | 3.248.244.240/30 | AMAZON_APPFLOW | eu-west-1 |
   | 3.251.152.44/30 | AMAZON_APPFLOW | eu-west-1 |
+  | 18.97.198.128/25 | AURORA_DSQL | eu-west-1 |
   | 3.253.189.64/29 | MEDIA_PACKAGE_V2 | eu-west-1 |
   | 3.253.189.72/29 | MEDIA_PACKAGE_V2 | eu-west-1 |
   | 52.94.24.0/23 | DYNAMODB | eu-west-1 |
@@ -5104,6 +5107,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.130.91.144/30 | AMAZON_APPFLOW | eu-west-2 |
   | 18.130.91.148/30 | AMAZON_APPFLOW | eu-west-2 |
   | 18.169.230.136/30 | AMAZON_APPFLOW | eu-west-2 |
+  | 18.98.164.0/25 | AURORA_DSQL | eu-west-2 |
   | 13.42.133.192/29 | MEDIA_PACKAGE_V2 | eu-west-2 |
   | 13.42.133.200/29 | MEDIA_PACKAGE_V2 | eu-west-2 |
   | 52.94.15.0/24 | DYNAMODB | eu-west-2 |
@@ -5227,6 +5231,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.135.0/24 | EC2 | eu-west-3 |
   | 3.5.224.0/22 | EC2 | eu-west-3 |
   | 15.188.184.0/24 | CLOUDFRONT | eu-west-3 |
+  | 51.44.234.0/23 | CLOUDFRONT | eu-west-3 |
+  | 51.44.236.0/23 | CLOUDFRONT | eu-west-3 |
+  | 51.44.238.0/23 | CLOUDFRONT | eu-west-3 |
   | 52.47.139.0/24 | CLOUDFRONT | eu-west-3 |
   | 99.82.161.0/24 | GLOBALACCELERATOR | eu-west-3 |
   | 15.177.74.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-west-3 |
@@ -5266,6 +5273,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.36.84.44/30 | AMAZON_APPFLOW | eu-west-3 |
   | 15.188.210.196/30 | AMAZON_APPFLOW | eu-west-3 |
   | 15.188.210.200/30 | AMAZON_APPFLOW | eu-west-3 |
+  | 18.98.66.128/25 | AURORA_DSQL | eu-west-3 |
   | 13.39.141.160/29 | MEDIA_PACKAGE_V2 | eu-west-3 |
   | 13.39.141.168/29 | MEDIA_PACKAGE_V2 | eu-west-3 |
   | 52.94.16.0/24 | DYNAMODB | eu-west-3 |
@@ -7152,6 +7160,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.235.189.100/30 | AMAZON_APPFLOW | us-east-1 |
   | 3.235.189.96/30 | AMAZON_APPFLOW | us-east-1 |
   | 44.194.111.224/30 | AMAZON_APPFLOW | us-east-1 |
+  | 18.97.33.128/25 | AURORA_DSQL | us-east-1 |
   | 44.216.41.152/29 | MEDIA_PACKAGE_V2 | us-east-1 |
   | 44.216.41.160/29 | MEDIA_PACKAGE_V2 | us-east-1 |
   | 3.218.180.0/22 | DYNAMODB | us-east-1 |
@@ -7667,6 +7676,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.117.239.68/30 | AMAZON_APPFLOW | us-east-2 |
   | 3.12.23.88/30 | AMAZON_APPFLOW | us-east-2 |
   | 3.12.23.92/30 | AMAZON_APPFLOW | us-east-2 |
+  | 18.97.139.128/25 | AURORA_DSQL | us-east-2 |
   | 3.145.246.48/29 | MEDIA_PACKAGE_V2 | us-east-2 |
   | 3.145.246.56/29 | MEDIA_PACKAGE_V2 | us-east-2 |
   | 35.71.102.0/24 | DYNAMODB | us-east-2 |
@@ -8592,6 +8602,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.151.186.0/23 | AMAZON | us-west-2 |
   | 15.254.0.0/16 | AMAZON | us-west-2-lax-1 |
   | 52.40.0.0/14 | AMAZON | us-west-2 |
+  | 35.55.37.0/24 | AMAZON | us-west-2 |
   | 64.252.70.0/24 | AMAZON | us-west-2 |
   | 18.88.128.0/18 | AMAZON | us-west-2 |
   | 16.145.0.0/16 | AMAZON | us-west-2 |
@@ -8691,6 +8702,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.130.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.128.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.135.0/24 | IVS_REALTIME | us-west-2 |
+  | 35.55.37.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.131.0/24 | IVS_REALTIME | us-west-2 |
   | 35.55.127.0/24 | IVS_REALTIME | us-west-2 |
   | 34.223.96.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
@@ -8808,6 +8820,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.151.186.0/23 | EC2 | us-west-2 |
   | 15.254.0.0/16 | EC2 | us-west-2-lax-1 |
   | 52.40.0.0/14 | EC2 | us-west-2 |
+  | 35.55.37.0/24 | EC2 | us-west-2 |
   | 64.252.70.0/24 | EC2 | us-west-2 |
   | 18.88.128.0/18 | EC2 | us-west-2 |
   | 35.96.15.0/24 | EC2 | us-west-2 |
@@ -8962,6 +8975,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.84.36.0/30 | AMAZON_APPFLOW | us-west-2 |
   | 44.234.73.116/30 | AMAZON_APPFLOW | us-west-2 |
   | 44.234.73.120/30 | AMAZON_APPFLOW | us-west-2 |
+  | 18.98.20.128/25 | AURORA_DSQL | us-west-2 |
   | 18.246.107.128/29 | MEDIA_PACKAGE_V2 | us-west-2 |
   | 18.246.107.8/29 | MEDIA_PACKAGE_V2 | us-west-2 |
   | 52.119.252.0/22 | DYNAMODB | us-west-2 |
