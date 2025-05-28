@@ -20323,6 +20323,12 @@
         "network_border_group": "eu-central-1"
       },
       {
+        "ip_prefix": "35.55.16.0/24",
+        "region": "eu-central-1",
+        "service": "AMAZON",
+        "network_border_group": "eu-central-1"
+      },
+      {
         "ip_prefix": "150.222.230.0/24",
         "region": "eu-central-1",
         "service": "AMAZON",
@@ -20905,6 +20911,12 @@
         "network_border_group": "eu-central-1"
       },
       {
+        "ip_prefix": "35.55.16.0/24",
+        "region": "eu-central-1",
+        "service": "IVS_REALTIME",
+        "network_border_group": "eu-central-1"
+      },
+      {
         "ip_prefix": "18.156.52.0/24",
         "region": "eu-central-1",
         "service": "WORKSPACES_GATEWAYS",
@@ -21242,6 +21254,12 @@
       },
       {
         "ip_prefix": "173.83.196.0/23",
+        "region": "eu-central-1",
+        "service": "EC2",
+        "network_border_group": "eu-central-1"
+      },
+      {
+        "ip_prefix": "35.55.16.0/24",
         "region": "eu-central-1",
         "service": "EC2",
         "network_border_group": "eu-central-1"
