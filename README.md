@@ -2231,6 +2231,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 104.255.59.88/32 | AMAZON | ap-southeast-2 |
   | 15.230.149.10/32 | AMAZON | ap-southeast-2 |
   | 15.135.0.0/16 | AMAZON | ap-southeast-2 |
+  | 16.177.0.0/16 | AMAZON | ap-southeast-2 |
   | 96.0.72.0/21 | AMAZON | ap-southeast-2-akl-1 |
   | 52.94.152.183/32 | AMAZON | ap-southeast-2 |
   | 15.230.149.4/31 | AMAZON | ap-southeast-2 |
@@ -2249,6 +2250,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.33.11/32 | AMAZON | ap-southeast-2 |
   | 3.4.12.2/32 | AMAZON | ap-southeast-2 |
   | 54.66.0.0/16 | AMAZON | ap-southeast-2 |
+  | 16.178.0.0/15 | AMAZON | ap-southeast-2 |
   | 13.210.0.0/15 | AMAZON | ap-southeast-2 |
   | 99.77.239.0/24 | AMAZON | ap-southeast-2 |
   | 52.94.152.178/32 | AMAZON | ap-southeast-2 |
@@ -3272,6 +3274,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.178/31 | AMAZON | eu-central-1 |
   | 15.230.15.188/31 | AMAZON | eu-central-1 |
   | 16.12.32.0/22 | AMAZON | eu-central-1 |
+  | 35.55.17.0/24 | AMAZON | eu-central-1 |
   | 16.12.24.0/21 | AMAZON | eu-central-1 |
   | 15.230.15.25/32 | AMAZON | eu-central-1 |
   | 15.230.15.94/31 | AMAZON | eu-central-1 |
@@ -3521,6 +3524,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.54/31 | AMAZON | eu-central-1 |
   | 15.230.15.210/31 | AMAZON | eu-central-1 |
   | 150.222.144.36/32 | AMAZON | eu-central-1 |
+  | 35.55.16.0/24 | AMAZON | eu-central-1 |
   | 150.222.230.0/24 | AMAZON | eu-central-1 |
   | 54.239.56.0/21 | AMAZON | eu-central-1 |
   | 64.252.86.0/24 | AMAZON | eu-central-1 |
@@ -3538,6 +3542,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.158/31 | AMAZON | eu-central-1 |
   | 52.94.146.0/24 | AMAZON | eu-central-1 |
   | 52.144.211.0/26 | AMAZON | eu-central-1 |
+  | 35.55.18.0/24 | AMAZON | eu-central-1 |
   | 18.89.0.0/18 | AMAZON | eu-central-1 |
   | 18.194.0.0/15 | AMAZON | eu-central-1 |
   | 99.82.163.0/24 | AMAZON | eu-central-1 |
@@ -3616,14 +3621,18 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.65.246.0/28 | S3 | eu-central-1 |
   | 3.65.246.16/28 | S3 | eu-central-1 |
   | 35.50.192.0/24 | IVS_REALTIME | eu-central-1 |
+  | 35.55.17.0/24 | IVS_REALTIME | eu-central-1 |
   | 35.50.194.0/24 | IVS_REALTIME | eu-central-1 |
   | 35.50.193.0/24 | IVS_REALTIME | eu-central-1 |
+  | 35.55.16.0/24 | IVS_REALTIME | eu-central-1 |
+  | 35.55.18.0/24 | IVS_REALTIME | eu-central-1 |
   | 18.156.52.0/24 | WORKSPACES_GATEWAYS | eu-central-1 |
   | 18.156.54.0/23 | WORKSPACES_GATEWAYS | eu-central-1 |
   | 18.192.216.0/22 | WORKSPACES_GATEWAYS | eu-central-1 |
   | 52.59.127.0/24 | WORKSPACES_GATEWAYS | eu-central-1 |
   | 35.50.192.0/24 | EC2 | eu-central-1 |
   | 18.96.32.0/19 | EC2 | eu-central-1 |
+  | 35.55.17.0/24 | EC2 | eu-central-1 |
   | 3.5.136.0/22 | EC2 | eu-central-1 |
   | 18.192.0.0/15 | EC2 | eu-central-1 |
   | 136.18.142.0/23 | EC2 | eu-central-1 |
@@ -3675,10 +3684,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.153.0.0/16 | EC2 | eu-central-1 |
   | 75.45.128.0/18 | EC2 | eu-central-1 |
   | 173.83.196.0/23 | EC2 | eu-central-1 |
+  | 35.55.16.0/24 | EC2 | eu-central-1 |
   | 64.252.86.0/24 | EC2 | eu-central-1 |
   | 18.196.0.0/15 | EC2 | eu-central-1 |
   | 52.95.248.0/24 | EC2 | eu-central-1 |
   | 52.94.146.0/24 | EC2 | eu-central-1 |
+  | 35.55.18.0/24 | EC2 | eu-central-1 |
   | 18.89.0.0/18 | EC2 | eu-central-1 |
   | 18.194.0.0/15 | EC2 | eu-central-1 |
   | 52.46.184.0/22 | EC2 | eu-central-1 |
@@ -4457,6 +4468,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.42.0/24 | AMAZON | eu-west-1 |
   | 52.93.71.39/32 | AMAZON | eu-west-1 |
   | 52.95.61.0/24 | AMAZON | eu-west-1 |
+  | 35.55.19.0/24 | AMAZON | eu-west-1 |
   | 150.222.160.35/32 | AMAZON | eu-west-1 |
   | 52.93.127.206/32 | AMAZON | eu-west-1 |
   | 52.93.18.0/24 | AMAZON | eu-west-1 |
@@ -4491,6 +4503,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 69.107.6.224/29 | AMAZON | eu-west-1 |
   | 150.222.168.38/32 | AMAZON | eu-west-1 |
   | 150.222.168.36/32 | AMAZON | eu-west-1 |
+  | 35.55.21.0/24 | AMAZON | eu-west-1 |
   | 52.93.127.204/32 | AMAZON | eu-west-1 |
   | 54.155.0.0/16 | AMAZON | eu-west-1 |
   | 52.93.127.119/32 | AMAZON | eu-west-1 |
@@ -4552,6 +4565,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.50.0/24 | AMAZON | eu-west-1 |
   | 64.252.114.0/24 | AMAZON | eu-west-1 |
   | 15.230.223.2/31 | AMAZON | eu-west-1 |
+  | 35.55.20.0/24 | AMAZON | eu-west-1 |
   | 52.93.48.0/24 | AMAZON | eu-west-1 |
   | 54.240.220.0/22 | AMAZON | eu-west-1 |
   | 52.18.0.0/15 | AMAZON | eu-west-1 |
@@ -4612,9 +4626,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.251.110.208/28 | S3 | eu-west-1 |
   | 3.251.110.224/28 | S3 | eu-west-1 |
   | 35.50.197.0/24 | IVS_REALTIME | eu-west-1 |
+  | 35.55.19.0/24 | IVS_REALTIME | eu-west-1 |
   | 35.50.195.0/24 | IVS_REALTIME | eu-west-1 |
   | 35.50.196.0/24 | IVS_REALTIME | eu-west-1 |
+  | 35.55.21.0/24 | IVS_REALTIME | eu-west-1 |
   | 52.129.130.0/24 | IVS_REALTIME | eu-west-1 |
+  | 35.55.20.0/24 | IVS_REALTIME | eu-west-1 |
   | 3.248.176.0/22 | WORKSPACES_GATEWAYS | eu-west-1 |
   | 3.249.28.0/23 | WORKSPACES_GATEWAYS | eu-west-1 |
   | 52.19.124.0/23 | WORKSPACES_GATEWAYS | eu-west-1 |
@@ -4654,6 +4671,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.201.0.0/16 | EC2 | eu-west-1 |
   | 54.228.0.0/16 | EC2 | eu-west-1 |
   | 195.17.0.0/24 | EC2 | eu-west-1 |
+  | 35.55.19.0/24 | EC2 | eu-west-1 |
   | 176.34.64.0/18 | EC2 | eu-west-1 |
   | 35.50.195.0/24 | EC2 | eu-west-1 |
   | 208.86.90.0/23 | EC2 | eu-west-1 |
@@ -4664,6 +4682,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.75.0/24 | EC2 | eu-west-1 |
   | 3.248.0.0/13 | EC2 | eu-west-1 |
   | 99.77.133.0/24 | EC2 | eu-west-1 |
+  | 35.55.21.0/24 | EC2 | eu-west-1 |
   | 54.155.0.0/16 | EC2 | eu-west-1 |
   | 52.16.0.0/15 | EC2 | eu-west-1 |
   | 64.252.115.0/24 | EC2 | eu-west-1 |
@@ -4678,6 +4697,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 34.248.0.0/13 | EC2 | eu-west-1 |
   | 108.128.0.0/13 | EC2 | eu-west-1 |
   | 64.252.114.0/24 | EC2 | eu-west-1 |
+  | 35.55.20.0/24 | EC2 | eu-west-1 |
   | 52.18.0.0/15 | EC2 | eu-west-1 |
   | 151.148.34.0/24 | EC2 | eu-west-1 |
   | 162.213.233.0/24 | EC2 | eu-west-1 |
@@ -5168,6 +5188,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.161.0/24 | AMAZON | eu-west-3 |
   | 52.144.209.128/26 | AMAZON | eu-west-3 |
   | 150.222.40.0/26 | AMAZON | eu-west-3 |
+  | 35.55.23.0/24 | AMAZON | eu-west-3 |
   | 69.107.7.80/29 | AMAZON | eu-west-3 |
   | 15.236.0.0/15 | AMAZON | eu-west-3 |
   | 15.230.71.64/26 | AMAZON | eu-west-3 |
@@ -5181,7 +5202,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.71.0/26 | AMAZON | eu-west-3 |
   | 15.224.0.0/16 | AMAZON | eu-west-3 |
   | 18.98.64.0/19 | AMAZON | eu-west-3 |
+  | 35.55.24.0/24 | AMAZON | eu-west-3 |
   | 150.222.39.128/26 | AMAZON | eu-west-3 |
+  | 35.55.22.0/24 | AMAZON | eu-west-3 |
   | 52.95.154.0/23 | AMAZON | eu-west-3 |
   | 52.94.249.32/28 | AMAZON | eu-west-3 |
   | 173.83.216.0/24 | AMAZON | eu-west-3 |
@@ -5219,6 +5242,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.36.84.48/28 | S3 | eu-west-3 |
   | 13.36.84.64/28 | S3 | eu-west-3 |
   | 52.129.131.0/24 | IVS_REALTIME | eu-west-3 |
+  | 35.55.23.0/24 | IVS_REALTIME | eu-west-3 |
+  | 35.55.24.0/24 | IVS_REALTIME | eu-west-3 |
+  | 35.55.22.0/24 | IVS_REALTIME | eu-west-3 |
   | 51.44.72.0/22 | WORKSPACES_GATEWAYS | eu-west-3 |
   | 35.180.0.0/16 | EC2 | eu-west-3 |
   | 52.47.0.0/16 | EC2 | eu-west-3 |
@@ -5230,11 +5256,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.45.0.0/16 | EC2 | eu-west-3 |
   | 3.5.204.0/22 | EC2 | eu-west-3 |
   | 35.181.0.0/16 | EC2 | eu-west-3 |
+  | 35.55.23.0/24 | EC2 | eu-west-3 |
   | 15.236.0.0/15 | EC2 | eu-west-3 |
   | 51.0.96.0/21 | EC2 | eu-west-3 |
   | 52.95.254.0/24 | EC2 | eu-west-3 |
   | 99.150.72.0/21 | EC2 | eu-west-3 |
   | 18.98.64.0/19 | EC2 | eu-west-3 |
+  | 35.55.24.0/24 | EC2 | eu-west-3 |
+  | 35.55.22.0/24 | EC2 | eu-west-3 |
   | 52.94.249.32/28 | EC2 | eu-west-3 |
   | 173.83.216.0/24 | EC2 | eu-west-3 |
   | 99.77.157.0/24 | EC2 | eu-west-3 |
@@ -5754,6 +5783,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.122.202/32 | AMAZON | sa-east-1 |
   | 15.230.197.0/24 | AMAZON | sa-east-1 |
   | 52.93.151.0/24 | AMAZON | sa-east-1 |
+  | 35.55.26.0/24 | AMAZON | sa-east-1 |
   | 56.124.128.0/17 | AMAZON | sa-east-1 |
   | 15.230.63.2/31 | AMAZON | sa-east-1 |
   | 150.222.69.0/24 | AMAZON | sa-east-1 |
@@ -5791,6 +5821,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.70.0/23 | AMAZON | sa-east-1 |
   | 150.222.12.0/24 | AMAZON | sa-east-1 |
   | 150.222.44.96/27 | AMAZON | sa-east-1 |
+  | 35.55.27.0/24 | AMAZON | sa-east-1 |
   | 15.251.0.25/32 | AMAZON | sa-east-1 |
   | 64.252.80.0/24 | AMAZON | sa-east-1 |
   | 15.230.63.10/31 | AMAZON | sa-east-1 |
@@ -5811,6 +5842,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.240.244.0/22 | AMAZON | sa-east-1 |
   | 15.251.0.23/32 | AMAZON | sa-east-1 |
   | 15.221.132.0/22 | AMAZON | sa-east-1 |
+  | 35.55.25.0/24 | AMAZON | sa-east-1 |
   | 150.222.28.0/24 | AMAZON | sa-east-1 |
   | 52.93.127.160/32 | AMAZON | sa-east-1 |
   | 52.94.7.0/24 | AMAZON | sa-east-1 |
@@ -5876,8 +5908,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.232.0/22 | S3 | sa-east-1 |
   | 15.228.107.0/28 | S3 | sa-east-1 |
   | 15.228.107.16/28 | S3 | sa-east-1 |
+  | 35.55.26.0/24 | IVS_REALTIME | sa-east-1 |
   | 35.50.176.0/24 | IVS_REALTIME | sa-east-1 |
   | 35.50.177.0/24 | IVS_REALTIME | sa-east-1 |
+  | 35.55.27.0/24 | IVS_REALTIME | sa-east-1 |
+  | 35.55.25.0/24 | IVS_REALTIME | sa-east-1 |
   | 35.50.178.0/24 | IVS_REALTIME | sa-east-1 |
   | 15.228.64.0/22 | WORKSPACES_GATEWAYS | sa-east-1 |
   | 18.230.103.0/24 | WORKSPACES_GATEWAYS | sa-east-1 |
@@ -5894,6 +5929,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.96.64.0/19 | EC2 | sa-east-1 |
   | 18.229.0.0/16 | EC2 | sa-east-1 |
   | 18.230.0.0/16 | EC2 | sa-east-1 |
+  | 35.55.26.0/24 | EC2 | sa-east-1 |
   | 99.77.234.0/24 | EC2 | sa-east-1 |
   | 56.124.0.0/17 | EC2 | sa-east-1 |
   | 35.50.176.0/24 | EC2 | sa-east-1 |
@@ -5907,9 +5943,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.248.48/28 | EC2 | sa-east-1 |
   | 54.94.0.0/16 | EC2 | sa-east-1 |
   | 15.177.70.0/23 | EC2 | sa-east-1 |
+  | 35.55.27.0/24 | EC2 | sa-east-1 |
   | 64.252.80.0/24 | EC2 | sa-east-1 |
   | 15.193.172.0/22 | EC2 | sa-east-1 |
   | 54.232.0.0/16 | EC2 | sa-east-1 |
+  | 35.55.25.0/24 | EC2 | sa-east-1 |
   | 18.228.0.0/16 | EC2 | sa-east-1 |
   | 54.233.128.0/17 | EC2 | sa-east-1 |
   | 52.67.0.0/16 | EC2 | sa-east-1 |
@@ -6079,6 +6117,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 155.146.192.0/20 | AMAZON | us-east-1-wl1-tpa-wlz-1 |
   | 198.41.96.0/24 | AMAZON | us-east-1 |
   | 52.144.192.0/26 | AMAZON | us-east-1 |
+  | 35.55.30.0/24 | AMAZON | us-east-1 |
   | 67.202.0.0/18 | AMAZON | us-east-1 |
   | 18.34.0.0/19 | AMAZON | us-east-1 |
   | 54.226.0.0/15 | AMAZON | us-east-1 |
@@ -6350,6 +6389,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.152.0.0/16 | AMAZON | us-east-1 |
   | 52.93.84.193/32 | AMAZON | us-east-1 |
   | 54.240.208.0/22 | AMAZON | us-east-1 |
+  | 35.55.29.0/24 | AMAZON | us-east-1 |
   | 52.70.0.0/15 | AMAZON | us-east-1 |
   | 52.94.248.0/28 | AMAZON | us-east-1 |
   | 52.119.212.0/23 | AMAZON | us-east-1 |
@@ -6400,6 +6440,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.110.0/24 | AMAZON | us-east-1 |
   | 3.3.5.0/24 | AMAZON | us-east-1 |
   | 52.93.88.163/32 | AMAZON | us-east-1 |
+  | 35.55.31.0/24 | AMAZON | us-east-1 |
   | 52.2.0.0/15 | AMAZON | us-east-1 |
   | 52.93.127.125/32 | AMAZON | us-east-1 |
   | 155.146.64.0/20 | AMAZON | us-east-1-wl1-nyc-wlz-1 |
@@ -6470,6 +6511,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 136.18.254.0/23 | AMAZON | us-east-1 |
   | 150.222.24.69/32 | AMAZON | us-east-1 |
   | 54.204.0.0/15 | AMAZON | us-east-1 |
+  | 35.55.32.0/24 | AMAZON | us-east-1 |
   | 52.93.88.194/32 | AMAZON | us-east-1 |
   | 54.196.0.0/15 | AMAZON | us-east-1 |
   | 150.222.24.38/32 | AMAZON | us-east-1 |
@@ -6525,6 +6567,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.68.116/31 | AMAZON | us-east-1 |
   | 161.178.0.0/18 | AMAZON | us-east-1-chi-2 |
   | 15.221.146.0/23 | AMAZON | us-east-1 |
+  | 35.55.28.0/24 | AMAZON | us-east-1 |
   | 52.93.84.160/32 | AMAZON | us-east-1 |
   | 52.93.91.103/32 | AMAZON | us-east-1 |
   | 176.32.124.128/25 | AMAZON | us-east-1 |
@@ -6718,6 +6761,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.0.0/19 | S3 | us-east-1 |
   | 44.192.134.240/28 | S3 | us-east-1 |
   | 44.192.140.64/28 | S3 | us-east-1 |
+  | 35.55.30.0/24 | IVS_REALTIME | us-east-1 |
+  | 35.55.29.0/24 | IVS_REALTIME | us-east-1 |
+  | 35.55.31.0/24 | IVS_REALTIME | us-east-1 |
+  | 35.55.32.0/24 | IVS_REALTIME | us-east-1 |
+  | 35.55.28.0/24 | IVS_REALTIME | us-east-1 |
   | 3.217.228.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
   | 3.227.4.0/22 | WORKSPACES_GATEWAYS | us-east-1 |
   | 3.235.112.0/21 | WORKSPACES_GATEWAYS | us-east-1 |
@@ -6761,6 +6809,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 96.0.16.0/21 | EC2 | us-east-1-lim-1 |
   | 155.146.192.0/20 | EC2 | us-east-1-wl1-tpa-wlz-1 |
   | 198.41.96.0/24 | EC2 | us-east-1 |
+  | 35.55.30.0/24 | EC2 | us-east-1 |
   | 67.202.0.0/18 | EC2 | us-east-1 |
   | 18.34.0.0/19 | EC2 | us-east-1 |
   | 54.226.0.0/15 | EC2 | us-east-1 |
@@ -6866,6 +6915,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.128.0/24 | EC2 | us-east-1 |
   | 161.188.0.0/20 | EC2 | us-east-1-wl1-bna-wlz-1 |
   | 54.152.0.0/16 | EC2 | us-east-1 |
+  | 35.55.29.0/24 | EC2 | us-east-1 |
   | 52.70.0.0/15 | EC2 | us-east-1 |
   | 52.94.248.0/28 | EC2 | us-east-1 |
   | 96.0.56.0/22 | EC2 | us-east-1-scl-1 |
@@ -6885,6 +6935,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.2.2.0/24 | EC2 | us-east-1-mia-1 |
   | 64.252.66.0/24 | EC2 | us-east-1 |
   | 3.3.5.0/24 | EC2 | us-east-1 |
+  | 35.55.31.0/24 | EC2 | us-east-1 |
   | 52.2.0.0/15 | EC2 | us-east-1 |
   | 155.146.64.0/20 | EC2 | us-east-1-wl1-nyc-wlz-1 |
   | 184.72.64.0/18 | EC2 | us-east-1 |
@@ -6909,6 +6960,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 216.182.224.0/21 | EC2 | us-east-1 |
   | 136.18.254.0/23 | EC2 | us-east-1 |
   | 54.204.0.0/15 | EC2 | us-east-1 |
+  | 35.55.32.0/24 | EC2 | us-east-1 |
   | 54.196.0.0/15 | EC2 | us-east-1 |
   | 54.26.166.0/24 | EC2 | us-east-1 |
   | 155.146.32.0/20 | EC2 | us-east-1-wl1-was-wlz-1 |
@@ -6930,6 +6982,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 142.4.178.0/24 | EC2 | us-east-1 |
   | 3.208.0.0/12 | EC2 | us-east-1 |
   | 161.178.0.0/18 | EC2 | us-east-1-chi-2 |
+  | 35.55.28.0/24 | EC2 | us-east-1 |
   | 184.73.0.0/16 | EC2 | us-east-1 |
   | 54.174.0.0/15 | EC2 | us-east-1 |
   | 54.224.0.0/15 | EC2 | us-east-1 |
@@ -7333,6 +7386,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.199.43/32 | AMAZON | us-east-2 |
   | 15.230.39.166/31 | AMAZON | us-east-2 |
   | 108.166.244.27/32 | AMAZON | us-east-2 |
+  | 35.55.34.0/24 | AMAZON | us-east-2 |
   | 52.93.199.102/32 | AMAZON | us-east-2 |
   | 15.230.179.8/29 | AMAZON | us-east-2 |
   | 15.230.39.110/31 | AMAZON | us-east-2 |
@@ -7398,6 +7452,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.39.82/31 | AMAZON | us-east-2 |
   | 15.230.39.210/31 | AMAZON | us-east-2 |
   | 15.230.39.216/31 | AMAZON | us-east-2 |
+  | 35.55.35.0/24 | AMAZON | us-east-2 |
   | 52.93.199.41/32 | AMAZON | us-east-2 |
   | 108.166.244.58/32 | AMAZON | us-east-2 |
   | 15.230.39.20/31 | AMAZON | us-east-2 |
@@ -7420,6 +7475,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.12.0.0/16 | AMAZON | us-east-2 |
   | 15.248.107.0/24 | AMAZON | us-east-2 |
   | 15.230.39.64/31 | AMAZON | us-east-2 |
+  | 35.55.33.0/24 | AMAZON | us-east-2 |
   | 108.166.244.16/32 | AMAZON | us-east-2 |
   | 108.166.248.0/21 | AMAZON | us-east-2 |
   | 69.107.7.48/29 | AMAZON | us-east-2 |
@@ -7586,6 +7642,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.141.102.208/28 | S3 | us-east-2 |
   | 3.141.102.224/28 | S3 | us-east-2 |
   | 35.50.143.0/24 | IVS_REALTIME | us-east-2 |
+  | 35.55.34.0/24 | IVS_REALTIME | us-east-2 |
+  | 35.55.35.0/24 | IVS_REALTIME | us-east-2 |
+  | 35.55.33.0/24 | IVS_REALTIME | us-east-2 |
   | 35.50.144.0/24 | IVS_REALTIME | us-east-2 |
   | 35.50.142.0/24 | IVS_REALTIME | us-east-2 |
   | 3.146.84.0/22 | WORKSPACES_GATEWAYS | us-east-2 |
@@ -7610,6 +7669,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.131.0/24 | EC2 | us-east-2 |
   | 15.177.66.0/23 | EC2 | us-east-2 |
   | 35.71.102.0/24 | EC2 | us-east-2 |
+  | 35.55.34.0/24 | EC2 | us-east-2 |
   | 35.96.246.0/24 | EC2 | us-east-2 |
   | 52.94.248.160/28 | EC2 | us-east-2 |
   | 18.188.0.0/16 | EC2 | us-east-2 |
@@ -7621,10 +7681,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.189.0.0/16 | EC2 | us-east-2 |
   | 18.220.0.0/14 | EC2 | us-east-2 |
   | 151.148.32.0/24 | EC2 | us-east-2 |
+  | 35.55.35.0/24 | EC2 | us-east-2 |
   | 3.130.0.0/16 | EC2 | us-east-2 |
   | 52.14.0.0/16 | EC2 | us-east-2 |
   | 18.34.252.0/22 | EC2 | us-east-2 |
   | 3.12.0.0/16 | EC2 | us-east-2 |
+  | 35.55.33.0/24 | EC2 | us-east-2 |
   | 3.136.0.0/13 | EC2 | us-east-2 |
   | 75.3.0.0/18 | EC2 | us-east-2 |
   | 13.58.0.0/15 | EC2 | us-east-2 |
@@ -8535,6 +8597,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.151.0.0/16 | AMAZON | us-west-2 |
   | 35.96.6.0/24 | AMAZON | us-west-2 |
   | 44.224.0.0/11 | AMAZON | us-west-2 |
+  | 35.55.38.0/24 | AMAZON | us-west-2 |
   | 3.4.15.120/29 | AMAZON | us-west-2 |
   | 64.252.73.0/24 | AMAZON | us-west-2 |
   | 35.50.130.0/24 | AMAZON | us-west-2 |
@@ -8673,7 +8736,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.96.9.0/24 | AMAZON | us-west-2 |
   | 150.222.75.0/24 | AMAZON | us-west-2 |
   | 15.220.40.0/22 | AMAZON | us-west-2-den-1 |
+  | 35.55.36.0/24 | AMAZON | us-west-2 |
   | 52.94.248.96/28 | AMAZON | us-west-2 |
+  | 35.55.39.0/24 | AMAZON | us-west-2 |
   | 99.77.186.0/24 | AMAZON | us-west-2 |
   | 176.32.125.0/25 | AMAZON | us-west-2 |
   | 35.55.127.0/24 | AMAZON | us-west-2 |
@@ -8724,11 +8789,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.132.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.129.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.134.0/24 | IVS_REALTIME | us-west-2 |
+  | 35.55.38.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.130.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.128.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.135.0/24 | IVS_REALTIME | us-west-2 |
   | 35.55.37.0/24 | IVS_REALTIME | us-west-2 |
   | 35.50.131.0/24 | IVS_REALTIME | us-west-2 |
+  | 35.55.36.0/24 | IVS_REALTIME | us-west-2 |
+  | 35.55.39.0/24 | IVS_REALTIME | us-west-2 |
   | 35.55.127.0/24 | IVS_REALTIME | us-west-2 |
   | 34.223.96.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
   | 35.80.88.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
@@ -8788,6 +8856,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.244.0.0/16 | EC2 | us-west-2 |
   | 35.96.6.0/24 | EC2 | us-west-2 |
   | 44.224.0.0/11 | EC2 | us-west-2 |
+  | 35.55.38.0/24 | EC2 | us-west-2 |
   | 64.252.73.0/24 | EC2 | us-west-2 |
   | 35.50.130.0/24 | EC2 | us-west-2 |
   | 52.95.255.112/28 | EC2 | us-west-2 |
@@ -8868,7 +8937,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.96.249.0/24 | EC2 | us-west-2 |
   | 35.96.9.0/24 | EC2 | us-west-2 |
   | 15.220.40.0/22 | EC2 | us-west-2-den-1 |
+  | 35.55.36.0/24 | EC2 | us-west-2 |
   | 52.94.248.96/28 | EC2 | us-west-2 |
+  | 35.55.39.0/24 | EC2 | us-west-2 |
   | 99.77.186.0/24 | EC2 | us-west-2 |
   | 35.55.127.0/24 | EC2 | us-west-2 |
   | 34.216.51.0/25 | CLOUDFRONT | us-west-2 |
