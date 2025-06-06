@@ -15734,6 +15734,18 @@
         "network_border_group": "ap-southeast-5"
       },
       {
+        "ip_prefix": "43.216.87.56/31",
+        "region": "ap-southeast-5",
+        "service": "KINESIS_VIDEO_STREAMS",
+        "network_border_group": "ap-southeast-5"
+      },
+      {
+        "ip_prefix": "43.216.87.60/30",
+        "region": "ap-southeast-5",
+        "service": "KINESIS_VIDEO_STREAMS",
+        "network_border_group": "ap-southeast-5"
+      },
+      {
         "ip_prefix": "13.248.75.0/24",
         "region": "ap-southeast-5",
         "service": "DYNAMODB",
@@ -25239,6 +25251,18 @@
         "network_border_group": "eu-south-2"
       },
       {
+        "ip_prefix": "18.101.90.56/31",
+        "region": "eu-south-2",
+        "service": "KINESIS_VIDEO_STREAMS",
+        "network_border_group": "eu-south-2"
+      },
+      {
+        "ip_prefix": "18.101.90.60/30",
+        "region": "eu-south-2",
+        "service": "KINESIS_VIDEO_STREAMS",
+        "network_border_group": "eu-south-2"
+      },
+      {
         "ip_prefix": "35.71.120.0/24",
         "region": "eu-south-2",
         "service": "DYNAMODB",
@@ -33059,6 +33083,18 @@
         "ip_prefix": "16.24.46.56/29",
         "region": "me-south-1",
         "service": "EC2_INSTANCE_CONNECT",
+        "network_border_group": "me-south-1"
+      },
+      {
+        "ip_prefix": "16.24.91.112/30",
+        "region": "me-south-1",
+        "service": "KINESIS_VIDEO_STREAMS",
+        "network_border_group": "me-south-1"
+      },
+      {
+        "ip_prefix": "16.24.91.70/31",
+        "region": "me-south-1",
+        "service": "KINESIS_VIDEO_STREAMS",
         "network_border_group": "me-south-1"
       },
       {

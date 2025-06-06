@@ -2711,6 +2711,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.95.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-5 |
   | 43.216.39.0/24 | API_GATEWAY | ap-southeast-5 |
   | 43.216.87.48/29 | EC2_INSTANCE_CONNECT | ap-southeast-5 |
+  | 43.216.87.56/31 | KINESIS_VIDEO_STREAMS | ap-southeast-5 |
+  | 43.216.87.60/30 | KINESIS_VIDEO_STREAMS | ap-southeast-5 |
   | 13.248.75.0/24 | DYNAMODB | ap-southeast-5 |
   | 35.71.124.0/24 | DYNAMODB | ap-southeast-5 |
 </details>
@@ -4363,6 +4365,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.100.64.192/26 | ROUTE53_RESOLVER | eu-south-2 |
   | 18.100.65.0/26 | ROUTE53_RESOLVER | eu-south-2 |
   | 18.101.90.48/29 | EC2_INSTANCE_CONNECT | eu-south-2 |
+  | 18.101.90.56/31 | KINESIS_VIDEO_STREAMS | eu-south-2 |
+  | 18.101.90.60/30 | KINESIS_VIDEO_STREAMS | eu-south-2 |
   | 35.71.120.0/24 | DYNAMODB | eu-south-2 |
   | 13.248.65.0/24 | DYNAMODB | eu-south-2 |
 </details>
@@ -5710,6 +5714,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.24.65.180/31 | EBS | me-south-1 |
   | 16.24.65.184/30 | EBS | me-south-1 |
   | 16.24.46.56/29 | EC2_INSTANCE_CONNECT | me-south-1 |
+  | 16.24.91.112/30 | KINESIS_VIDEO_STREAMS | me-south-1 |
+  | 16.24.91.70/31 | KINESIS_VIDEO_STREAMS | me-south-1 |
   | 35.71.99.0/24 | DYNAMODB | me-south-1 |
   | 52.119.249.0/24 | DYNAMODB | me-south-1 |
 </details>
