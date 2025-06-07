@@ -4351,6 +4351,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.15.12.0/22 | EC2 | eu-south-2 |
   | 99.77.55.56/32 | EC2 | eu-south-2 |
   | 99.77.55.15/32 | EC2 | eu-south-2 |
+  | 35.44.0.0/15 | EC2 | eu-south-2 |
   | 99.77.55.36/32 | EC2 | eu-south-2 |
   | 99.77.55.12/32 | EC2 | eu-south-2 |
   | 99.77.55.27/32 | EC2 | eu-south-2 |
