@@ -7377,7 +7377,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.135.0/24 | AMAZON | us-east-2 |
   | 64.252.76.0/24 | AMAZON | us-east-2 |
   | 108.166.244.40/32 | AMAZON | us-east-2 |
-  | 110.238.3.0/24 | AMAZON | us-east-2 |
   | 3.144.0.0/13 | AMAZON | us-east-2 |
   | 52.93.199.45/32 | AMAZON | us-east-2 |
   | 108.166.244.62/32 | AMAZON | us-east-2 |
@@ -7500,7 +7499,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.39.16/31 | AMAZON | us-east-2 |
   | 15.230.39.78/31 | AMAZON | us-east-2 |
   | 99.77.162.0/24 | AMAZON | us-east-2 |
-  | 110.238.2.0/24 | AMAZON | us-east-2 |
   | 52.93.199.25/32 | AMAZON | us-east-2 |
   | 99.77.252.0/24 | AMAZON | us-east-2 |
   | 108.166.244.13/32 | AMAZON | us-east-2 |
@@ -7511,6 +7509,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.39.36/31 | AMAZON | us-east-2 |
   | 18.189.0.0/16 | AMAZON | us-east-2 |
   | 52.93.199.104/32 | AMAZON | us-east-2 |
+  | 110.238.2.0/23 | AMAZON | us-east-2 |
   | 15.230.39.74/31 | AMAZON | us-east-2 |
   | 15.230.39.186/31 | AMAZON | us-east-2 |
   | 15.230.39.56/31 | AMAZON | us-east-2 |
@@ -7740,7 +7739,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.116.0.0/14 | EC2 | us-east-2 |
   | 35.96.26.0/23 | EC2 | us-east-2 |
   | 64.252.76.0/24 | EC2 | us-east-2 |
-  | 110.238.3.0/24 | EC2 | us-east-2 |
   | 3.144.0.0/13 | EC2 | us-east-2 |
   | 18.34.72.0/21 | EC2 | us-east-2 |
   | 99.77.153.0/24 | EC2 | us-east-2 |
@@ -7762,10 +7760,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.132.0/23 | EC2 | us-east-2 |
   | 18.97.128.0/18 | EC2 | us-east-2 |
   | 99.77.162.0/24 | EC2 | us-east-2 |
-  | 110.238.2.0/24 | EC2 | us-east-2 |
   | 99.77.252.0/24 | EC2 | us-east-2 |
   | 52.15.0.0/16 | EC2 | us-east-2 |
   | 18.189.0.0/16 | EC2 | us-east-2 |
+  | 110.238.2.0/23 | EC2 | us-east-2 |
   | 18.220.0.0/14 | EC2 | us-east-2 |
   | 151.148.32.0/24 | EC2 | us-east-2 |
   | 35.55.35.0/24 | EC2 | us-east-2 |
