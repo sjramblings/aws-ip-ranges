@@ -4471,6 +4471,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.24/32 | AMAZON | eu-west-1 |
   | 52.119.240.0/21 | AMAZON | eu-west-1 |
   | 162.213.232.0/24 | AMAZON | eu-west-1 |
+  | 15.230.124.0/24 | AMAZON | eu-west-1 |
   | 35.71.72.0/22 | AMAZON | eu-west-1 |
   | 56.55.0.0/16 | AMAZON | eu-west-1 |
   | 150.222.13.0/24 | AMAZON | eu-west-1 |
