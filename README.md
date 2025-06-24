@@ -4427,6 +4427,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.197.0/24 | AMAZON | eu-west-1 |
   | 54.239.114.128/26 | AMAZON | eu-west-1 |
   | 54.229.0.0/16 | AMAZON | eu-west-1 |
+  | 15.230.223.15/32 | AMAZON | eu-west-1 |
   | 46.51.192.0/20 | AMAZON | eu-west-1 |
   | 15.230.132.0/24 | AMAZON | eu-west-1 |
   | 63.32.0.0/14 | AMAZON | eu-west-1 |
@@ -4466,6 +4467,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.218.0.0/17 | AMAZON | eu-west-1 |
   | 35.96.34.0/24 | AMAZON | eu-west-1 |
   | 54.216.0.0/15 | AMAZON | eu-west-1 |
+  | 15.230.223.12/32 | AMAZON | eu-west-1 |
   | 52.48.0.0/14 | AMAZON | eu-west-1 |
   | 150.222.98.0/24 | AMAZON | eu-west-1 |
   | 52.93.127.24/32 | AMAZON | eu-west-1 |
@@ -4474,8 +4476,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.124.0/24 | AMAZON | eu-west-1 |
   | 35.71.72.0/22 | AMAZON | eu-west-1 |
   | 56.55.0.0/16 | AMAZON | eu-west-1 |
+  | 15.230.223.13/32 | AMAZON | eu-west-1 |
   | 150.222.13.0/24 | AMAZON | eu-west-1 |
   | 52.144.208.192/26 | AMAZON | eu-west-1 |
+  | 15.230.223.8/31 | AMAZON | eu-west-1 |
   | 52.208.0.0/13 | AMAZON | eu-west-1 |
   | 150.103.0.0/16 | AMAZON | eu-west-1 |
   | 15.177.89.0/24 | AMAZON | eu-west-1 |
@@ -4501,6 +4505,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.164.208/31 | AMAZON | eu-west-1 |
   | 150.222.26.0/24 | AMAZON | eu-west-1 |
   | 150.222.168.39/32 | AMAZON | eu-west-1 |
+  | 15.230.223.10/31 | AMAZON | eu-west-1 |
   | 54.239.113.0/24 | AMAZON | eu-west-1 |
   | 64.252.117.0/24 | AMAZON | eu-west-1 |
   | 150.222.168.32/32 | AMAZON | eu-west-1 |
@@ -4607,6 +4612,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.160.39/32 | AMAZON | eu-west-1 |
   | 52.93.127.26/32 | AMAZON | eu-west-1 |
   | 150.222.200.60/32 | AMAZON | eu-west-1 |
+  | 15.230.223.14/32 | AMAZON | eu-west-1 |
   | 35.96.243.0/24 | AMAZON | eu-west-1 |
   | 52.144.210.128/26 | AMAZON | eu-west-1 |
   | 54.239.32.0/21 | AMAZON | eu-west-1 |

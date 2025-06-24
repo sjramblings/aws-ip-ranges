@@ -25586,6 +25586,12 @@
         "network_border_group": "eu-west-1"
       },
       {
+        "ip_prefix": "15.230.223.15/32",
+        "region": "eu-west-1",
+        "service": "AMAZON",
+        "network_border_group": "eu-west-1"
+      },
+      {
         "ip_prefix": "46.51.192.0/20",
         "region": "eu-west-1",
         "service": "AMAZON",
@@ -25820,6 +25826,12 @@
         "network_border_group": "eu-west-1"
       },
       {
+        "ip_prefix": "15.230.223.12/32",
+        "region": "eu-west-1",
+        "service": "AMAZON",
+        "network_border_group": "eu-west-1"
+      },
+      {
         "ip_prefix": "52.48.0.0/14",
         "region": "eu-west-1",
         "service": "AMAZON",
@@ -25868,6 +25880,12 @@
         "network_border_group": "eu-west-1"
       },
       {
+        "ip_prefix": "15.230.223.13/32",
+        "region": "eu-west-1",
+        "service": "AMAZON",
+        "network_border_group": "eu-west-1"
+      },
+      {
         "ip_prefix": "150.222.13.0/24",
         "region": "eu-west-1",
         "service": "AMAZON",
@@ -25875,6 +25893,12 @@
       },
       {
         "ip_prefix": "52.144.208.192/26",
+        "region": "eu-west-1",
+        "service": "AMAZON",
+        "network_border_group": "eu-west-1"
+      },
+      {
+        "ip_prefix": "15.230.223.8/31",
         "region": "eu-west-1",
         "service": "AMAZON",
         "network_border_group": "eu-west-1"
@@ -26025,6 +26049,12 @@
       },
       {
         "ip_prefix": "150.222.168.39/32",
+        "region": "eu-west-1",
+        "service": "AMAZON",
+        "network_border_group": "eu-west-1"
+      },
+      {
+        "ip_prefix": "15.230.223.10/31",
         "region": "eu-west-1",
         "service": "AMAZON",
         "network_border_group": "eu-west-1"
@@ -26661,6 +26691,12 @@
       },
       {
         "ip_prefix": "150.222.200.60/32",
+        "region": "eu-west-1",
+        "service": "AMAZON",
+        "network_border_group": "eu-west-1"
+      },
+      {
+        "ip_prefix": "15.230.223.14/32",
         "region": "eu-west-1",
         "service": "AMAZON",
         "network_border_group": "eu-west-1"
