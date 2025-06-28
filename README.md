@@ -896,7 +896,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 175.41.192.0/18 | AMAZON | ap-northeast-1 |
   | 104.255.59.81/32 | AMAZON | ap-northeast-1 |
   | 52.93.127.149/32 | AMAZON | ap-northeast-1 |
-  | 1.178.11.0/24 | AMAZON | ap-northeast-1 |
   | 15.128.0.0/16 | AMAZON | ap-northeast-1 |
   | 15.230.161.0/24 | AMAZON | ap-northeast-1 |
   | 64.252.112.0/24 | AMAZON | ap-northeast-1 |
@@ -1011,7 +1010,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.150.0.0/16 | EC2 | ap-northeast-1 |
   | 54.178.0.0/16 | EC2 | ap-northeast-1 |
   | 175.41.192.0/18 | EC2 | ap-northeast-1 |
-  | 1.178.11.0/24 | EC2 | ap-northeast-1 |
   | 15.128.0.0/16 | EC2 | ap-northeast-1 |
   | 64.252.112.0/24 | EC2 | ap-northeast-1 |
   | 99.77.160.0/24 | EC2 | ap-northeast-1 |
@@ -1312,6 +1310,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.34.89.192/30 | AMAZON_APPFLOW | ap-northeast-2 |
   | 3.34.89.196/30 | AMAZON_APPFLOW | ap-northeast-2 |
   | 3.36.245.232/30 | AMAZON_APPFLOW | ap-northeast-2 |
+  | 18.98.132.128/25 | AURORA_DSQL | ap-northeast-2 |
   | 43.201.155.152/29 | MEDIA_PACKAGE_V2 | ap-northeast-2 |
   | 43.201.155.160/29 | MEDIA_PACKAGE_V2 | ap-northeast-2 |
   | 52.94.6.0/24 | DYNAMODB | ap-northeast-2 |
@@ -4448,7 +4447,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.30.0.0/15 | AMAZON | eu-west-1 |
   | 54.154.0.0/16 | AMAZON | eu-west-1 |
   | 52.95.244.0/24 | AMAZON | eu-west-1 |
-  | 1.178.10.0/24 | AMAZON | eu-west-1 |
   | 52.94.216.0/21 | AMAZON | eu-west-1 |
   | 52.93.127.159/32 | AMAZON | eu-west-1 |
   | 150.222.44.32/27 | AMAZON | eu-west-1 |
@@ -4735,7 +4733,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.30.0.0/15 | EC2 | eu-west-1 |
   | 54.154.0.0/16 | EC2 | eu-west-1 |
   | 52.95.244.0/24 | EC2 | eu-west-1 |
-  | 1.178.10.0/24 | EC2 | eu-west-1 |
   | 99.77.155.0/24 | EC2 | eu-west-1 |
   | 70.232.124.0/22 | EC2 | eu-west-1 |
   | 3.5.72.0/23 | EC2 | eu-west-1 |
