@@ -690,7 +690,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 23.254.0.0/21 | AMAZON | ap-east-2 |
   | 72.242.0.0/15 | AMAZON | ap-east-2 |
   | 52.94.250.128/28 | AMAZON | ap-east-2 |
-  | 54.54.0.0/16 | AMAZON | ap-east-2 |
   | 104.255.59.215/32 | AMAZON | ap-east-2 |
   | 43.212.62.0/23 | AMAZON | ap-east-2 |
   | 43.212.65.0/24 | AMAZON | ap-east-2 |
@@ -733,6 +732,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.38.0/26 | AMAZON | ap-northeast-1 |
   | 99.77.244.0/24 | AMAZON | ap-northeast-1 |
   | 52.144.225.64/26 | AMAZON | ap-northeast-1 |
+  | 5.60.128.0/17 | AMAZON | ap-northeast-1 |
   | 35.71.114.0/24 | AMAZON | ap-northeast-1 |
   | 52.219.68.0/22 | AMAZON | ap-northeast-1 |
   | 54.250.0.0/16 | AMAZON | ap-northeast-1 |
@@ -954,6 +954,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.206.0.0/15 | EC2 | ap-northeast-1 |
   | 54.248.0.0/15 | EC2 | ap-northeast-1 |
   | 99.77.244.0/24 | EC2 | ap-northeast-1 |
+  | 5.60.128.0/17 | EC2 | ap-northeast-1 |
   | 35.71.114.0/24 | EC2 | ap-northeast-1 |
   | 54.250.0.0/16 | EC2 | ap-northeast-1 |
   | 35.50.226.0/24 | EC2 | ap-northeast-1 |
@@ -6483,7 +6484,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.25.35/32 | AMAZON | us-east-1 |
   | 15.221.24.0/21 | AMAZON | us-east-1 |
   | 150.222.237.0/24 | AMAZON | us-east-1 |
-  | 161.178.128.0/18 | AMAZON | us-east-1 |
+  | 161.178.128.0/18 | AMAZON | us-east-1-nyc-2 |
   | 15.230.169.4/31 | AMAZON | us-east-1 |
   | 52.93.127.180/32 | AMAZON | us-east-1 |
   | 16.56.128.0/18 | AMAZON | us-east-1-chi-2 |
@@ -7024,7 +7025,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 208.86.88.0/23 | EC2 | us-east-1 |
   | 54.208.0.0/15 | EC2 | us-east-1 |
   | 18.96.2.0/24 | EC2 | us-east-1 |
-  | 161.178.128.0/18 | EC2 | us-east-1 |
+  | 161.178.128.0/18 | EC2 | us-east-1-nyc-2 |
   | 16.56.128.0/18 | EC2 | us-east-1-chi-2 |
   | 99.77.128.0/24 | EC2 | us-east-1 |
   | 161.188.0.0/20 | EC2 | us-east-1-wl1-bna-wlz-1 |
