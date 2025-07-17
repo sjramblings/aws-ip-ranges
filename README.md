@@ -9040,6 +9040,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.96.16.0/23 | EC2 | us-west-2 |
   | 18.34.48.0/20 | EC2 | us-west-2 |
   | 15.181.16.0/20 | EC2 | us-west-2-den-1 |
+  | 16.144.0.0/16 | EC2 | us-west-2 |
   | 35.96.244.0/24 | EC2 | us-west-2 |
   | 162.222.148.0/22 | EC2 | us-west-2-lax-1 |
   | 52.24.0.0/14 | EC2 | us-west-2 |
@@ -9066,6 +9067,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.55.37.0/24 | EC2 | us-west-2 |
   | 64.252.70.0/24 | EC2 | us-west-2 |
   | 18.88.128.0/18 | EC2 | us-west-2 |
+  | 16.145.0.0/16 | EC2 | us-west-2 |
   | 35.96.15.0/24 | EC2 | us-west-2 |
   | 52.32.0.0/14 | EC2 | us-west-2 |
   | 35.96.14.0/24 | EC2 | us-west-2 |

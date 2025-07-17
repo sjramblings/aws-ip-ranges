@@ -52709,6 +52709,12 @@
         "network_border_group": "us-west-2-den-1"
       },
       {
+        "ip_prefix": "16.144.0.0/16",
+        "region": "us-west-2",
+        "service": "EC2",
+        "network_border_group": "us-west-2"
+      },
+      {
         "ip_prefix": "35.96.244.0/24",
         "region": "us-west-2",
         "service": "EC2",
@@ -52860,6 +52866,12 @@
       },
       {
         "ip_prefix": "18.88.128.0/18",
+        "region": "us-west-2",
+        "service": "EC2",
+        "network_border_group": "us-west-2"
+      },
+      {
+        "ip_prefix": "16.145.0.0/16",
         "region": "us-west-2",
         "service": "EC2",
         "network_border_group": "us-west-2"
