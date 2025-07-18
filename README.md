@@ -4000,6 +4000,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 96.0.24.0/21 | AMAZON | eu-north-1-cph-1 |
   | 13.154.0.0/16 | AMAZON | eu-north-1 |
   | 52.144.216.6/31 | AMAZON | eu-north-1 |
+  | 80.126.0.0/24 | AMAZON | eu-north-1 |
   | 52.144.216.0/31 | AMAZON | eu-north-1 |
   | 99.150.64.0/21 | AMAZON | eu-north-1 |
   | 52.93.127.152/32 | AMAZON | eu-north-1 |
