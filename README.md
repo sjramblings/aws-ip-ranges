@@ -2753,6 +2753,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
   | 150.222.54.192/27 | AMAZON | ap-southeast-6 |
+  | 5.60.32.0/20 | AMAZON | ap-southeast-6 |
   | 13.248.79.0/24 | AMAZON | ap-southeast-6 |
   | 15.190.128.0/20 | AMAZON | ap-southeast-6 |
   | 104.255.59.238/32 | AMAZON | ap-southeast-6 |
@@ -2782,6 +2783,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.15.8.0/22 | S3 | ap-southeast-6 |
   | 16.12.81.0/24 | S3 | ap-southeast-6 |
   | 16.12.82.0/23 | S3 | ap-southeast-6 |
+  | 5.60.32.0/20 | EC2 | ap-southeast-6 |
   | 15.177.105.0/24 | EC2 | ap-southeast-6 |
   | 16.15.8.0/22 | EC2 | ap-southeast-6 |
   | 35.71.93.0/24 | EC2 | ap-southeast-6 |
