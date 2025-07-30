@@ -184,6 +184,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.193.0.0/19 | AMAZON | GLOBAL |
   | 64.252.64.0/18 | AMAZON | GLOBAL |
   | 99.77.128.0/18 | AMAZON | GLOBAL |
+  | 35.55.0.0/17 | AMAZON | GLOBAL |
   | 15.177.0.0/18 | ROUTE53_HEALTHCHECKS | GLOBAL |
   | 76.223.102.0/24 | S3 | GLOBAL |
   | 76.223.96.0/24 | S3 | GLOBAL |
@@ -412,6 +413,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 130.176.80.0/22 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 54.182.128.0/20 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 130.176.72.0/22 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
+  | 35.55.0.0/17 | IVS_LOW_LATENCY | GLOBAL |
 </details>
 
 <details>
@@ -3141,7 +3143,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 71.136.64.0/18 | AMAZON | cn-north-1 |
   | 43.196.0.0/16 | AMAZON | cn-north-1 |
   | 54.222.36.0/22 | AMAZON | cn-north-1 |
-  | 52.95.255.144/28 | AMAZON | cn-north-1 |
   | 54.222.48.0/22 | AMAZON | cn-north-1 |
   | 15.230.41.0/24 | AMAZON | cn-north-1 |
   | 54.222.68.0/23 | AMAZON | cn-north-1 |
@@ -3190,7 +3191,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 71.136.64.0/18 | EC2 | cn-north-1 |
   | 43.196.0.0/16 | EC2 | cn-north-1 |
   | 54.222.36.0/22 | EC2 | cn-north-1 |
-  | 52.95.255.144/28 | EC2 | cn-north-1 |
   | 107.176.0.0/15 | EC2 | cn-north-1 |
   | 54.222.58.32/28 | EC2 | cn-north-1 |
   | 140.179.1.64/27 | CLOUD9 | cn-north-1 |
@@ -8746,6 +8746,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.148.0.0/16 | AMAZON | us-west-2 |
   | 35.80.0.0/12 | AMAZON | us-west-2 |
   | 15.220.200.0/23 | AMAZON | us-west-2-las-1b |
+  | 35.96.45.0/24 | AMAZON | us-west-2 |
   | 151.148.33.0/24 | AMAZON | us-west-2 |
   | 216.244.2.0/24 | AMAZON | us-west-2-lax-1 |
   | 35.50.134.0/24 | AMAZON | us-west-2 |
@@ -9019,6 +9020,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.208.128/26 | EC2 | us-west-2-las-1b |
   | 35.80.0.0/12 | EC2 | us-west-2 |
   | 15.220.200.0/23 | EC2 | us-west-2-las-1b |
+  | 35.96.45.0/24 | EC2 | us-west-2 |
   | 151.148.33.0/24 | EC2 | us-west-2 |
   | 216.244.2.0/24 | EC2 | us-west-2-lax-1 |
   | 35.50.134.0/24 | EC2 | us-west-2 |

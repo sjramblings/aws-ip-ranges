@@ -1053,6 +1053,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "35.55.0.0/17",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "15.177.0.0/18",
         "region": "GLOBAL",
         "service": "ROUTE53_HEALTHCHECKS",
@@ -2418,6 +2424,12 @@
         "ip_prefix": "130.176.72.0/22",
         "region": "GLOBAL",
         "service": "CLOUDFRONT_ORIGIN_FACING",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "35.55.0.0/17",
+        "region": "GLOBAL",
+        "service": "IVS_LOW_LATENCY",
         "network_border_group": "GLOBAL"
       }
     ]
@@ -18129,12 +18141,6 @@
         "network_border_group": "cn-north-1"
       },
       {
-        "ip_prefix": "52.95.255.144/28",
-        "region": "cn-north-1",
-        "service": "AMAZON",
-        "network_border_group": "cn-north-1"
-      },
-      {
         "ip_prefix": "54.222.48.0/22",
         "region": "cn-north-1",
         "service": "AMAZON",
@@ -18418,12 +18424,6 @@
       },
       {
         "ip_prefix": "54.222.36.0/22",
-        "region": "cn-north-1",
-        "service": "EC2",
-        "network_border_group": "cn-north-1"
-      },
-      {
-        "ip_prefix": "52.95.255.144/28",
         "region": "cn-north-1",
         "service": "EC2",
         "network_border_group": "cn-north-1"
@@ -50945,6 +50945,12 @@
         "network_border_group": "us-west-2-las-1b"
       },
       {
+        "ip_prefix": "35.96.45.0/24",
+        "region": "us-west-2",
+        "service": "AMAZON",
+        "network_border_group": "us-west-2"
+      },
+      {
         "ip_prefix": "151.148.33.0/24",
         "region": "us-west-2",
         "service": "AMAZON",
@@ -52581,6 +52587,12 @@
         "region": "us-west-2",
         "service": "EC2",
         "network_border_group": "us-west-2-las-1b"
+      },
+      {
+        "ip_prefix": "35.96.45.0/24",
+        "region": "us-west-2",
+        "service": "EC2",
+        "network_border_group": "us-west-2"
       },
       {
         "ip_prefix": "151.148.33.0/24",
