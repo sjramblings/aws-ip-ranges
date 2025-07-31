@@ -2219,6 +2219,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 96.0.80.0/22 | AMAZON | ap-southeast-2-akl-1 |
   | 15.193.3.0/24 | AMAZON | ap-southeast-2 |
   | 13.236.0.0/14 | AMAZON | ap-southeast-2 |
+  | 35.96.240.0/24 | AMAZON | ap-southeast-2 |
   | 15.177.83.0/24 | AMAZON | ap-southeast-2 |
   | 15.251.0.9/32 | AMAZON | ap-southeast-2 |
   | 54.206.0.0/16 | AMAZON | ap-southeast-2 |
@@ -2395,6 +2396,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 96.0.80.0/22 | EC2 | ap-southeast-2-akl-1 |
   | 15.193.3.0/24 | EC2 | ap-southeast-2 |
   | 13.236.0.0/14 | EC2 | ap-southeast-2 |
+  | 35.96.240.0/24 | EC2 | ap-southeast-2 |
   | 15.177.83.0/24 | EC2 | ap-southeast-2 |
   | 54.206.0.0/16 | EC2 | ap-southeast-2 |
   | 35.55.11.0/24 | EC2 | ap-southeast-2 |
