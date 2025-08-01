@@ -3307,6 +3307,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 69.235.128.0/18 | EC2 | cn-northwest-1 |
   | 69.231.128.0/18 | EC2 | cn-northwest-1 |
   | 69.230.192.0/18 | EC2 | cn-northwest-1 |
+  | 159.248.0.0/20 | EC2 | cn-northwest-1 |
   | 52.82.168.0/24 | EC2 | cn-northwest-1 |
   | 52.82.176.0/22 | EC2 | cn-northwest-1 |
   | 52.82.184.0/23 | EC2 | cn-northwest-1 |
@@ -6168,6 +6169,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 </details>
 
 <details>
+  <summary>sa-west-1</summary>
+
+  | IP Prefix      | Service | Network Border Group |
+  |----------------|---------|----------------------|
+  | 83.160.0.0/15 | AMAZON | sa-west-1 |
+  | 83.160.0.0/15 | EC2 | sa-west-1 |
+</details>
+
+<details>
   <summary>us-east-1</summary>
 
   | IP Prefix      | Service | Network Border Group |
@@ -6177,6 +6187,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.2.58.0/24 | AMAZON | us-east-1 |
   | 15.181.232.0/21 | AMAZON | us-east-1-iah-1 |
   | 52.93.127.163/32 | AMAZON | us-east-1 |
+  | 216.244.7.0/24 | AMAZON | us-east-1 |
   | 3.2.0.0/24 | AMAZON | us-east-1-iah-1 |
   | 15.230.137.0/24 | AMAZON | us-east-1 |
   | 52.93.84.195/32 | AMAZON | us-east-1 |
@@ -6930,6 +6941,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.23.61.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 52.23.62.0/24 | WORKSPACES_GATEWAYS | us-east-1 |
   | 15.181.232.0/21 | EC2 | us-east-1-iah-1 |
+  | 216.244.7.0/24 | EC2 | us-east-1 |
   | 3.2.0.0/24 | EC2 | us-east-1-iah-1 |
   | 18.97.0.0/18 | EC2 | us-east-1 |
   | 52.4.0.0/14 | EC2 | us-east-1 |
