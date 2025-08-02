@@ -7793,6 +7793,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.146.43.0/25 | AMAZON | us-east-2 |
   | 3.146.8.0/22 | AMAZON | us-east-2 |
   | 3.148.161.192/26 | AMAZON | us-east-2 |
+  | 3.149.210.128/26 | AMAZON | us-east-2 |
   | 3.15.36.64/26 | AMAZON | us-east-2 |
   | 3.17.136.0/23 | AMAZON | us-east-2 |
   | 99.77.252.0/24 | CHIME_VOICECONNECTOR | us-east-2 |
