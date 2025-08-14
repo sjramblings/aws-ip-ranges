@@ -783,6 +783,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "24.110.32.0/19",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "76.223.0.0/17",
         "region": "GLOBAL",
         "service": "AMAZON",
@@ -1792,6 +1798,12 @@
       },
       {
         "ip_prefix": "120.52.12.64/26",
+        "region": "GLOBAL",
+        "service": "CLOUDFRONT",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "24.110.32.0/19",
         "region": "GLOBAL",
         "service": "CLOUDFRONT",
         "network_border_group": "GLOBAL"

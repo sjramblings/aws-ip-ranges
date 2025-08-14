@@ -139,6 +139,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.68.0.0/16 | AMAZON | GLOBAL |
   | 18.64.0.0/14 | AMAZON | GLOBAL |
   | 120.52.12.64/26 | AMAZON | GLOBAL |
+  | 24.110.32.0/19 | AMAZON | GLOBAL |
   | 76.223.0.0/17 | AMAZON | GLOBAL |
   | 99.84.0.0/16 | AMAZON | GLOBAL |
   | 99.83.112.0/21 | AMAZON | GLOBAL |
@@ -308,6 +309,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.68.0.0/16 | CLOUDFRONT | GLOBAL |
   | 18.64.0.0/14 | CLOUDFRONT | GLOBAL |
   | 120.52.12.64/26 | CLOUDFRONT | GLOBAL |
+  | 24.110.32.0/19 | CLOUDFRONT | GLOBAL |
   | 99.84.0.0/16 | CLOUDFRONT | GLOBAL |
   | 205.251.204.0/23 | CLOUDFRONT | GLOBAL |
   | 130.176.192.0/19 | CLOUDFRONT | GLOBAL |
