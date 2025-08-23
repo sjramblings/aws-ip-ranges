@@ -9127,6 +9127,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.247.17.0/24 | AMAZON | us-west-2 |
   | 44.248.100.0/23 | AMAZON | us-west-2 |
   | 44.248.111.192/26 | AMAZON | us-west-2 |
+  | 44.254.14.0/23 | AMAZON | us-west-2 |
   | 99.77.253.0/24 | CHIME_VOICECONNECTOR | us-west-2 |
   | 99.77.232.0/24 | CHIME_VOICECONNECTOR | us-west-2 |
   | 54.244.52.192/26 | ROUTE53_HEALTHCHECKS | us-west-2 |
