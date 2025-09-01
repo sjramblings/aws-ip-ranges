@@ -2418,6 +2418,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.102.0/24 | AMAZON | ap-southeast-2 |
   | 54.240.192.0/22 | AMAZON | ap-southeast-2 |
   | 13.239.245.0/24 | AMAZON | ap-southeast-2 |
+  | 15.134.66.0/23 | AMAZON | ap-southeast-2 |
   | 16.176.35.128/25 | AMAZON | ap-southeast-2 |
   | 16.176.69.0/25 | AMAZON | ap-southeast-2 |
   | 3.104.82.0/23 | AMAZON | ap-southeast-2 |
@@ -3504,6 +3505,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.15.200/31 | AMAZON | eu-central-1 |
   | 150.222.152.35/32 | AMAZON | eu-central-1 |
   | 15.230.15.30/32 | AMAZON | eu-central-1 |
+  | 35.96.47.0/24 | AMAZON | eu-central-1 |
   | 150.222.5.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.150/31 | AMAZON | eu-central-1 |
   | 52.58.0.0/15 | AMAZON | eu-central-1 |
@@ -3828,6 +3830,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 1.178.10.0/24 | EC2 | eu-central-1 |
   | 15.145.2.0/23 | EC2 | eu-central-1-wl1-muc-wlz-1 |
   | 63.180.0.0/14 | EC2 | eu-central-1 |
+  | 35.96.47.0/24 | EC2 | eu-central-1 |
   | 52.58.0.0/15 | EC2 | eu-central-1 |
   | 15.220.48.0/21 | EC2 | eu-central-1-waw-1 |
   | 18.184.0.0/15 | EC2 | eu-central-1 |
@@ -8926,6 +8929,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 184.32.0.0/12 | AMAZON | us-west-2 |
   | 15.220.202.0/23 | AMAZON | us-west-2-pdx-1 |
   | 35.50.129.0/24 | AMAZON | us-west-2 |
+  | 35.96.46.0/24 | AMAZON | us-west-2 |
   | 52.93.246.221/32 | AMAZON | us-west-2 |
   | 52.95.230.0/24 | AMAZON | us-west-2-lax-1 |
   | 99.77.253.0/24 | AMAZON | us-west-2 |
@@ -9213,6 +9217,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.212.0.0/15 | EC2 | us-west-2 |
   | 15.220.202.0/23 | EC2 | us-west-2-pdx-1 |
   | 35.50.129.0/24 | EC2 | us-west-2 |
+  | 35.96.46.0/24 | EC2 | us-west-2 |
   | 52.95.230.0/24 | EC2 | us-west-2-lax-1 |
   | 99.77.253.0/24 | EC2 | us-west-2 |
   | 3.4.6.0/24 | EC2 | us-west-2 |
