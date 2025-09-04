@@ -2869,6 +2869,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.15.8.0/22 | S3 | ap-southeast-6 |
   | 16.12.81.0/24 | S3 | ap-southeast-6 |
   | 16.12.82.0/23 | S3 | ap-southeast-6 |
+  | 3.102.119.112/28 | S3 | ap-southeast-6 |
+  | 3.102.119.96/28 | S3 | ap-southeast-6 |
   | 5.60.32.0/20 | EC2 | ap-southeast-6 |
   | 15.177.105.0/24 | EC2 | ap-southeast-6 |
   | 16.15.8.0/22 | EC2 | ap-southeast-6 |
