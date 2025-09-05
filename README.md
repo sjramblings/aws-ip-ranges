@@ -5610,12 +5610,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.164.0.0/15 | AMAZON | eusc-de-east-1 |
   | 51.0.128.0/21 | AMAZON | eusc-de-east-1 |
   | 51.166.0.0/15 | AMAZON | eusc-de-east-1 |
+  | 51.0.140.0/23 | AMAZON | eusc-de-east-1 |
   | 51.0.0.0/20 | AMAZON | eusc-de-east-1 |
   | 83.118.240.0/21 | AMAZON | eusc-de-east-1 |
   | 51.224.0.0/15 | AMAZON | eusc-de-east-1 |
   | 51.0.252.0/24 | AMAZON | eusc-de-east-1 |
+  | 51.0.142.0/23 | AMAZON | eusc-de-east-1 |
   | 51.0.29.128/28 | AMAZON | eusc-de-east-1 |
   | 51.226.0.0/15 | AMAZON | eusc-de-east-1 |
+  | 51.0.136.0/23 | AMAZON | eusc-de-east-1 |
+  | 51.0.138.0/23 | AMAZON | eusc-de-east-1 |
   | 51.0.29.0/28 | AMAZON | eusc-de-east-1 |
   | 150.222.54.32/27 | AMAZON | eusc-de-east-1 |
   | 51.0.24.0/22 | AMAZON | eusc-de-east-1 |
@@ -5635,9 +5639,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.31.0/24 | EC2 | eusc-de-east-1 |
   | 35.71.94.0/24 | EC2 | eusc-de-east-1 |
   | 51.0.128.0/21 | EC2 | eusc-de-east-1 |
+  | 51.0.140.0/23 | EC2 | eusc-de-east-1 |
   | 51.224.0.0/15 | EC2 | eusc-de-east-1 |
   | 51.0.252.0/24 | EC2 | eusc-de-east-1 |
+  | 51.0.142.0/23 | EC2 | eusc-de-east-1 |
   | 51.0.29.128/28 | EC2 | eusc-de-east-1 |
+  | 51.0.136.0/23 | EC2 | eusc-de-east-1 |
+  | 51.0.138.0/23 | EC2 | eusc-de-east-1 |
   | 83.118.240.0/22 | EC2 | eusc-de-east-1 |
   | 51.0.31.0/24 | DYNAMODB | eusc-de-east-1 |
   | 35.71.94.0/24 | DYNAMODB | eusc-de-east-1 |
@@ -6813,6 +6821,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 104.153.115.0/24 | AMAZON | us-east-1 |
   | 15.181.242.0/24 | AMAZON | us-east-1-phl-1 |
   | 15.230.245.0/24 | AMAZON | us-east-1 |
+  | 23.228.202.0/23 | AMAZON | us-east-1-dfw-1 |
   | 54.25.82.0/24 | AMAZON | us-east-1 |
   | 199.127.232.0/22 | AMAZON | us-east-1 |
   | 3.4.13.64/28 | AMAZON | us-east-1 |
@@ -7097,6 +7106,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 98.87.170.0/23 | AMAZON | us-east-1 |
   | 98.87.172.0/23 | AMAZON | us-east-1 |
   | 98.87.174.0/23 | AMAZON | us-east-1 |
+  | 98.88.14.0/23 | AMAZON | us-east-1 |
   | 99.77.254.0/24 | CHIME_VOICECONNECTOR | us-east-1 |
   | 107.23.255.0/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
   | 54.243.31.192/26 | ROUTE53_HEALTHCHECKS | us-east-1 |
@@ -7303,6 +7313,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.56.0.0/18 | EC2 | us-east-1-atl-2 |
   | 99.151.184.0/23 | EC2 | us-east-1 |
   | 15.181.242.0/24 | EC2 | us-east-1-phl-1 |
+  | 23.228.202.0/23 | EC2 | us-east-1-dfw-1 |
   | 54.25.82.0/24 | EC2 | us-east-1 |
   | 204.236.192.0/18 | EC2 | us-east-1 |
   | 35.168.0.0/13 | EC2 | us-east-1 |
