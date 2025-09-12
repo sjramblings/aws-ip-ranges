@@ -4212,6 +4212,12 @@
         "network_border_group": "ap-east-2"
       },
       {
+        "ip_prefix": "43.213.154.0/24",
+        "region": "ap-east-2",
+        "service": "AMAZON",
+        "network_border_group": "ap-east-2"
+      },
+      {
         "ip_prefix": "16.12.80.0/24",
         "region": "ap-east-2",
         "service": "S3",

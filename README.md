@@ -729,6 +729,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.212.69.0/24 | AMAZON | ap-east-2 |
   | 43.212.70.0/24 | AMAZON | ap-east-2 |
   | 43.213.135.0/24 | AMAZON | ap-east-2 |
+  | 43.213.154.0/24 | AMAZON | ap-east-2 |
   | 16.12.80.0/24 | S3 | ap-east-2 |
   | 3.5.196.0/22 | S3 | ap-east-2 |
   | 16.12.78.0/23 | S3 | ap-east-2 |
