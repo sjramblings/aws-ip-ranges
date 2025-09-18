@@ -120,6 +120,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 36.103.232.128/26 | AMAZON | GLOBAL |
   | 52.84.0.0/15 | AMAZON | GLOBAL |
   | 151.148.8.0/21 | AMAZON | GLOBAL |
+  | 23.228.198.0/24 | AMAZON | GLOBAL |
   | 143.204.0.0/16 | AMAZON | GLOBAL |
   | 99.77.190.0/24 | AMAZON | GLOBAL |
   | 51.0.112.0/21 | AMAZON | GLOBAL |
@@ -224,6 +225,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 159.248.240.0/21 | EC2 | GLOBAL |
   | 35.97.0.0/20 | EC2 | GLOBAL |
   | 216.39.168.0/21 | EC2 | GLOBAL |
+  | 23.228.198.0/24 | EC2 | GLOBAL |
   | 51.0.112.0/21 | EC2 | GLOBAL |
   | 23.228.196.0/24 | EC2 | GLOBAL |
   | 15.177.0.0/18 | EC2 | GLOBAL |
@@ -1658,6 +1660,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.6.0.0/15 | AMAZON | ap-south-1 |
   | 16.12.40.0/23 | AMAZON | ap-south-1 |
   | 56.247.0.0/16 | AMAZON | ap-south-1 |
+  | 1.178.88.0/24 | AMAZON | ap-south-1 |
   | 96.0.64.0/21 | AMAZON | ap-south-1-ccu-1 |
   | 99.151.136.0/21 | AMAZON | ap-south-1 |
   | 3.4.15.40/29 | AMAZON | ap-south-1 |
@@ -1749,6 +1752,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.154.0.0/16 | EC2 | ap-south-1 |
   | 64.252.98.0/24 | EC2 | ap-south-1 |
   | 3.6.0.0/15 | EC2 | ap-south-1 |
+  | 1.178.88.0/24 | EC2 | ap-south-1 |
   | 96.0.64.0/21 | EC2 | ap-south-1-ccu-1 |
   | 99.151.136.0/21 | EC2 | ap-south-1 |
   | 3.2.69.0/24 | EC2 | ap-south-1 |
@@ -6655,6 +6659,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.144.195.0/26 | AMAZON | us-east-1 |
   | 54.25.14.0/24 | AMAZON | us-east-1 |
   | 139.56.28.0/23 | AMAZON | us-east-1-wl1-bna-wlz-1 |
+  | 216.198.193.0/24 | AMAZON | us-east-1 |
   | 52.93.64.0/24 | AMAZON | us-east-1 |
   | 104.153.112.0/24 | AMAZON | us-east-1 |
   | 139.56.26.0/23 | AMAZON | us-east-1-wl1-iah-wlz-1 |
@@ -7255,6 +7260,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 198.41.102.0/24 | EC2 | us-east-1-nyc-2 |
   | 54.25.14.0/24 | EC2 | us-east-1 |
   | 139.56.28.0/23 | EC2 | us-east-1-wl1-bna-wlz-1 |
+  | 216.198.193.0/24 | EC2 | us-east-1 |
   | 139.56.26.0/23 | EC2 | us-east-1-wl1-iah-wlz-1 |
   | 96.0.100.0/23 | EC2 | us-east-1-mia-1 |
   | 161.188.16.0/20 | EC2 | us-east-1-wl1-dtw-wlz-1 |
