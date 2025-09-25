@@ -8814,6 +8814,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.52.118.0/23 | AMAZON | us-west-1 |
   | 13.52.146.192/26 | AMAZON | us-west-1 |
   | 18.144.158.64/26 | AMAZON | us-west-1 |
+  | 18.144.202.192/26 | AMAZON | us-west-1 |
   | 3.101.114.0/26 | AMAZON | us-west-1 |
   | 3.101.114.64/26 | AMAZON | us-west-1 |
   | 3.101.194.128/26 | AMAZON | us-west-1 |
