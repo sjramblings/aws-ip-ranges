@@ -1937,6 +1937,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.48.0/21 | AMAZON | ap-southeast-1 |
   | 15.230.251.4/31 | AMAZON | ap-southeast-1 |
   | 15.230.251.0/31 | AMAZON | ap-southeast-1 |
+  | 150.247.39.0/24 | AMAZON | ap-southeast-1 |
   | 54.169.0.0/16 | AMAZON | ap-southeast-1 |
   | 172.106.0.0/15 | AMAZON | ap-southeast-1 |
   | 35.71.118.0/24 | AMAZON | ap-southeast-1 |
