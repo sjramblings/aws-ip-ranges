@@ -167,7 +167,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.197.3.0/24 | AMAZON | GLOBAL |
   | 3.172.0.0/18 | AMAZON | GLOBAL |
   | 36.103.232.0/25 | AMAZON | GLOBAL |
-  | 37.203.157.0/24 | AMAZON | GLOBAL |
   | 51.0.104.0/21 | AMAZON | GLOBAL |
   | 119.147.182.128/26 | AMAZON | GLOBAL |
   | 118.193.97.128/25 | AMAZON | GLOBAL |
@@ -236,7 +235,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 205.251.192.0/21 | ROUTE53 | GLOBAL |
   | 3.4.32.0/20 | ROUTE53 | GLOBAL |
   | 63.246.114.0/23 | ROUTE53 | GLOBAL |
-  | 37.203.157.0/24 | DATADEPOT | GLOBAL |
   | 120.52.22.96/27 | CLOUDFRONT | GLOBAL |
   | 205.251.249.0/24 | CLOUDFRONT | GLOBAL |
   | 180.163.57.128/26 | CLOUDFRONT | GLOBAL |
@@ -2900,6 +2898,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.15.8.0/22 | EC2 | ap-southeast-6 |
   | 35.71.93.0/24 | EC2 | ap-southeast-6 |
   | 52.94.250.144/28 | EC2 | ap-southeast-6 |
+  | 46.168.0.0/15 | EC2 | ap-southeast-6 |
   | 23.254.8.0/21 | EC2 | ap-southeast-6 |
   | 3.102.0.0/15 | EC2 | ap-southeast-6 |
   | 15.177.105.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-6 |
@@ -9300,6 +9299,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.96.1.0/24 | EC2 | us-west-2 |
   | 54.245.0.0/16 | EC2 | us-west-2 |
   | 198.41.107.0/24 | EC2 | us-west-2-phx-2 |
+  | 16.146.0.0/16 | EC2 | us-west-2 |
   | 99.77.152.0/24 | EC2 | us-west-2 |
   | 35.96.7.0/24 | EC2 | us-west-2 |
   | 155.146.128.0/20 | EC2 | us-west-2-wl1-sea-wlz-1 |
