@@ -6028,11 +6028,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.190.236.0/22 | AMAZON | me-west-1 |
   | 52.94.250.160/28 | AMAZON | me-west-1 |
   | 15.248.152.0/21 | AMAZON | me-west-1 |
+  | 150.222.55.32/27 | AMAZON | me-west-1 |
+  | 150.222.55.0/27 | AMAZON | me-west-1 |
   | 16.12.86.0/24 | AMAZON | me-west-1 |
   | 15.177.106.0/24 | AMAZON | me-west-1 |
   | 15.190.144.0/20 | AMAZON | me-west-1 |
   | 13.248.80.0/24 | AMAZON | me-west-1 |
   | 16.12.84.0/23 | AMAZON | me-west-1 |
+  | 150.222.55.64/27 | AMAZON | me-west-1 |
   | 16.15.16.0/22 | AMAZON | me-west-1 |
   | 23.254.16.0/21 | AMAZON | me-west-1 |
   | 35.52.0.0/15 | AMAZON | me-west-1 |
@@ -9066,6 +9069,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 23.254.24.0/23 | AMAZON | us-west-2 |
   | 15.220.16.0/20 | AMAZON | us-west-2-las-1 |
   | 108.166.232.0/21 | AMAZON | us-west-2 |
+  | 43.226.24.0/23 | AMAZON | us-west-2 |
   | 52.93.246.222/32 | AMAZON | us-west-2 |
   | 54.214.0.0/16 | AMAZON | us-west-2 |
   | 52.93.246.220/32 | AMAZON | us-west-2 |
@@ -9160,6 +9164,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.145.0.0/16 | AMAZON | us-west-2 |
   | 35.96.15.0/24 | AMAZON | us-west-2 |
   | 52.32.0.0/14 | AMAZON | us-west-2 |
+  | 43.226.26.0/24 | AMAZON | us-west-2 |
   | 35.96.14.0/24 | AMAZON | us-west-2 |
   | 15.221.1.0/24 | AMAZON | us-west-2 |
   | 35.96.245.0/24 | AMAZON | us-west-2 |
@@ -9346,6 +9351,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.0.0/20 | EC2 | us-west-2-pdx-1 |
   | 23.254.24.0/23 | EC2 | us-west-2 |
   | 15.220.16.0/20 | EC2 | us-west-2-las-1 |
+  | 43.226.24.0/23 | EC2 | us-west-2 |
   | 54.214.0.0/16 | EC2 | us-west-2 |
   | 34.208.0.0/12 | EC2 | us-west-2 |
   | 35.71.64.0/22 | EC2 | us-west-2 |
@@ -9410,6 +9416,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.145.0.0/16 | EC2 | us-west-2 |
   | 35.96.15.0/24 | EC2 | us-west-2 |
   | 52.32.0.0/14 | EC2 | us-west-2 |
+  | 43.226.26.0/24 | EC2 | us-west-2 |
   | 35.96.14.0/24 | EC2 | us-west-2 |
   | 35.96.245.0/24 | EC2 | us-west-2 |
   | 54.184.0.0/13 | EC2 | us-west-2 |
