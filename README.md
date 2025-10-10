@@ -2892,6 +2892,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.102.52.0/24 | AMAZON | ap-southeast-6 |
   | 3.102.59.0/24 | AMAZON | ap-southeast-6 |
   | 3.102.88.0/24 | AMAZON | ap-southeast-6 |
+  | 3.103.60.0/24 | AMAZON | ap-southeast-6 |
   | 16.15.8.0/22 | S3 | ap-southeast-6 |
   | 16.12.81.0/24 | S3 | ap-southeast-6 |
   | 16.12.82.0/23 | S3 | ap-southeast-6 |
@@ -6698,6 +6699,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 136.18.130.0/23 | AMAZON | us-east-1 |
   | 15.221.4.0/23 | AMAZON | us-east-1 |
   | 15.230.48.0/24 | AMAZON | us-east-1 |
+  | 35.111.255.0/24 | AMAZON | us-east-1 |
   | 52.93.119.144/30 | AMAZON | us-east-1 |
   | 52.93.127.172/32 | AMAZON | us-east-1 |
   | 3.2.3.0/24 | AMAZON | us-east-1-bos-1 |
@@ -7294,6 +7296,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 155.146.208.0/20 | EC2 | us-east-1-wl1-clt-wlz-1 |
   | 50.19.0.0/16 | EC2 | us-east-1 |
   | 136.18.130.0/23 | EC2 | us-east-1 |
+  | 35.111.255.0/24 | EC2 | us-east-1 |
   | 3.2.3.0/24 | EC2 | us-east-1-bos-1 |
   | 206.72.209.0/24 | EC2 | us-east-1 |
   | 161.188.80.0/20 | EC2 | us-east-1 |
@@ -8966,6 +8969,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 52.94.76.0/22 | AMAZON | us-west-2 |
   | 15.230.102.0/24 | AMAZON | us-west-2 |
+  | 35.111.254.0/24 | AMAZON | us-west-2 |
   | 139.56.16.0/23 | AMAZON | us-west-2-wl1-phx-wlz-1 |
   | 15.220.252.0/22 | AMAZON | us-west-2-las-1 |
   | 52.119.252.0/22 | AMAZON | us-west-2 |
@@ -9282,6 +9286,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.80.92.0/22 | WORKSPACES_GATEWAYS | us-west-2 |
   | 44.234.54.0/23 | WORKSPACES_GATEWAYS | us-west-2 |
   | 54.244.46.0/23 | WORKSPACES_GATEWAYS | us-west-2 |
+  | 35.111.254.0/24 | EC2 | us-west-2 |
   | 139.56.16.0/23 | EC2 | us-west-2-wl1-phx-wlz-1 |
   | 15.220.252.0/22 | EC2 | us-west-2-las-1 |
   | 54.148.0.0/15 | EC2 | us-west-2 |
