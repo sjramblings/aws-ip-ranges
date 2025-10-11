@@ -20245,12 +20245,6 @@
         "network_border_group": "eu-central-1"
       },
       {
-        "ip_prefix": "35.96.48.0/24",
-        "region": "eu-central-1",
-        "service": "AMAZON",
-        "network_border_group": "eu-central-1"
-      },
-      {
         "ip_prefix": "15.230.15.126/31",
         "region": "eu-central-1",
         "service": "AMAZON",
@@ -22454,12 +22448,6 @@
       },
       {
         "ip_prefix": "3.5.136.0/22",
-        "region": "eu-central-1",
-        "service": "EC2",
-        "network_border_group": "eu-central-1"
-      },
-      {
-        "ip_prefix": "35.96.48.0/24",
         "region": "eu-central-1",
         "service": "EC2",
         "network_border_group": "eu-central-1"
@@ -38643,6 +38631,12 @@
         "network_border_group": "us-east-1"
       },
       {
+        "ip_prefix": "75.22.192.0/18",
+        "region": "us-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "15.230.214.0/24",
         "region": "us-east-1",
         "service": "AMAZON",
@@ -40509,6 +40503,12 @@
         "network_border_group": "us-east-1"
       },
       {
+        "ip_prefix": "75.47.0.0/18",
+        "region": "us-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "155.146.96.0/20",
         "region": "us-east-1",
         "service": "AMAZON",
@@ -42291,6 +42291,12 @@
         "network_border_group": "us-east-1"
       },
       {
+        "ip_prefix": "75.22.192.0/18",
+        "region": "us-east-1",
+        "service": "EC2",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "34.224.0.0/12",
         "region": "us-east-1",
         "service": "EC2",
@@ -43066,6 +43072,12 @@
       },
       {
         "ip_prefix": "3.80.0.0/12",
+        "region": "us-east-1",
+        "service": "EC2",
+        "network_border_group": "us-east-1"
+      },
+      {
+        "ip_prefix": "75.47.0.0/18",
         "region": "us-east-1",
         "service": "EC2",
         "network_border_group": "us-east-1"
