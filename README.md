@@ -4487,8 +4487,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.193.148.0/22 | AMAZON | eu-south-2 |
   | 15.177.97.0/24 | AMAZON | eu-south-2 |
   | 52.95.138.0/24 | AMAZON | eu-south-2 |
+  | 104.255.58.43/32 | AMAZON | eu-south-2 |
   | 35.42.0.0/16 | AMAZON | eu-south-2 |
   | 52.94.249.240/28 | AMAZON | eu-south-2 |
+  | 104.255.58.0/32 | AMAZON | eu-south-2 |
   | 51.92.0.0/16 | AMAZON | eu-south-2 |
   | 13.248.65.0/24 | AMAZON | eu-south-2 |
   | 51.94.0.0/15 | AMAZON | eu-south-2 |
@@ -8230,6 +8232,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 182.28.0.0/16 | AMAZON | us-gov-east-1 |
   | 16.152.0.0/16 | AMAZON | us-gov-east-1 |
   | 16.64.0.0/17 | AMAZON | us-gov-east-1 |
+  | 35.111.253.0/24 | AMAZON | us-gov-east-1 |
   | 18.253.0.0/16 | AMAZON | us-gov-east-1 |
   | 52.94.249.112/28 | AMAZON | us-gov-east-1 |
   | 16.66.0.0/16 | AMAZON | us-gov-east-1 |
@@ -8266,6 +8269,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.252.0.0/16 | EC2 | us-gov-east-1 |
   | 99.151.96.0/21 | EC2 | us-gov-east-1 |
   | 16.64.0.0/17 | EC2 | us-gov-east-1 |
+  | 35.111.253.0/24 | EC2 | us-gov-east-1 |
   | 18.253.0.0/16 | EC2 | us-gov-east-1 |
   | 52.94.249.112/28 | EC2 | us-gov-east-1 |
   | 18.99.112.0/20 | EC2 | us-gov-east-1 |
@@ -8315,6 +8319,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.100.0/22 | AMAZON | us-gov-west-1 |
   | 108.175.56.0/22 | AMAZON | us-gov-west-1 |
   | 52.94.152.184/32 | AMAZON | us-gov-west-1 |
+  | 35.111.252.0/24 | AMAZON | us-gov-west-1 |
   | 136.18.0.0/23 | AMAZON | us-gov-west-1 |
   | 76.223.168.0/24 | AMAZON | us-gov-west-1 |
   | 56.137.0.0/16 | AMAZON | us-gov-west-1 |
@@ -8380,6 +8385,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.61.193.0/24 | WORKSPACES_GATEWAYS | us-gov-west-1 |
   | 15.205.0.0/16 | EC2 | us-gov-west-1 |
   | 108.175.56.0/22 | EC2 | us-gov-west-1 |
+  | 35.111.252.0/24 | EC2 | us-gov-west-1 |
   | 136.18.0.0/23 | EC2 | us-gov-west-1 |
   | 56.137.0.0/16 | EC2 | us-gov-west-1 |
   | 3.30.0.0/15 | EC2 | us-gov-west-1 |
