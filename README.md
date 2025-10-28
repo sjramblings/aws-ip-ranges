@@ -405,7 +405,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.182.144.0/21 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 54.182.224.0/21 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 130.176.128.0/21 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
-  | 52.46.32.0/19 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
+  | 52.46.0.0/18 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 3.172.64.0/18 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 52.82.128.0/23 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 18.68.0.0/16 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
@@ -414,7 +414,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.182.240.0/21 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 130.176.192.0/19 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 130.176.76.0/24 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
-  | 52.46.16.0/20 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 54.239.208.0/21 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 54.182.188.0/23 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
   | 3.172.0.0/18 | CLOUDFRONT_ORIGIN_FACING | GLOBAL |
@@ -1685,6 +1684,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.200.92.0/22 | AMAZON | ap-south-1 |
   | 13.201.195.192/26 | AMAZON | ap-south-1 |
   | 13.201.231.0/24 | AMAZON | ap-south-1 |
+  | 13.204.220.0/23 | AMAZON | ap-south-1 |
   | 13.234.221.192/26 | AMAZON | ap-south-1 |
   | 13.234.8.0/23 | AMAZON | ap-south-1 |
   | 15.206.137.128/26 | AMAZON | ap-south-1 |
@@ -6418,62 +6418,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 15.248.168.0/21 | AMAZON | sa-west-1 |
   | 23.254.120.0/21 | AMAZON | sa-west-1 |
-  | 15.248.170.97/32 | AMAZON | sa-west-1 |
-  | 15.248.175.8/32 | AMAZON | sa-west-1 |
-  | 15.248.175.58/32 | AMAZON | sa-west-1 |
-  | 15.248.175.61/32 | AMAZON | sa-west-1 |
-  | 15.248.175.6/32 | AMAZON | sa-west-1 |
-  | 15.248.175.60/32 | AMAZON | sa-west-1 |
   | 13.248.81.0/24 | AMAZON | sa-west-1 |
-  | 15.248.175.63/32 | AMAZON | sa-west-1 |
-  | 15.248.175.59/32 | AMAZON | sa-west-1 |
-  | 15.248.175.10/32 | AMAZON | sa-west-1 |
-  | 15.248.175.2/32 | AMAZON | sa-west-1 |
-  | 15.248.175.14/32 | AMAZON | sa-west-1 |
-  | 15.248.175.19/32 | AMAZON | sa-west-1 |
   | 83.160.0.0/15 | AMAZON | sa-west-1 |
-  | 15.248.175.13/32 | AMAZON | sa-west-1 |
-  | 15.248.170.32/28 | AMAZON | sa-west-1 |
-  | 15.248.174.225/32 | AMAZON | sa-west-1 |
-  | 15.248.175.12/32 | AMAZON | sa-west-1 |
-  | 15.248.175.3/32 | AMAZON | sa-west-1 |
-  | 15.248.175.9/32 | AMAZON | sa-west-1 |
-  | 15.248.170.16/28 | AMAZON | sa-west-1 |
-  | 15.248.174.227/32 | AMAZON | sa-west-1 |
-  | 15.248.170.64/31 | AMAZON | sa-west-1 |
-  | 15.248.170.0/28 | AMAZON | sa-west-1 |
-  | 15.248.175.7/32 | AMAZON | sa-west-1 |
-  | 15.248.175.5/32 | AMAZON | sa-west-1 |
-  | 15.248.175.0/32 | AMAZON | sa-west-1 |
   | 76.223.170.128/28 | AMAZON | sa-west-1 |
-  | 15.248.170.98/32 | AMAZON | sa-west-1 |
-  | 15.248.174.226/32 | AMAZON | sa-west-1 |
   | 52.94.250.176/28 | AMAZON | sa-west-1 |
-  | 15.248.170.68/31 | AMAZON | sa-west-1 |
-  | 15.248.170.96/32 | AMAZON | sa-west-1 |
-  | 15.248.175.23/32 | AMAZON | sa-west-1 |
-  | 15.248.175.1/32 | AMAZON | sa-west-1 |
-  | 15.248.175.16/32 | AMAZON | sa-west-1 |
-  | 15.248.170.101/32 | AMAZON | sa-west-1 |
-  | 15.248.174.16/28 | AMAZON | sa-west-1 |
-  | 15.248.175.4/32 | AMAZON | sa-west-1 |
-  | 15.248.170.99/32 | AMAZON | sa-west-1 |
-  | 15.248.175.62/32 | AMAZON | sa-west-1 |
   | 15.190.160.0/20 | AMAZON | sa-west-1 |
-  | 15.248.174.32/28 | AMAZON | sa-west-1 |
-  | 15.248.175.11/32 | AMAZON | sa-west-1 |
-  | 15.248.175.22/32 | AMAZON | sa-west-1 |
   | 15.190.232.0/22 | AMAZON | sa-west-1 |
-  | 15.248.175.17/32 | AMAZON | sa-west-1 |
-  | 15.248.170.100/32 | AMAZON | sa-west-1 |
-  | 15.248.175.18/32 | AMAZON | sa-west-1 |
-  | 15.248.175.20/32 | AMAZON | sa-west-1 |
-  | 15.248.171.0/24 | AMAZON | sa-west-1 |
-  | 15.248.175.21/32 | AMAZON | sa-west-1 |
-  | 15.248.170.66/31 | AMAZON | sa-west-1 |
-  | 15.248.175.15/32 | AMAZON | sa-west-1 |
-  | 15.248.174.0/28 | AMAZON | sa-west-1 |
   | 23.254.120.0/21 | EC2 | sa-west-1 |
   | 83.160.0.0/15 | EC2 | sa-west-1 |
   | 52.94.250.176/28 | EC2 | sa-west-1 |
