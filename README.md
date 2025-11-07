@@ -2195,6 +2195,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 46.137.224.0/19 | EC2 | ap-southeast-1 |
   | 46.51.216.0/21 | EC2 | ap-southeast-1 |
   | 52.94.248.32/28 | EC2 | ap-southeast-1 |
+  | 40.168.224.0/24 | EC2 | ap-southeast-1 |
   | 35.55.8.0/24 | EC2 | ap-southeast-1 |
   | 54.254.0.0/16 | EC2 | ap-southeast-1 |
   | 35.55.9.0/24 | EC2 | ap-southeast-1 |
@@ -4200,6 +4201,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.152/32 | AMAZON | eu-north-1 |
   | 16.194.0.0/16 | AMAZON | eu-north-1 |
   | 13.60.0.0/15 | AMAZON | eu-north-1 |
+  | 99.10.0.0/18 | AMAZON | eu-north-1 |
   | 150.222.42.0/26 | AMAZON | eu-north-1 |
   | 13.48.186.192/27 | AMAZON | eu-north-1 |
   | 13.49.126.128/26 | AMAZON | eu-north-1 |
@@ -4260,6 +4262,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.154.0.0/16 | EC2 | eu-north-1 |
   | 99.150.64.0/21 | EC2 | eu-north-1 |
   | 13.60.0.0/15 | EC2 | eu-north-1 |
+  | 99.10.0.0/18 | EC2 | eu-north-1 |
   | 13.248.100.0/24 | GLOBALACCELERATOR | eu-north-1 |
   | 13.248.122.0/24 | GLOBALACCELERATOR | eu-north-1 |
   | 15.177.72.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-north-1 |
