@@ -4201,6 +4201,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.127.152/32 | AMAZON | eu-north-1 |
   | 16.194.0.0/16 | AMAZON | eu-north-1 |
   | 13.60.0.0/15 | AMAZON | eu-north-1 |
+  | 1.178.174.0/24 | AMAZON | eu-north-1 |
   | 99.10.0.0/18 | AMAZON | eu-north-1 |
   | 150.222.42.0/26 | AMAZON | eu-north-1 |
   | 13.48.186.192/27 | AMAZON | eu-north-1 |
@@ -4262,6 +4263,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.154.0.0/16 | EC2 | eu-north-1 |
   | 99.150.64.0/21 | EC2 | eu-north-1 |
   | 13.60.0.0/15 | EC2 | eu-north-1 |
+  | 1.178.174.0/24 | EC2 | eu-north-1 |
   | 99.10.0.0/18 | EC2 | eu-north-1 |
   | 13.248.100.0/24 | GLOBALACCELERATOR | eu-north-1 |
   | 13.248.122.0/24 | GLOBALACCELERATOR | eu-north-1 |
