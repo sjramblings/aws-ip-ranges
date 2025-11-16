@@ -37,6 +37,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.197.16.0/23 | AMAZON | GLOBAL |
   | 52.95.216.0/22 | AMAZON | GLOBAL |
   | 108.156.0.0/14 | AMAZON | GLOBAL |
+  | 23.228.225.0/24 | AMAZON | GLOBAL |
   | 54.230.192.0/21 | AMAZON | GLOBAL |
   | 99.86.0.0/16 | AMAZON | GLOBAL |
   | 159.248.232.0/21 | AMAZON | GLOBAL |
@@ -83,6 +84,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 205.251.254.0/24 | AMAZON | GLOBAL |
   | 3.166.0.0/15 | AMAZON | GLOBAL |
   | 54.230.224.0/19 | AMAZON | GLOBAL |
+  | 23.228.227.0/24 | AMAZON | GLOBAL |
   | 71.152.0.0/17 | AMAZON | GLOBAL |
   | 216.137.32.0/19 | AMAZON | GLOBAL |
   | 204.246.172.0/24 | AMAZON | GLOBAL |
@@ -107,6 +109,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.240.128.0/18 | AMAZON | GLOBAL |
   | 205.251.250.0/23 | AMAZON | GLOBAL |
   | 180.163.57.0/25 | AMAZON | GLOBAL |
+  | 23.228.237.0/24 | AMAZON | GLOBAL |
   | 15.197.128.0/17 | AMAZON | GLOBAL |
   | 3.2.1.0/24 | AMAZON | GLOBAL |
   | 52.46.0.0/18 | AMAZON | GLOBAL |
@@ -123,6 +126,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 36.103.232.128/26 | AMAZON | GLOBAL |
   | 52.84.0.0/15 | AMAZON | GLOBAL |
   | 151.148.8.0/21 | AMAZON | GLOBAL |
+  | 23.228.224.0/24 | AMAZON | GLOBAL |
   | 23.228.198.0/24 | AMAZON | GLOBAL |
   | 143.204.0.0/16 | AMAZON | GLOBAL |
   | 99.77.190.0/24 | AMAZON | GLOBAL |
@@ -152,6 +156,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 205.251.204.0/23 | AMAZON | GLOBAL |
   | 63.246.120.0/21 | AMAZON | GLOBAL |
   | 130.176.192.0/19 | AMAZON | GLOBAL |
+  | 23.228.223.0/24 | AMAZON | GLOBAL |
   | 130.176.254.0/24 | AMAZON | GLOBAL |
   | 205.251.192.0/21 | AMAZON | GLOBAL |
   | 52.124.128.0/17 | AMAZON | GLOBAL |
@@ -169,6 +174,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 204.246.174.0/23 | AMAZON | GLOBAL |
   | 3.164.128.0/17 | AMAZON | GLOBAL |
   | 15.197.3.0/24 | AMAZON | GLOBAL |
+  | 23.228.226.0/24 | AMAZON | GLOBAL |
   | 3.172.0.0/18 | AMAZON | GLOBAL |
   | 36.103.232.0/25 | AMAZON | GLOBAL |
   | 51.0.104.0/21 | AMAZON | GLOBAL |
@@ -257,6 +263,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 130.176.0.0/17 | CLOUDFRONT | GLOBAL |
   | 3.173.192.0/18 | CLOUDFRONT | GLOBAL |
   | 108.156.0.0/14 | CLOUDFRONT | GLOBAL |
+  | 23.228.225.0/24 | CLOUDFRONT | GLOBAL |
   | 99.86.0.0/16 | CLOUDFRONT | GLOBAL |
   | 13.32.0.0/15 | CLOUDFRONT | GLOBAL |
   | 120.253.245.128/26 | CLOUDFRONT | GLOBAL |
@@ -286,6 +293,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 205.251.254.0/24 | CLOUDFRONT | GLOBAL |
   | 3.166.0.0/15 | CLOUDFRONT | GLOBAL |
   | 54.230.224.0/19 | CLOUDFRONT | GLOBAL |
+  | 23.228.227.0/24 | CLOUDFRONT | GLOBAL |
   | 71.152.0.0/17 | CLOUDFRONT | GLOBAL |
   | 216.137.32.0/19 | CLOUDFRONT | GLOBAL |
   | 204.246.172.0/24 | CLOUDFRONT | GLOBAL |
@@ -299,6 +307,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.240.128.0/18 | CLOUDFRONT | GLOBAL |
   | 205.251.250.0/23 | CLOUDFRONT | GLOBAL |
   | 180.163.57.0/25 | CLOUDFRONT | GLOBAL |
+  | 23.228.237.0/24 | CLOUDFRONT | GLOBAL |
   | 52.46.0.0/18 | CLOUDFRONT | GLOBAL |
   | 3.174.0.0/15 | CLOUDFRONT | GLOBAL |
   | 52.82.128.0/19 | CLOUDFRONT | GLOBAL |
@@ -308,6 +317,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 130.176.224.0/20 | CLOUDFRONT | GLOBAL |
   | 36.103.232.128/26 | CLOUDFRONT | GLOBAL |
   | 52.84.0.0/15 | CLOUDFRONT | GLOBAL |
+  | 23.228.224.0/24 | CLOUDFRONT | GLOBAL |
   | 143.204.0.0/16 | CLOUDFRONT | GLOBAL |
   | 144.220.0.0/16 | CLOUDFRONT | GLOBAL |
   | 120.52.153.192/26 | CLOUDFRONT | GLOBAL |
@@ -327,11 +337,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.84.0.0/16 | CLOUDFRONT | GLOBAL |
   | 205.251.204.0/23 | CLOUDFRONT | GLOBAL |
   | 130.176.192.0/19 | CLOUDFRONT | GLOBAL |
+  | 23.228.223.0/24 | CLOUDFRONT | GLOBAL |
   | 52.124.128.0/17 | CLOUDFRONT | GLOBAL |
   | 204.246.164.0/22 | CLOUDFRONT | GLOBAL |
   | 13.35.0.0/16 | CLOUDFRONT | GLOBAL |
   | 204.246.174.0/23 | CLOUDFRONT | GLOBAL |
   | 3.164.128.0/17 | CLOUDFRONT | GLOBAL |
+  | 23.228.226.0/24 | CLOUDFRONT | GLOBAL |
   | 3.172.0.0/18 | CLOUDFRONT | GLOBAL |
   | 36.103.232.0/25 | CLOUDFRONT | GLOBAL |
   | 119.147.182.128/26 | CLOUDFRONT | GLOBAL |
