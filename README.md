@@ -152,6 +152,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 205.251.204.0/23 | AMAZON | GLOBAL |
   | 63.246.120.0/21 | AMAZON | GLOBAL |
   | 130.176.192.0/19 | AMAZON | GLOBAL |
+  | 23.228.223.0/24 | AMAZON | GLOBAL |
   | 130.176.254.0/24 | AMAZON | GLOBAL |
   | 205.251.192.0/21 | AMAZON | GLOBAL |
   | 52.124.128.0/17 | AMAZON | GLOBAL |
@@ -327,6 +328,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.84.0.0/16 | CLOUDFRONT | GLOBAL |
   | 205.251.204.0/23 | CLOUDFRONT | GLOBAL |
   | 130.176.192.0/19 | CLOUDFRONT | GLOBAL |
+  | 23.228.223.0/24 | CLOUDFRONT | GLOBAL |
   | 52.124.128.0/17 | CLOUDFRONT | GLOBAL |
   | 204.246.164.0/22 | CLOUDFRONT | GLOBAL |
   | 13.35.0.0/16 | CLOUDFRONT | GLOBAL |
@@ -5332,6 +5334,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.229.131/32 | AMAZON | eu-west-2 |
   | 173.83.206.0/23 | AMAZON | eu-west-2 |
   | 52.93.228.164/32 | AMAZON | eu-west-2 |
+  | 150.247.47.0/24 | AMAZON | eu-west-2 |
   | 52.93.228.196/32 | AMAZON | eu-west-2 |
   | 3.2.48.0/24 | AMAZON | eu-west-2 |
   | 54.239.0.240/28 | AMAZON | eu-west-2 |
