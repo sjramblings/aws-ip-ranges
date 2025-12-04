@@ -8490,6 +8490,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.152.191/32 | AMAZON | us-gov-west-1 |
   | 52.46.224.0/20 | AMAZON | us-gov-west-1 |
   | 52.61.0.0/16 | AMAZON | us-gov-west-1 |
+  | 3.45.64.0/18 | AMAZON | us-gov-west-1 |
   | 40.39.0.0/16 | AMAZON | us-gov-west-1 |
   | 52.94.248.224/28 | AMAZON | us-gov-west-1 |
   | 56.139.0.0/16 | AMAZON | us-gov-west-1 |
@@ -8551,6 +8552,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 160.1.0.0/16 | EC2 | us-gov-west-1 |
   | 3.32.0.0/16 | EC2 | us-gov-west-1 |
   | 52.61.0.0/16 | EC2 | us-gov-west-1 |
+  | 3.45.64.0/18 | EC2 | us-gov-west-1 |
   | 52.94.248.224/28 | EC2 | us-gov-west-1 |
   | 18.99.240.0/20 | EC2 | us-gov-west-1 |
   | 99.77.184.0/24 | EC2 | us-gov-west-1 |
