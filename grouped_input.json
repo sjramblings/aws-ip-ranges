@@ -47222,6 +47222,12 @@
         "network_border_group": "us-east-2"
       },
       {
+        "ip_prefix": "35.111.160.0/24",
+        "region": "us-east-2",
+        "service": "AMAZON",
+        "network_border_group": "us-east-2"
+      },
+      {
         "ip_prefix": "52.93.239.0/24",
         "region": "us-east-2",
         "service": "AMAZON",
@@ -48422,6 +48428,12 @@
         "network_border_group": "us-east-2"
       },
       {
+        "ip_prefix": "35.111.160.0/24",
+        "region": "us-east-2",
+        "service": "EC2",
+        "network_border_group": "us-east-2"
+      },
+      {
         "ip_prefix": "168.185.6.0/24",
         "region": "us-east-2",
         "service": "EC2",
@@ -48925,6 +48937,12 @@
         "network_border_group": "us-gov-east-1"
       },
       {
+        "ip_prefix": "3.2.100.0/24",
+        "region": "us-gov-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-gov-east-1"
+      },
+      {
         "ip_prefix": "16.64.0.0/17",
         "region": "us-gov-east-1",
         "service": "AMAZON",
@@ -49142,6 +49160,12 @@
       },
       {
         "ip_prefix": "99.151.96.0/21",
+        "region": "us-gov-east-1",
+        "service": "EC2",
+        "network_border_group": "us-gov-east-1"
+      },
+      {
+        "ip_prefix": "3.2.100.0/24",
         "region": "us-gov-east-1",
         "service": "EC2",
         "network_border_group": "us-gov-east-1"
@@ -49566,6 +49590,12 @@
         "network_border_group": "us-gov-west-1"
       },
       {
+        "ip_prefix": "3.2.99.0/24",
+        "region": "us-gov-west-1",
+        "service": "AMAZON",
+        "network_border_group": "us-gov-west-1"
+      },
+      {
         "ip_prefix": "96.127.0.0/17",
         "region": "us-gov-west-1",
         "service": "AMAZON",
@@ -49891,6 +49921,12 @@
       },
       {
         "ip_prefix": "99.77.184.0/24",
+        "region": "us-gov-west-1",
+        "service": "EC2",
+        "network_border_group": "us-gov-west-1"
+      },
+      {
+        "ip_prefix": "3.2.99.0/24",
         "region": "us-gov-west-1",
         "service": "EC2",
         "network_border_group": "us-gov-west-1"

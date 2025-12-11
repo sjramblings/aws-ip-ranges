@@ -8107,6 +8107,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.199.105/32 | AMAZON | us-east-2 |
   | 108.166.244.31/32 | AMAZON | us-east-2 |
   | 15.230.39.128/31 | AMAZON | us-east-2 |
+  | 35.111.160.0/24 | AMAZON | us-east-2 |
   | 52.93.239.0/24 | AMAZON | us-east-2 |
   | 168.185.6.0/24 | AMAZON | us-east-2 |
   | 15.230.39.176/31 | AMAZON | us-east-2 |
@@ -8307,6 +8308,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 202.174.132.0/22 | EC2 | us-east-2 |
   | 3.14.0.0/15 | EC2 | us-east-2 |
   | 3.43.64.0/18 | EC2 | us-east-2 |
+  | 35.111.160.0/24 | EC2 | us-east-2 |
   | 168.185.6.0/24 | EC2 | us-east-2 |
   | 35.50.142.0/24 | EC2 | us-east-2 |
   | 198.41.103.0/24 | EC2 | us-east-2 |
@@ -8397,6 +8399,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 182.29.0.0/16 | AMAZON | us-gov-east-1 |
   | 182.28.0.0/16 | AMAZON | us-gov-east-1 |
   | 16.152.0.0/16 | AMAZON | us-gov-east-1 |
+  | 3.2.100.0/24 | AMAZON | us-gov-east-1 |
   | 16.64.0.0/17 | AMAZON | us-gov-east-1 |
   | 35.111.253.0/24 | AMAZON | us-gov-east-1 |
   | 18.253.0.0/16 | AMAZON | us-gov-east-1 |
@@ -8434,6 +8437,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.65.0.0/16 | EC2 | us-gov-east-1 |
   | 18.252.0.0/16 | EC2 | us-gov-east-1 |
   | 99.151.96.0/21 | EC2 | us-gov-east-1 |
+  | 3.2.100.0/24 | EC2 | us-gov-east-1 |
   | 16.64.0.0/17 | EC2 | us-gov-east-1 |
   | 35.111.253.0/24 | EC2 | us-gov-east-1 |
   | 18.253.0.0/16 | EC2 | us-gov-east-1 |
@@ -8510,6 +8514,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 108.175.48.0/22 | AMAZON | us-gov-west-1 |
   | 99.77.184.0/24 | AMAZON | us-gov-west-1 |
   | 52.94.152.185/32 | AMAZON | us-gov-west-1 |
+  | 3.2.99.0/24 | AMAZON | us-gov-west-1 |
   | 96.127.0.0/17 | AMAZON | us-gov-west-1 |
   | 3.4.16.0/21 | AMAZON | us-gov-west-1 |
   | 52.94.9.0/24 | AMAZON | us-gov-west-1 |
@@ -8565,6 +8570,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.248.224/28 | EC2 | us-gov-west-1 |
   | 18.99.240.0/20 | EC2 | us-gov-west-1 |
   | 99.77.184.0/24 | EC2 | us-gov-west-1 |
+  | 3.2.99.0/24 | EC2 | us-gov-west-1 |
   | 96.127.0.0/17 | EC2 | us-gov-west-1 |
   | 3.4.16.0/21 | EC2 | us-gov-west-1 |
   | 35.71.116.0/24 | EC2 | us-gov-west-1 |
