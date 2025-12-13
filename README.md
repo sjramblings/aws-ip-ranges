@@ -40,6 +40,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.230.192.0/21 | AMAZON | GLOBAL |
   | 99.86.0.0/16 | AMAZON | GLOBAL |
   | 159.248.232.0/21 | AMAZON | GLOBAL |
+  | 40.168.226.0/24 | AMAZON | GLOBAL |
   | 13.32.0.0/15 | AMAZON | GLOBAL |
   | 120.253.245.128/26 | AMAZON | GLOBAL |
   | 13.224.0.0/14 | AMAZON | GLOBAL |
@@ -226,6 +227,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 199.9.248.0/21 | IVS_REALTIME | GLOBAL |
   | 23.228.197.0/24 | EC2 | GLOBAL |
   | 159.248.232.0/21 | EC2 | GLOBAL |
+  | 40.168.226.0/24 | EC2 | GLOBAL |
   | 3.4.8.0/24 | EC2 | GLOBAL |
   | 159.248.240.0/21 | EC2 | GLOBAL |
   | 35.97.0.0/20 | EC2 | GLOBAL |
@@ -5559,6 +5561,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.188.0.0/16 | AMAZON | eu-west-3 |
   | 54.239.1.16/28 | AMAZON | eu-west-3 |
   | 52.46.92.0/22 | AMAZON | eu-west-3 |
+  | 69.107.11.24/29 | AMAZON | eu-west-3 |
   | 15.221.50.0/24 | AMAZON | eu-west-3 |
   | 150.247.38.0/24 | AMAZON | eu-west-3 |
   | 64.252.126.0/24 | AMAZON | eu-west-3 |
@@ -5626,6 +5629,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.96.250.0/24 | AMAZON | eu-west-3 |
   | 3.2.84.0/24 | AMAZON | eu-west-3 |
   | 52.144.210.64/26 | AMAZON | eu-west-3 |
+  | 69.107.11.16/29 | AMAZON | eu-west-3 |
   | 99.77.135.0/24 | AMAZON | eu-west-3 |
   | 3.5.224.0/22 | AMAZON | eu-west-3 |
   | 13.37.1.64/26 | AMAZON | eu-west-3 |
