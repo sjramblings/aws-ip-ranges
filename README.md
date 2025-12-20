@@ -7256,6 +7256,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 100.28.206.0/24 | AMAZON | us-east-1 |
   | 100.28.208.0/23 | AMAZON | us-east-1 |
   | 100.48.54.0/23 | AMAZON | us-east-1 |
+  | 100.49.198.0/23 | AMAZON | us-east-1 |
   | 13.217.78.0/23 | AMAZON | us-east-1 |
   | 13.217.8.0/23 | AMAZON | us-east-1 |
   | 13.217.80.0/24 | AMAZON | us-east-1 |
