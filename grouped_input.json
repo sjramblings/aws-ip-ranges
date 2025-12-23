@@ -37816,6 +37816,12 @@
         "network_border_group": "sa-west-1"
       },
       {
+        "ip_prefix": "150.222.55.128/27",
+        "region": "sa-west-1",
+        "service": "AMAZON",
+        "network_border_group": "sa-west-1"
+      },
+      {
         "ip_prefix": "16.15.24.0/22",
         "region": "sa-west-1",
         "service": "AMAZON",
@@ -37834,6 +37840,12 @@
         "network_border_group": "sa-west-1"
       },
       {
+        "ip_prefix": "150.222.55.96/27",
+        "region": "sa-west-1",
+        "service": "AMAZON",
+        "network_border_group": "sa-west-1"
+      },
+      {
         "ip_prefix": "15.190.160.0/20",
         "region": "sa-west-1",
         "service": "AMAZON",
@@ -37841,6 +37853,12 @@
       },
       {
         "ip_prefix": "15.190.232.0/22",
+        "region": "sa-west-1",
+        "service": "AMAZON",
+        "network_border_group": "sa-west-1"
+      },
+      {
+        "ip_prefix": "150.222.55.160/27",
         "region": "sa-west-1",
         "service": "AMAZON",
         "network_border_group": "sa-west-1"
@@ -38763,6 +38781,12 @@
         "network_border_group": "us-east-1"
       },
       {
+        "ip_prefix": "32.200.0.0/13",
+        "region": "us-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "52.93.61.0/24",
         "region": "us-east-1",
         "service": "AMAZON",
@@ -39003,6 +39027,12 @@
         "network_border_group": "us-east-1-qro-1"
       },
       {
+        "ip_prefix": "32.192.0.0/13",
+        "region": "us-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "72.21.192.0/19",
         "region": "us-east-1",
         "service": "AMAZON",
@@ -39061,12 +39091,6 @@
         "region": "us-east-1",
         "service": "AMAZON",
         "network_border_group": "us-east-1-mia-1"
-      },
-      {
-        "ip_prefix": "32.192.0.0/12",
-        "region": "us-east-1",
-        "service": "AMAZON",
-        "network_border_group": "us-east-1"
       },
       {
         "ip_prefix": "52.93.126.123/32",
