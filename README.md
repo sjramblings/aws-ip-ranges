@@ -2830,6 +2830,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.44.0/24 | AMAZON | ap-southeast-5 |
   | 99.151.160.0/21 | AMAZON | ap-southeast-5 |
   | 150.222.52.224/27 | AMAZON | ap-southeast-5 |
+  | 104.255.61.1/32 | AMAZON | ap-southeast-5 |
   | 104.255.59.201/32 | AMAZON | ap-southeast-5 |
   | 13.248.75.0/24 | AMAZON | ap-southeast-5 |
   | 150.222.53.0/27 | AMAZON | ap-southeast-5 |
@@ -2855,6 +2856,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 76.223.170.32/28 | AMAZON | ap-southeast-5 |
   | 104.255.59.200/32 | AMAZON | ap-southeast-5 |
   | 56.68.0.0/17 | AMAZON | ap-southeast-5 |
+  | 104.255.61.0/32 | AMAZON | ap-southeast-5 |
   | 104.255.59.196/32 | AMAZON | ap-southeast-5 |
   | 216.244.1.0/24 | AMAZON | ap-southeast-5 |
   | 150.222.52.192/27 | AMAZON | ap-southeast-5 |
@@ -4937,6 +4939,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.129.130.0/24 | AMAZON | eu-west-1 |
   | 52.93.71.43/32 | AMAZON | eu-west-1 |
   | 52.93.41.0/24 | AMAZON | eu-west-1 |
+  | 35.97.130.0/24 | AMAZON | eu-west-1 |
   | 52.93.43.0/24 | AMAZON | eu-west-1 |
   | 52.93.183.80/28 | AMAZON | eu-west-1 |
   | 3.4.12.53/32 | AMAZON | eu-west-1 |
@@ -9301,6 +9304,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.151.0.0/16 | AMAZON | us-west-2 |
   | 16.12.112.0/21 | AMAZON | us-west-2 |
   | 35.96.6.0/24 | AMAZON | us-west-2 |
+  | 35.97.192.0/24 | AMAZON | us-west-2 |
   | 44.224.0.0/11 | AMAZON | us-west-2 |
   | 35.55.38.0/24 | AMAZON | us-west-2 |
   | 3.4.15.120/29 | AMAZON | us-west-2 |
