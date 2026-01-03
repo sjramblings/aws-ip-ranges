@@ -9219,6 +9219,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.130.0/24 | AMAZON | us-west-2 |
   | 66.7.0.0/21 | AMAZON | us-west-2 |
   | 99.150.56.0/21 | AMAZON | us-west-2 |
+  | 69.107.11.48/29 | AMAZON | us-west-2 |
   | 3.4.12.41/32 | AMAZON | us-west-2 |
   | 54.239.48.0/22 | AMAZON | us-west-2 |
   | 15.220.207.0/24 | AMAZON | us-west-2-sea-1 |
@@ -9227,6 +9228,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.55.126.0/24 | AMAZON | us-west-2 |
   | 3.42.128.0/17 | AMAZON | us-west-2 |
   | 16.150.0.0/16 | AMAZON | us-west-2 |
+  | 69.107.11.56/29 | AMAZON | us-west-2 |
   | 15.221.7.0/24 | AMAZON | us-west-2 |
   | 35.96.11.0/24 | AMAZON | us-west-2 |
   | 18.236.0.0/15 | AMAZON | us-west-2 |
@@ -9366,6 +9368,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 198.41.105.0/24 | AMAZON | us-west-2 |
   | 15.193.136.0/22 | AMAZON | us-west-2 |
   | 15.253.0.0/16 | AMAZON | us-west-2-lax-1 |
+  | 35.34.97.0/24 | AMAZON | us-west-2 |
   | 15.181.252.0/24 | AMAZON | us-west-2-sea-1 |
   | 150.222.196.0/24 | AMAZON | us-west-2 |
   | 216.198.231.0/24 | AMAZON | us-west-2 |
