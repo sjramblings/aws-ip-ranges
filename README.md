@@ -32,6 +32,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 23.228.197.0/24 | AMAZON | GLOBAL |
   | 120.253.240.192/26 | AMAZON | GLOBAL |
   | 116.129.226.128/26 | AMAZON | GLOBAL |
+  | 35.97.16.0/20 | AMAZON | GLOBAL |
   | 130.176.0.0/17 | AMAZON | GLOBAL |
   | 3.173.192.0/18 | AMAZON | GLOBAL |
   | 15.197.16.0/23 | AMAZON | GLOBAL |
@@ -227,6 +228,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.223.192.0/18 | IVS_REALTIME | GLOBAL |
   | 199.9.248.0/21 | IVS_REALTIME | GLOBAL |
   | 23.228.197.0/24 | EC2 | GLOBAL |
+  | 35.97.16.0/20 | EC2 | GLOBAL |
   | 159.248.232.0/21 | EC2 | GLOBAL |
   | 40.168.226.0/24 | EC2 | GLOBAL |
   | 3.4.8.0/24 | EC2 | GLOBAL |
@@ -2830,6 +2832,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.50.67.128/26 | ROUTE53_RESOLVER | ap-southeast-4 |
   | 16.50.67.64/26 | ROUTE53_RESOLVER | ap-southeast-4 |
   | 16.50.248.80/29 | EC2_INSTANCE_CONNECT | ap-southeast-4 |
+  | 18.99.193.0/25 | AURORA_DSQL | ap-southeast-4 |
   | 16.51.86.16/29 | MEDIA_PACKAGE_V2 | ap-southeast-4 |
   | 16.51.86.8/29 | MEDIA_PACKAGE_V2 | ap-southeast-4 |
   | 13.248.67.0/24 | DYNAMODB | ap-southeast-4 |

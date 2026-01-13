@@ -141,6 +141,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "35.97.16.0/20",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "130.176.0.0/17",
         "region": "GLOBAL",
         "service": "AMAZON",
@@ -1306,6 +1312,12 @@
       },
       {
         "ip_prefix": "23.228.197.0/24",
+        "region": "GLOBAL",
+        "service": "EC2",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "35.97.16.0/20",
         "region": "GLOBAL",
         "service": "EC2",
         "network_border_group": "GLOBAL"
@@ -16482,6 +16494,12 @@
         "ip_prefix": "16.50.248.80/29",
         "region": "ap-southeast-4",
         "service": "EC2_INSTANCE_CONNECT",
+        "network_border_group": "ap-southeast-4"
+      },
+      {
+        "ip_prefix": "18.99.193.0/25",
+        "region": "ap-southeast-4",
+        "service": "AURORA_DSQL",
         "network_border_group": "ap-southeast-4"
       },
       {
