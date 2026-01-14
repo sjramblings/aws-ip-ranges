@@ -31,6 +31,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.230.200.0/21 | AMAZON | GLOBAL |
   | 23.228.197.0/24 | AMAZON | GLOBAL |
   | 120.253.240.192/26 | AMAZON | GLOBAL |
+  | 23.234.192.0/18 | AMAZON | GLOBAL |
   | 116.129.226.128/26 | AMAZON | GLOBAL |
   | 35.97.16.0/20 | AMAZON | GLOBAL |
   | 130.176.0.0/17 | AMAZON | GLOBAL |
@@ -260,6 +261,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 204.246.173.0/24 | CLOUDFRONT | GLOBAL |
   | 54.230.200.0/21 | CLOUDFRONT | GLOBAL |
   | 120.253.240.192/26 | CLOUDFRONT | GLOBAL |
+  | 23.234.192.0/18 | CLOUDFRONT | GLOBAL |
   | 116.129.226.128/26 | CLOUDFRONT | GLOBAL |
   | 130.176.0.0/17 | CLOUDFRONT | GLOBAL |
   | 3.173.192.0/18 | CLOUDFRONT | GLOBAL |
@@ -6476,6 +6478,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.0.0/23 | S3 | sa-east-1 |
   | 52.95.163.0/24 | S3 | sa-east-1 |
   | 3.5.232.0/22 | S3 | sa-east-1 |
+  | 1.178.95.0/24 | S3 | sa-east-1 |
   | 15.228.107.0/28 | S3 | sa-east-1 |
   | 15.228.107.16/28 | S3 | sa-east-1 |
   | 35.55.26.0/24 | IVS_REALTIME | sa-east-1 |
