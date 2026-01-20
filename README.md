@@ -3507,6 +3507,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 161.189.66.192/26 | AMAZON | cn-northwest-1 |
   | 43.192.156.0/23 | AMAZON | cn-northwest-1 |
   | 43.192.160.0/22 | AMAZON | cn-northwest-1 |
+  | 43.192.202.0/24 | AMAZON | cn-northwest-1 |
   | 52.82.92.0/23 | AMAZON | cn-northwest-1 |
   | 52.83.26.0/26 | AMAZON | cn-northwest-1 |
   | 52.83.26.64/26 | AMAZON | cn-northwest-1 |
