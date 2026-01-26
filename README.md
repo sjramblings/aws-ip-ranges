@@ -7513,6 +7513,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 1.178.6.0/24 | S3 | us-east-1 |
   | 3.2.64.0/24 | S3 | us-east-1 |
   | 3.2.65.0/24 | S3 | us-east-1 |
+  | 3.2.74.0/24 | S3 | us-east-1 |
   | 44.192.134.240/28 | S3 | us-east-1 |
   | 44.192.140.64/28 | S3 | us-east-1 |
   | 35.50.139.0/24 | IVS_REALTIME | us-east-1 |
@@ -8466,6 +8467,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 1.178.8.0/24 | S3 | us-east-2 |
   | 3.141.102.208/28 | S3 | us-east-2 |
   | 3.141.102.224/28 | S3 | us-east-2 |
+  | 3.2.67.0/24 | S3 | us-east-2 |
   | 35.50.143.0/24 | IVS_REALTIME | us-east-2 |
   | 35.55.34.0/24 | IVS_REALTIME | us-east-2 |
   | 35.55.35.0/24 | IVS_REALTIME | us-east-2 |
@@ -9735,6 +9737,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.92.128.0/17 | S3 | us-west-2 |
   | 1.178.65.0/24 | S3 | us-west-2 |
   | 1.178.9.0/24 | S3 | us-west-2 |
+  | 3.2.68.0/24 | S3 | us-west-2 |
   | 35.80.36.208/28 | S3 | us-west-2 |
   | 35.80.36.224/28 | S3 | us-west-2 |
   | 35.55.126.0/24 | IVS_REALTIME | us-west-2 |
