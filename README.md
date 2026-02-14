@@ -8256,7 +8256,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.39.168/31 | AMAZON | us-east-2 |
   | 15.230.39.204/31 | AMAZON | us-east-2 |
   | 18.97.128.0/18 | AMAZON | us-east-2 |
-  | 35.111.164.0/24 | AMAZON | us-east-2 |
   | 99.78.176.0/21 | AMAZON | us-east-2 |
   | 15.230.39.16/31 | AMAZON | us-east-2 |
   | 15.230.39.78/31 | AMAZON | us-east-2 |
@@ -8375,7 +8374,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.199.105/32 | AMAZON | us-east-2 |
   | 108.166.244.31/32 | AMAZON | us-east-2 |
   | 15.230.39.128/31 | AMAZON | us-east-2 |
-  | 35.111.160.0/24 | AMAZON | us-east-2 |
   | 52.93.239.0/24 | AMAZON | us-east-2 |
   | 168.185.6.0/24 | AMAZON | us-east-2 |
   | 15.230.39.176/31 | AMAZON | us-east-2 |
@@ -8554,7 +8552,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 216.198.216.0/21 | EC2 | us-east-2 |
   | 3.5.132.0/23 | EC2 | us-east-2 |
   | 18.97.128.0/18 | EC2 | us-east-2 |
-  | 35.111.164.0/24 | EC2 | us-east-2 |
   | 99.77.162.0/24 | EC2 | us-east-2 |
   | 99.77.252.0/24 | EC2 | us-east-2 |
   | 52.15.0.0/16 | EC2 | us-east-2 |
@@ -8582,7 +8579,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 202.174.132.0/22 | EC2 | us-east-2 |
   | 3.14.0.0/15 | EC2 | us-east-2 |
   | 3.43.64.0/18 | EC2 | us-east-2 |
-  | 35.111.160.0/24 | EC2 | us-east-2 |
   | 168.185.6.0/24 | EC2 | us-east-2 |
   | 35.50.142.0/24 | EC2 | us-east-2 |
   | 198.41.103.0/24 | EC2 | us-east-2 |
