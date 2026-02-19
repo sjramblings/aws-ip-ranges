@@ -4132,6 +4132,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.160.0.0/16 | EC2 | eu-central-1 |
   | 35.156.0.0/14 | EC2 | eu-central-1 |
   | 15.145.16.0/22 | EC2 | eu-central-1-wl1-ber-wlz-1 |
+  | 51.102.0.0/16 | EC2 | eu-central-1 |
   | 15.145.4.0/23 | EC2 | eu-central-1-wl1-ber-wlz-1 |
   | 63.184.0.0/13 | EC2 | eu-central-1 |
   | 18.153.0.0/16 | EC2 | eu-central-1 |
@@ -7695,6 +7696,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 64.252.64.0/24 | EC2 | us-east-1 |
   | 3.4.1.0/24 | EC2 | us-east-1 |
   | 15.220.184.0/21 | EC2 | us-east-1-qro-1 |
+  | 32.192.0.0/13 | EC2 | us-east-1 |
   | 15.181.144.0/20 | EC2 | us-east-1-phl-1 |
   | 15.181.254.0/24 | EC2 | us-east-1-mia-1 |
   | 54.112.0.0/18 | EC2 | us-east-1 |
