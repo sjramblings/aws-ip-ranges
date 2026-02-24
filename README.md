@@ -1656,6 +1656,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.232.0/24 | AMAZON | ap-south-1-ccu-2 |
   | 52.93.127.131/32 | AMAZON | ap-south-1 |
   | 52.94.198.80/28 | AMAZON | ap-south-1 |
+  | 69.107.12.104/29 | AMAZON | ap-south-1 |
   | 150.222.123.0/24 | AMAZON | ap-south-1 |
   | 54.239.0.208/28 | AMAZON | ap-south-1 |
   | 35.55.13.0/24 | AMAZON | ap-south-1 |
@@ -1729,6 +1730,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.140.0/24 | AMAZON | ap-south-1 |
   | 52.93.148.64/26 | AMAZON | ap-south-1 |
   | 52.95.64.0/20 | AMAZON | ap-south-1 |
+  | 45.33.168.0/24 | AMAZON | ap-south-1 |
   | 96.0.60.0/22 | AMAZON | ap-south-1-ccu-1 |
   | 35.154.0.0/16 | AMAZON | ap-south-1 |
   | 52.144.228.2/31 | AMAZON | ap-south-1 |
@@ -1762,6 +1764,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 64.252.99.0/24 | AMAZON | ap-south-1 |
   | 15.220.128.0/21 | AMAZON | ap-south-1-del-1 |
   | 52.93.127.132/32 | AMAZON | ap-south-1 |
+  | 69.107.12.96/29 | AMAZON | ap-south-1 |
   | 35.96.42.0/24 | AMAZON | ap-south-1 |
   | 142.4.177.0/24 | AMAZON | ap-south-1 |
   | 13.200.90.0/23 | AMAZON | ap-south-1 |
@@ -4906,6 +4909,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 63.246.113.0/24 | AMAZON | eu-west-1 |
   | 52.95.104.0/22 | AMAZON | eu-west-1 |
   | 150.222.85.0/24 | AMAZON | eu-west-1 |
+  | 15.129.31.0/24 | AMAZON | eu-west-1 |
   | 150.222.160.37/32 | AMAZON | eu-west-1 |
   | 52.93.71.38/32 | AMAZON | eu-west-1 |
   | 150.222.160.33/32 | AMAZON | eu-west-1 |
@@ -5212,6 +5216,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 46.51.192.0/20 | EC2 | eu-west-1 |
   | 63.32.0.0/14 | EC2 | eu-west-1 |
   | 63.246.113.0/24 | EC2 | eu-west-1 |
+  | 15.129.31.0/24 | EC2 | eu-west-1 |
   | 1.178.7.0/24 | EC2 | eu-west-1 |
   | 52.30.0.0/15 | EC2 | eu-west-1 |
   | 54.154.0.0/16 | EC2 | eu-west-1 |
@@ -6092,6 +6097,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.16.97.0/26 | ROUTE53_RESOLVER | il-central-1 |
   | 51.16.97.64/26 | ROUTE53_RESOLVER | il-central-1 |
   | 51.16.183.224/29 | EC2_INSTANCE_CONNECT | il-central-1 |
+  | 16.164.22.0/31 | KINESIS_VIDEO_STREAMS | il-central-1 |
+  | 16.164.22.4/30 | KINESIS_VIDEO_STREAMS | il-central-1 |
   | 13.248.72.0/24 | DYNAMODB | il-central-1 |
   | 35.71.122.0/24 | DYNAMODB | il-central-1 |
 </details>
