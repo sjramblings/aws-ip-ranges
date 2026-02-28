@@ -8109,6 +8109,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.171.100.64/26 | ROUTE53_RESOLVER | us-east-1 |
   | 44.192.135.0/25 | ROUTE53_RESOLVER | us-east-1 |
   | 44.192.135.128/25 | ROUTE53_RESOLVER | us-east-1 |
+  | 32.192.104.4/30 | EBS | us-east-1 |
   | 44.192.140.112/28 | EBS | us-east-1 |
   | 44.192.140.128/29 | EBS | us-east-1 |
   | 44.222.159.166/31 | EBS | us-east-1 |
