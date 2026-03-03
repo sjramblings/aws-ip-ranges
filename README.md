@@ -6773,15 +6773,24 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 23.254.120.0/21 | AMAZON | sa-west-1 |
   | 13.248.81.0/24 | AMAZON | sa-west-1 |
   | 16.12.120.0/22 | AMAZON | sa-west-1 |
+  | 3.4.12.56/32 | AMAZON | sa-west-1 |
+  | 3.4.12.59/32 | AMAZON | sa-west-1 |
+  | 3.4.12.58/32 | AMAZON | sa-west-1 |
   | 83.160.0.0/15 | AMAZON | sa-west-1 |
+  | 3.4.15.176/29 | AMAZON | sa-west-1 |
   | 15.177.107.0/24 | AMAZON | sa-west-1 |
   | 150.222.55.128/27 | AMAZON | sa-west-1 |
+  | 3.4.15.184/29 | AMAZON | sa-west-1 |
   | 16.15.24.0/22 | AMAZON | sa-west-1 |
   | 76.223.170.128/28 | AMAZON | sa-west-1 |
   | 52.94.250.176/28 | AMAZON | sa-west-1 |
   | 83.162.0.0/15 | AMAZON | sa-west-1 |
+  | 3.4.12.57/32 | AMAZON | sa-west-1 |
+  | 3.4.15.192/29 | AMAZON | sa-west-1 |
+  | 3.4.12.55/32 | AMAZON | sa-west-1 |
   | 150.222.55.96/27 | AMAZON | sa-west-1 |
   | 15.190.160.0/20 | AMAZON | sa-west-1 |
+  | 3.4.12.60/32 | AMAZON | sa-west-1 |
   | 15.190.232.0/22 | AMAZON | sa-west-1 |
   | 150.222.55.160/27 | AMAZON | sa-west-1 |
   | 16.12.120.0/22 | S3 | sa-west-1 |
