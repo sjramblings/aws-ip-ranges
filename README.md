@@ -28,6 +28,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.197.32.0/23 | AMAZON | GLOBAL |
   | 204.246.173.0/24 | AMAZON | GLOBAL |
   | 205.251.200.0/23 | AMAZON | GLOBAL |
+  | 23.228.244.0/24 | AMAZON | GLOBAL |
   | 15.197.0.0/23 | AMAZON | GLOBAL |
   | 54.230.200.0/21 | AMAZON | GLOBAL |
   | 23.228.197.0/24 | AMAZON | GLOBAL |
@@ -276,6 +277,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 205.251.252.0/23 | CLOUDFRONT | GLOBAL |
   | 54.192.0.0/16 | CLOUDFRONT | GLOBAL |
   | 204.246.173.0/24 | CLOUDFRONT | GLOBAL |
+  | 23.228.244.0/24 | CLOUDFRONT | GLOBAL |
   | 54.230.200.0/21 | CLOUDFRONT | GLOBAL |
   | 120.253.240.192/26 | CLOUDFRONT | GLOBAL |
   | 23.234.192.0/18 | CLOUDFRONT | GLOBAL |
@@ -6310,6 +6312,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.71.99.0/24 | EC2 | me-south-1 |
   | 35.50.211.0/24 | EC2 | me-south-1 |
   | 35.50.212.0/24 | EC2 | me-south-1 |
+  | 16.180.0.0/16 | EC2 | me-south-1 |
   | 157.241.0.0/16 | EC2 | me-south-1 |
   | 35.50.208.0/24 | EC2 | me-south-1 |
   | 13.152.0.0/16 | EC2 | me-south-1 |
