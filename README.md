@@ -7170,6 +7170,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 161.188.80.0/20 | AMAZON | us-east-1 |
   | 174.129.0.0/16 | AMAZON | us-east-1 |
   | 18.89.128.0/18 | AMAZON | us-east-1-iah-2 |
+  | 35.97.208.0/20 | AMAZON | us-east-1 |
   | 52.95.255.80/28 | AMAZON | us-east-1 |
   | 150.222.87.0/24 | AMAZON | us-east-1 |
   | 96.0.12.0/22 | AMAZON | us-east-1-lim-1 |
