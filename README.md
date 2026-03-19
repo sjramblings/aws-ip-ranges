@@ -8847,6 +8847,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.4.24.0/21 | AMAZON | us-gov-east-1 |
   | 16.64.102.0/23 | AMAZON | us-gov-east-1 |
   | 16.64.36.0/23 | AMAZON | us-gov-east-1 |
+  | 16.65.74.0/23 | AMAZON | us-gov-east-1 |
   | 18.252.126.0/25 | AMAZON | us-gov-east-1 |
   | 18.252.165.0/26 | AMAZON | us-gov-east-1 |
   | 18.252.58.0/23 | AMAZON | us-gov-east-1 |
