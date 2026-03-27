@@ -1039,6 +1039,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.208.0/22 | AMAZON | ap-northeast-1 |
   | 150.222.38.64/26 | AMAZON | ap-northeast-1 |
   | 52.93.127.252/32 | AMAZON | ap-northeast-1 |
+  | 13.193.210.0/23 | AMAZON | ap-northeast-1 |
   | 18.177.156.192/26 | AMAZON | ap-northeast-1 |
   | 18.181.204.128/26 | AMAZON | ap-northeast-1 |
   | 18.181.204.192/26 | AMAZON | ap-northeast-1 |
@@ -3847,6 +3848,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.69.0/24 | AMAZON | eu-central-1 |
   | 150.222.152.71/32 | AMAZON | eu-central-1 |
   | 15.230.15.70/31 | AMAZON | eu-central-1 |
+  | 35.97.224.0/20 | AMAZON | eu-central-1 |
   | 52.93.127.139/32 | AMAZON | eu-central-1 |
   | 64.252.87.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.26/32 | AMAZON | eu-central-1 |
@@ -5525,6 +5527,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.80.0/24 | AMAZON | eu-west-2 |
   | 52.93.152.164/32 | AMAZON | eu-west-2 |
   | 52.144.133.32/27 | AMAZON | eu-west-2 |
+  | 35.97.144.0/20 | AMAZON | eu-west-2 |
   | 52.93.153.69/32 | AMAZON | eu-west-2 |
   | 52.93.229.98/32 | AMAZON | eu-west-2 |
   | 52.219.219.0/24 | AMAZON | eu-west-2 |
@@ -5868,6 +5871,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.71.64/26 | AMAZON | eu-west-3 |
   | 52.46.88.0/22 | AMAZON | eu-west-3 |
   | 15.230.156.0/24 | AMAZON | eu-west-3 |
+  | 35.97.240.0/20 | AMAZON | eu-west-3 |
   | 51.0.96.0/21 | AMAZON | eu-west-3 |
   | 15.225.0.0/16 | AMAZON | eu-west-3 |
   | 54.239.40.132/32 | AMAZON | eu-west-3 |
@@ -7643,6 +7647,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.239.232.0/24 | AMAZON | us-east-1 |
   | 3.83.168.0/22 | AMAZON | us-east-1 |
   | 3.91.171.128/25 | AMAZON | us-east-1 |
+  | 32.194.144.0/23 | AMAZON | us-east-1 |
   | 44.199.180.0/23 | AMAZON | us-east-1 |
   | 44.199.222.128/26 | AMAZON | us-east-1 |
   | 44.202.79.128/25 | AMAZON | us-east-1 |
