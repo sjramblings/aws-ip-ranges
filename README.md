@@ -6586,6 +6586,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.50.224/27 | AMAZON | sa-east-1 |
   | 1.178.95.0/24 | AMAZON | sa-east-1 |
   | 99.77.234.0/24 | AMAZON | sa-east-1 |
+  | 35.97.176.0/20 | AMAZON | sa-east-1 |
   | 56.124.0.0/17 | AMAZON | sa-east-1 |
   | 16.12.2.0/24 | AMAZON | sa-east-1 |
   | 35.96.43.0/24 | AMAZON | sa-east-1 |
