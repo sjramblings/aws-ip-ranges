@@ -4277,6 +4277,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.96.39.128/25 | AURORA_DSQL | eu-central-1 |
   | 3.77.79.224/29 | MEDIA_PACKAGE_V2 | eu-central-1 |
   | 3.77.79.232/29 | MEDIA_PACKAGE_V2 | eu-central-1 |
+  | 35.159.219.240/29 | MEDIA_PACKAGE_V2 | eu-central-1 |
+  | 35.159.219.248/29 | MEDIA_PACKAGE_V2 | eu-central-1 |
   | 52.94.17.0/24 | DYNAMODB | eu-central-1 |
   | 35.71.105.0/24 | DYNAMODB | eu-central-1 |
 </details>
@@ -5816,6 +5818,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.98.164.0/25 | AURORA_DSQL | eu-west-2 |
   | 13.42.133.192/29 | MEDIA_PACKAGE_V2 | eu-west-2 |
   | 13.42.133.200/29 | MEDIA_PACKAGE_V2 | eu-west-2 |
+  | 16.60.228.160/29 | MEDIA_PACKAGE_V2 | eu-west-2 |
+  | 16.60.228.168/29 | MEDIA_PACKAGE_V2 | eu-west-2 |
   | 52.94.15.0/24 | DYNAMODB | eu-west-2 |
   | 35.71.111.0/24 | DYNAMODB | eu-west-2 |
 </details>
@@ -8229,6 +8233,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.235.189.96/30 | AMAZON_APPFLOW | us-east-1 |
   | 44.194.111.224/30 | AMAZON_APPFLOW | us-east-1 |
   | 18.97.33.128/25 | AURORA_DSQL | us-east-1 |
+  | 32.192.104.128/29 | MEDIA_PACKAGE_V2 | us-east-1 |
+  | 32.192.104.24/29 | MEDIA_PACKAGE_V2 | us-east-1 |
   | 44.216.41.152/29 | MEDIA_PACKAGE_V2 | us-east-1 |
   | 44.216.41.160/29 | MEDIA_PACKAGE_V2 | us-east-1 |
   | 3.218.180.0/22 | DYNAMODB | us-east-1 |
@@ -8825,6 +8831,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.97.139.128/25 | AURORA_DSQL | us-east-2 |
   | 3.145.246.48/29 | MEDIA_PACKAGE_V2 | us-east-2 |
   | 3.145.246.56/29 | MEDIA_PACKAGE_V2 | us-east-2 |
+  | 3.146.72.40/29 | MEDIA_PACKAGE_V2 | us-east-2 |
+  | 3.149.13.208/29 | MEDIA_PACKAGE_V2 | us-east-2 |
   | 35.71.102.0/24 | DYNAMODB | us-east-2 |
   | 52.94.4.0/24 | DYNAMODB | us-east-2 |
 </details>
@@ -10307,6 +10315,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.234.73.116/30 | AMAZON_APPFLOW | us-west-2 |
   | 44.234.73.120/30 | AMAZON_APPFLOW | us-west-2 |
   | 18.98.20.128/25 | AURORA_DSQL | us-west-2 |
+  | 16.146.161.48/29 | MEDIA_PACKAGE_V2 | us-west-2 |
+  | 16.146.161.56/29 | MEDIA_PACKAGE_V2 | us-west-2 |
   | 18.246.107.128/29 | MEDIA_PACKAGE_V2 | us-west-2 |
   | 18.246.107.8/29 | MEDIA_PACKAGE_V2 | us-west-2 |
   | 52.119.252.0/22 | DYNAMODB | us-west-2 |
