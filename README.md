@@ -753,6 +753,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.198.192.104/29 | EC2_INSTANCE_CONNECT | ap-east-1 |
   | 43.199.26.124/31 | KINESIS_VIDEO_STREAMS | ap-east-1 |
   | 43.199.26.128/30 | KINESIS_VIDEO_STREAMS | ap-east-1 |
+  | 18.99.177.0/25 | AURORA_DSQL | ap-east-1 |
   | 52.119.248.0/24 | DYNAMODB | ap-east-1 |
   | 35.71.107.0/24 | DYNAMODB | ap-east-1 |
 </details>
@@ -1946,6 +1947,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.108.13.124/30 | AMAZON_APPFLOW | ap-south-1 |
   | 3.6.70.76/30 | AMAZON_APPFLOW | ap-south-1 |
   | 3.7.25.48/30 | AMAZON_APPFLOW | ap-south-1 |
+  | 18.96.231.0/25 | AURORA_DSQL | ap-south-1 |
   | 13.200.7.128/29 | MEDIA_PACKAGE_V2 | ap-south-1 |
   | 13.200.7.136/29 | MEDIA_PACKAGE_V2 | ap-south-1 |
   | 35.71.100.0/24 | DYNAMODB | ap-south-1 |
@@ -2436,6 +2438,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.141.238.68/30 | AMAZON_APPFLOW | ap-southeast-1 |
   | 18.141.66.248/30 | AMAZON_APPFLOW | ap-southeast-1 |
   | 18.141.66.252/30 | AMAZON_APPFLOW | ap-southeast-1 |
+  | 3.44.5.128/25 | AURORA_DSQL | ap-southeast-1 |
   | 18.143.206.152/29 | MEDIA_PACKAGE_V2 | ap-southeast-1 |
   | 18.143.206.160/29 | MEDIA_PACKAGE_V2 | ap-southeast-1 |
   | 35.71.118.0/24 | DYNAMODB | ap-southeast-1 |
@@ -3425,6 +3428,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.190.48.0/20 | AMAZON | ca-west-1 |
   | 99.151.168.0/21 | AMAZON | ca-west-1 |
   | 16.174.0.0/16 | AMAZON | ca-west-1 |
+  | 16.174.54.0/23 | AMAZON | ca-west-1 |
   | 40.176.101.0/26 | AMAZON | ca-west-1 |
   | 40.176.82.0/24 | AMAZON | ca-west-1 |
   | 40.176.83.0/24 | AMAZON | ca-west-1 |
@@ -4582,6 +4586,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.60.1.84/31 | EBS | eu-north-1 |
   | 13.60.1.88/30 | EBS | eu-north-1 |
   | 13.48.4.200/30 | EC2_INSTANCE_CONNECT | eu-north-1 |
+  | 18.99.100.128/25 | AURORA_DSQL | eu-north-1 |
   | 13.50.179.168/29 | MEDIA_PACKAGE_V2 | eu-north-1 |
   | 13.50.179.176/29 | MEDIA_PACKAGE_V2 | eu-north-1 |
   | 35.71.98.0/24 | DYNAMODB | eu-north-1 |
@@ -6859,6 +6864,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.228.126.72/30 | AMAZON_APPFLOW | sa-east-1 |
   | 18.229.100.112/30 | AMAZON_APPFLOW | sa-east-1 |
   | 18.229.100.116/30 | AMAZON_APPFLOW | sa-east-1 |
+  | 3.44.193.128/25 | AURORA_DSQL | sa-east-1 |
   | 15.229.120.48/29 | MEDIA_PACKAGE_V2 | sa-east-1 |
   | 15.229.120.56/29 | MEDIA_PACKAGE_V2 | sa-east-1 |
   | 52.94.7.0/24 | DYNAMODB | sa-east-1 |
@@ -8281,6 +8287,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.199.31/32 | AMAZON | us-east-2 |
   | 52.93.199.90/32 | AMAZON | us-east-2 |
   | 15.230.39.44/31 | AMAZON | us-east-2 |
+  | 3.5.100.0/22 | AMAZON | us-east-2 |
   | 15.230.39.10/31 | AMAZON | us-east-2 |
   | 77.112.0.0/14 | AMAZON | us-east-2 |
   | 104.255.57.173/32 | AMAZON | us-east-2 |
@@ -8462,6 +8469,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.39.168/31 | AMAZON | us-east-2 |
   | 15.230.39.204/31 | AMAZON | us-east-2 |
   | 18.97.128.0/18 | AMAZON | us-east-2 |
+  | 3.5.104.0/22 | AMAZON | us-east-2 |
   | 99.78.176.0/21 | AMAZON | us-east-2 |
   | 15.230.39.16/31 | AMAZON | us-east-2 |
   | 15.230.39.78/31 | AMAZON | us-east-2 |
@@ -8510,6 +8518,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 108.166.244.58/32 | AMAZON | us-east-2 |
   | 15.230.39.20/31 | AMAZON | us-east-2 |
   | 35.50.160.0/24 | AMAZON | us-east-2 |
+  | 3.5.108.0/22 | AMAZON | us-east-2 |
   | 15.230.39.114/31 | AMAZON | us-east-2 |
   | 15.230.39.150/31 | AMAZON | us-east-2 |
   | 108.166.244.47/32 | AMAZON | us-east-2 |
@@ -8696,6 +8705,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.151.45.0/24 | AMAZON | us-east-2 |
   | 3.17.136.0/23 | AMAZON | us-east-2 |
   | 99.77.252.0/24 | CHIME_VOICECONNECTOR | us-east-2 |
+  | 3.5.100.0/22 | S3 | us-east-2 |
   | 52.219.212.0/22 | S3 | us-east-2 |
   | 3.5.92.0/23 | S3 | us-east-2 |
   | 52.219.143.0/24 | S3 | us-east-2 |
@@ -8706,7 +8716,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.219.142.0/24 | S3 | us-east-2 |
   | 52.219.96.0/20 | S3 | us-east-2 |
   | 3.5.132.0/23 | S3 | us-east-2 |
+  | 3.5.104.0/22 | S3 | us-east-2 |
   | 52.219.232.0/22 | S3 | us-east-2 |
+  | 3.5.108.0/22 | S3 | us-east-2 |
   | 18.34.252.0/22 | S3 | us-east-2 |
   | 16.12.64.0/22 | S3 | us-east-2 |
   | 52.219.176.0/22 | S3 | us-east-2 |
@@ -8727,6 +8739,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.144.0/24 | IVS_REALTIME | us-east-2 |
   | 35.50.142.0/24 | IVS_REALTIME | us-east-2 |
   | 3.146.84.0/22 | WORKSPACES_GATEWAYS | us-east-2 |
+  | 3.5.100.0/22 | EC2 | us-east-2 |
   | 3.5.92.0/23 | EC2 | us-east-2 |
   | 18.191.0.0/16 | EC2 | us-east-2 |
   | 35.50.143.0/24 | EC2 | us-east-2 |
@@ -8766,6 +8779,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 216.198.216.0/21 | EC2 | us-east-2 |
   | 3.5.132.0/23 | EC2 | us-east-2 |
   | 18.97.128.0/18 | EC2 | us-east-2 |
+  | 3.5.104.0/22 | EC2 | us-east-2 |
   | 99.77.162.0/24 | EC2 | us-east-2 |
   | 99.77.252.0/24 | EC2 | us-east-2 |
   | 52.15.0.0/16 | EC2 | us-east-2 |
@@ -8775,6 +8789,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 151.148.32.0/24 | EC2 | us-east-2 |
   | 35.55.35.0/24 | EC2 | us-east-2 |
   | 35.50.160.0/24 | EC2 | us-east-2 |
+  | 3.5.108.0/22 | EC2 | us-east-2 |
   | 3.130.0.0/16 | EC2 | us-east-2 |
   | 52.14.0.0/16 | EC2 | us-east-2 |
   | 173.83.228.0/22 | EC2 | us-east-2 |
