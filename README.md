@@ -3290,6 +3290,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.156.38.64/26 | AMAZON | ca-central-1 |
   | 15.222.43.128/26 | AMAZON | ca-central-1 |
   | 15.222.43.32/27 | AMAZON | ca-central-1 |
+  | 16.54.170.0/23 | AMAZON | ca-central-1 |
   | 3.96.143.128/26 | AMAZON | ca-central-1 |
   | 3.96.143.192/26 | AMAZON | ca-central-1 |
   | 3.96.84.0/26 | AMAZON | ca-central-1 |
