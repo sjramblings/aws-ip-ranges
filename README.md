@@ -6524,6 +6524,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.55.64/27 | AMAZON | me-west-1 |
   | 16.15.16.0/22 | AMAZON | me-west-1 |
   | 23.254.16.0/21 | AMAZON | me-west-1 |
+  | 1.179.101.0/24 | AMAZON | me-west-1 |
   | 35.52.0.0/15 | AMAZON | me-west-1 |
   | 16.12.86.0/24 | S3 | me-west-1 |
   | 16.12.84.0/23 | S3 | me-west-1 |
@@ -6533,6 +6534,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.106.0/24 | EC2 | me-west-1 |
   | 16.15.16.0/22 | EC2 | me-west-1 |
   | 23.254.16.0/21 | EC2 | me-west-1 |
+  | 1.179.101.0/24 | EC2 | me-west-1 |
   | 15.177.106.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | me-west-1 |
   | 13.248.80.0/24 | DYNAMODB | me-west-1 |
 </details>
@@ -6915,6 +6917,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.4.12.59/32 | AMAZON | sa-west-1 |
   | 3.4.12.58/32 | AMAZON | sa-west-1 |
   | 83.160.0.0/15 | AMAZON | sa-west-1 |
+  | 1.179.102.0/24 | AMAZON | sa-west-1 |
   | 3.4.15.176/29 | AMAZON | sa-west-1 |
   | 15.177.107.0/24 | AMAZON | sa-west-1 |
   | 150.222.55.128/27 | AMAZON | sa-west-1 |
@@ -6935,6 +6938,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.15.24.0/22 | S3 | sa-west-1 |
   | 23.254.120.0/21 | EC2 | sa-west-1 |
   | 83.160.0.0/15 | EC2 | sa-west-1 |
+  | 1.179.102.0/24 | EC2 | sa-west-1 |
   | 15.177.107.0/24 | EC2 | sa-west-1 |
   | 16.15.24.0/22 | EC2 | sa-west-1 |
   | 52.94.250.176/28 | EC2 | sa-west-1 |
@@ -7519,6 +7523,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.126.212/32 | AMAZON | us-east-1 |
   | 54.160.0.0/13 | AMAZON | us-east-1 |
   | 15.230.66.0/25 | AMAZON | us-east-1 |
+  | 35.98.80.0/20 | AMAZON | us-east-1 |
   | 52.93.127.164/32 | AMAZON | us-east-1 |
   | 54.234.0.0/15 | AMAZON | us-east-1 |
   | 15.220.248.0/23 | AMAZON | us-east-1-phl-1 |
@@ -9173,6 +9178,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.30.40.84/30 | KINESIS_VIDEO_STREAMS | us-gov-west-1 |
   | 52.94.9.0/24 | DYNAMODB | us-gov-west-1 |
   | 35.71.116.0/24 | DYNAMODB | us-gov-west-1 |
+</details>
+
+<details>
+  <summary>us-south-1</summary>
+
+  | IP Prefix      | Service | Network Border Group |
+  |----------------|---------|----------------------|
+  | 1.179.103.0/24 | AMAZON | us-south-1 |
+  | 1.179.103.0/24 | EC2 | us-south-1 |
 </details>
 
 <details>
