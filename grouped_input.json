@@ -843,6 +843,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "23.238.128.0/17",
+        "region": "GLOBAL",
+        "service": "AMAZON",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "120.232.236.0/25",
         "region": "GLOBAL",
         "service": "AMAZON",
@@ -2428,6 +2434,12 @@
       },
       {
         "ip_prefix": "1.178.172.0/23",
+        "region": "GLOBAL",
+        "service": "GLOBALACCELERATOR",
+        "network_border_group": "GLOBAL"
+      },
+      {
+        "ip_prefix": "23.238.128.0/17",
         "region": "GLOBAL",
         "service": "GLOBALACCELERATOR",
         "network_border_group": "GLOBAL"
