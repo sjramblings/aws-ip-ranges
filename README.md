@@ -9683,6 +9683,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.241.0.0/16 | EC2 | us-west-1 |
   | 184.169.128.0/17 | EC2 | us-west-1 |
   | 198.41.104.0/24 | EC2 | us-west-1 |
+  | 40.164.0.0/16 | EC2 | us-west-1 |
   | 99.77.154.0/24 | EC2 | us-west-1 |
   | 15.177.81.0/24 | EC2 | us-west-1 |
   | 54.153.0.0/17 | EC2 | us-west-1 |
