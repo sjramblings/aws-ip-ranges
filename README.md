@@ -263,6 +263,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.112.0/21 | EC2 | GLOBAL |
   | 23.228.196.0/24 | EC2 | GLOBAL |
   | 15.193.32.0/19 | EC2 | GLOBAL |
+  | 1.178.172.0/23 | EC2 | GLOBAL |
   | 40.168.228.0/24 | EC2 | GLOBAL |
   | 40.168.230.0/24 | EC2 | GLOBAL |
   | 31.220.247.0/24 | EC2 | GLOBAL |
@@ -414,7 +415,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 93.77.128.0/19 | GLOBALACCELERATOR | GLOBAL |
   | 99.77.190.0/24 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.2.0/24 | GLOBALACCELERATOR | GLOBAL |
-  | 1.178.172.0/23 | GLOBALACCELERATOR | GLOBAL |
   | 23.238.128.0/17 | GLOBALACCELERATOR | GLOBAL |
   | 99.83.128.0/17 | GLOBALACCELERATOR | GLOBAL |
   | 1.179.60.0/23 | GLOBALACCELERATOR | GLOBAL |
@@ -8987,6 +8987,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.253.168.0/25 | ROUTE53_HEALTHCHECKS | us-gov-east-1 |
   | 108.175.52.0/22 | S3 | us-gov-east-1 |
   | 108.175.60.0/22 | S3 | us-gov-east-1 |
+  | 3.2.100.0/24 | S3 | us-gov-east-1 |
   | 18.252.145.192/28 | S3 | us-gov-east-1 |
   | 18.252.145.208/28 | S3 | us-gov-east-1 |
   | 31.220.252.0/24 | S3 | us-gov-east-1 |
@@ -9118,6 +9119,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 108.175.56.0/22 | S3 | us-gov-west-1 |
   | 136.18.0.0/23 | S3 | us-gov-west-1 |
   | 108.175.48.0/22 | S3 | us-gov-west-1 |
+  | 3.2.99.0/24 | S3 | us-gov-west-1 |
   | 1.178.30.0/24 | S3 | us-gov-west-1 |
   | 15.200.176.128/28 | S3 | us-gov-west-1 |
   | 15.200.28.240/28 | S3 | us-gov-west-1 |
@@ -10147,6 +10149,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.245.0.0/16 | EC2 | us-west-2 |
   | 198.41.107.0/24 | EC2 | us-west-2-phx-2 |
   | 16.146.0.0/16 | EC2 | us-west-2 |
+  | 32.184.0.0/13 | EC2 | us-west-2 |
   | 99.77.152.0/24 | EC2 | us-west-2 |
   | 16.214.8.0/22 | EC2 | us-west-2 |
   | 35.96.7.0/24 | EC2 | us-west-2 |

@@ -1527,6 +1527,12 @@
         "network_border_group": "GLOBAL"
       },
       {
+        "ip_prefix": "1.178.172.0/23",
+        "region": "GLOBAL",
+        "service": "EC2",
+        "network_border_group": "GLOBAL"
+      },
+      {
         "ip_prefix": "40.168.228.0/24",
         "region": "GLOBAL",
         "service": "EC2",
@@ -2428,12 +2434,6 @@
       },
       {
         "ip_prefix": "15.197.2.0/24",
-        "region": "GLOBAL",
-        "service": "GLOBALACCELERATOR",
-        "network_border_group": "GLOBAL"
-      },
-      {
-        "ip_prefix": "1.178.172.0/23",
         "region": "GLOBAL",
         "service": "GLOBALACCELERATOR",
         "network_border_group": "GLOBAL"
@@ -52465,6 +52465,12 @@
         "network_border_group": "us-gov-east-1"
       },
       {
+        "ip_prefix": "3.2.100.0/24",
+        "region": "us-gov-east-1",
+        "service": "S3",
+        "network_border_group": "us-gov-east-1"
+      },
+      {
         "ip_prefix": "18.252.145.192/28",
         "region": "us-gov-east-1",
         "service": "S3",
@@ -53209,6 +53215,12 @@
       },
       {
         "ip_prefix": "108.175.48.0/22",
+        "region": "us-gov-west-1",
+        "service": "S3",
+        "network_border_group": "us-gov-west-1"
+      },
+      {
+        "ip_prefix": "3.2.99.0/24",
         "region": "us-gov-west-1",
         "service": "S3",
         "network_border_group": "us-gov-west-1"
@@ -59272,6 +59284,12 @@
       },
       {
         "ip_prefix": "16.146.0.0/16",
+        "region": "us-west-2",
+        "service": "EC2",
+        "network_border_group": "us-west-2"
+      },
+      {
+        "ip_prefix": "32.184.0.0/13",
         "region": "us-west-2",
         "service": "EC2",
         "network_border_group": "us-west-2"
