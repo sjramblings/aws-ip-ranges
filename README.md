@@ -6487,7 +6487,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.87.0/24 | EC2 | me-south-1 |
   | 15.220.160.0/21 | EC2 | me-south-1-mct-1 |
   | 3.2.56.0/24 | GLOBALACCELERATOR | me-south-1 |
-  | 13.248.106.0/24 | GLOBALACCELERATOR | me-south-1 |
   | 15.177.87.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | me-south-1 |
   | 15.185.141.160/27 | CLOUD9 | me-south-1 |
   | 15.185.91.32/27 | CLOUD9 | me-south-1 |
