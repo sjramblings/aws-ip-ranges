@@ -3791,10 +3791,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.12.32.0/22 | AMAZON | eu-central-1 |
   | 35.55.17.0/24 | AMAZON | eu-central-1 |
   | 16.12.24.0/21 | AMAZON | eu-central-1 |
+  | 13.248.106.224/27 | AMAZON | eu-central-1 |
   | 15.230.15.25/32 | AMAZON | eu-central-1 |
   | 15.230.15.94/31 | AMAZON | eu-central-1 |
   | 15.230.15.72/31 | AMAZON | eu-central-1 |
   | 3.5.136.0/22 | AMAZON | eu-central-1 |
+  | 13.248.106.0/27 | AMAZON | eu-central-1 |
   | 15.230.15.126/31 | AMAZON | eu-central-1 |
   | 15.230.241.0/24 | AMAZON | eu-central-1 |
   | 52.219.72.0/22 | AMAZON | eu-central-1 |
@@ -3838,6 +3840,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.152.36/32 | AMAZON | eu-central-1 |
   | 15.230.15.160/31 | AMAZON | eu-central-1 |
   | 63.180.0.0/14 | AMAZON | eu-central-1 |
+  | 99.78.220.96/27 | AMAZON | eu-central-1 |
   | 15.230.15.168/31 | AMAZON | eu-central-1 |
   | 3.4.12.51/32 | AMAZON | eu-central-1 |
   | 15.230.15.200/31 | AMAZON | eu-central-1 |
@@ -6358,6 +6361,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 99.78.220.128/27 | AMAZON | me-south-1 |
   | 15.185.0.0/16 | AMAZON | me-south-1 |
   | 35.71.99.0/24 | AMAZON | me-south-1 |
   | 35.50.211.0/24 | AMAZON | me-south-1 |
@@ -6374,10 +6378,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.208.0/24 | AMAZON | me-south-1 |
   | 13.152.0.0/16 | AMAZON | me-south-1 |
   | 35.50.213.0/24 | AMAZON | me-south-1 |
+  | 13.248.106.128/27 | AMAZON | me-south-1 |
   | 99.82.128.0/20 | AMAZON | me-south-1 |
   | 150.222.45.64/27 | AMAZON | me-south-1 |
+  | 13.248.106.32/27 | AMAZON | me-south-1 |
   | 35.50.210.0/24 | AMAZON | me-south-1 |
   | 1.178.16.0/24 | AMAZON | me-south-1 |
+  | 13.248.106.208/28 | AMAZON | me-south-1 |
   | 99.77.147.0/24 | AMAZON | me-south-1 |
   | 99.77.236.0/24 | AMAZON | me-south-1 |
   | 99.82.144.0/21 | AMAZON | me-south-1 |
@@ -6392,18 +6399,22 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.121.8/31 | AMAZON | me-south-1 |
   | 99.82.152.0/22 | AMAZON | me-south-1 |
   | 15.184.0.0/16 | AMAZON | me-south-1 |
+  | 13.248.106.192/28 | AMAZON | me-south-1 |
   | 69.107.7.128/29 | AMAZON | me-south-1 |
   | 69.107.10.104/29 | AMAZON | me-south-1 |
+  | 99.78.220.66/32 | AMAZON | me-south-1 |
   | 15.220.146.0/23 | AMAZON | me-south-1-mct-1 |
   | 52.95.228.0/24 | AMAZON | me-south-1 |
   | 56.184.0.0/16 | AMAZON | me-south-1 |
   | 15.230.121.3/32 | AMAZON | me-south-1 |
   | 15.230.69.128/26 | AMAZON | me-south-1 |
+  | 13.248.106.112/28 | AMAZON | me-south-1 |
   | 15.230.121.6/31 | AMAZON | me-south-1 |
+  | 99.78.220.32/27 | AMAZON | me-south-1 |
+  | 13.248.106.160/27 | AMAZON | me-south-1 |
   | 16.25.0.0/16 | AMAZON | me-south-1 |
   | 15.230.122.3/32 | AMAZON | me-south-1 |
   | 3.5.220.0/22 | AMAZON | me-south-1 |
-  | 13.248.106.0/24 | AMAZON | me-south-1 |
   | 15.248.20.0/22 | AMAZON | me-south-1 |
   | 16.24.0.0/16 | AMAZON | me-south-1 |
   | 15.230.122.6/31 | AMAZON | me-south-1 |
@@ -6413,23 +6424,27 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.122.0/32 | AMAZON | me-south-1 |
   | 52.93.69.0/24 | AMAZON | me-south-1 |
   | 15.230.122.2/32 | AMAZON | me-south-1 |
+  | 99.78.220.0/27 | AMAZON | me-south-1 |
   | 35.50.209.0/24 | AMAZON | me-south-1 |
   | 157.175.0.0/16 | AMAZON | me-south-1 |
   | 15.230.121.5/32 | AMAZON | me-south-1 |
   | 150.222.45.0/27 | AMAZON | me-south-1 |
   | 69.107.10.96/29 | AMAZON | me-south-1 |
   | 15.230.198.0/24 | AMAZON | me-south-1 |
-  | 99.78.220.0/22 | AMAZON | me-south-1 |
+  | 13.248.106.64/27 | AMAZON | me-south-1 |
   | 52.94.249.160/28 | AMAZON | me-south-1 |
   | 15.230.122.4/31 | AMAZON | me-south-1 |
   | 56.187.0.0/16 | AMAZON | me-south-1 |
+  | 99.78.220.65/32 | AMAZON | me-south-1 |
   | 150.222.45.32/27 | AMAZON | me-south-1 |
+  | 13.248.106.96/28 | AMAZON | me-south-1 |
   | 15.230.69.192/26 | AMAZON | me-south-1 |
   | 150.222.7.0/24 | AMAZON | me-south-1 |
   | 35.50.214.0/24 | AMAZON | me-south-1 |
   | 3.2.85.0/24 | AMAZON | me-south-1 |
   | 15.177.87.0/24 | AMAZON | me-south-1 |
   | 54.239.1.112/28 | AMAZON | me-south-1 |
+  | 99.78.220.160/27 | AMAZON | me-south-1 |
   | 15.230.121.0/31 | AMAZON | me-south-1 |
   | 56.185.0.0/16 | AMAZON | me-south-1 |
   | 15.220.160.0/21 | AMAZON | me-south-1-mct-1 |
@@ -7069,6 +7084,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.50.139.0/24 | AMAZON | us-east-1 |
   | 15.230.108.0/24 | AMAZON | us-east-1 |
   | 69.107.10.224/29 | AMAZON | us-east-1 |
+  | 69.107.12.232/29 | AMAZON | us-east-1 |
   | 75.101.128.0/17 | AMAZON | us-east-1 |
   | 96.0.16.0/21 | AMAZON | us-east-1-lim-1 |
   | 104.255.56.24/32 | AMAZON | us-east-1 |
@@ -7205,6 +7221,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.4.15.112/29 | AMAZON | us-east-1 |
   | 15.193.6.0/24 | AMAZON | us-east-1 |
   | 52.93.127.182/32 | AMAZON | us-east-1 |
+  | 69.107.12.224/29 | AMAZON | us-east-1 |
   | 15.230.208.0/24 | AMAZON | us-east-1 |
   | 52.90.0.0/15 | AMAZON | us-east-1 |
   | 52.93.84.165/32 | AMAZON | us-east-1 |
@@ -9875,6 +9892,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.4.6.0/24 | AMAZON | us-west-2 |
   | 15.220.208.128/26 | AMAZON | us-west-2-las-1b |
   | 16.148.0.0/16 | AMAZON | us-west-2 |
+  | 40.168.255.0/24 | AMAZON | us-west-2 |
   | 35.80.0.0/12 | AMAZON | us-west-2 |
   | 15.220.200.0/23 | AMAZON | us-west-2-las-1b |
   | 35.96.45.0/24 | AMAZON | us-west-2 |
@@ -10200,6 +10218,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.4.6.0/24 | EC2 | us-west-2 |
   | 15.220.208.128/26 | EC2 | us-west-2-las-1b |
   | 16.148.0.0/16 | EC2 | us-west-2 |
+  | 40.168.255.0/24 | EC2 | us-west-2 |
   | 35.80.0.0/12 | EC2 | us-west-2 |
   | 15.220.200.0/23 | EC2 | us-west-2-las-1b |
   | 35.96.45.0/24 | EC2 | us-west-2 |
