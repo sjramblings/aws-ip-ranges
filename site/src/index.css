@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  body {
+    background:
+      radial-gradient(1200px 600px at 80% -10%, rgba(255, 153, 0, 0.08), transparent 60%),
+      radial-gradient(900px 500px at -10% 30%, rgba(15, 181, 186, 0.05), transparent 60%),
+      #0B0F14;
+    background-attachment: fixed;
+    min-height: 100vh;
+  }
+  ::selection { background: rgba(255, 153, 0, 0.35); color: #fff; }
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-7xl px-6 md:px-10;
+  }
+  .pill {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-ink-300/40 bg-ink-100/40 px-3 py-1 text-xs font-medium text-ink-700 backdrop-blur;
+  }
+  .card {
+    @apply rounded-2xl border border-ink-300/30 bg-ink-100/30 backdrop-blur;
+  }
+  .h-section {
+    @apply text-3xl md:text-4xl font-semibold tracking-tightest text-ink-900;
+  }
+  .h-eyebrow {
+    @apply text-xs font-mono uppercase tracking-[0.2em] text-accent-500;
+  }
+  .num-display {
+    @apply font-mono tabular-nums tracking-tight;
+  }
+}
+
+/* D3 svg defaults */
+svg.chart text { font-family: inherit; fill: rgb(181 188 199); }
+svg.chart .axis path,
+svg.chart .axis line { stroke: rgb(58 70 84 / 0.6); }
+svg.chart .grid line { stroke: rgb(58 70 84 / 0.25); stroke-dasharray: 2 4; }

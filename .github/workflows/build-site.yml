@@ -1,0 +1,73 @@
+---
+name: Build & Deploy Site
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'ip-ranges.json'
+      - 'site/**'
+      - 'tools/**'
+      - '.github/workflows/build-site.yml'
+  workflow_run:
+    workflows: ["Generate IP Info"]
+    types:
+      - completed
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Extract & build
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history needed by extract-history.ts
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install jq (already on ubuntu, kept for portability)
+        run: sudo apt-get install -y --no-install-recommends jq
+
+      - name: Extract history → site/public/data/
+        run: bun tools/extract-history.ts
+
+      - name: Install site dependencies
+        working-directory: ./site
+        run: bun install --frozen-lockfile
+
+      - name: Build site
+        working-directory: ./site
+        run: bun run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site/dist
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
