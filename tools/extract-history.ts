@@ -8,6 +8,7 @@ import { dirname, resolve } from "node:path";
 const REPO_ROOT = resolve(import.meta.dir, "..");
 const DATA_OUT = resolve(REPO_ROOT, "site/public/data");
 const CACHE_FILE = resolve(REPO_ROOT, "data/.cache/last-extracted-sha");
+const SNAPSHOTS_CACHE = resolve(REPO_ROOT, "data/.cache/snapshots-cache.json");
 const TARGET_PATH = "ip-ranges.json";
 const MAJOR_DIFF_THRESHOLD = 1500;
 const CONCURRENCY = 4;
@@ -144,15 +145,35 @@ async function ensureDir(file: string) { await mkdir(dirname(file), { recursive:
 // ─── main ─────────────────────────────────────────────────────────────────
 async function main() {
   console.log("🔍 extract-history starting…");
-  const cachedSha = existsSync(CACHE_FILE) ? (await readFile(CACHE_FILE, "utf8")).trim() : undefined;
+
+  // Cache requires BOTH files to be present and parseable. If only the SHA is
+  // committed (the default state — snapshots-cache.json is .gitignored) or the
+  // snapshots file is corrupt, we fall back to a full-history rebuild instead
+  // of producing zero snapshots and failing with "no snapshots produced".
+  let cachedSha: string | undefined;
+  let priorSnapshots: Snapshot[] = [];
+  if (existsSync(CACHE_FILE) && existsSync(SNAPSHOTS_CACHE)) {
+    try {
+      cachedSha = (await readFile(CACHE_FILE, "utf8")).trim() || undefined;
+      priorSnapshots = JSON.parse(await readFile(SNAPSHOTS_CACHE, "utf8")) as Snapshot[];
+      if (!Array.isArray(priorSnapshots) || priorSnapshots.length === 0) {
+        console.warn(`  ! snapshots-cache.json is empty or malformed — falling back to full history`);
+        cachedSha = undefined;
+        priorSnapshots = [];
+      }
+    } catch (e) {
+      console.warn(`  ! cache load failed (${(e as Error).message}) — falling back to full history`);
+      cachedSha = undefined;
+      priorSnapshots = [];
+    }
+  } else if (existsSync(CACHE_FILE) && !existsSync(SNAPSHOTS_CACHE)) {
+    console.warn(`  ! found ${CACHE_FILE.replace(REPO_ROOT, ".")} but ${SNAPSHOTS_CACHE.replace(REPO_ROOT, ".")} is missing — falling back to full history`);
+  }
+
   const commits = await getCommits(cachedSha);
   console.log(`  ${commits.length} commits to process${cachedSha ? ` (incremental from ${cachedSha.slice(0, 7)})` : " (full history)"}`);
-  if (!commits.length && !cachedSha) throw new Error(`No commits found touching ${TARGET_PATH}`);
-
-  let priorSnapshots: Snapshot[] = [];
-  const priorTimelinePath = resolve(REPO_ROOT, "data/.cache/snapshots-cache.json");
-  if (cachedSha && existsSync(priorTimelinePath)) {
-    priorSnapshots = JSON.parse(await readFile(priorTimelinePath, "utf8"));
+  if (!commits.length && !priorSnapshots.length) {
+    throw new Error(`No commits found touching ${TARGET_PATH} and no prior snapshots cached`);
   }
 
   console.log(`📦 reading commits with concurrency=${CONCURRENCY}…`);
@@ -160,8 +181,8 @@ async function main() {
   const allSnapshots = [...priorSnapshots, ...newSnapshots].sort((a, b) => a.date.localeCompare(b.date));
 
   // Persist full snapshots cache (used for incremental rebuilds; not served to the site)
-  await ensureDir(priorTimelinePath);
-  await writeFile(priorTimelinePath, JSON.stringify(allSnapshots));
+  await ensureDir(SNAPSHOTS_CACHE);
+  await writeFile(SNAPSHOTS_CACHE, JSON.stringify(allSnapshots));
 
   // ─── timeline.json (drop heavy per_region/per_service from each row) ──
   const timeline = allSnapshots.map(({ per_region: _pr, per_service: _ps, ...rest }) => rest);
