@@ -11,6 +11,11 @@ on:
       - 'site/**'
       - 'tools/**'
       - '.github/workflows/build-site.yml'
+  pull_request:
+    paths:
+      - 'site/**'
+      - 'tools/**'
+      - '.github/workflows/build-site.yml'
   workflow_run:
     workflows: ["Generate IP Info"]
     types:
@@ -64,6 +69,8 @@ jobs:
     name: Deploy to GitHub Pages
     needs: build
     runs-on: ubuntu-latest
+    # Skip deployment on PR builds — PRs verify the build only, never overwrite production.
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
