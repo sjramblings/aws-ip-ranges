@@ -1,0 +1,15 @@
+# build artifacts
+site/dist/
+site/node_modules/
+site/.vite/
+site/*.tsbuildinfo
+
+# editor
+.DS_Store
+.vscode/
+.idea/
+
+# misc
+*.log
+.env
+.env.local
