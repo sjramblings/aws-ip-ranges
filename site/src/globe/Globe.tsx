@@ -120,24 +120,27 @@ export function Globe({ regions, selected, onSelect }: Props) {
     return { path, projection };
   }, [size, rotation]);
 
-  // Drag-to-rotate
+  // Drag-to-rotate. Accumulate per-event pointer deltas (`ev.dx` / `ev.dy`) onto
+  // the previous rotation via the functional setState — using the absolute
+  // `ev.x` / `ev.y` (drag-container coordinates) jumps the globe at drag-start
+  // because those are positions, not movements (codex P1 on PR #5). Effect
+  // binds once and reads no closure state, so drag stays smooth across renders.
   useEffect(() => {
     const svg = ref.current;
     if (!svg) return;
-    let startRotation: [number, number] = rotation;
+    const sensitivity = 0.4;
     const dragBehavior = drag<SVGSVGElement, unknown>()
-      .on("start", function () {
-        startRotation = rotation;
-      })
       .on("drag", function (ev: D3DragEvent<SVGSVGElement, unknown, unknown>) {
-        const sensitivity = 0.4;
-        setRotation([startRotation[0] + ev.x * sensitivity, Math.max(-90, Math.min(90, startRotation[1] - ev.y * sensitivity))]);
+        setRotation((prev) => [
+          prev[0] + ev.dx * sensitivity,
+          Math.max(-90, Math.min(90, prev[1] - ev.dy * sensitivity)),
+        ]);
       });
     select(svg).call(dragBehavior as never);
     return () => {
       select(svg).on(".drag", null);
     };
-  }, [rotation]);
+  }, []);
 
   // Compute land + graticule paths
   const landPath = useMemo(() => {
