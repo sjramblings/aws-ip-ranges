@@ -37,10 +37,20 @@ export function Hero({ current, timeline }: Props) {
   // sample timeline to 100 points for the sparkline
   const sample = timeline.filter((_, i) => i % Math.max(1, Math.floor(timeline.length / 100)) === 0).map((p) => ({ date: p.date, total: p.total + p.ipv6_total }));
 
+  // derive every time-bound phrase from the data so the copy never goes stale
+  const firstDate = timeline[0]?.date ?? current.date;
+  const firstD = new Date(firstDate + "T00:00:00Z");
+  const lastD = new Date(current.date + "T00:00:00Z");
+  const monthsSpan = Math.max(1, Math.round((lastD.getTime() - firstD.getTime()) / (1000 * 60 * 60 * 24 * 30.4375)));
+  const sinceLabel = firstD.toLocaleDateString("en-US", { month: "long", year: "numeric" });
+  const firstYear = firstD.getUTCFullYear();
+  const lastYear = lastD.getUTCFullYear();
+  const yearSpan = firstYear === lastYear ? `${firstYear}` : `${firstYear} → today`;
+
   return (
     <section id="hero" className="container-x pt-12 md:pt-20 pb-16 md:pb-24">
       <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }}>
-        <p className="h-eyebrow mb-5">21 months of daily snapshots, in motion</p>
+        <p className="h-eyebrow mb-5">{monthsSpan} months of daily snapshots, in motion</p>
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-semibold tracking-tightest leading-[0.95] text-ink-900">
           AWS IP Ranges,
           <br />
@@ -48,7 +58,7 @@ export function Hero({ current, timeline }: Props) {
           <span className="text-accent-500">.</span>
         </h1>
         <p className="mt-7 max-w-2xl text-lg md:text-xl text-ink-600 leading-relaxed">
-          Every AWS IP prefix, every service, every region — captured daily since August 2023.
+          Every AWS IP prefix, every service, every region — captured daily since {sinceLabel}.
           Built from <a className="text-accent-500 hover:text-accent-300 underline-offset-4 hover:underline" href="https://github.com/sjramblings/aws-ip-ranges">{current.region_count}+ regions of git history</a>, rendered as the picture AWS doesn't ship.
         </p>
       </motion.div>
@@ -72,7 +82,7 @@ export function Hero({ current, timeline }: Props) {
         className="mt-8 card p-5 md:p-6"
       >
         <div className="flex items-center justify-between mb-2">
-          <p className="h-eyebrow">Total prefix growth · 2023 → today</p>
+          <p className="h-eyebrow">Total prefix growth · {yearSpan}</p>
           <p className="text-xs text-ink-600 font-mono">
             +{fmt.format((current.total + current.ipv6_total) - (timeline[0]?.total ?? 0) - (timeline[0]?.ipv6_total ?? 0))} since first snapshot
           </p>
