@@ -41715,6 +41715,12 @@
         "network_border_group": "us-east-1"
       },
       {
+        "ip_prefix": "15.129.57.0/24",
+        "region": "us-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "15.220.184.0/21",
         "region": "us-east-1",
         "service": "AMAZON",
@@ -44307,6 +44313,12 @@
         "network_border_group": "us-east-1"
       },
       {
+        "ip_prefix": "15.201.1.0/24",
+        "region": "us-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "15.220.234.0/23",
         "region": "us-east-1",
         "service": "AMAZON",
@@ -45261,6 +45273,12 @@
         "network_border_group": "us-east-1"
       },
       {
+        "ip_prefix": "32.197.52.0/23",
+        "region": "us-east-1",
+        "service": "AMAZON",
+        "network_border_group": "us-east-1"
+      },
+      {
         "ip_prefix": "44.199.180.0/23",
         "region": "us-east-1",
         "service": "AMAZON",
@@ -46192,6 +46210,12 @@
       },
       {
         "ip_prefix": "3.4.1.0/24",
+        "region": "us-east-1",
+        "service": "EC2",
+        "network_border_group": "us-east-1"
+      },
+      {
+        "ip_prefix": "15.129.57.0/24",
         "region": "us-east-1",
         "service": "EC2",
         "network_border_group": "us-east-1"
@@ -47242,6 +47266,12 @@
       },
       {
         "ip_prefix": "54.224.0.0/15",
+        "region": "us-east-1",
+        "service": "EC2",
+        "network_border_group": "us-east-1"
+      },
+      {
+        "ip_prefix": "15.201.1.0/24",
         "region": "us-east-1",
         "service": "EC2",
         "network_border_group": "us-east-1"
@@ -57750,7 +57780,7 @@
         "ip_prefix": "40.168.255.0/24",
         "region": "us-west-2",
         "service": "AMAZON",
-        "network_border_group": "us-west-2"
+        "network_border_group": "us-west-2-lax-1"
       },
       {
         "ip_prefix": "35.80.0.0/12",
@@ -59706,7 +59736,7 @@
         "ip_prefix": "40.168.255.0/24",
         "region": "us-west-2",
         "service": "EC2",
-        "network_border_group": "us-west-2"
+        "network_border_group": "us-west-2-lax-1"
       },
       {
         "ip_prefix": "35.80.0.0/12",
