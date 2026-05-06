@@ -1,17 +1,6 @@
 import { useEffect, useState } from "react";
 
-const sections = [
-  { id: "hero", label: "Top" },
-  { id: "timeline", label: "Timeline" },
-  { id: "regions", label: "Regions" },
-  { id: "services", label: "Services" },
-  { id: "compliance", label: "Compliance" },
-  { id: "activity", label: "Activity" },
-  { id: "explorer", label: "Explorer" },
-  { id: "story", label: "Stories" },
-];
-
-export function Nav() {
+export function GlobeNav() {
   const [scrolled, setScrolled] = useState(false);
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 24);
@@ -19,37 +8,18 @@ export function Nav() {
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
+  const base = `${import.meta.env.BASE_URL}`;
   return (
     <header className={`sticky top-0 z-40 transition-all ${scrolled ? "border-b border-ink-300/30 bg-ink-0/80 backdrop-blur" : ""}`}>
       <div className="container-x flex items-center justify-between py-4">
-        <a href="#hero" className="flex items-center gap-2.5 font-mono text-sm tracking-tight">
+        <a href={base} className="flex items-center gap-2.5 font-mono text-sm tracking-tight">
           <span className="inline-block h-2 w-2 rounded-full bg-accent-500 animate-pulse" />
           <span className="text-ink-900">aws-ip-ranges</span>
           <span className="text-ink-500">/</span>
-          <span className="text-ink-600">visualized</span>
+          <span className="text-ink-600">globe</span>
         </a>
-        <nav className="hidden md:flex items-center gap-1">
-          {sections.map((s) => (
-            <a
-              key={s.id}
-              href={`#${s.id}`}
-              className="rounded-full px-3 py-1.5 text-xs text-ink-600 hover:text-ink-900 hover:bg-ink-200/40 transition"
-            >
-              {s.label}
-            </a>
-          ))}
-          <span className="mx-1 h-3 w-px bg-ink-300/30" aria-hidden="true" />
-          <a
-            href={`${import.meta.env.BASE_URL}globe.html`}
-            className="rounded-full px-3 py-1.5 text-xs text-accent-300 hover:text-accent-500 hover:bg-accent-500/10 transition flex items-center gap-1.5"
-          >
-            <svg viewBox="0 0 16 16" className="h-3 w-3 fill-none stroke-current" strokeWidth="1.5" aria-hidden="true">
-              <circle cx="8" cy="8" r="6.5" />
-              <path d="M1.5 8h13" />
-              <ellipse cx="8" cy="8" rx="3.2" ry="6.5" />
-            </svg>
-            Globe
-          </a>
+        <nav className="flex items-center gap-1">
+          <a href={base} className="rounded-full px-3 py-1.5 text-xs text-ink-600 hover:text-ink-900 hover:bg-ink-200/40 transition">← Dashboard</a>
         </nav>
         <a
           href="https://github.com/sjramblings/aws-ip-ranges"
