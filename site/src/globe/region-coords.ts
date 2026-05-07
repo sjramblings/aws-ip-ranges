@@ -14,11 +14,11 @@ export const REGION_COORDS: Record<string, [number, number]> = {
   "us-south-1":     [-95.36, 29.76],   // Houston (announced)
   "ca-central-1":   [-73.57, 45.50],   // Montreal
   "ca-west-1":      [-114.07, 51.04],  // Calgary
-  "mx-central-1":   [-99.13, 19.43],   // Mexico City
+  "mx-central-1":   [-100.39, 20.59],  // Querétaro (Mexico Central)
 
   // South America
   "sa-east-1":      [-46.63, -23.55],  // São Paulo
-  "sa-west-1":      [-58.38, -34.61],  // Buenos Aires (announced)
+  "sa-west-1":      [-70.65, -33.46],  // Santiago (Chile, announced)
 
   // Europe
   "eu-west-1":      [-6.27, 53.35],    // Dublin
@@ -28,8 +28,8 @@ export const REGION_COORDS: Record<string, [number, number]> = {
   "eu-central-2":   [8.55, 47.37],     // Zurich
   "eu-north-1":     [18.07, 59.33],    // Stockholm
   "eu-south-1":     [9.19, 45.46],     // Milan
-  "eu-south-2":     [-3.70, 40.42],    // Madrid
-  "eusc-de-east-1": [13.40, 52.52],    // Berlin (European Sovereign Cloud)
+  "eu-south-2":     [-0.88, 41.66],    // Zaragoza (Spain — Aragón)
+  "eusc-de-east-1": [12.55, 52.41],    // Brandenburg (European Sovereign Cloud)
 
   // Middle East / Africa
   "me-central-1":   [54.37, 24.47],    // Abu Dhabi
@@ -39,7 +39,7 @@ export const REGION_COORDS: Record<string, [number, number]> = {
 
   // Asia / Pacific
   "ap-east-1":      [114.17, 22.32],   // Hong Kong
-  "ap-east-2":      [121.56, 25.04],   // Taipei (announced)
+  "ap-east-2":      [121.56, 25.04],   // Taipei (Taiwan)
   "ap-south-1":     [72.88, 19.08],    // Mumbai
   "ap-south-2":     [78.49, 17.39],    // Hyderabad
   "ap-northeast-1": [139.76, 35.68],   // Tokyo
@@ -50,7 +50,7 @@ export const REGION_COORDS: Record<string, [number, number]> = {
   "ap-southeast-3": [106.85, -6.21],   // Jakarta
   "ap-southeast-4": [144.96, -37.81],  // Melbourne
   "ap-southeast-5": [101.69, 3.14],    // Kuala Lumpur (Malaysia)
-  "ap-southeast-6": [149.13, -35.28],  // Canberra (announced)
+  "ap-southeast-6": [174.76, -36.85],  // Auckland (New Zealand)
   "ap-southeast-7": [100.50, 13.76],   // Bangkok (Thailand)
 
   // China (separate AWS partition — included for completeness)
