@@ -7465,6 +7465,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.62.0/24 | AMAZON | us-east-1 |
   | 52.93.127.183/32 | AMAZON | us-east-1 |
   | 3.2.2.0/24 | AMAZON | us-east-1-mia-1 |
+  | 23.228.247.0/24 | AMAZON | us-east-1 |
   | 64.252.66.0/24 | AMAZON | us-east-1 |
   | 69.107.11.144/29 | AMAZON | us-east-1 |
   | 15.230.157.0/24 | AMAZON | us-east-1 |
@@ -8062,6 +8063,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.88.0.0/14 | EC2 | us-east-1 |
   | 173.83.200.0/22 | EC2 | us-east-1 |
   | 3.2.2.0/24 | EC2 | us-east-1-mia-1 |
+  | 23.228.247.0/24 | EC2 | us-east-1 |
   | 64.252.66.0/24 | EC2 | us-east-1 |
   | 3.3.5.0/24 | EC2 | us-east-1 |
   | 52.2.0.0/15 | EC2 | us-east-1 |
@@ -9251,9 +9253,15 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 23.254.32.0/21 | AMAZON | us-south-1 |
+  | 15.190.176.0/20 | AMAZON | us-south-1 |
+  | 46.168.0.0/15 | AMAZON | us-south-1 |
+  | 15.190.224.0/22 | AMAZON | us-south-1 |
   | 1.179.103.0/24 | AMAZON | us-south-1 |
   | 15.177.108.0/24 | AMAZON | us-south-1 |
   | 15.177.108.0/24 | ROUTE53_HEALTHCHECKS | us-south-1 |
+  | 23.254.32.0/21 | EC2 | us-south-1 |
+  | 46.168.0.0/15 | EC2 | us-south-1 |
   | 1.179.103.0/24 | EC2 | us-south-1 |
   | 15.177.108.0/24 | EC2 | us-south-1 |
 </details>
