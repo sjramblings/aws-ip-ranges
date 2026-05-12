@@ -6134,6 +6134,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.29.128/28 | AMAZON | eusc-de-east-1 |
   | 51.0.136.0/23 | AMAZON | eusc-de-east-1 |
   | 51.0.251.0/24 | AMAZON | eusc-de-east-1 |
+  | 51.74.128.0/18 | AMAZON | eusc-de-east-1 |
   | 51.0.138.0/23 | AMAZON | eusc-de-east-1 |
   | 51.0.29.0/28 | AMAZON | eusc-de-east-1 |
   | 150.222.54.32/27 | AMAZON | eusc-de-east-1 |
@@ -6164,6 +6165,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.29.128/28 | EC2 | eusc-de-east-1 |
   | 51.0.136.0/23 | EC2 | eusc-de-east-1 |
   | 51.0.251.0/24 | EC2 | eusc-de-east-1 |
+  | 51.74.128.0/18 | EC2 | eusc-de-east-1 |
   | 51.0.138.0/23 | EC2 | eusc-de-east-1 |
   | 51.74.0.0/20 | EC2 | eusc-de-east-1 |
   | 83.118.240.0/22 | EC2 | eusc-de-east-1 |
@@ -6811,6 +6813,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.229.220.128/26 | AMAZON | sa-east-1 |
   | 18.230.46.128/26 | AMAZON | sa-east-1 |
   | 54.20.12.0/23 | AMAZON | sa-east-1 |
+  | 54.20.50.0/23 | AMAZON | sa-east-1 |
   | 99.77.234.0/24 | CHIME_VOICECONNECTOR | sa-east-1 |
   | 177.71.207.128/26 | ROUTE53_HEALTHCHECKS | sa-east-1 |
   | 54.232.40.64/26 | ROUTE53_HEALTHCHECKS | sa-east-1 |
@@ -9253,13 +9256,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 52.94.250.192/28 | AMAZON | us-south-1 |
   | 23.254.32.0/21 | AMAZON | us-south-1 |
   | 15.190.176.0/20 | AMAZON | us-south-1 |
   | 46.168.0.0/15 | AMAZON | us-south-1 |
   | 15.190.224.0/22 | AMAZON | us-south-1 |
+  | 76.223.170.144/28 | AMAZON | us-south-1 |
   | 1.179.103.0/24 | AMAZON | us-south-1 |
   | 15.177.108.0/24 | AMAZON | us-south-1 |
   | 15.177.108.0/24 | ROUTE53_HEALTHCHECKS | us-south-1 |
+  | 52.94.250.192/28 | EC2 | us-south-1 |
   | 23.254.32.0/21 | EC2 | us-south-1 |
   | 46.168.0.0/15 | EC2 | us-south-1 |
   | 1.179.103.0/24 | EC2 | us-south-1 |

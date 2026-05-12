@@ -35717,6 +35717,12 @@
         "network_border_group": "eusc-de-east-1"
       },
       {
+        "ip_prefix": "51.74.128.0/18",
+        "region": "eusc-de-east-1",
+        "service": "AMAZON",
+        "network_border_group": "eusc-de-east-1"
+      },
+      {
         "ip_prefix": "51.0.138.0/23",
         "region": "eusc-de-east-1",
         "service": "AMAZON",
@@ -35892,6 +35898,12 @@
       },
       {
         "ip_prefix": "51.0.251.0/24",
+        "region": "eusc-de-east-1",
+        "service": "EC2",
+        "network_border_group": "eusc-de-east-1"
+      },
+      {
+        "ip_prefix": "51.74.128.0/18",
         "region": "eusc-de-east-1",
         "service": "EC2",
         "network_border_group": "eusc-de-east-1"
@@ -39552,6 +39564,12 @@
       },
       {
         "ip_prefix": "54.20.12.0/23",
+        "region": "sa-east-1",
+        "service": "AMAZON",
+        "network_border_group": "sa-east-1"
+      },
+      {
+        "ip_prefix": "54.20.50.0/23",
         "region": "sa-east-1",
         "service": "AMAZON",
         "network_border_group": "sa-east-1"
@@ -53987,6 +54005,12 @@
     "region": "us-south-1",
     "prefixes": [
       {
+        "ip_prefix": "52.94.250.192/28",
+        "region": "us-south-1",
+        "service": "AMAZON",
+        "network_border_group": "us-south-1"
+      },
+      {
         "ip_prefix": "23.254.32.0/21",
         "region": "us-south-1",
         "service": "AMAZON",
@@ -54011,6 +54035,12 @@
         "network_border_group": "us-south-1"
       },
       {
+        "ip_prefix": "76.223.170.144/28",
+        "region": "us-south-1",
+        "service": "AMAZON",
+        "network_border_group": "us-south-1"
+      },
+      {
         "ip_prefix": "1.179.103.0/24",
         "region": "us-south-1",
         "service": "AMAZON",
@@ -54026,6 +54056,12 @@
         "ip_prefix": "15.177.108.0/24",
         "region": "us-south-1",
         "service": "ROUTE53_HEALTHCHECKS",
+        "network_border_group": "us-south-1"
+      },
+      {
+        "ip_prefix": "52.94.250.192/28",
+        "region": "us-south-1",
+        "service": "EC2",
         "network_border_group": "us-south-1"
       },
       {
