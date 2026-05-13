@@ -116,6 +116,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 23.160.0.0/24 | AMAZON | GLOBAL |
   | 52.95.110.0/24 | AMAZON | GLOBAL |
   | 18.154.0.0/15 | AMAZON | GLOBAL |
+  | 1.178.180.0/22 | AMAZON | GLOBAL |
   | 3.173.0.0/17 | AMAZON | GLOBAL |
   | 15.197.28.0/23 | AMAZON | GLOBAL |
   | 54.240.128.0/18 | AMAZON | GLOBAL |
@@ -260,6 +261,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.97.0.0/20 | EC2 | GLOBAL |
   | 54.25.32.0/19 | EC2 | GLOBAL |
   | 216.39.168.0/21 | EC2 | GLOBAL |
+  | 1.178.180.0/22 | EC2 | GLOBAL |
   | 23.228.198.0/24 | EC2 | GLOBAL |
   | 51.0.112.0/21 | EC2 | GLOBAL |
   | 23.228.196.0/24 | EC2 | GLOBAL |
@@ -7048,6 +7050,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 155.146.224.0/20 | AMAZON | us-east-1-wl1-msp-wlz-1 |
   | 15.230.169.6/31 | AMAZON | us-east-1 |
   | 52.93.84.192/32 | AMAZON | us-east-1 |
+  | 136.18.168.0/21 | AMAZON | us-east-1 |
   | 52.93.84.194/32 | AMAZON | us-east-1 |
   | 54.156.0.0/14 | AMAZON | us-east-1 |
   | 54.236.0.0/15 | AMAZON | us-east-1 |
@@ -7655,6 +7658,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 198.41.100.0/24 | AMAZON | us-east-1-iah-2 |
   | 52.93.51.0/24 | AMAZON | us-east-1 |
   | 136.18.33.0/24 | AMAZON | us-east-1 |
+  | 136.18.162.0/23 | AMAZON | us-east-1 |
   | 204.87.185.0/24 | AMAZON | us-east-1 |
   | 16.182.0.0/16 | AMAZON | us-east-1 |
   | 150.222.32.0/24 | AMAZON | us-east-1 |
@@ -7896,6 +7900,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.120.0/21 | EC2 | us-east-1-bue-1 |
   | 16.15.156.0/22 | EC2 | us-east-1 |
   | 155.146.224.0/20 | EC2 | us-east-1-wl1-msp-wlz-1 |
+  | 136.18.168.0/21 | EC2 | us-east-1 |
   | 54.156.0.0/14 | EC2 | us-east-1 |
   | 54.236.0.0/15 | EC2 | us-east-1 |
   | 99.150.8.0/21 | EC2 | us-east-1 |
@@ -8137,6 +8142,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.239.103.128/26 | EC2 | us-east-1 |
   | 96.0.104.0/22 | EC2 | us-east-1-phl-1 |
   | 198.41.100.0/24 | EC2 | us-east-1-iah-2 |
+  | 136.18.162.0/23 | EC2 | us-east-1 |
   | 204.87.185.0/24 | EC2 | us-east-1 |
   | 15.129.52.0/22 | EC2 | us-east-1 |
   | 64.252.67.0/24 | EC2 | us-east-1 |
