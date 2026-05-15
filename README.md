@@ -588,8 +588,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.202.0/23 | EC2 | af-south-1 |
   | 15.193.10.0/24 | AMAZON_CONNECT | af-south-1 |
   | 15.177.91.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | af-south-1 |
-  | 13.245.155.128/27 | CLOUD9 | af-south-1 |
-  | 13.245.155.224/27 | CLOUD9 | af-south-1 |
   | 13.244.202.40/29 | CODEBUILD | af-south-1 |
   | 13.245.166.176/29 | CODEBUILD | af-south-1 |
   | 13.244.132.0/23 | API_GATEWAY | af-south-1 |
@@ -607,6 +605,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.245.93.160/29 | EBS | af-south-1 |
   | 13.247.50.244/31 | EBS | af-south-1 |
   | 13.247.50.248/30 | EBS | af-south-1 |
+  | 13.245.155.128/27 | CLOUD9 | af-south-1 |
+  | 13.245.155.224/27 | CLOUD9 | af-south-1 |
   | 13.244.121.196/30 | EC2_INSTANCE_CONNECT | af-south-1 |
   | 13.247.76.100/30 | KINESIS_VIDEO_STREAMS | af-south-1 |
   | 13.247.76.96/31 | KINESIS_VIDEO_STREAMS | af-south-1 |
@@ -732,8 +732,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.83.96.0/24 | GLOBALACCELERATOR | ap-east-1 |
   | 15.177.86.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-east-1 |
   | 15.177.85.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-east-1 |
-  | 18.163.139.32/27 | CLOUD9 | ap-east-1 |
-  | 18.163.201.96/27 | CLOUD9 | ap-east-1 |
   | 16.162.162.96/29 | CODEBUILD | ap-east-1 |
   | 16.162.52.0/24 | API_GATEWAY | ap-east-1 |
   | 16.163.196.0/22 | API_GATEWAY | ap-east-1 |
@@ -756,6 +754,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.167.88.80/30 | EBS | ap-east-1 |
   | 43.199.26.42/31 | EBS | ap-east-1 |
   | 43.199.26.44/30 | EBS | ap-east-1 |
+  | 18.163.139.32/27 | CLOUD9 | ap-east-1 |
+  | 18.163.201.96/27 | CLOUD9 | ap-east-1 |
   | 43.198.192.104/29 | EC2_INSTANCE_CONNECT | ap-east-1 |
   | 43.199.26.124/31 | KINESIS_VIDEO_STREAMS | ap-east-1 |
   | 43.199.26.128/30 | KINESIS_VIDEO_STREAMS | ap-east-1 |
@@ -1191,8 +1191,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.193.1.0/24 | AMAZON_CONNECT | ap-northeast-1 |
   | 18.182.96.64/26 | AMAZON_CONNECT | ap-northeast-1 |
   | 15.177.79.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-northeast-1 |
-  | 18.179.48.128/27 | CLOUD9 | ap-northeast-1 |
-  | 18.179.48.96/27 | CLOUD9 | ap-northeast-1 |
   | 13.112.191.184/29 | CODEBUILD | ap-northeast-1 |
   | 35.75.131.80/29 | CODEBUILD | ap-northeast-1 |
   | 18.180.88.0/23 | API_GATEWAY | ap-northeast-1 |
@@ -1236,6 +1234,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 57.181.142.164/31 | EBS | ap-northeast-1 |
   | 57.181.142.168/30 | EBS | ap-northeast-1 |
   | 57.181.142.182/31 | EBS | ap-northeast-1 |
+  | 18.179.48.128/27 | CLOUD9 | ap-northeast-1 |
+  | 18.179.48.96/27 | CLOUD9 | ap-northeast-1 |
   | 3.112.23.0/29 | EC2_INSTANCE_CONNECT | ap-northeast-1 |
   | 35.72.36.140/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
   | 35.72.36.142/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
@@ -1452,8 +1452,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.193.9.0/24 | AMAZON_CONNECT | ap-northeast-2 |
   | 15.177.76.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-northeast-2 |
   | 13.124.199.0/24 | CLOUDFRONT_ORIGIN_FACING | ap-northeast-2 |
-  | 15.164.243.192/27 | CLOUD9 | ap-northeast-2 |
-  | 15.164.243.32/27 | CLOUD9 | ap-northeast-2 |
   | 13.124.145.16/29 | CODEBUILD | ap-northeast-2 |
   | 3.38.90.8/29 | CODEBUILD | ap-northeast-2 |
   | 15.164.156.0/23 | API_GATEWAY | ap-northeast-2 |
@@ -1494,6 +1492,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.36.245.204/30 | EBS | ap-northeast-2 |
   | 43.202.108.242/31 | EBS | ap-northeast-2 |
   | 43.202.213.128/30 | EBS | ap-northeast-2 |
+  | 15.164.243.192/27 | CLOUD9 | ap-northeast-2 |
+  | 15.164.243.32/27 | CLOUD9 | ap-northeast-2 |
   | 13.209.1.56/29 | EC2_INSTANCE_CONNECT | ap-northeast-2 |
   | 43.202.213.132/31 | KINESIS_VIDEO_STREAMS | ap-northeast-2 |
   | 43.202.213.136/30 | KINESIS_VIDEO_STREAMS | ap-northeast-2 |
@@ -1628,8 +1628,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.83.100.0/24 | GLOBALACCELERATOR | ap-northeast-3 |
   | 15.193.11.0/24 | AMAZON_CONNECT | ap-northeast-3 |
   | 15.177.77.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-northeast-3 |
-  | 15.152.24.0/27 | CLOUD9 | ap-northeast-3 |
-  | 15.152.24.32/27 | CLOUD9 | ap-northeast-3 |
   | 15.152.24.128/29 | CODEBUILD | ap-northeast-3 |
   | 13.208.180.0/24 | API_GATEWAY | ap-northeast-3 |
   | 13.208.194.0/23 | API_GATEWAY | ap-northeast-3 |
@@ -1661,6 +1659,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.208.228.136/30 | EBS | ap-northeast-3 |
   | 15.152.133.252/31 | EBS | ap-northeast-3 |
   | 15.168.105.168/30 | EBS | ap-northeast-3 |
+  | 15.152.24.0/27 | CLOUD9 | ap-northeast-3 |
+  | 15.152.24.32/27 | CLOUD9 | ap-northeast-3 |
   | 15.168.105.160/29 | EC2_INSTANCE_CONNECT | ap-northeast-3 |
   | 18.96.17.0/25 | AURORA_DSQL | ap-northeast-3 |
   | 15.168.105.144/29 | MEDIA_PACKAGE_V2 | ap-northeast-3 |
@@ -1923,8 +1923,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.160.0/24 | GLOBALACCELERATOR | ap-south-1 |
   | 15.193.0.0/24 | AMAZON_CONNECT | ap-south-1 |
   | 15.177.73.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-south-1 |
-  | 13.232.67.128/27 | CLOUD9 | ap-south-1 |
-  | 13.232.67.160/27 | CLOUD9 | ap-south-1 |
   | 13.127.70.136/29 | CODEBUILD | ap-south-1 |
   | 3.109.72.152/29 | CODEBUILD | ap-south-1 |
   | 13.200.140.0/23 | API_GATEWAY | ap-south-1 |
@@ -1957,6 +1955,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.200.142.82/31 | EBS | ap-south-1 |
   | 65.1.103.192/29 | EBS | ap-south-1 |
   | 65.1.103.200/30 | EBS | ap-south-1 |
+  | 13.232.67.128/27 | CLOUD9 | ap-south-1 |
+  | 13.232.67.160/27 | CLOUD9 | ap-south-1 |
   | 13.233.177.0/29 | EC2_INSTANCE_CONNECT | ap-south-1 |
   | 13.200.142.116/31 | KINESIS_VIDEO_STREAMS | ap-south-1 |
   | 13.201.195.64/30 | KINESIS_VIDEO_STREAMS | ap-south-1 |
@@ -2421,8 +2421,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.107.0/24 | GLOBALACCELERATOR | ap-southeast-1 |
   | 15.193.2.0/24 | AMAZON_CONNECT | ap-southeast-1 |
   | 15.177.82.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-1 |
-  | 13.250.186.128/27 | CLOUD9 | ap-southeast-1 |
-  | 13.250.186.160/27 | CLOUD9 | ap-southeast-1 |
   | 13.213.75.224/29 | CODEBUILD | ap-southeast-1 |
   | 52.221.221.128/29 | CODEBUILD | ap-southeast-1 |
   | 13.214.224.0/23 | API_GATEWAY | ap-southeast-1 |
@@ -2459,6 +2457,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.213.20.136/29 | EBS | ap-southeast-1 |
   | 47.128.82.100/31 | EBS | ap-southeast-1 |
   | 47.129.23.128/30 | EBS | ap-southeast-1 |
+  | 13.250.186.128/27 | CLOUD9 | ap-southeast-1 |
+  | 13.250.186.160/27 | CLOUD9 | ap-southeast-1 |
   | 3.0.5.32/29 | EC2_INSTANCE_CONNECT | ap-southeast-1 |
   | 47.128.82.102/31 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
   | 47.129.23.132/30 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
@@ -2753,8 +2753,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.210.2.192/26 | AMAZON_CONNECT | ap-southeast-2 |
   | 13.236.8.0/25 | AMAZON_CONNECT | ap-southeast-2 |
   | 15.177.83.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-2 |
-  | 13.236.82.128/27 | CLOUD9 | ap-southeast-2 |
-  | 13.236.82.96/27 | CLOUD9 | ap-southeast-2 |
   | 13.55.255.216/29 | CODEBUILD | ap-southeast-2 |
   | 3.26.127.24/29 | CODEBUILD | ap-southeast-2 |
   | 3.105.172.0/22 | API_GATEWAY | ap-southeast-2 |
@@ -2785,6 +2783,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.107.11.164/30 | EBS | ap-southeast-2 |
   | 3.26.82.236/30 | EBS | ap-southeast-2 |
   | 3.26.82.240/29 | EBS | ap-southeast-2 |
+  | 13.236.82.128/27 | CLOUD9 | ap-southeast-2 |
+  | 13.236.82.96/27 | CLOUD9 | ap-southeast-2 |
   | 13.239.158.0/29 | EC2_INSTANCE_CONNECT | ap-southeast-2 |
   | 3.107.30.180/31 | KINESIS_VIDEO_STREAMS | ap-southeast-2 |
   | 3.107.30.184/30 | KINESIS_VIDEO_STREAMS | ap-southeast-2 |
@@ -3384,8 +3384,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.126.0/24 | GLOBALACCELERATOR | ca-central-1 |
   | 15.193.8.0/24 | AMAZON_CONNECT | ca-central-1 |
   | 15.177.84.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ca-central-1 |
-  | 15.222.16.96/27 | CLOUD9 | ca-central-1 |
-  | 15.222.43.0/27 | CLOUD9 | ca-central-1 |
   | 3.98.171.224/29 | CODEBUILD | ca-central-1 |
   | 35.182.14.48/29 | CODEBUILD | ca-central-1 |
   | 15.223.52.0/23 | API_GATEWAY | ca-central-1 |
@@ -3419,6 +3417,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.157.167.28/30 | EBS | ca-central-1 |
   | 3.97.192.112/29 | EBS | ca-central-1 |
   | 3.98.171.92/30 | EBS | ca-central-1 |
+  | 15.222.16.96/27 | CLOUD9 | ca-central-1 |
+  | 15.222.43.0/27 | CLOUD9 | ca-central-1 |
   | 35.183.92.176/29 | EC2_INSTANCE_CONNECT | ca-central-1 |
   | 15.157.167.134/31 | KINESIS_VIDEO_STREAMS | ca-central-1 |
   | 15.157.167.136/30 | KINESIS_VIDEO_STREAMS | ca-central-1 |
@@ -3608,10 +3608,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.222.58.32/28 | EC2 | cn-north-1 |
   | 54.222.32.0/22 | ROUTE53 | cn-north-1 |
   | 54.222.36.0/22 | ROUTE53 | cn-north-1 |
-  | 140.179.1.64/27 | CLOUD9 | cn-north-1 |
-  | 140.179.1.96/27 | CLOUD9 | cn-north-1 |
-  | 140.179.79.160/27 | CLOUD9 | cn-north-1 |
-  | 140.179.79.192/27 | CLOUD9 | cn-north-1 |
   | 140.179.113.248/29 | CODEBUILD | cn-north-1 |
   | 52.80.198.136/29 | CODEBUILD | cn-north-1 |
   | 140.179.144.128/25 | API_GATEWAY | cn-north-1 |
@@ -3639,6 +3635,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 140.179.58.88/29 | EBS | cn-north-1 |
   | 140.179.79.244/30 | EBS | cn-north-1 |
   | 43.196.20.176/30 | EBS | cn-north-1 |
+  | 140.179.79.160/27 | CLOUD9 | cn-north-1 |
+  | 140.179.79.192/27 | CLOUD9 | cn-north-1 |
   | 43.196.20.40/29 | EC2_INSTANCE_CONNECT | cn-north-1 |
   | 43.196.24.4/31 | KINESIS_VIDEO_STREAMS | cn-north-1 |
   | 43.196.24.8/30 | KINESIS_VIDEO_STREAMS | cn-north-1 |
@@ -3741,8 +3739,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.193.64.0/24 | EC2 | cn-northwest-1 |
   | 52.82.176.0/22 | ROUTE53 | cn-northwest-1 |
   | 52.82.180.0/22 | ROUTE53 | cn-northwest-1 |
-  | 52.83.25.128/27 | CLOUD9 | cn-northwest-1 |
-  | 52.83.25.160/27 | CLOUD9 | cn-northwest-1 |
   | 52.82.1.0/29 | CODEBUILD | cn-northwest-1 |
   | 69.234.197.72/29 | CODEBUILD | cn-northwest-1 |
   | 161.189.148.0/23 | API_GATEWAY | cn-northwest-1 |
@@ -3771,6 +3767,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.192.155.140/30 | EBS | cn-northwest-1 |
   | 68.79.2.244/30 | EBS | cn-northwest-1 |
   | 68.79.2.248/29 | EBS | cn-northwest-1 |
+  | 52.83.25.160/27 | CLOUD9 | cn-northwest-1 |
   | 43.192.155.8/29 | EC2_INSTANCE_CONNECT | cn-northwest-1 |
   | 52.82.187.0/24 | DYNAMODB | cn-northwest-1 |
   | 43.193.64.0/24 | DYNAMODB | cn-northwest-1 |
@@ -3946,6 +3943,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.122.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.50/31 | AMAZON | eu-central-1 |
   | 150.222.152.98/32 | AMAZON | eu-central-1 |
+  | 13.248.106.192/28 | AMAZON | eu-central-1 |
   | 150.222.152.32/32 | AMAZON | eu-central-1 |
   | 150.247.32.0/24 | AMAZON | eu-central-1 |
   | 150.222.139.124/30 | AMAZON | eu-central-1 |
@@ -4295,8 +4293,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.184.2.128/25 | AMAZON_CONNECT | eu-central-1 |
   | 35.158.127.64/26 | AMAZON_CONNECT | eu-central-1 |
   | 15.177.68.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-central-1 |
-  | 18.184.138.224/27 | CLOUD9 | eu-central-1 |
-  | 18.184.203.128/27 | CLOUD9 | eu-central-1 |
   | 3.68.251.232/29 | CODEBUILD | eu-central-1 |
   | 35.157.127.248/29 | CODEBUILD | eu-central-1 |
   | 18.153.168.0/23 | API_GATEWAY | eu-central-1 |
@@ -4336,6 +4332,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.153.184.88/30 | EBS | eu-central-1 |
   | 3.64.226.232/29 | EBS | eu-central-1 |
   | 3.64.226.240/30 | EBS | eu-central-1 |
+  | 18.184.138.224/27 | CLOUD9 | eu-central-1 |
+  | 18.184.203.128/27 | CLOUD9 | eu-central-1 |
   | 3.120.181.40/29 | EC2_INSTANCE_CONNECT | eu-central-1 |
   | 18.153.184.142/31 | KINESIS_VIDEO_STREAMS | eu-central-1 |
   | 18.153.184.148/30 | KINESIS_VIDEO_STREAMS | eu-central-1 |
@@ -4603,8 +4601,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.100.0/24 | GLOBALACCELERATOR | eu-north-1 |
   | 13.248.122.0/24 | GLOBALACCELERATOR | eu-north-1 |
   | 15.177.72.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-north-1 |
-  | 13.48.186.128/27 | CLOUD9 | eu-north-1 |
-  | 13.48.186.160/27 | CLOUD9 | eu-north-1 |
   | 13.48.4.192/29 | CODEBUILD | eu-north-1 |
   | 13.51.253.80/29 | CODEBUILD | eu-north-1 |
   | 13.48.74.0/24 | API_GATEWAY | eu-north-1 |
@@ -4631,6 +4627,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.51.71.160/30 | EBS | eu-north-1 |
   | 13.60.1.84/31 | EBS | eu-north-1 |
   | 13.60.1.88/30 | EBS | eu-north-1 |
+  | 13.48.186.128/27 | CLOUD9 | eu-north-1 |
+  | 13.48.186.160/27 | CLOUD9 | eu-north-1 |
   | 13.48.4.200/30 | EC2_INSTANCE_CONNECT | eu-north-1 |
   | 18.99.100.128/25 | AURORA_DSQL | eu-north-1 |
   | 13.50.179.168/29 | MEDIA_PACKAGE_V2 | eu-north-1 |
@@ -4826,8 +4824,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.160.0.0/16 | EC2 | eu-south-1 |
   | 52.94.249.48/28 | EC2 | eu-south-1 |
   | 15.177.90.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-south-1 |
-  | 15.161.135.64/27 | CLOUD9 | eu-south-1 |
-  | 15.161.135.96/27 | CLOUD9 | eu-south-1 |
   | 15.160.55.112/29 | CODEBUILD | eu-south-1 |
   | 15.161.192.240/28 | CODEBUILD | eu-south-1 |
   | 15.161.140.0/23 | API_GATEWAY | eu-south-1 |
@@ -4845,6 +4841,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.102.189.208/30 | EBS | eu-south-1 |
   | 35.152.74.128/29 | EBS | eu-south-1 |
   | 35.152.74.136/30 | EBS | eu-south-1 |
+  | 15.161.135.64/27 | CLOUD9 | eu-south-1 |
+  | 15.161.135.96/27 | CLOUD9 | eu-south-1 |
   | 15.161.135.164/30 | EC2_INSTANCE_CONNECT | eu-south-1 |
   | 35.71.113.0/24 | DYNAMODB | eu-south-1 |
   | 52.94.18.0/24 | DYNAMODB | eu-south-1 |
@@ -5442,8 +5440,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.2.57.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 15.177.89.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-west-1 |
   | 15.177.75.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-west-1 |
-  | 34.245.205.0/27 | CLOUD9 | eu-west-1 |
-  | 34.245.205.64/27 | CLOUD9 | eu-west-1 |
   | 3.251.148.120/29 | CODEBUILD | eu-west-1 |
   | 34.250.63.248/29 | CODEBUILD | eu-west-1 |
   | 108.128.160.0/23 | API_GATEWAY | eu-west-1 |
@@ -5495,6 +5491,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.251.144.0/29 | EBS | eu-west-1 |
   | 3.251.220.215/32 | EBS | eu-west-1 |
   | 54.247.241.96/29 | EBS | eu-west-1 |
+  | 34.245.205.0/27 | CLOUD9 | eu-west-1 |
+  | 34.245.205.64/27 | CLOUD9 | eu-west-1 |
   | 18.202.216.48/29 | EC2_INSTANCE_CONNECT | eu-west-1 |
   | 54.247.243.134/31 | KINESIS_VIDEO_STREAMS | eu-west-1 |
   | 54.247.243.136/30 | KINESIS_VIDEO_STREAMS | eu-west-1 |
@@ -5850,8 +5848,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.101.0/24 | GLOBALACCELERATOR | eu-west-2 |
   | 15.193.5.0/24 | AMAZON_CONNECT | eu-west-2 |
   | 15.177.78.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-west-2 |
-  | 3.10.127.32/27 | CLOUD9 | eu-west-2 |
-  | 3.10.201.64/27 | CLOUD9 | eu-west-2 |
   | 18.169.230.200/29 | CODEBUILD | eu-west-2 |
   | 35.176.92.32/29 | CODEBUILD | eu-west-2 |
   | 13.40.202.0/23 | API_GATEWAY | eu-west-2 |
@@ -5891,6 +5887,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.168.37.144/30 | EBS | eu-west-2 |
   | 18.171.35.212/31 | EBS | eu-west-2 |
   | 18.171.63.32/30 | EBS | eu-west-2 |
+  | 3.10.127.32/27 | CLOUD9 | eu-west-2 |
+  | 3.10.201.64/27 | CLOUD9 | eu-west-2 |
   | 3.8.37.24/29 | EC2_INSTANCE_CONNECT | eu-west-2 |
   | 18.171.35.214/31 | KINESIS_VIDEO_STREAMS | eu-west-2 |
   | 18.171.63.36/30 | KINESIS_VIDEO_STREAMS | eu-west-2 |
@@ -6068,8 +6066,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.47.139.0/24 | CLOUDFRONT | eu-west-3 |
   | 99.82.161.0/24 | GLOBALACCELERATOR | eu-west-3 |
   | 15.177.74.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-west-3 |
-  | 15.188.210.32/27 | CLOUD9 | eu-west-3 |
-  | 15.188.210.64/27 | CLOUD9 | eu-west-3 |
   | 13.36.84.112/29 | CODEBUILD | eu-west-3 |
   | 52.47.73.72/29 | CODEBUILD | eu-west-3 |
   | 13.36.155.0/24 | API_GATEWAY | eu-west-3 |
@@ -6098,6 +6094,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.36.84.24/29 | EBS | eu-west-3 |
   | 13.36.84.32/30 | EBS | eu-west-3 |
   | 13.39.103.180/30 | EBS | eu-west-3 |
+  | 15.188.210.32/27 | CLOUD9 | eu-west-3 |
+  | 15.188.210.64/27 | CLOUD9 | eu-west-3 |
   | 35.180.112.80/29 | EC2_INSTANCE_CONNECT | eu-west-3 |
   | 15.188.210.206/31 | KINESIS_VIDEO_STREAMS | eu-west-3 |
   | 15.237.162.40/30 | KINESIS_VIDEO_STREAMS | eu-west-3 |
@@ -6257,14 +6255,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.16.0.0/15 | EC2 | il-central-1 |
   | 99.151.152.0/21 | EC2 | il-central-1 |
   | 15.177.99.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | il-central-1 |
-  | 51.16.103.32/27 | CLOUD9 | il-central-1 |
-  | 51.16.183.64/27 | CLOUD9 | il-central-1 |
   | 51.16.103.16/28 | CODEBUILD | il-central-1 |
   | 51.16.149.0/24 | API_GATEWAY | il-central-1 |
   | 51.16.150.0/24 | API_GATEWAY | il-central-1 |
   | 51.16.96.192/26 | ROUTE53_RESOLVER | il-central-1 |
   | 51.16.97.0/26 | ROUTE53_RESOLVER | il-central-1 |
   | 51.16.97.64/26 | ROUTE53_RESOLVER | il-central-1 |
+  | 51.16.103.32/27 | CLOUD9 | il-central-1 |
+  | 51.16.183.64/27 | CLOUD9 | il-central-1 |
   | 51.16.183.224/29 | EC2_INSTANCE_CONNECT | il-central-1 |
   | 16.164.22.0/31 | KINESIS_VIDEO_STREAMS | il-central-1 |
   | 16.164.22.4/30 | KINESIS_VIDEO_STREAMS | il-central-1 |
@@ -6411,7 +6409,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.121.8/31 | AMAZON | me-south-1 |
   | 99.82.152.0/22 | AMAZON | me-south-1 |
   | 15.184.0.0/16 | AMAZON | me-south-1 |
-  | 13.248.106.192/28 | AMAZON | me-south-1 |
   | 69.107.7.128/29 | AMAZON | me-south-1 |
   | 69.107.10.104/29 | AMAZON | me-south-1 |
   | 99.78.220.66/32 | AMAZON | me-south-1 |
@@ -6515,8 +6512,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.160.0/21 | EC2 | me-south-1-mct-1 |
   | 3.2.56.0/24 | GLOBALACCELERATOR | me-south-1 |
   | 15.177.87.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | me-south-1 |
-  | 15.185.141.160/27 | CLOUD9 | me-south-1 |
-  | 15.185.91.32/27 | CLOUD9 | me-south-1 |
   | 15.184.184.96/29 | CODEBUILD | me-south-1 |
   | 15.185.144.0/23 | API_GATEWAY | me-south-1 |
   | 157.175.140.0/23 | API_GATEWAY | me-south-1 |
@@ -6538,6 +6533,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.184.125.232/30 | EBS | me-south-1 |
   | 16.24.65.180/31 | EBS | me-south-1 |
   | 16.24.65.184/30 | EBS | me-south-1 |
+  | 15.185.141.160/27 | CLOUD9 | me-south-1 |
+  | 15.185.91.32/27 | CLOUD9 | me-south-1 |
   | 16.24.46.56/29 | EC2_INSTANCE_CONNECT | me-south-1 |
   | 16.24.91.112/30 | KINESIS_VIDEO_STREAMS | me-south-1 |
   | 16.24.91.116/31 | KINESIS_VIDEO_STREAMS | me-south-1 |
@@ -6901,8 +6898,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.104.0/24 | GLOBALACCELERATOR | sa-east-1 |
   | 15.177.88.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | sa-east-1 |
   | 15.177.70.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | sa-east-1 |
-  | 18.230.46.0/27 | CLOUD9 | sa-east-1 |
-  | 18.230.46.32/27 | CLOUD9 | sa-east-1 |
   | 15.228.126.200/29 | CODEBUILD | sa-east-1 |
   | 18.231.194.8/29 | CODEBUILD | sa-east-1 |
   | 15.228.129.0/24 | API_GATEWAY | sa-east-1 |
@@ -6940,6 +6935,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.228.126.48/30 | EBS | sa-east-1 |
   | 15.229.206.194/31 | EBS | sa-east-1 |
   | 15.229.206.196/30 | EBS | sa-east-1 |
+  | 18.230.46.0/27 | CLOUD9 | sa-east-1 |
+  | 18.230.46.32/27 | CLOUD9 | sa-east-1 |
   | 18.228.70.32/29 | EC2_INSTANCE_CONNECT | sa-east-1 |
   | 15.229.206.224/31 | KINESIS_VIDEO_STREAMS | sa-east-1 |
   | 15.229.206.228/30 | KINESIS_VIDEO_STREAMS | sa-east-1 |
@@ -7082,6 +7079,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.25.37/32 | AMAZON | us-east-1 |
   | 150.222.227.0/24 | AMAZON | us-east-1 |
   | 52.119.206.0/23 | AMAZON | us-east-1 |
+  | 104.255.56.49/32 | AMAZON | us-east-1 |
   | 52.93.24.0/21 | AMAZON | us-east-1 |
   | 52.93.127.218/32 | AMAZON | us-east-1 |
   | 64.73.197.0/24 | AMAZON | us-east-1 |
@@ -7471,7 +7469,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.62.0/24 | AMAZON | us-east-1 |
   | 52.93.127.183/32 | AMAZON | us-east-1 |
   | 3.2.2.0/24 | AMAZON | us-east-1-mia-1 |
-  | 23.228.247.0/24 | AMAZON | us-east-1 |
   | 64.252.66.0/24 | AMAZON | us-east-1 |
   | 69.107.11.144/29 | AMAZON | us-east-1 |
   | 15.230.157.0/24 | AMAZON | us-east-1 |
@@ -7516,6 +7513,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.181.242.0/24 | AMAZON | us-east-1-phl-1 |
   | 15.230.245.0/24 | AMAZON | us-east-1 |
   | 54.25.82.0/24 | AMAZON | us-east-1 |
+  | 104.255.56.50/32 | AMAZON | us-east-1 |
   | 199.127.232.0/22 | AMAZON | us-east-1 |
   | 3.4.13.64/28 | AMAZON | us-east-1 |
   | 204.236.192.0/18 | AMAZON | us-east-1 |
@@ -8071,7 +8069,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.88.0.0/14 | EC2 | us-east-1 |
   | 173.83.200.0/22 | EC2 | us-east-1 |
   | 3.2.2.0/24 | EC2 | us-east-1-mia-1 |
-  | 23.228.247.0/24 | EC2 | us-east-1 |
   | 64.252.66.0/24 | EC2 | us-east-1 |
   | 3.3.5.0/24 | EC2 | us-east-1 |
   | 52.2.0.0/15 | EC2 | us-east-1 |
@@ -8206,8 +8203,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.193.6.0/24 | AMAZON_CONNECT | us-east-1 |
   | 52.55.191.224/27 | AMAZON_CONNECT | us-east-1 |
   | 15.177.64.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-east-1 |
-  | 35.172.155.192/27 | CLOUD9 | us-east-1 |
-  | 35.172.155.96/27 | CLOUD9 | us-east-1 |
   | 34.228.4.208/28 | CODEBUILD | us-east-1 |
   | 44.192.245.160/28 | CODEBUILD | us-east-1 |
   | 44.192.255.128/28 | CODEBUILD | us-east-1 |
@@ -8366,6 +8361,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.192.140.128/29 | EBS | us-east-1 |
   | 44.222.159.166/31 | EBS | us-east-1 |
   | 44.222.159.176/28 | EBS | us-east-1 |
+  | 35.172.155.192/27 | CLOUD9 | us-east-1 |
+  | 35.172.155.96/27 | CLOUD9 | us-east-1 |
   | 18.206.107.24/29 | EC2_INSTANCE_CONNECT | us-east-1 |
   | 44.220.189.16/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
   | 44.220.189.20/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
@@ -8961,8 +8958,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.15.127.128/26 | CLOUDFRONT | us-east-2 |
   | 13.248.111.0/24 | GLOBALACCELERATOR | us-east-2 |
   | 15.177.66.0/23 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-east-2 |
-  | 18.188.9.0/27 | CLOUD9 | us-east-2 |
-  | 18.188.9.32/27 | CLOUD9 | us-east-2 |
   | 3.143.206.104/29 | CODEBUILD | us-east-2 |
   | 52.15.247.208/29 | CODEBUILD | us-east-2 |
   | 3.12.216.0/22 | API_GATEWAY | us-east-2 |
@@ -8997,6 +8992,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.141.102.192/30 | EBS | us-east-2 |
   | 3.146.29.66/31 | EBS | us-east-2 |
   | 3.146.42.64/30 | EBS | us-east-2 |
+  | 18.188.9.0/27 | CLOUD9 | us-east-2 |
+  | 18.188.9.32/27 | CLOUD9 | us-east-2 |
   | 3.16.146.0/29 | EC2_INSTANCE_CONNECT | us-east-2 |
   | 3.146.42.74/31 | KINESIS_VIDEO_STREAMS | us-east-2 |
   | 3.146.42.80/30 | KINESIS_VIDEO_STREAMS | us-east-2 |
@@ -9794,8 +9791,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.83.98.0/24 | GLOBALACCELERATOR | us-west-1 |
   | 13.248.99.0/24 | GLOBALACCELERATOR | us-west-1 |
   | 15.177.81.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-west-1 |
-  | 13.52.232.224/27 | CLOUD9 | us-west-1 |
-  | 18.144.158.0/27 | CLOUD9 | us-west-1 |
   | 13.56.32.200/29 | CODEBUILD | us-west-1 |
   | 3.101.177.48/29 | CODEBUILD | us-west-1 |
   | 13.52.201.0/24 | API_GATEWAY | us-west-1 |
@@ -9837,6 +9832,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.101.160.240/29 | EBS | us-west-1 |
   | 3.101.239.34/31 | EBS | us-west-1 |
   | 3.101.239.36/30 | EBS | us-west-1 |
+  | 13.52.232.224/27 | CLOUD9 | us-west-1 |
+  | 18.144.158.0/27 | CLOUD9 | us-west-1 |
   | 13.52.6.112/29 | EC2_INSTANCE_CONNECT | us-west-1 |
   | 3.101.177.20/30 | AMAZON_APPFLOW | us-west-1 |
   | 3.101.52.208/30 | AMAZON_APPFLOW | us-west-1 |
@@ -10416,8 +10413,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.236.61.0/25 | AMAZON_CONNECT | us-west-2 |
   | 54.190.198.32/28 | AMAZON_CONNECT | us-west-2 |
   | 15.177.80.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | us-west-2 |
-  | 34.217.141.224/27 | CLOUD9 | us-west-2 |
-  | 34.218.119.32/27 | CLOUD9 | us-west-2 |
   | 35.82.136.192/29 | CODEBUILD | us-west-2 |
   | 35.83.248.40/29 | CODEBUILD | us-west-2 |
   | 44.242.161.24/29 | CODEBUILD | us-west-2 |
@@ -10489,6 +10484,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.80.36.192/28 | EBS | us-west-2 |
   | 35.94.128.244/31 | EBS | us-west-2 |
   | 35.94.128.248/30 | EBS | us-west-2 |
+  | 34.217.141.224/27 | CLOUD9 | us-west-2 |
+  | 34.218.119.32/27 | CLOUD9 | us-west-2 |
   | 18.237.140.160/29 | EC2_INSTANCE_CONNECT | us-west-2 |
   | 18.246.224.200/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 18.246.224.202/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
