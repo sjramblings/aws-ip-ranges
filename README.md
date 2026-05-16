@@ -9262,6 +9262,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 52.94.250.192/28 | AMAZON | us-south-1 |
   | 23.254.32.0/21 | AMAZON | us-south-1 |
+  | 13.248.82.0/24 | AMAZON | us-south-1 |
   | 15.190.176.0/20 | AMAZON | us-south-1 |
   | 46.168.0.0/15 | AMAZON | us-south-1 |
   | 15.190.224.0/22 | AMAZON | us-south-1 |
@@ -9274,6 +9275,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 46.168.0.0/15 | EC2 | us-south-1 |
   | 1.179.103.0/24 | EC2 | us-south-1 |
   | 15.177.108.0/24 | EC2 | us-south-1 |
+  | 13.248.82.0/24 | DYNAMODB | us-south-1 |
 </details>
 
 <details>

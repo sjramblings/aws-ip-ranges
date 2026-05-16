@@ -54041,6 +54041,12 @@
         "network_border_group": "us-south-1"
       },
       {
+        "ip_prefix": "13.248.82.0/24",
+        "region": "us-south-1",
+        "service": "AMAZON",
+        "network_border_group": "us-south-1"
+      },
+      {
         "ip_prefix": "15.190.176.0/20",
         "region": "us-south-1",
         "service": "AMAZON",
@@ -54110,6 +54116,12 @@
         "ip_prefix": "15.177.108.0/24",
         "region": "us-south-1",
         "service": "EC2",
+        "network_border_group": "us-south-1"
+      },
+      {
+        "ip_prefix": "13.248.82.0/24",
+        "region": "us-south-1",
+        "service": "DYNAMODB",
         "network_border_group": "us-south-1"
       }
     ]
