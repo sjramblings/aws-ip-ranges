@@ -116,7 +116,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 23.160.0.0/24 | AMAZON | GLOBAL |
   | 52.95.110.0/24 | AMAZON | GLOBAL |
   | 18.154.0.0/15 | AMAZON | GLOBAL |
-  | 1.178.180.0/22 | AMAZON | GLOBAL |
   | 3.173.0.0/17 | AMAZON | GLOBAL |
   | 15.197.28.0/23 | AMAZON | GLOBAL |
   | 54.240.128.0/18 | AMAZON | GLOBAL |
@@ -261,7 +260,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.97.0.0/20 | EC2 | GLOBAL |
   | 54.25.32.0/19 | EC2 | GLOBAL |
   | 216.39.168.0/21 | EC2 | GLOBAL |
-  | 1.178.180.0/22 | EC2 | GLOBAL |
   | 23.228.198.0/24 | EC2 | GLOBAL |
   | 51.0.112.0/21 | EC2 | GLOBAL |
   | 23.228.196.0/24 | EC2 | GLOBAL |
@@ -6121,6 +6119,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.74.16.0/24 | AMAZON | eusc-de-east-1 |
   | 150.222.54.0/27 | AMAZON | eusc-de-east-1 |
   | 51.164.0.0/15 | AMAZON | eusc-de-east-1 |
+  | 51.0.250.0/31 | AMAZON | eusc-de-east-1 |
   | 51.0.128.0/21 | AMAZON | eusc-de-east-1 |
   | 51.72.0.0/15 | AMAZON | eusc-de-east-1 |
   | 51.166.0.0/15 | AMAZON | eusc-de-east-1 |
@@ -7244,7 +7243,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.0.0.0/15 | AMAZON | us-east-1 |
   | 208.110.48.0/20 | AMAZON | us-east-1 |
   | 15.230.254.4/32 | AMAZON | us-east-1 |
-  | 64.73.195.0/24 | AMAZON | us-east-1 |
   | 151.148.36.0/24 | AMAZON | us-east-1 |
   | 52.54.0.0/15 | AMAZON | us-east-1 |
   | 52.93.3.0/24 | AMAZON | us-east-1 |
@@ -7970,7 +7968,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.220.176.0/21 | EC2 | us-east-1-qro-1 |
   | 52.0.0.0/15 | EC2 | us-east-1 |
   | 208.110.48.0/20 | EC2 | us-east-1 |
-  | 64.73.195.0/24 | EC2 | us-east-1 |
   | 151.148.36.0/24 | EC2 | us-east-1 |
   | 52.54.0.0/15 | EC2 | us-east-1 |
   | 64.73.198.0/24 | EC2 | us-east-1 |
@@ -8811,6 +8808,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.71.128/26 | AMAZON | us-east-2 |
   | 52.93.199.37/32 | AMAZON | us-east-2 |
   | 16.58.2.0/23 | AMAZON | us-east-2 |
+  | 18.226.2.0/23 | AMAZON | us-east-2 |
   | 3.12.23.128/26 | AMAZON | us-east-2 |
   | 3.128.56.128/26 | AMAZON | us-east-2 |
   | 3.128.56.192/26 | AMAZON | us-east-2 |

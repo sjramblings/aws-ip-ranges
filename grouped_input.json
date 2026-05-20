@@ -645,12 +645,6 @@
         "network_border_group": "GLOBAL"
       },
       {
-        "ip_prefix": "1.178.180.0/22",
-        "region": "GLOBAL",
-        "service": "AMAZON",
-        "network_border_group": "GLOBAL"
-      },
-      {
         "ip_prefix": "3.173.0.0/17",
         "region": "GLOBAL",
         "service": "AMAZON",
@@ -1510,12 +1504,6 @@
       },
       {
         "ip_prefix": "216.39.168.0/21",
-        "region": "GLOBAL",
-        "service": "EC2",
-        "network_border_group": "GLOBAL"
-      },
-      {
-        "ip_prefix": "1.178.180.0/22",
         "region": "GLOBAL",
         "service": "EC2",
         "network_border_group": "GLOBAL"
@@ -35639,6 +35627,12 @@
         "network_border_group": "eusc-de-east-1"
       },
       {
+        "ip_prefix": "51.0.250.0/31",
+        "region": "eusc-de-east-1",
+        "service": "AMAZON",
+        "network_border_group": "eusc-de-east-1"
+      },
+      {
         "ip_prefix": "51.0.128.0/21",
         "region": "eusc-de-east-1",
         "service": "AMAZON",
@@ -42081,12 +42075,6 @@
         "network_border_group": "us-east-1"
       },
       {
-        "ip_prefix": "64.73.195.0/24",
-        "region": "us-east-1",
-        "service": "AMAZON",
-        "network_border_group": "us-east-1"
-      },
-      {
         "ip_prefix": "151.148.36.0/24",
         "region": "us-east-1",
         "service": "AMAZON",
@@ -46432,12 +46420,6 @@
       },
       {
         "ip_prefix": "208.110.48.0/20",
-        "region": "us-east-1",
-        "service": "EC2",
-        "network_border_group": "us-east-1"
-      },
-      {
-        "ip_prefix": "64.73.195.0/24",
         "region": "us-east-1",
         "service": "EC2",
         "network_border_group": "us-east-1"
@@ -51441,6 +51423,12 @@
       },
       {
         "ip_prefix": "16.58.2.0/23",
+        "region": "us-east-2",
+        "service": "AMAZON",
+        "network_border_group": "us-east-2"
+      },
+      {
+        "ip_prefix": "18.226.2.0/23",
         "region": "us-east-2",
         "service": "AMAZON",
         "network_border_group": "us-east-2"
