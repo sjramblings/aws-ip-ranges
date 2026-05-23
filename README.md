@@ -2292,6 +2292,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 47.129.81.64/26 | AMAZON | ap-southeast-1 |
   | 47.129.90.0/24 | AMAZON | ap-southeast-1 |
   | 47.130.7.128/25 | AMAZON | ap-southeast-1 |
+  | 47.131.230.0/23 | AMAZON | ap-southeast-1 |
   | 99.77.240.0/24 | CHIME_VOICECONNECTOR | ap-southeast-1 |
   | 54.251.31.128/26 | ROUTE53_HEALTHCHECKS | ap-southeast-1 |
   | 54.255.254.192/26 | ROUTE53_HEALTHCHECKS | ap-southeast-1 |
