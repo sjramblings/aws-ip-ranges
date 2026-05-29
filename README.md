@@ -1108,6 +1108,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.250.0.0/16 | EC2 | ap-northeast-1 |
   | 35.50.226.0/24 | EC2 | ap-northeast-1 |
   | 35.55.2.0/24 | EC2 | ap-northeast-1 |
+  | 13.196.0.0/14 | EC2 | ap-northeast-1 |
   | 13.192.0.0/16 | EC2 | ap-northeast-1 |
   | 54.92.0.0/17 | EC2 | ap-northeast-1 |
   | 3.112.0.0/14 | EC2 | ap-northeast-1 |
