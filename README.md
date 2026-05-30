@@ -1908,6 +1908,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.151.136.0/21 | EC2 | ap-south-1 |
   | 3.2.69.0/24 | EC2 | ap-south-1 |
   | 142.4.180.0/24 | EC2 | ap-south-1 |
+  | 15.252.0.0/16 | EC2 | ap-south-1 |
   | 99.77.145.0/24 | EC2 | ap-south-1 |
   | 64.252.99.0/24 | EC2 | ap-south-1 |
   | 15.220.128.0/21 | EC2 | ap-south-1-del-1 |
@@ -3377,6 +3378,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.156.0.0/15 | EC2 | ca-central-1 |
   | 52.95.250.0/24 | EC2 | ca-central-1 |
   | 35.54.53.0/24 | EC2 | ca-central-1 |
+  | 15.175.0.0/16 | EC2 | ca-central-1 |
   | 16.54.0.0/15 | EC2 | ca-central-1 |
   | 161.193.128.0/18 | EC2 | ca-central-1 |
   | 15.193.8.0/24 | EC2 | ca-central-1 |
