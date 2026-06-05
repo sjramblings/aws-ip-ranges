@@ -72,6 +72,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.4.8.0/24 | AMAZON | GLOBAL |
   | 52.223.0.0/17 | AMAZON | GLOBAL |
   | 23.228.221.0/24 | AMAZON | GLOBAL |
+  | 23.228.248.0/24 | AMAZON | GLOBAL |
   | 185.42.204.0/22 | AMAZON | GLOBAL |
   | 58.254.138.0/25 | AMAZON | GLOBAL |
   | 205.251.206.0/23 | AMAZON | GLOBAL |
@@ -191,6 +192,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 204.246.174.0/23 | AMAZON | GLOBAL |
   | 3.164.128.0/17 | AMAZON | GLOBAL |
   | 15.197.3.0/24 | AMAZON | GLOBAL |
+  | 24.110.128.0/17 | AMAZON | GLOBAL |
   | 3.172.0.0/18 | AMAZON | GLOBAL |
   | 36.103.232.0/25 | AMAZON | GLOBAL |
   | 51.0.104.0/21 | AMAZON | GLOBAL |
@@ -312,6 +314,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 65.9.128.0/18 | CLOUDFRONT | GLOBAL |
   | 130.176.128.0/18 | CLOUDFRONT | GLOBAL |
   | 23.228.221.0/24 | CLOUDFRONT | GLOBAL |
+  | 23.228.248.0/24 | CLOUDFRONT | GLOBAL |
   | 58.254.138.0/25 | CLOUDFRONT | GLOBAL |
   | 205.251.206.0/23 | CLOUDFRONT | GLOBAL |
   | 54.230.208.0/20 | CLOUDFRONT | GLOBAL |
@@ -373,6 +376,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.35.0.0/16 | CLOUDFRONT | GLOBAL |
   | 204.246.174.0/23 | CLOUDFRONT | GLOBAL |
   | 3.164.128.0/17 | CLOUDFRONT | GLOBAL |
+  | 24.110.128.0/17 | CLOUDFRONT | GLOBAL |
   | 3.172.0.0/18 | CLOUDFRONT | GLOBAL |
   | 36.103.232.0/25 | CLOUDFRONT | GLOBAL |
   | 119.147.182.128/26 | CLOUDFRONT | GLOBAL |
@@ -637,6 +641,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.249.47.0/24 | AMAZON | ap-east-1 |
   | 52.119.248.0/24 | AMAZON | ap-east-1 |
   | 216.244.6.0/24 | AMAZON | ap-east-1 |
+  | 3.4.12.67/32 | AMAZON | ap-east-1 |
+  | 3.4.15.224/29 | AMAZON | ap-east-1 |
   | 150.222.47.192/26 | AMAZON | ap-east-1 |
   | 52.144.225.0/26 | AMAZON | ap-east-1 |
   | 15.177.86.0/24 | AMAZON | ap-east-1 |
@@ -647,8 +653,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.163.0.0/16 | AMAZON | ap-east-1 |
   | 52.95.162.0/24 | AMAZON | ap-east-1 |
   | 16.106.0.0/16 | AMAZON | ap-east-1 |
+  | 3.4.15.232/29 | AMAZON | ap-east-1 |
   | 99.77.142.0/24 | AMAZON | ap-east-1 |
   | 99.77.241.0/24 | AMAZON | ap-east-1 |
+  | 3.4.12.69/32 | AMAZON | ap-east-1 |
   | 54.239.1.80/28 | AMAZON | ap-east-1 |
   | 69.107.12.72/29 | AMAZON | ap-east-1 |
   | 159.248.133.0/24 | AMAZON | ap-east-1 |
@@ -656,6 +664,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.240.241.0/24 | AMAZON | ap-east-1 |
   | 54.46.0.0/17 | AMAZON | ap-east-1 |
   | 76.162.0.0/15 | AMAZON | ap-east-1 |
+  | 3.4.12.68/32 | AMAZON | ap-east-1 |
   | 52.93.156.0/22 | AMAZON | ap-east-1 |
   | 150.222.48.0/26 | AMAZON | ap-east-1 |
   | 69.107.12.64/29 | AMAZON | ap-east-1 |
@@ -675,6 +684,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.83.96.0/24 | AMAZON | ap-east-1 |
   | 15.230.74.64/26 | AMAZON | ap-east-1 |
   | 95.40.0.0/15 | AMAZON | ap-east-1 |
+  | 3.4.12.70/32 | AMAZON | ap-east-1 |
   | 15.177.85.0/24 | AMAZON | ap-east-1 |
   | 151.148.19.0/24 | AMAZON | ap-east-1 |
   | 16.162.0.0/15 | AMAZON | ap-east-1 |
@@ -1191,6 +1201,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 57.183.42.0/25 | CLOUDFRONT | ap-northeast-1 |
   | 99.82.170.0/24 | GLOBALACCELERATOR | ap-northeast-1 |
   | 13.248.98.0/24 | GLOBALACCELERATOR | ap-northeast-1 |
+  | 3.2.61.0/24 | GLOBALACCELERATOR | ap-northeast-1 |
   | 13.248.115.0/24 | GLOBALACCELERATOR | ap-northeast-1 |
   | 15.193.1.0/24 | AMAZON_CONNECT | ap-northeast-1 |
   | 18.182.96.64/26 | AMAZON_CONNECT | ap-northeast-1 |
@@ -1270,15 +1281,18 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.249.45.0/24 | AMAZON | ap-northeast-2 |
   | 52.144.227.192/26 | AMAZON | ap-northeast-2 |
   | 52.219.204.0/22 | AMAZON | ap-northeast-2 |
+  | 3.4.12.73/32 | AMAZON | ap-northeast-2 |
   | 35.50.238.0/24 | AMAZON | ap-northeast-2 |
   | 52.94.6.0/24 | AMAZON | ap-northeast-2 |
   | 151.148.40.0/24 | AMAZON | ap-northeast-2 |
   | 15.230.74.128/26 | AMAZON | ap-northeast-2 |
   | 15.193.176.0/22 | AMAZON | ap-northeast-2 |
+  | 3.4.12.72/32 | AMAZON | ap-northeast-2 |
   | 35.50.239.0/24 | AMAZON | ap-northeast-2 |
   | 15.230.74.192/26 | AMAZON | ap-northeast-2 |
   | 35.54.55.0/24 | AMAZON | ap-northeast-2 |
   | 15.177.76.0/24 | AMAZON | ap-northeast-2 |
+  | 3.4.12.74/32 | AMAZON | ap-northeast-2 |
   | 3.4.15.0/29 | AMAZON | ap-northeast-2 |
   | 52.219.148.0/23 | AMAZON | ap-northeast-2 |
   | 69.107.12.128/29 | AMAZON | ap-northeast-2 |
@@ -1327,11 +1341,14 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.198.64/28 | AMAZON | ap-northeast-2 |
   | 45.33.169.0/24 | AMAZON | ap-northeast-2 |
   | 3.4.12.12/32 | AMAZON | ap-northeast-2 |
+  | 3.4.15.248/29 | AMAZON | ap-northeast-2 |
   | 16.184.128.0/17 | AMAZON | ap-northeast-2 |
   | 35.71.109.0/24 | AMAZON | ap-northeast-2 |
+  | 3.4.12.71/32 | AMAZON | ap-northeast-2 |
   | 52.94.248.176/28 | AMAZON | ap-northeast-2 |
   | 52.144.228.192/26 | AMAZON | ap-northeast-2 |
   | 13.124.0.0/16 | AMAZON | ap-northeast-2 |
+  | 3.4.15.240/29 | AMAZON | ap-northeast-2 |
   | 99.77.141.0/24 | AMAZON | ap-northeast-2 |
   | 173.83.198.0/24 | AMAZON | ap-northeast-2 |
   | 35.55.5.0/24 | AMAZON | ap-northeast-2 |
@@ -1928,6 +1945,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.117.0/24 | GLOBALACCELERATOR | ap-south-1 |
   | 13.248.105.0/24 | GLOBALACCELERATOR | ap-south-1 |
   | 99.82.160.0/24 | GLOBALACCELERATOR | ap-south-1 |
+  | 35.34.98.0/24 | GLOBALACCELERATOR | ap-south-1 |
   | 15.193.0.0/24 | AMAZON_CONNECT | ap-south-1 |
   | 15.177.73.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-south-1 |
   | 13.127.70.136/29 | CODEBUILD | ap-south-1 |
@@ -2761,6 +2779,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.107.43.128/25 | CLOUDFRONT | ap-southeast-2 |
   | 3.107.44.0/25 | CLOUDFRONT | ap-southeast-2 |
   | 3.107.44.128/25 | CLOUDFRONT | ap-southeast-2 |
+  | 3.2.60.0/24 | GLOBALACCELERATOR | ap-southeast-2 |
   | 13.248.109.0/24 | GLOBALACCELERATOR | ap-southeast-2 |
   | 13.248.102.0/24 | GLOBALACCELERATOR | ap-southeast-2 |
   | 15.193.3.0/24 | AMAZON_CONNECT | ap-southeast-2 |
@@ -4470,6 +4489,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.46.208.0/21 | AMAZON | eu-north-1 |
   | 15.220.168.0/21 | AMAZON | eu-north-1-hel-1 |
   | 3.2.71.0/24 | AMAZON | eu-north-1 |
+  | 3.4.12.62/32 | AMAZON | eu-north-1 |
   | 16.193.0.0/16 | AMAZON | eu-north-1 |
   | 16.12.10.0/23 | AMAZON | eu-north-1 |
   | 51.20.0.0/16 | AMAZON | eu-north-1 |
@@ -4485,6 +4505,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.247.42.0/24 | AMAZON | eu-north-1 |
   | 99.77.137.0/24 | AMAZON | eu-north-1 |
   | 52.95.227.0/24 | AMAZON | eu-north-1 |
+  | 3.4.15.200/29 | AMAZON | eu-north-1 |
   | 13.50.0.0/16 | AMAZON | eu-north-1 |
   | 13.62.0.0/15 | AMAZON | eu-north-1 |
   | 86.112.0.0/15 | AMAZON | eu-north-1 |
@@ -4495,6 +4516,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.168.0.0/15 | AMAZON | eu-north-1 |
   | 13.248.122.0/24 | AMAZON | eu-north-1 |
   | 63.246.112.0/24 | AMAZON | eu-north-1 |
+  | 3.4.12.61/32 | AMAZON | eu-north-1 |
   | 150.222.41.192/26 | AMAZON | eu-north-1 |
   | 56.231.0.0/16 | AMAZON | eu-north-1 |
   | 13.53.0.0/16 | AMAZON | eu-north-1 |
@@ -4685,6 +4707,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.240.236.74/32 | AMAZON | eu-south-1 |
   | 52.93.127.121/32 | AMAZON | eu-south-1 |
   | 35.54.52.0/24 | AMAZON | eu-south-1 |
+  | 3.4.12.64/32 | AMAZON | eu-south-1 |
+  | 3.4.15.216/29 | AMAZON | eu-south-1 |
   | 54.240.236.78/32 | AMAZON | eu-south-1 |
   | 54.240.236.18/32 | AMAZON | eu-south-1 |
   | 99.77.138.0/24 | AMAZON | eu-south-1 |
@@ -4704,6 +4728,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.90.0/24 | AMAZON | eu-south-1 |
   | 99.83.107.0/24 | AMAZON | eu-south-1 |
   | 15.230.112.0/24 | AMAZON | eu-south-1 |
+  | 3.4.15.208/29 | AMAZON | eu-south-1 |
   | 52.95.151.0/24 | AMAZON | eu-south-1 |
   | 54.240.236.34/32 | AMAZON | eu-south-1 |
   | 52.93.133.175/32 | AMAZON | eu-south-1 |
@@ -4716,6 +4741,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.150.80.0/21 | AMAZON | eu-south-1 |
   | 52.93.135.195/32 | AMAZON | eu-south-1 |
   | 3.2.93.0/24 | AMAZON | eu-south-1 |
+  | 3.4.12.65/32 | AMAZON | eu-south-1 |
   | 52.93.134.181/32 | AMAZON | eu-south-1 |
   | 54.240.236.2/32 | AMAZON | eu-south-1 |
   | 15.221.51.0/24 | AMAZON | eu-south-1 |
@@ -4764,6 +4790,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.133.127/32 | AMAZON | eu-south-1 |
   | 35.152.0.0/16 | AMAZON | eu-south-1 |
   | 18.99.208.0/20 | AMAZON | eu-south-1 |
+  | 3.4.12.66/32 | AMAZON | eu-south-1 |
+  | 3.4.12.63/32 | AMAZON | eu-south-1 |
   | 52.93.133.179/32 | AMAZON | eu-south-1 |
   | 16.23.0.0/16 | AMAZON | eu-south-1 |
   | 54.240.236.66/32 | AMAZON | eu-south-1 |
