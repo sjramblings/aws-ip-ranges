@@ -9,6 +9,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
 
   | IP Prefix      | Service | Network Border Group |
   |----------------|---------|----------------------|
+  | 23.228.249.0/24 | AMAZON | GLOBAL |
   | 120.52.22.96/27 | AMAZON | GLOBAL |
   | 23.228.222.0/24 | AMAZON | GLOBAL |
   | 205.251.249.0/24 | AMAZON | GLOBAL |
@@ -65,6 +66,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 205.251.208.0/20 | AMAZON | GLOBAL |
   | 3.165.0.0/16 | AMAZON | GLOBAL |
   | 3.168.0.0/14 | AMAZON | GLOBAL |
+  | 23.228.251.0/24 | AMAZON | GLOBAL |
   | 65.9.128.0/18 | AMAZON | GLOBAL |
   | 35.71.128.0/17 | AMAZON | GLOBAL |
   | 130.176.128.0/18 | AMAZON | GLOBAL |
@@ -149,6 +151,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.82.176.0/21 | AMAZON | GLOBAL |
   | 15.193.32.0/19 | AMAZON | GLOBAL |
   | 1.178.172.0/23 | AMAZON | GLOBAL |
+  | 23.228.250.0/24 | AMAZON | GLOBAL |
   | 119.147.182.0/25 | AMAZON | GLOBAL |
   | 23.238.128.0/17 | AMAZON | GLOBAL |
   | 120.232.236.0/25 | AMAZON | GLOBAL |
@@ -277,6 +280,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 205.251.192.0/21 | ROUTE53 | GLOBAL |
   | 3.4.32.0/20 | ROUTE53 | GLOBAL |
   | 63.246.114.0/23 | ROUTE53 | GLOBAL |
+  | 23.228.249.0/24 | CLOUDFRONT | GLOBAL |
   | 120.52.22.96/27 | CLOUDFRONT | GLOBAL |
   | 23.228.222.0/24 | CLOUDFRONT | GLOBAL |
   | 205.251.249.0/24 | CLOUDFRONT | GLOBAL |
@@ -311,6 +315,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 205.251.208.0/20 | CLOUDFRONT | GLOBAL |
   | 3.165.0.0/16 | CLOUDFRONT | GLOBAL |
   | 3.168.0.0/14 | CLOUDFRONT | GLOBAL |
+  | 23.228.251.0/24 | CLOUDFRONT | GLOBAL |
   | 65.9.128.0/18 | CLOUDFRONT | GLOBAL |
   | 130.176.128.0/18 | CLOUDFRONT | GLOBAL |
   | 23.228.221.0/24 | CLOUDFRONT | GLOBAL |
@@ -353,6 +358,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 143.204.0.0/16 | CLOUDFRONT | GLOBAL |
   | 144.220.0.0/16 | CLOUDFRONT | GLOBAL |
   | 120.52.153.192/26 | CLOUDFRONT | GLOBAL |
+  | 23.228.250.0/24 | CLOUDFRONT | GLOBAL |
   | 119.147.182.0/25 | CLOUDFRONT | GLOBAL |
   | 120.232.236.0/25 | CLOUDFRONT | GLOBAL |
   | 111.13.185.64/27 | CLOUDFRONT | GLOBAL |
@@ -5249,6 +5255,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.168.33/32 | AMAZON | eu-west-1 |
   | 16.189.0.0/16 | AMAZON | eu-west-1 |
   | 54.194.0.0/15 | AMAZON | eu-west-1 |
+  | 15.129.80.0/22 | AMAZON | eu-west-1 |
   | 15.177.75.0/24 | AMAZON | eu-west-1 |
   | 3.248.0.0/13 | AMAZON | eu-west-1 |
   | 99.77.133.0/24 | AMAZON | eu-west-1 |
@@ -5454,6 +5461,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.78.0.0/16 | EC2 | eu-west-1 |
   | 3.5.74.0/23 | EC2 | eu-west-1 |
   | 54.194.0.0/15 | EC2 | eu-west-1 |
+  | 15.129.80.0/22 | EC2 | eu-west-1 |
   | 15.177.75.0/24 | EC2 | eu-west-1 |
   | 3.248.0.0/13 | EC2 | eu-west-1 |
   | 99.77.133.0/24 | EC2 | eu-west-1 |
