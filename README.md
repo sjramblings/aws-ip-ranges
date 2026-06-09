@@ -4380,6 +4380,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.65.132.0/22 | ROUTE53_RESOLVER | eu-central-1 |
   | 18.153.184.84/31 | EBS | eu-central-1 |
   | 18.153.184.88/30 | EBS | eu-central-1 |
+  | 18.199.180.140/30 | EBS | eu-central-1 |
   | 3.64.226.232/29 | EBS | eu-central-1 |
   | 3.64.226.240/30 | EBS | eu-central-1 |
   | 3.120.181.40/29 | EC2_INSTANCE_CONNECT | eu-central-1 |
@@ -5953,6 +5954,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.177.154.176/29 | ROUTE53_RESOLVER | eu-west-2 |
   | 35.177.154.184/29 | ROUTE53_RESOLVER | eu-west-2 |
   | 35.177.154.192/29 | ROUTE53_RESOLVER | eu-west-2 |
+  | 16.60.228.176/30 | EBS | eu-west-2 |
   | 18.168.37.136/29 | EBS | eu-west-2 |
   | 18.168.37.144/30 | EBS | eu-west-2 |
   | 18.171.35.212/31 | EBS | eu-west-2 |
