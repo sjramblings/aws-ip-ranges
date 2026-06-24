@@ -9376,6 +9376,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.61.0.0/16 | EC2 | us-gov-west-1 |
   | 1.178.30.0/24 | EC2 | us-gov-west-1 |
   | 3.45.64.0/18 | EC2 | us-gov-west-1 |
+  | 40.39.0.0/16 | EC2 | us-gov-west-1 |
   | 52.94.248.224/28 | EC2 | us-gov-west-1 |
   | 18.99.240.0/20 | EC2 | us-gov-west-1 |
   | 99.77.184.0/24 | EC2 | us-gov-west-1 |
