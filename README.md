@@ -3445,6 +3445,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.193.202/32 | AMAZON | ca-central-1 |
   | 15.129.28.0/24 | AMAZON | ca-central-1 |
   | 15.129.50.0/23 | AMAZON | ca-central-1 |
+  | 35.98.160.0/20 | AMAZON | ca-central-1 |
   | 52.60.0.0/16 | AMAZON | ca-central-1 |
   | 52.93.193.192/32 | AMAZON | ca-central-1 |
   | 3.98.0.0/15 | AMAZON | ca-central-1 |
