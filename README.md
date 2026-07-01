@@ -5072,6 +5072,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.161.135.164/30 | EC2_INSTANCE_CONNECT | eu-south-1 |
   | 15.161.135.64/27 | CLOUD9 | eu-south-1 |
   | 15.161.135.96/27 | CLOUD9 | eu-south-1 |
+  | 16.22.121.0/26 | EFS | eu-south-1 |
+  | 16.22.121.64/28 | EFS | eu-south-1 |
+  | 16.22.41.144/28 | EFS | eu-south-1 |
+  | 16.22.41.160/27 | EFS | eu-south-1 |
   | 35.71.113.0/24 | DYNAMODB | eu-south-1 |
   | 52.94.18.0/24 | DYNAMODB | eu-south-1 |
 </details>
@@ -8994,7 +8998,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 108.166.244.14/32 | AMAZON | us-east-2 |
   | 108.166.244.33/32 | AMAZON | us-east-2 |
   | 13.58.0.0/15 | AMAZON | us-east-2 |
-  | 1.178.86.0/24 | AMAZON | us-east-2 |
   | 15.230.39.132/31 | AMAZON | us-east-2 |
   | 15.230.39.130/31 | AMAZON | us-east-2 |
   | 52.93.199.97/32 | AMAZON | us-east-2 |
@@ -9245,7 +9248,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 75.3.0.0/18 | EC2 | us-east-2 |
   | 16.58.0.0/16 | EC2 | us-east-2 |
   | 13.58.0.0/15 | EC2 | us-east-2 |
-  | 1.178.86.0/24 | EC2 | us-east-2 |
   | 3.13.0.0/16 | EC2 | us-east-2 |
   | 99.150.0.0/21 | EC2 | us-east-2 |
   | 1.178.8.0/24 | EC2 | us-east-2 |
@@ -9338,9 +9340,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 35.71.115.0/24 | AMAZON | us-gov-east-1 |
   | 99.77.183.0/24 | AMAZON | us-gov-east-1 |
+  | 64.73.199.0/24 | AMAZON | us-gov-east-1 |
+  | 64.73.200.0/24 | AMAZON | us-gov-east-1 |
   | 16.67.0.0/16 | AMAZON | us-gov-east-1 |
   | 182.30.0.0/16 | AMAZON | us-gov-east-1 |
   | 108.175.52.0/22 | AMAZON | us-gov-east-1 |
+  | 64.73.198.0/24 | AMAZON | us-gov-east-1 |
   | 108.175.60.0/22 | AMAZON | us-gov-east-1 |
   | 16.65.0.0/16 | AMAZON | us-gov-east-1 |
   | 52.94.22.0/24 | AMAZON | us-gov-east-1 |
@@ -9388,7 +9393,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.254.148.0/22 | WORKSPACES_GATEWAYS | us-gov-east-1 |
   | 35.71.115.0/24 | EC2 | us-gov-east-1 |
   | 99.77.183.0/24 | EC2 | us-gov-east-1 |
+  | 64.73.199.0/24 | EC2 | us-gov-east-1 |
+  | 64.73.200.0/24 | EC2 | us-gov-east-1 |
   | 182.30.0.0/16 | EC2 | us-gov-east-1 |
+  | 64.73.198.0/24 | EC2 | us-gov-east-1 |
   | 108.175.60.0/22 | EC2 | us-gov-east-1 |
   | 16.65.0.0/16 | EC2 | us-gov-east-1 |
   | 18.252.0.0/16 | EC2 | us-gov-east-1 |
@@ -9479,8 +9487,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.2.99.0/24 | AMAZON | us-gov-west-1 |
   | 96.127.0.0/17 | AMAZON | us-gov-west-1 |
   | 3.4.16.0/21 | AMAZON | us-gov-west-1 |
+  | 64.73.193.0/24 | AMAZON | us-gov-west-1 |
   | 52.94.9.0/24 | AMAZON | us-gov-west-1 |
   | 35.71.116.0/24 | AMAZON | us-gov-west-1 |
+  | 64.73.194.0/24 | AMAZON | us-gov-west-1 |
   | 52.94.198.32/28 | AMAZON | us-gov-west-1 |
   | 205.251.236.0/22 | AMAZON | us-gov-west-1 |
   | 52.222.0.0/17 | AMAZON | us-gov-west-1 |
@@ -9491,6 +9501,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.152.192/32 | AMAZON | us-gov-west-1 |
   | 52.94.152.194/32 | AMAZON | us-gov-west-1 |
   | 52.94.152.193/32 | AMAZON | us-gov-west-1 |
+  | 64.73.192.0/24 | AMAZON | us-gov-west-1 |
   | 75.79.0.0/16 | AMAZON | us-gov-west-1 |
   | 40.38.0.0/16 | AMAZON | us-gov-west-1 |
   | 52.46.176.0/22 | AMAZON | us-gov-west-1 |
@@ -9541,9 +9552,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.2.99.0/24 | EC2 | us-gov-west-1 |
   | 96.127.0.0/17 | EC2 | us-gov-west-1 |
   | 3.4.16.0/21 | EC2 | us-gov-west-1 |
+  | 64.73.193.0/24 | EC2 | us-gov-west-1 |
   | 35.71.116.0/24 | EC2 | us-gov-west-1 |
+  | 64.73.194.0/24 | EC2 | us-gov-west-1 |
   | 52.222.0.0/17 | EC2 | us-gov-west-1 |
   | 15.200.0.0/16 | EC2 | us-gov-west-1 |
+  | 64.73.192.0/24 | EC2 | us-gov-west-1 |
   | 40.38.0.0/16 | EC2 | us-gov-west-1 |
   | 18.96.8.0/21 | EC2 | us-gov-west-1 |
   | 52.61.226.0/23 | ROUTE53 | us-gov-west-1 |
