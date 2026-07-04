@@ -17308,12 +17308,6 @@
         "network_border_group": "ap-southeast-3"
       },
       {
-        "ip_prefix": "1.178.86.0/24",
-        "region": "ap-southeast-3",
-        "service": "AMAZON",
-        "network_border_group": "ap-southeast-3"
-      },
-      {
         "ip_prefix": "54.239.1.144/28",
         "region": "ap-southeast-3",
         "service": "AMAZON",
@@ -17621,12 +17615,6 @@
       },
       {
         "ip_prefix": "63.249.143.0/24",
-        "region": "ap-southeast-3",
-        "service": "EC2",
-        "network_border_group": "ap-southeast-3"
-      },
-      {
-        "ip_prefix": "1.178.86.0/24",
         "region": "ap-southeast-3",
         "service": "EC2",
         "network_border_group": "ap-southeast-3"
@@ -29440,6 +29428,24 @@
         "network_border_group": "eu-south-1"
       },
       {
+        "ip_prefix": "99.83.109.0/24",
+        "region": "eu-south-1",
+        "service": "GLOBALACCELERATOR",
+        "network_border_group": "eu-south-1"
+      },
+      {
+        "ip_prefix": "99.83.108.0/24",
+        "region": "eu-south-1",
+        "service": "GLOBALACCELERATOR",
+        "network_border_group": "eu-south-1"
+      },
+      {
+        "ip_prefix": "99.83.107.0/24",
+        "region": "eu-south-1",
+        "service": "GLOBALACCELERATOR",
+        "network_border_group": "eu-south-1"
+      },
+      {
         "ip_prefix": "15.177.90.0/24",
         "region": "eu-south-1",
         "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
@@ -33183,6 +33189,12 @@
       },
       {
         "ip_prefix": "13.248.113.0/24",
+        "region": "eu-west-1",
+        "service": "GLOBALACCELERATOR",
+        "network_border_group": "eu-west-1"
+      },
+      {
+        "ip_prefix": "99.83.105.0/24",
         "region": "eu-west-1",
         "service": "GLOBALACCELERATOR",
         "network_border_group": "eu-west-1"
@@ -49660,6 +49672,12 @@
       },
       {
         "ip_prefix": "3.2.58.0/24",
+        "region": "us-east-1",
+        "service": "GLOBALACCELERATOR",
+        "network_border_group": "us-east-1"
+      },
+      {
+        "ip_prefix": "99.83.106.0/24",
         "region": "us-east-1",
         "service": "GLOBALACCELERATOR",
         "network_border_group": "us-east-1"

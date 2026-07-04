@@ -2961,7 +2961,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
   | 63.249.143.0/24 | AMAZON | ap-southeast-3 |
-  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 63.249.141.0/24 | AMAZON | ap-southeast-3 |
@@ -3014,7 +3013,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
   | 63.249.143.0/24 | EC2 | ap-southeast-3 |
-  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 63.249.141.0/24 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
@@ -5057,6 +5055,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.245.0/24 | EC2 | eu-south-1 |
   | 15.160.0.0/16 | EC2 | eu-south-1 |
   | 52.94.249.48/28 | EC2 | eu-south-1 |
+  | 99.83.109.0/24 | GLOBALACCELERATOR | eu-south-1 |
+  | 99.83.108.0/24 | GLOBALACCELERATOR | eu-south-1 |
+  | 99.83.107.0/24 | GLOBALACCELERATOR | eu-south-1 |
   | 15.177.90.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | eu-south-1 |
   | 15.160.55.112/29 | CODEBUILD | eu-south-1 |
   | 15.161.192.240/28 | CODEBUILD | eu-south-1 |
@@ -5694,6 +5695,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.212.248.0/26 | CLOUDFRONT | eu-west-1 |
   | 13.248.119.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 13.248.113.0/24 | GLOBALACCELERATOR | eu-west-1 |
+  | 99.83.105.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 13.248.96.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 13.248.121.0/24 | GLOBALACCELERATOR | eu-west-1 |
   | 13.248.118.0/24 | GLOBALACCELERATOR | eu-west-1 |
@@ -8508,6 +8510,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.220.202.0/23 | CLOUDFRONT | us-east-1 |
   | 44.222.66.0/24 | CLOUDFRONT | us-east-1 |
   | 3.2.58.0/24 | GLOBALACCELERATOR | us-east-1 |
+  | 99.83.106.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 13.248.124.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 99.82.166.0/24 | GLOBALACCELERATOR | us-east-1 |
   | 99.82.171.0/24 | GLOBALACCELERATOR | us-east-1 |
