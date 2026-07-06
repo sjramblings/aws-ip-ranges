@@ -9618,7 +9618,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   |----------------|---------|----------------------|
   | 52.94.250.192/28 | AMAZON | us-south-1 |
   | 15.248.176.0/21 | AMAZON | us-south-1 |
+  | 150.222.56.0/27 | AMAZON | us-south-1 |
   | 23.254.32.0/21 | AMAZON | us-south-1 |
+  | 150.222.55.192/27 | AMAZON | us-south-1 |
+  | 150.222.55.224/27 | AMAZON | us-south-1 |
   | 13.248.82.0/24 | AMAZON | us-south-1 |
   | 5.60.48.0/20 | AMAZON | us-south-1 |
   | 15.190.176.0/20 | AMAZON | us-south-1 |

@@ -56177,7 +56177,25 @@
         "network_border_group": "us-south-1"
       },
       {
+        "ip_prefix": "150.222.56.0/27",
+        "region": "us-south-1",
+        "service": "AMAZON",
+        "network_border_group": "us-south-1"
+      },
+      {
         "ip_prefix": "23.254.32.0/21",
+        "region": "us-south-1",
+        "service": "AMAZON",
+        "network_border_group": "us-south-1"
+      },
+      {
+        "ip_prefix": "150.222.55.192/27",
+        "region": "us-south-1",
+        "service": "AMAZON",
+        "network_border_group": "us-south-1"
+      },
+      {
+        "ip_prefix": "150.222.55.224/27",
         "region": "us-south-1",
         "service": "AMAZON",
         "network_border_group": "us-south-1"
