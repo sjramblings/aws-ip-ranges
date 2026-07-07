@@ -7576,6 +7576,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 136.18.160.0/23 | AMAZON | us-east-1 |
   | 173.83.222.0/24 | AMAZON | us-east-1 |
   | 52.119.196.0/22 | AMAZON | us-east-1 |
+  | 136.18.164.0/23 | AMAZON | us-east-1 |
   | 15.230.216.9/32 | AMAZON | us-east-1 |
   | 52.93.86.162/32 | AMAZON | us-east-1 |
   | 52.93.91.100/32 | AMAZON | us-east-1 |
@@ -8300,6 +8301,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.56.64.0/18 | EC2 | us-east-1 |
   | 136.18.160.0/23 | EC2 | us-east-1 |
   | 173.83.222.0/24 | EC2 | us-east-1 |
+  | 136.18.164.0/23 | EC2 | us-east-1 |
   | 35.54.32.0/21 | EC2 | us-east-1 |
   | 35.71.76.0/22 | EC2 | us-east-1 |
   | 3.4.10.0/24 | EC2 | us-east-1 |
