@@ -2961,6 +2961,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
   | 63.249.143.0/24 | AMAZON | ap-southeast-3 |
+  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 63.249.141.0/24 | AMAZON | ap-southeast-3 |
@@ -3013,6 +3014,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
   | 63.249.143.0/24 | EC2 | ap-southeast-3 |
+  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 63.249.141.0/24 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
@@ -4760,6 +4762,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.16.108.0/23 | AMAZON | eu-north-1 |
   | 16.170.199.0/26 | AMAZON | eu-north-1 |
   | 16.171.80.0/22 | AMAZON | eu-north-1 |
+  | 16.192.132.0/23 | AMAZON | eu-north-1 |
   | 51.21.133.128/25 | AMAZON | eu-north-1 |
   | 51.21.183.0/24 | AMAZON | eu-north-1 |
   | 99.77.246.0/24 | CHIME_VOICECONNECTOR | eu-north-1 |
@@ -6018,6 +6021,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.214.20.0/22 | AMAZON | eu-west-2 |
   | 52.93.153.98/32 | AMAZON | eu-west-2 |
   | 52.93.229.133/32 | AMAZON | eu-west-2 |
+  | 64.73.201.0/24 | AMAZON | eu-west-2 |
   | 52.93.153.178/32 | AMAZON | eu-west-2 |
   | 69.107.12.56/29 | AMAZON | eu-west-2 |
   | 54.239.100.0/23 | AMAZON | eu-west-2 |
@@ -6040,6 +6044,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.10.201.128/27 | AMAZON | eu-west-2 |
   | 3.10.201.192/26 | AMAZON | eu-west-2 |
   | 3.8.168.0/23 | AMAZON | eu-west-2 |
+  | 51.24.128.0/23 | AMAZON | eu-west-2 |
   | 99.77.249.0/24 | CHIME_VOICECONNECTOR | eu-west-2 |
   | 52.95.150.0/24 | S3 | eu-west-2 |
   | 16.12.15.0/24 | S3 | eu-west-2 |
@@ -6112,6 +6117,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 63.249.178.0/24 | EC2 | eu-west-2 |
   | 13.40.0.0/14 | EC2 | eu-west-2 |
   | 16.214.20.0/22 | EC2 | eu-west-2 |
+  | 64.73.201.0/24 | EC2 | eu-west-2 |
   | 216.39.152.0/21 | EC2 | eu-west-2 |
   | 13.134.24.0/23 | CLOUDFRONT | eu-west-2 |
   | 13.134.94.0/23 | CLOUDFRONT | eu-west-2 |
@@ -6567,6 +6573,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.164.22.4/30 | KINESIS_VIDEO_STREAMS | il-central-1 |
   | 51.16.103.32/27 | CLOUD9 | il-central-1 |
   | 51.16.183.64/27 | CLOUD9 | il-central-1 |
+  | 16.164.136.0/25 | EFS | il-central-1 |
   | 13.248.72.0/24 | DYNAMODB | il-central-1 |
   | 35.71.122.0/24 | DYNAMODB | il-central-1 |
 </details>
