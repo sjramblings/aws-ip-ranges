@@ -1908,6 +1908,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.206.137.128/26 | AMAZON | ap-south-1 |
   | 15.206.137.192/26 | AMAZON | ap-south-1 |
   | 15.207.13.0/26 | AMAZON | ap-south-1 |
+  | 15.252.46.0/23 | AMAZON | ap-south-1 |
+  | 15.252.48.0/23 | AMAZON | ap-south-1 |
   | 3.110.57.0/24 | AMAZON | ap-south-1 |
   | 3.110.71.0/26 | AMAZON | ap-south-1 |
   | 3.6.70.128/26 | AMAZON | ap-south-1 |
@@ -9339,6 +9341,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.64.0.0/17 | EC2 | us-gov-east-1 |
   | 18.253.0.0/16 | EC2 | us-gov-east-1 |
   | 52.94.249.112/28 | EC2 | us-gov-east-1 |
+  | 16.66.0.0/16 | EC2 | us-gov-east-1 |
   | 18.99.112.0/20 | EC2 | us-gov-east-1 |
   | 18.254.0.0/16 | EC2 | us-gov-east-1 |
   | 3.4.24.0/21 | EC2 | us-gov-east-1 |
@@ -9537,6 +9540,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 5.60.48.0/20 | AMAZON | us-south-1 |
   | 15.190.176.0/20 | AMAZON | us-south-1 |
   | 46.168.0.0/15 | AMAZON | us-south-1 |
+  | 23.254.28.0/23 | AMAZON | us-south-1 |
   | 15.190.224.0/22 | AMAZON | us-south-1 |
   | 76.223.170.144/28 | AMAZON | us-south-1 |
   | 1.179.103.0/24 | AMAZON | us-south-1 |
@@ -9546,6 +9550,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 23.254.32.0/21 | EC2 | us-south-1 |
   | 5.60.48.0/20 | EC2 | us-south-1 |
   | 46.168.0.0/15 | EC2 | us-south-1 |
+  | 23.254.28.0/23 | EC2 | us-south-1 |
   | 1.179.103.0/24 | EC2 | us-south-1 |
   | 15.177.108.0/24 | EC2 | us-south-1 |
   | 13.248.82.0/24 | DYNAMODB | us-south-1 |
