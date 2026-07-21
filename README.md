@@ -2961,7 +2961,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
   | 63.249.143.0/24 | AMAZON | ap-southeast-3 |
-  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 63.249.141.0/24 | AMAZON | ap-southeast-3 |
@@ -3014,7 +3013,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
   | 63.249.143.0/24 | EC2 | ap-southeast-3 |
-  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 63.249.141.0/24 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
@@ -4045,6 +4043,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.152.97/32 | AMAZON | eu-central-1 |
   | 15.220.48.0/21 | AMAZON | eu-central-1-waw-1 |
   | 15.230.15.8/32 | AMAZON | eu-central-1 |
+  | 69.107.13.40/29 | AMAZON | eu-central-1 |
   | 15.230.15.255/32 | AMAZON | eu-central-1 |
   | 18.184.0.0/15 | AMAZON | eu-central-1 |
   | 3.5.120.0/22 | AMAZON | eu-central-1 |
@@ -4062,6 +4061,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.144.69/32 | AMAZON | eu-central-1 |
   | 15.230.15.112/31 | AMAZON | eu-central-1 |
   | 15.230.65.0/26 | AMAZON | eu-central-1 |
+  | 69.107.13.32/29 | AMAZON | eu-central-1 |
   | 136.18.18.0/24 | AMAZON | eu-central-1 |
   | 15.220.64.0/20 | AMAZON | eu-central-1-waw-1 |
   | 15.230.15.138/31 | AMAZON | eu-central-1 |
@@ -4230,6 +4230,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.52.0/24 | AMAZON | eu-central-1 |
   | 104.255.58.44/32 | AMAZON | eu-central-1 |
   | 150.222.152.39/32 | AMAZON | eu-central-1 |
+  | 45.33.182.0/24 | AMAZON | eu-central-1 |
   | 15.230.15.4/32 | AMAZON | eu-central-1 |
   | 15.248.142.0/24 | AMAZON | eu-central-1 |
   | 52.219.140.0/24 | AMAZON | eu-central-1 |
