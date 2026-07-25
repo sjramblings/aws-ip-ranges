@@ -41,6 +41,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.173.192.0/18 | AMAZON | GLOBAL |
   | 15.197.16.0/23 | AMAZON | GLOBAL |
   | 52.95.216.0/22 | AMAZON | GLOBAL |
+  | 64.91.192.0/19 | AMAZON | GLOBAL |
   | 108.156.0.0/14 | AMAZON | GLOBAL |
   | 54.230.192.0/21 | AMAZON | GLOBAL |
   | 99.86.0.0/16 | AMAZON | GLOBAL |
@@ -78,6 +79,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 58.254.138.0/25 | AMAZON | GLOBAL |
   | 205.251.206.0/23 | AMAZON | GLOBAL |
   | 15.197.4.0/22 | AMAZON | GLOBAL |
+  | 1.179.52.0/22 | AMAZON | GLOBAL |
   | 99.77.188.0/24 | AMAZON | GLOBAL |
   | 54.230.208.0/20 | AMAZON | GLOBAL |
   | 99.82.156.0/22 | AMAZON | GLOBAL |
@@ -131,6 +133,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.248.128.0/17 | AMAZON | GLOBAL |
   | 52.82.128.0/19 | AMAZON | GLOBAL |
   | 75.2.0.0/17 | AMAZON | GLOBAL |
+  | 1.179.56.0/22 | AMAZON | GLOBAL |
   | 54.230.0.0/17 | AMAZON | GLOBAL |
   | 54.230.128.0/18 | AMAZON | GLOBAL |
   | 93.77.128.0/19 | AMAZON | GLOBAL |
@@ -203,6 +206,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 120.232.236.128/26 | AMAZON | GLOBAL |
   | 52.223.192.0/18 | AMAZON | GLOBAL |
   | 3.33.128.0/17 | AMAZON | GLOBAL |
+  | 35.54.16.0/20 | AMAZON | GLOBAL |
   | 199.9.248.0/21 | AMAZON | GLOBAL |
   | 40.168.229.0/24 | AMAZON | GLOBAL |
   | 204.246.176.0/20 | AMAZON | GLOBAL |
@@ -272,9 +276,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 31.220.247.0/24 | EC2 | GLOBAL |
   | 15.177.0.0/18 | EC2 | GLOBAL |
   | 51.0.104.0/21 | EC2 | GLOBAL |
+  | 35.54.16.0/20 | EC2 | GLOBAL |
   | 40.168.229.0/24 | EC2 | GLOBAL |
   | 205.251.200.0/23 | ROUTE53 | GLOBAL |
+  | 64.91.192.0/19 | ROUTE53 | GLOBAL |
+  | 1.179.52.0/22 | ROUTE53 | GLOBAL |
   | 52.95.110.0/24 | ROUTE53 | GLOBAL |
+  | 1.179.56.0/22 | ROUTE53 | GLOBAL |
   | 205.251.192.0/21 | ROUTE53 | GLOBAL |
   | 3.4.32.0/20 | ROUTE53 | GLOBAL |
   | 63.246.114.0/23 | ROUTE53 | GLOBAL |
@@ -2961,6 +2969,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
   | 63.249.143.0/24 | AMAZON | ap-southeast-3 |
+  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 63.249.141.0/24 | AMAZON | ap-southeast-3 |
@@ -3013,6 +3022,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
   | 63.249.143.0/24 | EC2 | ap-southeast-3 |
+  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 63.249.141.0/24 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
