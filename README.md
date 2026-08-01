@@ -626,6 +626,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.245.93.160/29 | EBS | af-south-1 |
   | 13.247.50.244/31 | EBS | af-south-1 |
   | 13.247.50.248/30 | EBS | af-south-1 |
+  | 15.240.196.0/22 | EFS | af-south-1 |
   | 13.244.121.196/30 | EC2_INSTANCE_CONNECT | af-south-1 |
   | 13.247.76.100/30 | KINESIS_VIDEO_STREAMS | af-south-1 |
   | 13.247.76.96/31 | KINESIS_VIDEO_STREAMS | af-south-1 |
@@ -794,6 +795,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.199.26.42/31 | EBS | ap-east-1 |
   | 43.199.26.44/30 | EBS | ap-east-1 |
   | 95.40.214.128/25 | EFS | ap-east-1 |
+  | 95.41.76.0/22 | EFS | ap-east-1 |
   | 43.198.192.104/29 | EC2_INSTANCE_CONNECT | ap-east-1 |
   | 43.199.26.124/31 | KINESIS_VIDEO_STREAMS | ap-east-1 |
   | 43.199.26.128/30 | KINESIS_VIDEO_STREAMS | ap-east-1 |
@@ -879,6 +881,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.104.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-east-2 |
   | 43.212.16.0/24 | API_GATEWAY | ap-east-2 |
   | 54.54.30.0/25 | EFS | ap-east-2 |
+  | 54.54.36.0/22 | EFS | ap-east-2 |
   | 35.71.127.0/24 | DYNAMODB | ap-east-2 |
   | 13.248.78.0/24 | DYNAMODB | ap-east-2 |
 </details>
@@ -1292,6 +1295,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 57.181.142.164/31 | EBS | ap-northeast-1 |
   | 57.181.142.168/30 | EBS | ap-northeast-1 |
   | 57.181.142.182/31 | EBS | ap-northeast-1 |
+  | 13.196.148.0/22 | EFS | ap-northeast-1 |
+  | 13.196.152.0/22 | EFS | ap-northeast-1 |
+  | 13.196.156.0/22 | EFS | ap-northeast-1 |
   | 3.112.23.0/29 | EC2_INSTANCE_CONNECT | ap-northeast-1 |
   | 35.72.36.140/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
   | 35.72.36.142/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
@@ -1568,6 +1574,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.202.108.242/31 | EBS | ap-northeast-2 |
   | 43.202.213.128/30 | EBS | ap-northeast-2 |
   | 54.116.148.128/25 | EFS | ap-northeast-2 |
+  | 54.117.16.0/22 | EFS | ap-northeast-2 |
   | 13.209.1.56/29 | EC2_INSTANCE_CONNECT | ap-northeast-2 |
   | 43.202.213.132/31 | KINESIS_VIDEO_STREAMS | ap-northeast-2 |
   | 43.202.213.136/30 | KINESIS_VIDEO_STREAMS | ap-northeast-2 |
@@ -1743,6 +1750,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.208.228.136/30 | EBS | ap-northeast-3 |
   | 15.152.133.252/31 | EBS | ap-northeast-3 |
   | 15.168.105.168/30 | EBS | ap-northeast-3 |
+  | 16.208.112.0/22 | EFS | ap-northeast-3 |
   | 15.168.105.160/29 | EC2_INSTANCE_CONNECT | ap-northeast-3 |
   | 15.152.24.0/27 | CLOUD9 | ap-northeast-3 |
   | 15.152.24.32/27 | CLOUD9 | ap-northeast-3 |
@@ -2046,6 +2054,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.200.142.82/31 | EBS | ap-south-1 |
   | 65.1.103.192/29 | EBS | ap-south-1 |
   | 65.1.103.200/30 | EBS | ap-south-1 |
+  | 15.252.132.0/22 | EFS | ap-south-1 |
   | 13.233.177.0/29 | EC2_INSTANCE_CONNECT | ap-south-1 |
   | 13.200.142.116/31 | KINESIS_VIDEO_STREAMS | ap-south-1 |
   | 13.201.195.64/30 | KINESIS_VIDEO_STREAMS | ap-south-1 |
@@ -2162,6 +2171,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.60.68.0/26 | ROUTE53_RESOLVER | ap-south-2 |
   | 18.60.68.64/26 | ROUTE53_RESOLVER | ap-south-2 |
   | 16.112.252.128/25 | EFS | ap-south-2 |
+  | 16.113.80.0/22 | EFS | ap-south-2 |
   | 18.60.252.248/29 | EC2_INSTANCE_CONNECT | ap-south-2 |
   | 18.61.132.240/29 | MEDIA_PACKAGE_V2 | ap-south-2 |
   | 18.61.132.248/29 | MEDIA_PACKAGE_V2 | ap-south-2 |
@@ -2572,6 +2582,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.213.20.136/29 | EBS | ap-southeast-1 |
   | 47.128.82.100/31 | EBS | ap-southeast-1 |
   | 47.129.23.128/30 | EBS | ap-southeast-1 |
+  | 56.10.72.0/22 | EFS | ap-southeast-1 |
+  | 56.10.76.0/22 | EFS | ap-southeast-1 |
   | 3.0.5.32/29 | EC2_INSTANCE_CONNECT | ap-southeast-1 |
   | 47.128.82.102/31 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
   | 47.129.23.132/30 | KINESIS_VIDEO_STREAMS | ap-southeast-1 |
@@ -2907,6 +2919,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.107.11.164/30 | EBS | ap-southeast-2 |
   | 3.26.82.236/30 | EBS | ap-southeast-2 |
   | 3.26.82.240/29 | EBS | ap-southeast-2 |
+  | 16.178.4.0/22 | EFS | ap-southeast-2 |
+  | 16.178.8.0/22 | EFS | ap-southeast-2 |
   | 32.236.146.128/25 | EFS | ap-southeast-2 |
   | 13.239.158.0/29 | EC2_INSTANCE_CONNECT | ap-southeast-2 |
   | 3.107.30.180/31 | KINESIS_VIDEO_STREAMS | ap-southeast-2 |
@@ -3045,6 +3059,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 108.136.122.0/26 | ROUTE53_RESOLVER | ap-southeast-3 |
   | 108.136.122.64/26 | ROUTE53_RESOLVER | ap-southeast-3 |
   | 108.136.38.192/26 | ROUTE53_RESOLVER | ap-southeast-3 |
+  | 15.232.192.0/22 | EFS | ap-southeast-3 |
   | 43.218.193.64/29 | EC2_INSTANCE_CONNECT | ap-southeast-3 |
   | 35.71.96.0/24 | DYNAMODB | ap-southeast-3 |
   | 13.248.71.0/24 | DYNAMODB | ap-southeast-3 |
@@ -3143,6 +3158,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.50.67.0/26 | ROUTE53_RESOLVER | ap-southeast-4 |
   | 16.50.67.128/26 | ROUTE53_RESOLVER | ap-southeast-4 |
   | 16.50.67.64/26 | ROUTE53_RESOLVER | ap-southeast-4 |
+  | 16.27.108.0/22 | EFS | ap-southeast-4 |
   | 16.27.92.0/25 | EFS | ap-southeast-4 |
   | 16.50.248.80/29 | EC2_INSTANCE_CONNECT | ap-southeast-4 |
   | 18.99.193.0/25 | AURORA_DSQL | ap-southeast-4 |
@@ -3237,6 +3253,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.95.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ap-southeast-5 |
   | 56.68.33.32/28 | CODEBUILD | ap-southeast-5 |
   | 43.216.39.0/24 | API_GATEWAY | ap-southeast-5 |
+  | 56.69.224.0/22 | EFS | ap-southeast-5 |
   | 56.69.91.128/25 | EFS | ap-southeast-5 |
   | 43.216.87.48/29 | EC2_INSTANCE_CONNECT | ap-southeast-5 |
   | 43.216.226.176/30 | KINESIS_VIDEO_STREAMS | ap-southeast-5 |
@@ -3317,6 +3334,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.103.24.192/28 | CODEBUILD | ap-southeast-6 |
   | 3.102.38.0/24 | API_GATEWAY | ap-southeast-6 |
   | 3.103.180.128/25 | EFS | ap-southeast-6 |
+  | 3.103.244.0/22 | EFS | ap-southeast-6 |
   | 3.103.24.208/29 | EC2_INSTANCE_CONNECT | ap-southeast-6 |
   | 13.248.79.0/24 | DYNAMODB | ap-southeast-6 |
   | 35.71.93.0/24 | DYNAMODB | ap-southeast-6 |
@@ -3394,6 +3412,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.209.155.112/28 | CODEBUILD | ap-southeast-7 |
   | 43.208.28.0/24 | API_GATEWAY | ap-southeast-7 |
   | 43.210.244.128/25 | EFS | ap-southeast-7 |
+  | 43.211.44.0/22 | EFS | ap-southeast-7 |
   | 43.209.155.96/29 | EC2_INSTANCE_CONNECT | ap-southeast-7 |
   | 13.248.77.0/24 | DYNAMODB | ap-southeast-7 |
   | 35.71.126.0/24 | DYNAMODB | ap-southeast-7 |
@@ -3590,6 +3609,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.157.167.28/30 | EBS | ca-central-1 |
   | 3.97.192.112/29 | EBS | ca-central-1 |
   | 3.98.171.92/30 | EBS | ca-central-1 |
+  | 15.175.48.0/22 | EFS | ca-central-1 |
   | 35.183.92.176/29 | EC2_INSTANCE_CONNECT | ca-central-1 |
   | 15.157.167.134/31 | KINESIS_VIDEO_STREAMS | ca-central-1 |
   | 15.157.167.136/30 | KINESIS_VIDEO_STREAMS | ca-central-1 |
@@ -3682,6 +3702,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.174.0.0/16 | EC2 | ca-west-1 |
   | 15.177.100.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | ca-west-1 |
   | 40.176.65.0/24 | API_GATEWAY | ca-west-1 |
+  | 16.174.136.0/22 | EFS | ca-west-1 |
   | 16.174.90.128/25 | EFS | ca-west-1 |
   | 40.176.213.168/29 | EC2_INSTANCE_CONNECT | ca-west-1 |
   | 18.99.129.0/25 | AURORA_DSQL | ca-west-1 |
@@ -4519,6 +4540,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.199.180.140/30 | EBS | eu-central-1 |
   | 3.64.226.232/29 | EBS | eu-central-1 |
   | 3.64.226.240/30 | EBS | eu-central-1 |
+  | 63.187.12.0/22 | EFS | eu-central-1 |
+  | 63.187.16.0/22 | EFS | eu-central-1 |
+  | 63.187.20.0/22 | EFS | eu-central-1 |
   | 3.120.181.40/29 | EC2_INSTANCE_CONNECT | eu-central-1 |
   | 18.153.184.142/31 | KINESIS_VIDEO_STREAMS | eu-central-1 |
   | 18.153.184.148/30 | KINESIS_VIDEO_STREAMS | eu-central-1 |
@@ -4621,6 +4645,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.62.54.0/26 | ROUTE53_RESOLVER | eu-central-2 |
   | 16.62.54.64/26 | ROUTE53_RESOLVER | eu-central-2 |
   | 16.62.7.192/26 | ROUTE53_RESOLVER | eu-central-2 |
+  | 16.18.164.0/22 | EFS | eu-central-2 |
   | 16.18.95.128/25 | EFS | eu-central-2 |
   | 16.63.77.8/29 | EC2_INSTANCE_CONNECT | eu-central-2 |
   | 13.248.68.0/24 | DYNAMODB | eu-central-2 |
@@ -4833,6 +4858,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.51.71.160/30 | EBS | eu-north-1 |
   | 13.60.1.84/31 | EBS | eu-north-1 |
   | 13.60.1.88/30 | EBS | eu-north-1 |
+  | 16.192.180.0/22 | EFS | eu-north-1 |
   | 13.48.4.200/30 | EC2_INSTANCE_CONNECT | eu-north-1 |
   | 13.48.186.128/27 | CLOUD9 | eu-north-1 |
   | 13.48.186.160/27 | CLOUD9 | eu-north-1 |
@@ -5215,6 +5241,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.100.64.192/26 | ROUTE53_RESOLVER | eu-south-2 |
   | 18.100.65.0/26 | ROUTE53_RESOLVER | eu-south-2 |
   | 35.42.175.0/25 | EFS | eu-south-2 |
+  | 35.42.228.0/22 | EFS | eu-south-2 |
   | 18.101.90.48/29 | EC2_INSTANCE_CONNECT | eu-south-2 |
   | 18.101.90.56/31 | KINESIS_VIDEO_STREAMS | eu-south-2 |
   | 18.101.90.58/31 | KINESIS_VIDEO_STREAMS | eu-south-2 |
@@ -5738,6 +5765,11 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.247.241.96/29 | EBS | eu-west-1 |
   | 108.133.102.0/25 | EFS | eu-west-1 |
   | 108.133.136.0/22 | EFS | eu-west-1 |
+  | 108.133.140.0/22 | EFS | eu-west-1 |
+  | 108.133.144.0/22 | EFS | eu-west-1 |
+  | 108.133.148.0/22 | EFS | eu-west-1 |
+  | 108.133.152.0/22 | EFS | eu-west-1 |
+  | 108.133.156.0/22 | EFS | eu-west-1 |
   | 18.202.216.48/29 | EC2_INSTANCE_CONNECT | eu-west-1 |
   | 54.247.243.134/31 | KINESIS_VIDEO_STREAMS | eu-west-1 |
   | 54.247.243.136/30 | KINESIS_VIDEO_STREAMS | eu-west-1 |
@@ -6146,6 +6178,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.168.37.144/30 | EBS | eu-west-2 |
   | 18.171.35.212/31 | EBS | eu-west-2 |
   | 18.171.63.32/30 | EBS | eu-west-2 |
+  | 51.24.164.0/22 | EFS | eu-west-2 |
+  | 51.24.168.0/22 | EFS | eu-west-2 |
   | 3.8.37.24/29 | EC2_INSTANCE_CONNECT | eu-west-2 |
   | 18.171.35.214/31 | KINESIS_VIDEO_STREAMS | eu-west-2 |
   | 18.171.63.36/30 | KINESIS_VIDEO_STREAMS | eu-west-2 |
@@ -6369,6 +6403,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.36.84.24/29 | EBS | eu-west-3 |
   | 13.36.84.32/30 | EBS | eu-west-3 |
   | 13.39.103.180/30 | EBS | eu-west-3 |
+  | 15.224.180.0/22 | EFS | eu-west-3 |
   | 35.180.112.80/29 | EC2_INSTANCE_CONNECT | eu-west-3 |
   | 15.188.210.206/31 | KINESIS_VIDEO_STREAMS | eu-west-3 |
   | 15.237.162.40/30 | KINESIS_VIDEO_STREAMS | eu-west-3 |
@@ -6547,6 +6582,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.16.97.0/26 | ROUTE53_RESOLVER | il-central-1 |
   | 51.16.97.64/26 | ROUTE53_RESOLVER | il-central-1 |
   | 16.164.136.0/25 | EFS | il-central-1 |
+  | 16.164.160.0/22 | EFS | il-central-1 |
   | 51.16.183.224/29 | EC2_INSTANCE_CONNECT | il-central-1 |
   | 16.164.22.0/31 | KINESIS_VIDEO_STREAMS | il-central-1 |
   | 16.164.22.4/30 | KINESIS_VIDEO_STREAMS | il-central-1 |
@@ -6940,6 +6976,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.177.102.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | mx-central-1 |
   | 78.12.16.0/24 | API_GATEWAY | mx-central-1 |
   | 78.14.149.0/25 | EFS | mx-central-1 |
+  | 78.14.176.0/22 | EFS | mx-central-1 |
   | 78.12.207.8/29 | EC2_INSTANCE_CONNECT | mx-central-1 |
   | 35.71.125.0/24 | DYNAMODB | mx-central-1 |
   | 13.248.76.0/24 | DYNAMODB | mx-central-1 |
@@ -7235,6 +7272,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.228.126.48/30 | EBS | sa-east-1 |
   | 15.229.206.194/31 | EBS | sa-east-1 |
   | 15.229.206.196/30 | EBS | sa-east-1 |
+  | 54.20.104.0/22 | EFS | sa-east-1 |
   | 18.228.70.32/29 | EC2_INSTANCE_CONNECT | sa-east-1 |
   | 15.229.206.224/31 | KINESIS_VIDEO_STREAMS | sa-east-1 |
   | 15.229.206.228/30 | KINESIS_VIDEO_STREAMS | sa-east-1 |
@@ -8661,6 +8699,18 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.222.159.166/31 | EBS | us-east-1 |
   | 44.222.159.176/28 | EBS | us-east-1 |
   | 100.59.224.0/25 | EFS | us-east-1 |
+  | 100.62.24.0/22 | EFS | us-east-1 |
+  | 100.62.28.0/22 | EFS | us-east-1 |
+  | 100.62.32.0/22 | EFS | us-east-1 |
+  | 100.62.36.0/22 | EFS | us-east-1 |
+  | 100.62.40.0/22 | EFS | us-east-1 |
+  | 100.62.44.0/22 | EFS | us-east-1 |
+  | 100.62.48.0/22 | EFS | us-east-1 |
+  | 100.62.52.0/22 | EFS | us-east-1 |
+  | 100.62.56.0/22 | EFS | us-east-1 |
+  | 100.62.60.0/22 | EFS | us-east-1 |
+  | 100.62.64.0/22 | EFS | us-east-1 |
+  | 100.62.68.0/22 | EFS | us-east-1 |
   | 18.206.107.24/29 | EC2_INSTANCE_CONNECT | us-east-1 |
   | 44.220.189.16/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
   | 44.220.189.20/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
@@ -9297,6 +9347,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.141.102.192/30 | EBS | us-east-2 |
   | 3.146.29.66/31 | EBS | us-east-2 |
   | 3.146.42.64/30 | EBS | us-east-2 |
+  | 77.112.12.0/22 | EFS | us-east-2 |
+  | 77.112.4.0/22 | EFS | us-east-2 |
+  | 77.112.8.0/22 | EFS | us-east-2 |
   | 3.16.146.0/29 | EC2_INSTANCE_CONNECT | us-east-2 |
   | 3.146.42.74/31 | KINESIS_VIDEO_STREAMS | us-east-2 |
   | 3.146.42.80/30 | KINESIS_VIDEO_STREAMS | us-east-2 |
@@ -10185,6 +10238,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.101.160.240/29 | EBS | us-west-1 |
   | 3.101.239.34/31 | EBS | us-west-1 |
   | 3.101.239.36/30 | EBS | us-west-1 |
+  | 40.164.4.0/22 | EFS | us-west-1 |
   | 13.52.6.112/29 | EC2_INSTANCE_CONNECT | us-west-1 |
   | 3.101.177.20/30 | AMAZON_APPFLOW | us-west-1 |
   | 3.101.52.208/30 | AMAZON_APPFLOW | us-west-1 |
@@ -10801,6 +10855,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.80.36.192/28 | EBS | us-west-2 |
   | 35.94.128.244/31 | EBS | us-west-2 |
   | 35.94.128.248/30 | EBS | us-west-2 |
+  | 32.187.164.0/22 | EFS | us-west-2 |
+  | 32.187.168.0/22 | EFS | us-west-2 |
+  | 32.187.172.0/22 | EFS | us-west-2 |
+  | 32.187.184.0/22 | EFS | us-west-2 |
+  | 32.187.188.0/22 | EFS | us-west-2 |
+  | 32.187.192.0/22 | EFS | us-west-2 |
+  | 32.187.196.0/22 | EFS | us-west-2 |
   | 18.237.140.160/29 | EC2_INSTANCE_CONNECT | us-west-2 |
   | 18.246.224.200/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
   | 18.246.224.202/31 | KINESIS_VIDEO_STREAMS | us-west-2 |
