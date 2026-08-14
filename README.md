@@ -569,6 +569,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.246.243.64/26 | AMAZON | af-south-1 |
   | 13.246.244.0/23 | AMAZON | af-south-1 |
   | 13.246.248.0/22 | AMAZON | af-south-1 |
+  | 15.240.204.0/23 | AMAZON | af-south-1 |
   | 99.77.235.0/24 | CHIME_VOICECONNECTOR | af-south-1 |
   | 3.5.228.0/22 | S3 | af-south-1 |
   | 52.95.176.0/24 | S3 | af-south-1 |
@@ -4377,6 +4378,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 63.181.18.128/25 | AMAZON | eu-central-1 |
   | 63.185.196.0/23 | AMAZON | eu-central-1 |
   | 63.186.244.0/23 | AMAZON | eu-central-1 |
+  | 63.187.228.0/23 | AMAZON | eu-central-1 |
   | 99.77.247.0/24 | CHIME_VOICECONNECTOR | eu-central-1 |
   | 52.219.170.0/23 | S3 | eu-central-1 |
   | 52.219.168.0/24 | S3 | eu-central-1 |
@@ -5607,6 +5609,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.254.234.128/25 | AMAZON | eu-west-1 |
   | 3.254.236.0/22 | AMAZON | eu-west-1 |
   | 3.254.8.0/25 | AMAZON | eu-west-1 |
+  | 40.180.9.0/25 | AMAZON | eu-west-1 |
   | 54.247.250.0/25 | AMAZON | eu-west-1 |
   | 63.34.60.0/22 | AMAZON | eu-west-1 |
   | 99.80.34.128/25 | AMAZON | eu-west-1 |
@@ -6078,6 +6081,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.8.168.0/23 | AMAZON | eu-west-2 |
   | 51.24.128.0/23 | AMAZON | eu-west-2 |
   | 51.24.162.0/23 | AMAZON | eu-west-2 |
+  | 51.24.198.0/23 | AMAZON | eu-west-2 |
   | 99.77.249.0/24 | CHIME_VOICECONNECTOR | eu-west-2 |
   | 52.95.150.0/24 | S3 | eu-west-2 |
   | 16.12.15.0/24 | S3 | eu-west-2 |
