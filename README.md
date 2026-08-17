@@ -3320,6 +3320,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.102.59.0/24 | AMAZON | ap-southeast-6 |
   | 3.102.88.0/24 | AMAZON | ap-southeast-6 |
   | 3.103.138.0/23 | AMAZON | ap-southeast-6 |
+  | 3.103.254.0/23 | AMAZON | ap-southeast-6 |
   | 3.103.60.0/24 | AMAZON | ap-southeast-6 |
   | 3.103.82.0/24 | AMAZON | ap-southeast-6 |
   | 16.15.8.0/22 | S3 | ap-southeast-6 |
