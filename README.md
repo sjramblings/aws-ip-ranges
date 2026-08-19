@@ -861,6 +861,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.213.135.0/24 | AMAZON | ap-east-2 |
   | 43.213.154.0/24 | AMAZON | ap-east-2 |
   | 43.213.168.0/23 | AMAZON | ap-east-2 |
+  | 54.54.48.0/23 | AMAZON | ap-east-2 |
   | 16.12.80.0/24 | S3 | ap-east-2 |
   | 3.2.101.0/24 | S3 | ap-east-2 |
   | 3.5.196.0/22 | S3 | ap-east-2 |
@@ -6518,6 +6519,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.142.0/23 | ROUTE53 | eusc-de-east-1 |
   | 51.0.136.0/23 | ROUTE53 | eusc-de-east-1 |
   | 51.0.138.0/23 | ROUTE53 | eusc-de-east-1 |
+  | 51.72.26.64/28 | CODEBUILD | eusc-de-east-1 |
   | 51.224.184.0/24 | API_GATEWAY | eusc-de-east-1 |
   | 51.0.31.0/24 | DYNAMODB | eusc-de-east-1 |
   | 35.71.94.0/24 | DYNAMODB | eusc-de-east-1 |
@@ -10353,6 +10355,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.240.248.0/21 | AMAZON | us-west-2 |
   | 155.146.128.0/20 | AMAZON | us-west-2-wl1-sea-wlz-1 |
   | 15.129.40.0/23 | AMAZON | us-west-2 |
+  | 104.255.57.182/32 | AMAZON | us-west-2 |
   | 35.160.0.0/13 | AMAZON | us-west-2 |
   | 52.93.246.216/31 | AMAZON | us-west-2 |
   | 16.12.88.0/21 | AMAZON | us-west-2 |
@@ -10444,6 +10447,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.180.0/24 | AMAZON | us-west-2 |
   | 198.41.106.0/24 | AMAZON | us-west-2-lax-1 |
   | 50.112.0.0/16 | AMAZON | us-west-2 |
+  | 104.255.57.183/32 | AMAZON | us-west-2 |
   | 15.181.64.0/20 | AMAZON | us-west-2-las-1b |
   | 15.230.67.192/26 | AMAZON | us-west-2 |
   | 3.4.15.8/29 | AMAZON | us-west-2 |
