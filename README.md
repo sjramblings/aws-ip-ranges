@@ -7685,6 +7685,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 104.153.112.0/24 | AMAZON | us-east-1 |
   | 139.56.26.0/23 | AMAZON | us-east-1-wl1-iah-wlz-1 |
   | 15.129.32.0/23 | AMAZON | us-east-1 |
+  | 104.255.56.72/32 | AMAZON | us-east-1 |
   | 96.0.100.0/23 | AMAZON | us-east-1-mia-1 |
   | 161.188.16.0/20 | AMAZON | us-east-1-wl1-dtw-wlz-1 |
   | 198.41.98.0/24 | AMAZON | us-east-1-chi-2 |
@@ -7843,6 +7844,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.212.0/24 | AMAZON | us-east-1 |
   | 173.83.200.0/22 | AMAZON | us-east-1 |
   | 52.95.62.0/24 | AMAZON | us-east-1 |
+  | 104.255.56.71/32 | AMAZON | us-east-1 |
   | 52.93.127.183/32 | AMAZON | us-east-1 |
   | 3.2.2.0/24 | AMAZON | us-east-1-mia-1 |
   | 64.252.66.0/24 | AMAZON | us-east-1 |
@@ -8732,6 +8734,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.171.100.64/26 | ROUTE53_RESOLVER | us-east-1 |
   | 44.192.135.0/25 | ROUTE53_RESOLVER | us-east-1 |
   | 44.192.135.128/25 | ROUTE53_RESOLVER | us-east-1 |
+  | 100.29.192.216/30 | EBS | us-east-1 |
+  | 100.29.192.220/30 | EBS | us-east-1 |
   | 32.192.104.4/30 | EBS | us-east-1 |
   | 44.192.140.112/28 | EBS | us-east-1 |
   | 44.192.140.128/29 | EBS | us-east-1 |
@@ -9507,6 +9511,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.252.145.156/30 | EBS | us-gov-east-1 |
   | 18.252.145.160/29 | EBS | us-gov-east-1 |
   | 16.65.98.128/25 | EFS | us-gov-east-1 |
+  | 16.66.4.0/22 | EFS | us-gov-east-1 |
   | 18.252.4.0/30 | EC2_INSTANCE_CONNECT | us-gov-east-1 |
   | 18.252.165.140/30 | KINESIS_VIDEO_STREAMS | us-gov-east-1 |
   | 35.71.115.0/24 | DYNAMODB | us-gov-east-1 |
@@ -9646,6 +9651,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.32.190.244/30 | EBS | us-gov-west-1 |
   | 3.32.190.248/29 | EBS | us-gov-west-1 |
   | 40.38.87.128/25 | EFS | us-gov-west-1 |
+  | 40.39.44.0/22 | EFS | us-gov-west-1 |
   | 15.200.28.80/30 | EC2_INSTANCE_CONNECT | us-gov-west-1 |
   | 3.30.40.84/30 | KINESIS_VIDEO_STREAMS | us-gov-west-1 |
   | 52.94.9.0/24 | DYNAMODB | us-gov-west-1 |
