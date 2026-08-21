@@ -3858,6 +3858,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 140.179.79.244/30 | EBS | cn-north-1 |
   | 43.196.20.176/30 | EBS | cn-north-1 |
   | 43.196.168.0/25 | EFS | cn-north-1 |
+  | 43.196.172.0/22 | EFS | cn-north-1 |
   | 43.196.20.40/29 | EC2_INSTANCE_CONNECT | cn-north-1 |
   | 43.196.24.4/31 | KINESIS_VIDEO_STREAMS | cn-north-1 |
   | 43.196.24.8/30 | KINESIS_VIDEO_STREAMS | cn-north-1 |

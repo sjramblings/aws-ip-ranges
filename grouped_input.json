@@ -22431,6 +22431,12 @@
         "network_border_group": "cn-north-1"
       },
       {
+        "ip_prefix": "43.196.172.0/22",
+        "region": "cn-north-1",
+        "service": "EFS",
+        "network_border_group": "cn-north-1"
+      },
+      {
         "ip_prefix": "43.196.20.40/29",
         "region": "cn-north-1",
         "service": "EC2_INSTANCE_CONNECT",
