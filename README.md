@@ -3459,6 +3459,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.230.21.0/24 | AMAZON | ca-central-1 |
   | 52.94.64.0/22 | AMAZON | ca-central-1 |
   | 52.144.201.128/26 | AMAZON | ca-central-1 |
+  | 64.23.0.0/18 | AMAZON | ca-central-1 |
   | 35.182.0.0/15 | AMAZON | ca-central-1 |
   | 99.77.233.0/24 | AMAZON | ca-central-1 |
   | 15.230.79.0/26 | AMAZON | ca-central-1 |
@@ -3494,6 +3495,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 136.18.134.0/23 | AMAZON | ca-central-1 |
   | 16.53.0.0/16 | AMAZON | ca-central-1 |
   | 52.94.14.0/24 | AMAZON | ca-central-1 |
+  | 23.254.40.0/23 | AMAZON | ca-central-1 |
   | 15.230.79.128/26 | AMAZON | ca-central-1 |
   | 52.93.193.202/32 | AMAZON | ca-central-1 |
   | 15.129.28.0/24 | AMAZON | ca-central-1 |
@@ -3558,6 +3560,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.222.0.0/15 | EC2 | ca-central-1 |
   | 35.71.119.0/24 | EC2 | ca-central-1 |
   | 216.198.235.0/24 | EC2 | ca-central-1 |
+  | 64.23.0.0/18 | EC2 | ca-central-1 |
   | 35.182.0.0/15 | EC2 | ca-central-1 |
   | 99.77.233.0/24 | EC2 | ca-central-1 |
   | 3.2.78.0/24 | EC2 | ca-central-1 |
@@ -3573,6 +3576,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.248.208/28 | EC2 | ca-central-1 |
   | 64.252.124.0/24 | EC2 | ca-central-1 |
   | 136.18.134.0/23 | EC2 | ca-central-1 |
+  | 23.254.40.0/23 | EC2 | ca-central-1 |
   | 15.129.28.0/24 | EC2 | ca-central-1 |
   | 15.129.50.0/23 | EC2 | ca-central-1 |
   | 52.60.0.0/16 | EC2 | ca-central-1 |
@@ -3992,6 +3996,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 68.79.2.244/30 | EBS | cn-northwest-1 |
   | 68.79.2.248/29 | EBS | cn-northwest-1 |
   | 43.192.222.0/25 | EFS | cn-northwest-1 |
+  | 43.192.232.0/22 | EFS | cn-northwest-1 |
   | 43.192.155.8/29 | EC2_INSTANCE_CONNECT | cn-northwest-1 |
   | 52.82.187.0/24 | DYNAMODB | cn-northwest-1 |
   | 43.193.64.0/24 | DYNAMODB | cn-northwest-1 |
@@ -6522,6 +6527,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.138.0/23 | ROUTE53 | eusc-de-east-1 |
   | 51.72.26.64/28 | CODEBUILD | eusc-de-east-1 |
   | 51.224.184.0/24 | API_GATEWAY | eusc-de-east-1 |
+  | 51.72.26.128/25 | EFS | eusc-de-east-1 |
   | 51.0.31.0/24 | DYNAMODB | eusc-de-east-1 |
   | 35.71.94.0/24 | DYNAMODB | eusc-de-east-1 |
   | 51.0.28.0/24 | DYNAMODB | eusc-de-east-1 |
@@ -9652,6 +9658,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.32.190.244/30 | EBS | us-gov-west-1 |
   | 3.32.190.248/29 | EBS | us-gov-west-1 |
   | 40.38.87.128/25 | EFS | us-gov-west-1 |
+  | 40.39.100.0/22 | EFS | us-gov-west-1 |
   | 40.39.44.0/22 | EFS | us-gov-west-1 |
   | 15.200.28.80/30 | EC2_INSTANCE_CONNECT | us-gov-west-1 |
   | 3.30.40.84/30 | KINESIS_VIDEO_STREAMS | us-gov-west-1 |
