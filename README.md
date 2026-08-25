@@ -7835,6 +7835,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.248.139.0/24 | AMAZON | us-east-1 |
   | 150.222.24.33/32 | AMAZON | us-east-1 |
   | 15.230.109.0/24 | AMAZON | us-east-1 |
+  | 40.163.0.0/24 | AMAZON | us-east-1 |
   | 52.93.90.198/32 | AMAZON | us-east-1 |
   | 54.172.0.0/15 | AMAZON | us-east-1 |
   | 69.107.12.144/29 | AMAZON | us-east-1 |
@@ -8448,6 +8449,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 5.60.16.0/24 | EC2 | us-east-1 |
   | 15.220.233.0/24 | EC2 | us-east-1-atl-1 |
   | 64.66.131.0/24 | EC2 | us-east-1 |
+  | 40.163.0.0/24 | EC2 | us-east-1 |
   | 54.172.0.0/15 | EC2 | us-east-1 |
   | 18.204.0.0/14 | EC2 | us-east-1 |
   | 54.88.0.0/14 | EC2 | us-east-1 |
@@ -9681,6 +9683,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.248.167.10/32 | AMAZON | us-south-1 |
   | 15.248.167.6/32 | AMAZON | us-south-1 |
   | 150.222.56.0/27 | AMAZON | us-south-1 |
+  | 64.37.64.0/18 | AMAZON | us-south-1 |
   | 23.254.32.0/21 | AMAZON | us-south-1 |
   | 15.248.167.9/32 | AMAZON | us-south-1 |
   | 150.222.55.192/27 | AMAZON | us-south-1 |
@@ -9714,6 +9717,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.248.167.2/32 | AMAZON | us-south-1 |
   | 15.177.108.0/24 | ROUTE53_HEALTHCHECKS | us-south-1 |
   | 52.94.250.192/28 | EC2 | us-south-1 |
+  | 64.37.64.0/18 | EC2 | us-south-1 |
   | 23.254.32.0/21 | EC2 | us-south-1 |
   | 35.128.128.0/18 | EC2 | us-south-1 |
   | 40.235.128.0/18 | EC2 | us-south-1 |
