@@ -2952,7 +2952,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.228.0/22 | AMAZON | ap-southeast-3 |
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
-  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 16.79.0.0/16 | AMAZON | ap-southeast-3 |
@@ -3002,7 +3001,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.192/28 | EC2 | ap-southeast-3 |
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
-  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
   | 15.233.0.0/16 | EC2 | ap-southeast-3 |
@@ -3405,6 +3403,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.221.33.0/24 | AMAZON | ca-central-1 |
   | 150.222.43.224/27 | AMAZON | ca-central-1 |
   | 40.187.0.0/16 | AMAZON | ca-central-1 |
+  | 15.248.194.0/24 | AMAZON | ca-central-1 |
   | 99.151.128.0/21 | AMAZON | ca-central-1 |
   | 99.82.174.0/24 | AMAZON | ca-central-1 |
   | 99.79.0.0/16 | AMAZON | ca-central-1 |
@@ -7619,7 +7618,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.224.0/24 | AMAZON | us-east-1 |
   | 52.94.192.0/22 | AMAZON | us-east-1 |
   | 15.230.148.0/24 | AMAZON | us-east-1 |
-  | 18.88.0.0/18 | AMAZON | us-east-1 |
+  | 18.88.0.0/18 | AMAZON | us-east-1-dfw-2 |
   | 52.93.84.162/32 | AMAZON | us-east-1 |
   | 52.93.86.164/32 | AMAZON | us-east-1 |
   | 52.93.86.198/32 | AMAZON | us-east-1 |
@@ -8273,7 +8272,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 139.56.34.0/24 | EC2 | us-east-1-wl1-was-wlz-1 |
   | 216.182.238.0/23 | EC2 | us-east-1 |
   | 98.80.0.0/13 | EC2 | us-east-1 |
-  | 18.88.0.0/18 | EC2 | us-east-1 |
+  | 18.88.0.0/18 | EC2 | us-east-1-dfw-2 |
   | 208.86.88.0/23 | EC2 | us-east-1 |
   | 54.208.0.0/15 | EC2 | us-east-1 |
   | 18.96.2.0/24 | EC2 | us-east-1 |
