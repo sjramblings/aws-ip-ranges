@@ -1902,6 +1902,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.206.137.128/26 | AMAZON | ap-south-1 |
   | 15.206.137.192/26 | AMAZON | ap-south-1 |
   | 15.207.13.0/26 | AMAZON | ap-south-1 |
+  | 15.252.216.0/23 | AMAZON | ap-south-1 |
   | 15.252.46.0/23 | AMAZON | ap-south-1 |
   | 15.252.48.0/23 | AMAZON | ap-south-1 |
   | 3.110.57.0/24 | AMAZON | ap-south-1 |
@@ -7040,6 +7041,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.229.220.128/26 | AMAZON | sa-east-1 |
   | 18.230.46.128/26 | AMAZON | sa-east-1 |
   | 54.20.12.0/23 | AMAZON | sa-east-1 |
+  | 54.20.154.0/23 | AMAZON | sa-east-1 |
   | 54.20.50.0/23 | AMAZON | sa-east-1 |
   | 99.77.234.0/24 | CHIME_VOICECONNECTOR | sa-east-1 |
   | 177.71.207.128/26 | ROUTE53_HEALTHCHECKS | sa-east-1 |
