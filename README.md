@@ -6019,6 +6019,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.24.128.0/23 | AMAZON | eu-west-2 |
   | 51.24.162.0/23 | AMAZON | eu-west-2 |
   | 51.24.198.0/23 | AMAZON | eu-west-2 |
+  | 51.24.220.0/23 | AMAZON | eu-west-2 |
   | 99.77.249.0/24 | CHIME_VOICECONNECTOR | eu-west-2 |
   | 52.95.150.0/24 | S3 | eu-west-2 |
   | 16.12.15.0/24 | S3 | eu-west-2 |
