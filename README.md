@@ -2978,7 +2978,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.228.0/22 | AMAZON | ap-southeast-3 |
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
-  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 16.79.0.0/16 | AMAZON | ap-southeast-3 |
@@ -3028,7 +3027,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.192/28 | EC2 | ap-southeast-3 |
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
-  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
   | 15.233.0.0/16 | EC2 | ap-southeast-3 |
@@ -3426,13 +3424,16 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.182.0.0/15 | AMAZON | ca-central-1 |
   | 99.77.233.0/24 | AMAZON | ca-central-1 |
   | 15.230.79.0/26 | AMAZON | ca-central-1 |
+  | 69.107.13.72/29 | AMAZON | ca-central-1 |
   | 3.2.78.0/24 | AMAZON | ca-central-1 |
   | 3.96.0.0/15 | AMAZON | ca-central-1 |
   | 3.5.252.0/22 | AMAZON | ca-central-1 |
+  | 69.107.13.64/29 | AMAZON | ca-central-1 |
   | 64.66.149.0/24 | AMAZON | ca-central-1 |
   | 15.230.91.0/24 | AMAZON | ca-central-1 |
   | 16.52.0.0/16 | AMAZON | ca-central-1 |
   | 52.93.193.198/32 | AMAZON | ca-central-1 |
+  | 45.33.188.0/24 | AMAZON | ca-central-1 |
   | 15.251.0.47/32 | AMAZON | ca-central-1 |
   | 173.83.217.0/24 | AMAZON | ca-central-1 |
   | 15.221.33.0/24 | AMAZON | ca-central-1 |
@@ -9095,6 +9096,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.15.36.64/26 | AMAZON | us-east-2 |
   | 3.151.45.0/24 | AMAZON | us-east-2 |
   | 3.17.136.0/23 | AMAZON | us-east-2 |
+  | 77.112.162.0/23 | AMAZON | us-east-2 |
   | 99.77.252.0/24 | CHIME_VOICECONNECTOR | us-east-2 |
   | 3.2.105.0/24 | S3 | us-east-2 |
   | 3.5.100.0/22 | S3 | us-east-2 |
