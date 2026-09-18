@@ -1447,6 +1447,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.202.70.0/23 | AMAZON | ap-northeast-2 |
   | 43.202.72.0/22 | AMAZON | ap-northeast-2 |
   | 54.116.70.0/23 | AMAZON | ap-northeast-2 |
+  | 54.117.38.0/23 | AMAZON | ap-northeast-2 |
   | 54.180.184.0/23 | AMAZON | ap-northeast-2 |
   | 99.77.242.0/24 | CHIME_VOICECONNECTOR | ap-northeast-2 |
   | 3.5.140.0/22 | S3 | ap-northeast-2 |
@@ -2967,6 +2968,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.228.0/22 | AMAZON | ap-southeast-3 |
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
+  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 16.79.0.0/16 | AMAZON | ap-southeast-3 |
@@ -3016,6 +3018,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.192/28 | EC2 | ap-southeast-3 |
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
+  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
   | 15.233.0.0/16 | EC2 | ap-southeast-3 |
