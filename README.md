@@ -6845,6 +6845,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 1.179.101.0/24 | AMAZON | me-west-1 |
   | 35.52.0.0/15 | AMAZON | me-west-1 |
   | 51.168.136.0/23 | AMAZON | me-west-1 |
+  | 51.168.138.0/24 | AMAZON | me-west-1 |
+  | 51.168.139.0/24 | AMAZON | me-west-1 |
+  | 51.168.143.0/24 | AMAZON | me-west-1 |
+  | 51.168.144.0/24 | AMAZON | me-west-1 |
+  | 51.168.145.0/24 | AMAZON | me-west-1 |
+  | 51.168.146.0/24 | AMAZON | me-west-1 |
   | 16.12.86.0/24 | S3 | me-west-1 |
   | 16.12.84.0/23 | S3 | me-west-1 |
   | 16.15.16.0/22 | S3 | me-west-1 |

@@ -39835,6 +39835,42 @@
         "network_border_group": "me-west-1"
       },
       {
+        "ip_prefix": "51.168.138.0/24",
+        "region": "me-west-1",
+        "service": "AMAZON",
+        "network_border_group": "me-west-1"
+      },
+      {
+        "ip_prefix": "51.168.139.0/24",
+        "region": "me-west-1",
+        "service": "AMAZON",
+        "network_border_group": "me-west-1"
+      },
+      {
+        "ip_prefix": "51.168.143.0/24",
+        "region": "me-west-1",
+        "service": "AMAZON",
+        "network_border_group": "me-west-1"
+      },
+      {
+        "ip_prefix": "51.168.144.0/24",
+        "region": "me-west-1",
+        "service": "AMAZON",
+        "network_border_group": "me-west-1"
+      },
+      {
+        "ip_prefix": "51.168.145.0/24",
+        "region": "me-west-1",
+        "service": "AMAZON",
+        "network_border_group": "me-west-1"
+      },
+      {
+        "ip_prefix": "51.168.146.0/24",
+        "region": "me-west-1",
+        "service": "AMAZON",
+        "network_border_group": "me-west-1"
+      },
+      {
         "ip_prefix": "16.12.86.0/24",
         "region": "me-west-1",
         "service": "S3",
