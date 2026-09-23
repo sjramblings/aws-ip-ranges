@@ -8711,6 +8711,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 35.172.155.192/27 | CLOUD9 | us-east-1 |
   | 35.172.155.96/27 | CLOUD9 | us-east-1 |
   | 18.97.33.128/25 | AURORA_DSQL | us-east-1 |
+  | 3.41.208.0/25 | AURORA_DSQL | us-east-1 |
   | 32.192.104.128/29 | MEDIA_PACKAGE_V2 | us-east-1 |
   | 32.192.104.24/29 | MEDIA_PACKAGE_V2 | us-east-1 |
   | 44.216.41.152/29 | MEDIA_PACKAGE_V2 | us-east-1 |
