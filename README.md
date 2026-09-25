@@ -7272,6 +7272,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.4.12.60/32 | AMAZON | sa-west-1 |
   | 15.190.232.0/22 | AMAZON | sa-west-1 |
   | 150.222.55.160/27 | AMAZON | sa-west-1 |
+  | 83.160.88.0/23 | AMAZON | sa-west-1 |
   | 16.12.120.0/22 | S3 | sa-west-1 |
   | 16.15.24.0/22 | S3 | sa-west-1 |
   | 23.254.120.0/21 | EC2 | sa-west-1 |
