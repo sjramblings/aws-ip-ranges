@@ -5810,6 +5810,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 45.33.181.0/24 | AMAZON | eu-west-2 |
   | 52.94.198.144/28 | AMAZON | eu-west-2 |
   | 64.66.160.0/24 | AMAZON | eu-west-2 |
+  | 69.107.13.88/29 | AMAZON | eu-west-2 |
   | 151.148.41.0/24 | AMAZON | eu-west-2 |
   | 52.93.152.160/32 | AMAZON | eu-west-2 |
   | 69.107.10.240/29 | AMAZON | eu-west-2 |
@@ -5895,6 +5896,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 69.107.12.40/29 | AMAZON | eu-west-2 |
   | 64.252.83.0/24 | AMAZON | eu-west-2 |
   | 65.176.0.0/15 | AMAZON | eu-west-2 |
+  | 69.107.13.80/29 | AMAZON | eu-west-2 |
   | 52.93.153.175/32 | AMAZON | eu-west-2 |
   | 52.93.153.130/32 | AMAZON | eu-west-2 |
   | 3.4.12.46/32 | AMAZON | eu-west-2 |
