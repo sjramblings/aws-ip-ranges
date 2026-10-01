@@ -2968,6 +2968,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.228.0/22 | AMAZON | ap-southeast-3 |
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
+  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 16.79.0.0/16 | AMAZON | ap-southeast-3 |
@@ -3017,6 +3018,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.192/28 | EC2 | ap-southeast-3 |
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
+  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
   | 15.233.0.0/16 | EC2 | ap-southeast-3 |
@@ -4507,6 +4509,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 63.187.12.0/22 | EFS | eu-central-1 |
   | 63.187.16.0/22 | EFS | eu-central-1 |
   | 63.187.20.0/22 | EFS | eu-central-1 |
+  | 63.189.140.0/22 | EFS | eu-central-1 |
   | 3.120.181.40/29 | EC2_INSTANCE_CONNECT | eu-central-1 |
   | 18.153.184.142/31 | KINESIS_VIDEO_STREAMS | eu-central-1 |
   | 18.153.184.148/30 | KINESIS_VIDEO_STREAMS | eu-central-1 |
@@ -7277,6 +7280,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.190.232.0/22 | AMAZON | sa-west-1 |
   | 150.222.55.160/27 | AMAZON | sa-west-1 |
   | 83.160.88.0/23 | AMAZON | sa-west-1 |
+  | 83.160.92.0/24 | AMAZON | sa-west-1 |
+  | 83.160.93.0/24 | AMAZON | sa-west-1 |
+  | 83.160.94.0/24 | AMAZON | sa-west-1 |
+  | 83.160.95.0/24 | AMAZON | sa-west-1 |
+  | 83.160.96.0/24 | AMAZON | sa-west-1 |
+  | 83.160.97.0/24 | AMAZON | sa-west-1 |
   | 16.12.120.0/22 | S3 | sa-west-1 |
   | 16.15.24.0/22 | S3 | sa-west-1 |
   | 23.254.120.0/21 | EC2 | sa-west-1 |
