@@ -30,6 +30,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.192.0.0/16 | AMAZON | GLOBAL |
   | 15.197.32.0/23 | AMAZON | GLOBAL |
   | 204.246.173.0/24 | AMAZON | GLOBAL |
+  | 80.126.15.0/24 | AMAZON | GLOBAL |
   | 205.251.200.0/23 | AMAZON | GLOBAL |
   | 23.228.244.0/24 | AMAZON | GLOBAL |
   | 15.197.0.0/23 | AMAZON | GLOBAL |
@@ -3754,6 +3755,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.81.167.192/26 | AMAZON | cn-north-1 |
   | 52.81.232.0/26 | AMAZON | cn-north-1 |
   | 71.131.196.128/26 | AMAZON | cn-north-1 |
+  | 71.137.18.0/23 | AMAZON | cn-north-1 |
   | 52.80.197.0/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
   | 52.80.197.128/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
   | 52.80.198.0/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
@@ -3882,6 +3884,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 161.189.66.192/26 | AMAZON | cn-northwest-1 |
   | 43.192.156.0/23 | AMAZON | cn-northwest-1 |
   | 43.192.160.0/22 | AMAZON | cn-northwest-1 |
+  | 43.192.198.0/23 | AMAZON | cn-northwest-1 |
+  | 43.192.200.0/23 | AMAZON | cn-northwest-1 |
   | 43.192.202.0/24 | AMAZON | cn-northwest-1 |
   | 52.82.92.0/23 | AMAZON | cn-northwest-1 |
   | 52.83.26.0/26 | AMAZON | cn-northwest-1 |
@@ -5134,6 +5138,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.101.212.0/23 | AMAZON | eu-south-2 |
   | 18.101.80.0/22 | AMAZON | eu-south-2 |
   | 18.101.84.0/23 | AMAZON | eu-south-2 |
+  | 89.60.161.0/24 | AMAZON | eu-south-2 |
   | 52.95.136.0/23 | S3 | eu-south-2 |
   | 52.95.138.0/24 | S3 | eu-south-2 |
   | 3.5.32.0/22 | S3 | eu-south-2 |
@@ -5996,6 +6001,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.153.64/32 | AMAZON | eu-west-2 |
   | 52.93.229.129/32 | AMAZON | eu-west-2 |
   | 66.36.8.0/24 | AMAZON | eu-west-2 |
+  | 173.83.238.0/24 | AMAZON | eu-west-2 |
   | 15.230.9.14/31 | AMAZON | eu-west-2 |
   | 150.222.29.0/24 | AMAZON | eu-west-2 |
   | 52.93.152.194/32 | AMAZON | eu-west-2 |
@@ -6100,6 +6106,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.5.244.0/22 | EC2 | eu-west-2 |
   | 13.40.0.0/14 | EC2 | eu-west-2 |
   | 66.36.8.0/24 | EC2 | eu-west-2 |
+  | 173.83.238.0/24 | EC2 | eu-west-2 |
   | 16.214.20.0/22 | EC2 | eu-west-2 |
   | 216.39.152.0/21 | EC2 | eu-west-2 |
   | 13.134.24.0/23 | CLOUDFRONT | eu-west-2 |
@@ -6412,11 +6419,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.128.0/21 | AMAZON | eusc-de-east-1 |
   | 51.72.0.0/15 | AMAZON | eusc-de-east-1 |
   | 51.166.0.0/15 | AMAZON | eusc-de-east-1 |
+  | 51.74.21.0/24 | AMAZON | eusc-de-east-1 |
   | 51.0.140.0/23 | AMAZON | eusc-de-east-1 |
   | 51.0.0.0/20 | AMAZON | eusc-de-east-1 |
   | 83.118.240.0/21 | AMAZON | eusc-de-east-1 |
   | 51.224.0.0/15 | AMAZON | eusc-de-east-1 |
   | 51.0.252.0/24 | AMAZON | eusc-de-east-1 |
+  | 51.74.22.0/24 | AMAZON | eusc-de-east-1 |
   | 51.172.0.0/15 | AMAZON | eusc-de-east-1 |
   | 51.0.142.0/23 | AMAZON | eusc-de-east-1 |
   | 51.0.29.128/28 | AMAZON | eusc-de-east-1 |
@@ -6426,6 +6435,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.250.2/31 | AMAZON | eusc-de-east-1 |
   | 51.0.138.0/23 | AMAZON | eusc-de-east-1 |
   | 51.0.29.0/28 | AMAZON | eusc-de-east-1 |
+  | 51.74.20.0/24 | AMAZON | eusc-de-east-1 |
   | 150.222.54.32/27 | AMAZON | eusc-de-east-1 |
   | 51.0.24.0/22 | AMAZON | eusc-de-east-1 |
   | 51.74.0.0/20 | AMAZON | eusc-de-east-1 |
@@ -6463,6 +6473,12 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.142.0/23 | ROUTE53 | eusc-de-east-1 |
   | 51.0.136.0/23 | ROUTE53 | eusc-de-east-1 |
   | 51.0.138.0/23 | ROUTE53 | eusc-de-east-1 |
+  | 51.74.21.0/24 | CLOUDFRONT | eusc-de-east-1 |
+  | 51.74.22.0/24 | CLOUDFRONT | eusc-de-east-1 |
+  | 51.74.20.0/24 | CLOUDFRONT | eusc-de-east-1 |
+  | 51.74.21.0/24 | CLOUDFRONT_ORIGIN_FACING | eusc-de-east-1 |
+  | 51.74.22.0/24 | CLOUDFRONT_ORIGIN_FACING | eusc-de-east-1 |
+  | 51.74.20.0/24 | CLOUDFRONT_ORIGIN_FACING | eusc-de-east-1 |
   | 51.72.26.64/28 | CODEBUILD | eusc-de-east-1 |
   | 51.224.184.0/24 | API_GATEWAY | eusc-de-east-1 |
   | 51.72.26.128/25 | EFS | eusc-de-east-1 |
@@ -6878,6 +6894,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.168.146.0/24 | AMAZON | me-west-1 |
   | 51.168.170.0/23 | AMAZON | me-west-1 |
   | 51.168.172.0/23 | AMAZON | me-west-1 |
+  | 51.168.206.0/23 | AMAZON | me-west-1 |
   | 16.12.86.0/24 | S3 | me-west-1 |
   | 16.12.84.0/23 | S3 | me-west-1 |
   | 16.15.16.0/22 | S3 | me-west-1 |
@@ -10580,6 +10597,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 44.248.111.192/26 | AMAZON | us-west-2 |
   | 44.254.112.0/23 | AMAZON | us-west-2 |
   | 44.254.14.0/23 | AMAZON | us-west-2 |
+  | 44.254.6.0/23 | AMAZON | us-west-2 |
   | 99.77.253.0/24 | CHIME_VOICECONNECTOR | us-west-2 |
   | 99.77.232.0/24 | CHIME_VOICECONNECTOR | us-west-2 |
   | 54.244.52.192/26 | ROUTE53_HEALTHCHECKS | us-west-2 |
