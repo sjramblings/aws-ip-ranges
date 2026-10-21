@@ -7347,6 +7347,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.15.24.0/22 | EC2 | sa-west-1 |
   | 52.94.250.176/28 | EC2 | sa-west-1 |
   | 15.177.107.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | sa-west-1 |
+  | 83.160.72.0/24 | API_GATEWAY | sa-west-1 |
   | 35.71.91.0/24 | DYNAMODB | sa-west-1 |
   | 13.248.81.0/24 | DYNAMODB | sa-west-1 |
 </details>
@@ -10594,6 +10595,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.246.96.0/22 | AMAZON | us-west-2 |
   | 184.34.158.0/23 | AMAZON | us-west-2 |
   | 32.184.190.0/23 | AMAZON | us-west-2 |
+  | 32.191.183.128/25 | AMAZON | us-west-2 |
   | 34.223.24.0/22 | AMAZON | us-west-2 |
   | 34.223.45.0/25 | AMAZON | us-west-2 |
   | 35.86.187.128/26 | AMAZON | us-west-2 |
