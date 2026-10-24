@@ -8819,6 +8819,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 100.62.60.0/22 | EFS | us-east-1 |
   | 100.62.64.0/22 | EFS | us-east-1 |
   | 100.62.68.0/22 | EFS | us-east-1 |
+  | 184.198.80.0/25 | EFS | us-east-1 |
   | 18.206.107.24/29 | EC2_INSTANCE_CONNECT | us-east-1 |
   | 44.220.189.16/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
   | 44.220.189.20/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
