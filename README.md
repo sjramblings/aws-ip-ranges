@@ -1317,6 +1317,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 13.196.148.0/22 | EFS | ap-northeast-1 |
   | 13.196.152.0/22 | EFS | ap-northeast-1 |
   | 13.196.156.0/22 | EFS | ap-northeast-1 |
+  | 13.197.100.0/22 | EFS | ap-northeast-1 |
   | 3.112.23.0/29 | EC2_INSTANCE_CONNECT | ap-northeast-1 |
   | 35.72.36.140/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
   | 35.72.36.142/31 | KINESIS_VIDEO_STREAMS | ap-northeast-1 |
@@ -2994,7 +2995,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.228.0/22 | AMAZON | ap-southeast-3 |
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
-  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 16.79.0.0/16 | AMAZON | ap-southeast-3 |
@@ -3044,7 +3044,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.192/28 | EC2 | ap-southeast-3 |
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
-  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
   | 15.233.0.0/16 | EC2 | ap-southeast-3 |
@@ -9595,6 +9594,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.30.98.64/26 | AMAZON | us-gov-west-1 |
   | 3.32.190.0/25 | AMAZON | us-gov-west-1 |
   | 40.38.204.0/23 | AMAZON | us-gov-west-1 |
+  | 40.39.198.0/23 | AMAZON | us-gov-west-1 |
   | 56.136.0.192/26 | AMAZON | us-gov-west-1 |
   | 56.136.121.0/25 | AMAZON | us-gov-west-1 |
   | 56.136.224.0/23 | AMAZON | us-gov-west-1 |
