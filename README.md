@@ -4546,6 +4546,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 63.187.16.0/22 | EFS | eu-central-1 |
   | 63.187.20.0/22 | EFS | eu-central-1 |
   | 63.189.140.0/22 | EFS | eu-central-1 |
+  | 63.189.210.0/23 | EFS | eu-central-1 |
   | 3.120.181.40/29 | EC2_INSTANCE_CONNECT | eu-central-1 |
   | 18.153.184.142/31 | KINESIS_VIDEO_STREAMS | eu-central-1 |
   | 18.153.184.148/30 | KINESIS_VIDEO_STREAMS | eu-central-1 |
@@ -6445,6 +6446,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.166.0.0/15 | AMAZON | eusc-de-east-1 |
   | 51.74.21.0/24 | AMAZON | eusc-de-east-1 |
   | 51.0.140.0/23 | AMAZON | eusc-de-east-1 |
+  | 51.74.64.0/18 | AMAZON | eusc-de-east-1 |
   | 51.0.0.0/20 | AMAZON | eusc-de-east-1 |
   | 83.118.240.0/21 | AMAZON | eusc-de-east-1 |
   | 51.224.0.0/15 | AMAZON | eusc-de-east-1 |
@@ -6464,6 +6466,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.24.0/22 | AMAZON | eusc-de-east-1 |
   | 51.74.0.0/20 | AMAZON | eusc-de-east-1 |
   | 150.222.54.64/27 | AMAZON | eusc-de-east-1 |
+  | 51.0.249.0/24 | AMAZON | eusc-de-east-1 |
   | 51.0.28.0/24 | AMAZON | eusc-de-east-1 |
   | 51.224.182.0/23 | AMAZON | eusc-de-east-1 |
   | 51.224.186.0/23 | AMAZON | eusc-de-east-1 |
@@ -6483,6 +6486,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.0.128.0/21 | EC2 | eusc-de-east-1 |
   | 51.72.0.0/15 | EC2 | eusc-de-east-1 |
   | 51.0.140.0/23 | EC2 | eusc-de-east-1 |
+  | 51.74.64.0/18 | EC2 | eusc-de-east-1 |
   | 51.224.0.0/15 | EC2 | eusc-de-east-1 |
   | 51.0.252.0/24 | EC2 | eusc-de-east-1 |
   | 51.0.142.0/23 | EC2 | eusc-de-east-1 |
