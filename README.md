@@ -296,7 +296,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 63.249.192.0/19 | EC2 | GLOBAL |
   | 31.220.247.0/24 | EC2 | GLOBAL |
   | 15.177.0.0/18 | EC2 | GLOBAL |
-  | 35.54.16.0/20 | EC2 | GLOBAL |
   | 40.168.229.0/24 | EC2 | GLOBAL |
   | 205.251.200.0/23 | ROUTE53 | GLOBAL |
   | 64.91.192.0/19 | ROUTE53 | GLOBAL |
@@ -465,6 +464,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 76.223.169.0/24 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.3.0/24 | GLOBALACCELERATOR | GLOBAL |
   | 3.33.128.0/17 | GLOBALACCELERATOR | GLOBAL |
+  | 35.54.16.0/20 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.24.0/22 | GLOBALACCELERATOR | GLOBAL |
   | 99.77.189.0/24 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.20.0/22 | GLOBALACCELERATOR | GLOBAL |
@@ -3771,6 +3771,10 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.81.232.0/26 | AMAZON | cn-north-1 |
   | 71.131.196.128/26 | AMAZON | cn-north-1 |
   | 71.137.18.0/23 | AMAZON | cn-north-1 |
+  | 71.137.22.0/23 | AMAZON | cn-north-1 |
+  | 71.137.24.0/23 | AMAZON | cn-north-1 |
+  | 71.137.26.0/23 | AMAZON | cn-north-1 |
+  | 71.137.28.0/23 | AMAZON | cn-north-1 |
   | 52.80.197.0/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
   | 52.80.197.128/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
   | 52.80.198.0/25 | ROUTE53_HEALTHCHECKS | cn-north-1 |
@@ -8196,6 +8200,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 100.52.164.0/23 | AMAZON | us-east-1 |
   | 100.54.84.0/23 | AMAZON | us-east-1 |
   | 100.55.128.0/23 | AMAZON | us-east-1 |
+  | 13.217.76.0/23 | AMAZON | us-east-1 |
   | 13.217.78.0/23 | AMAZON | us-east-1 |
   | 13.217.8.0/23 | AMAZON | us-east-1 |
   | 13.217.80.0/24 | AMAZON | us-east-1 |
@@ -8221,6 +8226,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 32.194.144.0/23 | AMAZON | us-east-1 |
   | 32.197.114.0/23 | AMAZON | us-east-1 |
   | 32.197.52.0/23 | AMAZON | us-east-1 |
+  | 32.201.88.0/23 | AMAZON | us-east-1 |
   | 44.199.180.0/23 | AMAZON | us-east-1 |
   | 44.199.222.128/26 | AMAZON | us-east-1 |
   | 44.202.79.128/25 | AMAZON | us-east-1 |
