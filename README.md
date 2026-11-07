@@ -3001,7 +3001,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.228.0/22 | AMAZON | ap-southeast-3 |
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
-  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 16.79.0.0/16 | AMAZON | ap-southeast-3 |
@@ -3051,7 +3050,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.192/28 | EC2 | ap-southeast-3 |
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
-  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
   | 15.233.0.0/16 | EC2 | ap-southeast-3 |
@@ -7012,6 +7010,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 136.18.152.0/21 | EC2 | mx-central-1 |
   | 52.94.250.96/28 | EC2 | mx-central-1 |
   | 15.177.102.0/24 | EC2 | mx-central-1 |
+  | 191.166.0.0/16 | EC2 | mx-central-1 |
   | 64.66.155.0/24 | EC2 | mx-central-1 |
   | 3.2.94.0/24 | EC2 | mx-central-1 |
   | 18.97.96.0/20 | EC2 | mx-central-1 |
@@ -7042,6 +7041,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.122.203/32 | AMAZON | sa-east-1 |
   | 216.198.237.0/24 | AMAZON | sa-east-1 |
   | 99.77.149.0/24 | AMAZON | sa-east-1 |
+  | 69.107.13.152/29 | AMAZON | sa-east-1 |
   | 15.230.0.12/31 | AMAZON | sa-east-1 |
   | 64.252.79.0/24 | AMAZON | sa-east-1 |
   | 52.93.126.235/32 | AMAZON | sa-east-1 |
@@ -7064,6 +7064,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.151.0/24 | AMAZON | sa-east-1 |
   | 35.55.26.0/24 | AMAZON | sa-east-1 |
   | 69.107.11.72/29 | AMAZON | sa-east-1 |
+  | 69.107.13.144/29 | AMAZON | sa-east-1 |
   | 56.124.128.0/17 | AMAZON | sa-east-1 |
   | 15.230.63.2/31 | AMAZON | sa-east-1 |
   | 150.222.69.0/24 | AMAZON | sa-east-1 |
@@ -7154,6 +7155,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.44.192.0/18 | AMAZON | sa-east-1 |
   | 15.230.73.0/26 | AMAZON | sa-east-1 |
   | 15.251.0.24/32 | AMAZON | sa-east-1 |
+  | 3.33.2.0/24 | AMAZON | sa-east-1 |
   | 15.230.63.4/31 | AMAZON | sa-east-1 |
   | 16.214.48.0/22 | AMAZON | sa-east-1 |
   | 150.222.0.0/24 | AMAZON | sa-east-1 |
