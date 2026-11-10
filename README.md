@@ -6491,6 +6491,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.72.98.0/23 | AMAZON | eusc-de-east-1 |
   | 51.0.252.0/24 | ROUTE53_HEALTHCHECKS | eusc-de-east-1 |
   | 83.118.240.0/21 | S3 | eusc-de-east-1 |
+  | 51.74.17.0/24 | S3 | eusc-de-east-1 |
   | 51.0.31.0/24 | EC2 | eusc-de-east-1 |
   | 35.71.94.0/24 | EC2 | eusc-de-east-1 |
   | 51.74.17.0/24 | EC2 | eusc-de-east-1 |
@@ -8232,6 +8233,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 32.194.144.0/23 | AMAZON | us-east-1 |
   | 32.197.114.0/23 | AMAZON | us-east-1 |
   | 32.197.52.0/23 | AMAZON | us-east-1 |
+  | 32.201.196.0/23 | AMAZON | us-east-1 |
   | 32.201.88.0/23 | AMAZON | us-east-1 |
   | 44.199.180.0/23 | AMAZON | us-east-1 |
   | 44.199.222.128/26 | AMAZON | us-east-1 |
@@ -9737,6 +9739,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.15.60.0/22 | AMAZON | us-south-1 |
   | 15.248.176.0/21 | AMAZON | us-south-1 |
   | 15.248.167.15/32 | AMAZON | us-south-1 |
+  | 64.41.0.0/18 | AMAZON | us-south-1 |
   | 15.248.167.10/32 | AMAZON | us-south-1 |
   | 35.71.90.0/24 | AMAZON | us-south-1 |
   | 15.248.167.6/32 | AMAZON | us-south-1 |
@@ -9757,6 +9760,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.248.167.5/32 | AMAZON | us-south-1 |
   | 15.248.167.13/32 | AMAZON | us-south-1 |
   | 40.235.128.0/18 | AMAZON | us-south-1 |
+  | 23.254.42.0/23 | AMAZON | us-south-1 |
   | 15.248.167.12/32 | AMAZON | us-south-1 |
   | 5.60.48.0/20 | AMAZON | us-south-1 |
   | 15.190.176.0/20 | AMAZON | us-south-1 |
@@ -9778,11 +9782,13 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.15.60.0/22 | S3 | us-south-1 |
   | 52.94.250.192/28 | EC2 | us-south-1 |
   | 16.15.60.0/22 | EC2 | us-south-1 |
+  | 64.41.0.0/18 | EC2 | us-south-1 |
   | 35.71.90.0/24 | EC2 | us-south-1 |
   | 64.37.64.0/18 | EC2 | us-south-1 |
   | 23.254.32.0/21 | EC2 | us-south-1 |
   | 35.128.128.0/18 | EC2 | us-south-1 |
   | 40.235.128.0/18 | EC2 | us-south-1 |
+  | 23.254.42.0/23 | EC2 | us-south-1 |
   | 5.60.48.0/20 | EC2 | us-south-1 |
   | 46.168.0.0/15 | EC2 | us-south-1 |
   | 23.254.28.0/23 | EC2 | us-south-1 |
