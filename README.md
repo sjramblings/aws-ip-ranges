@@ -3001,7 +3001,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.228.0/22 | AMAZON | ap-southeast-3 |
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
-  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 16.79.0.0/16 | AMAZON | ap-southeast-3 |
@@ -3051,7 +3050,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.192/28 | EC2 | ap-southeast-3 |
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
-  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
   | 15.233.0.0/16 | EC2 | ap-southeast-3 |
@@ -6491,6 +6489,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.224.196.0/23 | AMAZON | eusc-de-east-1 |
   | 51.224.254.0/23 | AMAZON | eusc-de-east-1 |
   | 51.72.100.0/23 | AMAZON | eusc-de-east-1 |
+  | 51.72.102.0/24 | AMAZON | eusc-de-east-1 |
   | 51.72.74.0/23 | AMAZON | eusc-de-east-1 |
   | 51.72.98.0/23 | AMAZON | eusc-de-east-1 |
   | 51.0.252.0/24 | ROUTE53_HEALTHCHECKS | eusc-de-east-1 |
@@ -9514,6 +9513,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 16.64.36.0/23 | AMAZON | us-gov-east-1 |
   | 16.65.74.0/23 | AMAZON | us-gov-east-1 |
   | 16.66.84.0/23 | AMAZON | us-gov-east-1 |
+  | 16.66.86.0/23 | AMAZON | us-gov-east-1 |
   | 18.252.126.0/25 | AMAZON | us-gov-east-1 |
   | 18.252.165.0/26 | AMAZON | us-gov-east-1 |
   | 18.252.58.0/23 | AMAZON | us-gov-east-1 |
