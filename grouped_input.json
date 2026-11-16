@@ -38033,6 +38033,12 @@
         "network_border_group": "eusc-de-east-1"
       },
       {
+        "ip_prefix": "51.72.96.0/23",
+        "region": "eusc-de-east-1",
+        "service": "CLOUDFRONT",
+        "network_border_group": "eusc-de-east-1"
+      },
+      {
         "ip_prefix": "51.74.21.0/24",
         "region": "eusc-de-east-1",
         "service": "CLOUDFRONT_ORIGIN_FACING",
