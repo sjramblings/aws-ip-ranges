@@ -207,7 +207,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 3.3.0.0/23 | AMAZON | GLOBAL |
   | 63.249.192.0/19 | AMAZON | GLOBAL |
   | 130.176.255.0/24 | AMAZON | GLOBAL |
-  | 72.150.21.0/24 | AMAZON | GLOBAL |
   | 76.223.169.0/24 | AMAZON | GLOBAL |
   | 31.220.247.0/24 | AMAZON | GLOBAL |
   | 15.177.0.0/18 | AMAZON | GLOBAL |
@@ -295,7 +294,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 40.168.228.0/24 | EC2 | GLOBAL |
   | 40.168.230.0/24 | EC2 | GLOBAL |
   | 63.249.192.0/19 | EC2 | GLOBAL |
-  | 72.150.21.0/24 | EC2 | GLOBAL |
   | 31.220.247.0/24 | EC2 | GLOBAL |
   | 15.177.0.0/18 | EC2 | GLOBAL |
   | 40.168.229.0/24 | EC2 | GLOBAL |
@@ -6524,6 +6522,9 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.74.21.0/24 | CLOUDFRONT_ORIGIN_FACING | eusc-de-east-1 |
   | 51.74.22.0/24 | CLOUDFRONT_ORIGIN_FACING | eusc-de-east-1 |
   | 51.74.20.0/24 | CLOUDFRONT_ORIGIN_FACING | eusc-de-east-1 |
+  | 51.72.40.128/28 | CLOUDFRONT_ORIGIN_FACING | eusc-de-east-1 |
+  | 51.72.40.144/28 | CLOUDFRONT_ORIGIN_FACING | eusc-de-east-1 |
+  | 51.72.96.0/23 | CLOUDFRONT_ORIGIN_FACING | eusc-de-east-1 |
   | 51.72.26.64/28 | CODEBUILD | eusc-de-east-1 |
   | 51.224.184.0/24 | API_GATEWAY | eusc-de-east-1 |
   | 51.72.26.128/25 | EFS | eusc-de-east-1 |
