@@ -237,7 +237,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.197.20.0/22 | AMAZON | GLOBAL |
   | 52.46.166.0/23 | AMAZON | GLOBAL |
   | 3.173.128.0/18 | AMAZON | GLOBAL |
-  | 51.74.192.0/18 | AMAZON | GLOBAL |
   | 15.197.30.0/23 | AMAZON | GLOBAL |
   | 15.193.0.0/19 | AMAZON | GLOBAL |
   | 64.252.64.0/18 | AMAZON | GLOBAL |
@@ -421,7 +420,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 108.138.0.0/15 | CLOUDFRONT | GLOBAL |
   | 120.253.241.160/27 | CLOUDFRONT | GLOBAL |
   | 3.173.128.0/18 | CLOUDFRONT | GLOBAL |
-  | 51.74.192.0/18 | CLOUDFRONT | GLOBAL |
   | 64.252.64.0/18 | CLOUDFRONT | GLOBAL |
   | 15.197.34.0/23 | GLOBALACCELERATOR | GLOBAL |
   | 15.197.36.0/22 | GLOBALACCELERATOR | GLOBAL |
@@ -2999,6 +2997,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.228.0/22 | AMAZON | ap-southeast-3 |
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
+  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 16.79.0.0/16 | AMAZON | ap-southeast-3 |
@@ -3048,6 +3047,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.192/28 | EC2 | ap-southeast-3 |
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
+  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
   | 15.233.0.0/16 | EC2 | ap-southeast-3 |
@@ -6476,6 +6476,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.54.64/27 | AMAZON | eusc-de-east-1 |
   | 51.0.249.0/24 | AMAZON | eusc-de-east-1 |
   | 51.0.28.0/24 | AMAZON | eusc-de-east-1 |
+  | 51.74.192.0/18 | AMAZON | eusc-de-east-1 |
   | 51.224.182.0/23 | AMAZON | eusc-de-east-1 |
   | 51.224.186.0/23 | AMAZON | eusc-de-east-1 |
   | 51.224.188.0/23 | AMAZON | eusc-de-east-1 |
@@ -6516,6 +6517,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 51.74.21.0/24 | CLOUDFRONT | eusc-de-east-1 |
   | 51.74.22.0/24 | CLOUDFRONT | eusc-de-east-1 |
   | 51.74.20.0/24 | CLOUDFRONT | eusc-de-east-1 |
+  | 51.74.192.0/18 | CLOUDFRONT | eusc-de-east-1 |
   | 51.72.40.128/28 | CLOUDFRONT | eusc-de-east-1 |
   | 51.72.40.144/28 | CLOUDFRONT | eusc-de-east-1 |
   | 51.72.96.0/23 | CLOUDFRONT | eusc-de-east-1 |
@@ -7758,6 +7760,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.181.224.0/21 | AMAZON | us-east-1-dfw-1 |
   | 16.15.100.0/22 | AMAZON | us-east-1 |
   | 18.208.0.0/13 | AMAZON | us-east-1 |
+  | 40.163.4.0/24 | AMAZON | us-east-1 |
   | 52.95.245.0/24 | AMAZON | us-east-1 |
   | 99.77.187.0/24 | AMAZON | us-east-1 |
   | 15.230.14.0/24 | AMAZON | us-east-1 |
@@ -8492,6 +8495,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 15.181.224.0/21 | EC2 | us-east-1-dfw-1 |
   | 16.15.100.0/22 | EC2 | us-east-1 |
   | 18.208.0.0/13 | EC2 | us-east-1 |
+  | 40.163.4.0/24 | EC2 | us-east-1 |
   | 52.95.245.0/24 | EC2 | us-east-1 |
   | 99.77.187.0/24 | EC2 | us-east-1 |
   | 136.18.132.0/23 | EC2 | us-east-1 |
