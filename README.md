@@ -2997,7 +2997,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.228.0/22 | AMAZON | ap-southeast-3 |
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
-  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 16.79.0.0/16 | AMAZON | ap-southeast-3 |
@@ -3047,7 +3046,6 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.192/28 | EC2 | ap-southeast-3 |
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
-  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
   | 15.233.0.0/16 | EC2 | ap-southeast-3 |
@@ -3723,6 +3721,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 54.222.0.0/19 | AMAZON | cn-north-1 |
   | 15.230.141.0/24 | AMAZON | cn-north-1 |
   | 54.222.58.48/28 | AMAZON | cn-north-1 |
+  | 43.195.32.0/20 | AMAZON | cn-north-1 |
   | 140.179.0.0/16 | AMAZON | cn-north-1 |
   | 54.222.80.0/21 | AMAZON | cn-north-1 |
   | 54.223.0.0/16 | AMAZON | cn-north-1 |
@@ -3796,6 +3795,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 43.195.16.0/22 | EC2 | cn-north-1 |
   | 54.222.100.0/22 | EC2 | cn-north-1 |
   | 52.80.0.0/16 | EC2 | cn-north-1 |
+  | 43.195.32.0/20 | EC2 | cn-north-1 |
   | 140.179.0.0/16 | EC2 | cn-north-1 |
   | 54.223.0.0/16 | EC2 | cn-north-1 |
   | 54.222.32.0/22 | EC2 | cn-north-1 |
@@ -3873,6 +3873,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.82.184.0/23 | AMAZON | cn-northwest-1 |
   | 52.82.170.0/24 | AMAZON | cn-northwest-1 |
   | 52.82.160.0/22 | AMAZON | cn-northwest-1 |
+  | 43.193.80.0/20 | AMAZON | cn-northwest-1 |
   | 43.194.0.0/20 | AMAZON | cn-northwest-1 |
   | 52.93.127.97/32 | AMAZON | cn-northwest-1 |
   | 52.93.127.101/32 | AMAZON | cn-northwest-1 |
@@ -3936,6 +3937,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.82.176.0/22 | EC2 | cn-northwest-1 |
   | 52.82.184.0/23 | EC2 | cn-northwest-1 |
   | 52.82.170.0/24 | EC2 | cn-northwest-1 |
+  | 43.193.80.0/20 | EC2 | cn-northwest-1 |
   | 43.194.0.0/20 | EC2 | cn-northwest-1 |
   | 43.194.16.0/24 | EC2 | cn-northwest-1 |
   | 68.79.0.0/18 | EC2 | cn-northwest-1 |
@@ -5166,6 +5168,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 18.101.80.0/22 | AMAZON | eu-south-2 |
   | 18.101.84.0/23 | AMAZON | eu-south-2 |
   | 89.60.161.0/24 | AMAZON | eu-south-2 |
+  | 89.60.238.0/23 | AMAZON | eu-south-2 |
   | 52.95.136.0/23 | S3 | eu-south-2 |
   | 52.95.138.0/24 | S3 | eu-south-2 |
   | 3.5.32.0/22 | S3 | eu-south-2 |
