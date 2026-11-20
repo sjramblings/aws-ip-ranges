@@ -4210,6 +4210,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 150.222.144.38/32 | AMAZON | eu-central-1 |
   | 150.222.152.34/32 | AMAZON | eu-central-1 |
   | 15.230.15.190/31 | AMAZON | eu-central-1 |
+  | 40.163.5.0/24 | AMAZON | eu-central-1 |
   | 99.150.16.0/21 | AMAZON | eu-central-1 |
   | 3.120.0.0/14 | AMAZON | eu-central-1 |
   | 18.198.0.0/15 | AMAZON | eu-central-1 |
@@ -4456,6 +4457,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.151.188.0/23 | EC2 | eu-central-1 |
   | 15.193.4.0/24 | EC2 | eu-central-1 |
   | 216.244.10.0/24 | EC2 | eu-central-1 |
+  | 40.163.5.0/24 | EC2 | eu-central-1 |
   | 99.150.16.0/21 | EC2 | eu-central-1 |
   | 3.120.0.0/14 | EC2 | eu-central-1 |
   | 18.198.0.0/15 | EC2 | eu-central-1 |
@@ -7397,6 +7399,8 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.250.176/28 | EC2 | sa-west-1 |
   | 15.177.107.0/24 | ROUTE53_HEALTHCHECKS_PUBLISHING | sa-west-1 |
   | 83.160.72.0/24 | API_GATEWAY | sa-west-1 |
+  | 83.160.241.0/25 | EFS | sa-west-1 |
+  | 83.160.244.0/22 | EFS | sa-west-1 |
   | 35.71.91.0/24 | DYNAMODB | sa-west-1 |
   | 13.248.81.0/24 | DYNAMODB | sa-west-1 |
 </details>
@@ -8874,6 +8878,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 100.62.64.0/22 | EFS | us-east-1 |
   | 100.62.68.0/22 | EFS | us-east-1 |
   | 184.198.80.0/25 | EFS | us-east-1 |
+  | 32.202.228.0/22 | EFS | us-east-1 |
   | 18.206.107.24/29 | EC2_INSTANCE_CONNECT | us-east-1 |
   | 44.220.189.16/31 | KINESIS_VIDEO_STREAMS | us-east-1 |
   | 44.220.189.20/30 | KINESIS_VIDEO_STREAMS | us-east-1 |
