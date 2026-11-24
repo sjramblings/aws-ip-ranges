@@ -1798,6 +1798,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.77.238.0/24 | AMAZON | ap-south-1 |
   | 35.55.15.0/24 | AMAZON | ap-south-1 |
   | 52.93.127.127/32 | AMAZON | ap-south-1 |
+  | 15.248.200.0/26 | AMAZON | ap-south-1 |
   | 56.244.0.0/16 | AMAZON | ap-south-1 |
   | 3.4.12.19/32 | AMAZON | ap-south-1 |
   | 3.5.208.0/22 | AMAZON | ap-south-1 |
@@ -2999,6 +3000,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 99.78.228.0/22 | AMAZON | ap-southeast-3 |
   | 64.66.153.0/24 | AMAZON | ap-southeast-3 |
   | 65.4.0.0/16 | AMAZON | ap-southeast-3 |
+  | 1.178.86.0/24 | AMAZON | ap-southeast-3 |
   | 54.239.1.144/28 | AMAZON | ap-southeast-3 |
   | 15.232.0.0/16 | AMAZON | ap-southeast-3 |
   | 16.79.0.0/16 | AMAZON | ap-southeast-3 |
@@ -3048,6 +3050,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.94.249.192/28 | EC2 | ap-southeast-3 |
   | 52.95.235.0/24 | EC2 | ap-southeast-3 |
   | 64.66.153.0/24 | EC2 | ap-southeast-3 |
+  | 1.178.86.0/24 | EC2 | ap-southeast-3 |
   | 15.232.0.0/16 | EC2 | ap-southeast-3 |
   | 16.79.0.0/16 | EC2 | ap-southeast-3 |
   | 15.233.0.0/16 | EC2 | ap-southeast-3 |
@@ -10430,6 +10433,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 104.255.57.179/32 | AMAZON | us-west-2 |
   | 18.236.0.0/15 | AMAZON | us-west-2 |
   | 15.129.84.0/23 | AMAZON | us-west-2 |
+  | 15.248.208.64/26 | AMAZON | us-west-2 |
   | 54.200.0.0/15 | AMAZON | us-west-2 |
   | 150.222.182.15/32 | AMAZON | us-west-2 |
   | 35.50.133.0/24 | AMAZON | us-west-2 |
@@ -10617,6 +10621,7 @@ Bonus: It was also a fun playground for experimenting with gomplate! 🛠️💡
   | 52.93.246.223/32 | AMAZON | us-west-2 |
   | 15.220.206.0/24 | AMAZON | us-west-2-sea-1 |
   | 15.177.80.0/24 | AMAZON | us-west-2 |
+  | 15.248.208.0/26 | AMAZON | us-west-2 |
   | 155.146.16.0/20 | AMAZON | us-west-2-wl1-sfo-wlz-1 |
   | 52.144.194.128/26 | AMAZON | us-west-2 |
   | 96.0.160.0/20 | AMAZON | us-west-2-hnl-1 |
